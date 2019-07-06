@@ -137,8 +137,8 @@ sp.save_npz(WRITE_DATA_PATH + "node_feature/drug-mono-feature.npz", adj)
 # save graph info
 # #####################################################
 def save_to_pkl(path, obj):
-    with open(path, 'wb') as f:
-        pickle.dump(obj, f)
+    with open(path, 'wb') as g:
+        pickle.dump(obj, g)
 
 
 save_to_pkl(WRITE_DATA_PATH+"index_map/drug-map.pkl", drug_map)

@@ -13,6 +13,12 @@ def get_side_effect_index_from_text(code):
 
 
 def load_data(path, dd_et_list, mono=True):
+    """
+    :param path: WRITE_DATA_PATH in preprocess_data.py
+    :param dd_et_list: a list of int - drug indices
+    :param mono: if consider single drug side effects as drug features
+    :return: a dict contain: dd-adj list, pp-adj, dp-adj and the feature matrix of drug and protein
+    """
     print("loading data")
     # load graph info
     with open(path + 'graph_info.pkl', 'rb') as f:
