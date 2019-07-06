@@ -2,7 +2,7 @@ import numpy as np
 import scipy.sparse as sp
 import pickle
 import csv
-from data.utils import get_side_effect_index, get_drug_index
+from data.utils import get_side_effect_index_from_text, get_drug_index_from_text
 
 
 RAW_DATA_PATH = "/Users/nyxfer/Docu/FM-PSEP/data/raw_data/"
@@ -23,9 +23,9 @@ with open(RAW_DATA_PATH + "bio-decagon-combo.csv", "r") as f:
     next(reader)                # jump the title line
 
     for [i, j, k, _] in reader:
-        ll = get_drug_index(i)
-        m = get_drug_index(j)
-        n = get_side_effect_index(k)
+        ll = get_drug_index_from_text(i)
+        m = get_drug_index_from_text(j)
+        n = get_side_effect_index_from_text(k)
 
         if ll not in drug_map:
             drug_map[ll] = drug_id
@@ -79,7 +79,7 @@ with open(RAW_DATA_PATH + "bio-decagon-ppi.csv", "r") as f:
 # build and save pp symmetric adjacency matrix
 adj = sp.coo_matrix((np.ones(len(r)), (r, c)), shape=(protein_id, protein_id))
 sym_adj = adj + adj.T.multiply(adj.T > adj) - adj.multiply(adj.T > adj)
-sp.save_npz(WRITE_DATA_PATH + "sym_adj/gene-sparse-adj.npz", sym_adj)
+sp.save_npz(WRITE_DATA_PATH + "sym_adj/protein-sparse-adj.npz", sym_adj)
 
 
 # ########################################
@@ -91,7 +91,7 @@ with open(RAW_DATA_PATH + "bio-decagon-targets.csv", "r") as f:
     next(reader)                # jump the title line
 
     for [i, j] in reader:
-        m = get_drug_index(i)
+        m = get_drug_index_from_text(i)
         n = int(j)
 
         if m not in drug_map or n not in protein_map:
@@ -103,7 +103,7 @@ with open(RAW_DATA_PATH + "bio-decagon-targets.csv", "r") as f:
 
 # build and save drug-protein adjacency matrix
 adj = sp.coo_matrix((np.ones(len(r)), (r, c)), shape=(drug_id, protein_id))
-sp.save_npz(WRITE_DATA_PATH + "sym_adj/drug-gene-sparse-adj.npz", adj)
+sp.save_npz(WRITE_DATA_PATH + "sym_adj/drug-protein-sparse-adj.npz", adj)
 
 
 # #####################################################
@@ -115,8 +115,8 @@ with open(RAW_DATA_PATH + "bio-decagon-mono.csv", "r") as f:
     next(reader)                # jump the title line
 
     for [i, j, _] in reader:
-        ll = get_drug_index(i)
-        m = get_side_effect_index(j)
+        ll = get_drug_index_from_text(i)
+        m = get_side_effect_index_from_text(j)
 
         if ll not in drug_map:
             continue
