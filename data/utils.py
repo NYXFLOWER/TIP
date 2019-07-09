@@ -1,7 +1,7 @@
-
 import numpy as np
 import scipy.sparse as sp
 import pickle
+import torch as to
 
 
 def get_drug_index_from_text(code):
@@ -65,10 +65,10 @@ def load_data(path, dd_et_list, mono=True):
                 dd_adj_list[i] = sp.vstack([dd_adj_list[i][:ind, :], dd_adj_list[i][ind + 1:, :]]).tocsr()
                 dd_adj_list[i] = sp.hstack([dd_adj_list[i][:, :ind], dd_adj_list[i][:, ind + 1:]]).tocsr()
             # remove from d-p adj
-            dp_adj = sp.vstack([dp_adj[:ind, :], dp_adj[ind + 1:, :]]).tocsr()
+            dp_adj = sp.vstack([dp_adj[:ind, :], dp_adj[ind + 1:, :]])
             # remove from drug additional features
             if mono:
-                drug_mono_adj = sp.vstack([drug_mono_adj[:ind, :], drug_mono_adj[ind + 1:, :]]).tocsr()
+                drug_mono_adj = sp.vstack([drug_mono_adj[:ind, :], drug_mono_adj[ind + 1:, :]])
 
     # ########################################
     # protein feature matrix
@@ -89,3 +89,27 @@ def load_data(path, dd_et_list, mono=True):
             'dp_adj': dp_adj,
             'pp_adj': pp_adj}
     return data
+
+
+def load_data_torch(path, dd_et_list, mono=True):
+    data = load_data(path, dd_et_list, mono=mono)
+    data['d_feat'] = to.tensor(data['d_feat'].toarray())
+    data['p_feat'] = to.tensor(data['p_feat'].toarray())
+
+    n_et = len(dd_et_list)
+    adj_list = data['dd_adj_list']
+
+    row, col, type = [], [], []
+
+    for i in range(n_et):
+        adj = adj_list[i].tocoo()
+        row.extend(adj.row)
+        col.extend(adj.col)
+        type.extend([i] * adj.nnz)
+
+    data['dd_ind'] = to.tensor([row, col])
+    data['dd_type'] = to.tensor(type)
+
+    return data
+
+
