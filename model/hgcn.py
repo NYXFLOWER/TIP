@@ -69,7 +69,7 @@ class Net(torch.nn.Module):
         d = F.relu(self.rconv_dd1(d, batch_data.dd_edge_ind, batch_data.dd_edge_type))
         d = self.rconv_dd2(d, batch_data.dd_edge_ind, batch_data.dd_edge_type)
 
-        return F.log_softmax(d, dim=1)
+        return d
 
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
