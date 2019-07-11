@@ -1,7 +1,10 @@
 import numpy as np
 import scipy.sparse as sp
 import pickle
-import torch as to
+import torch as t
+from torch_geometric.nn.models.autoencoder import negative_sampling
+
+t.manual_seed(0)
 
 
 def get_drug_index_from_text(code):
@@ -69,7 +72,7 @@ def load_data(path, dd_et_list, mono=True):
             # remove from drug additional features
             if mono:
                 drug_mono_adj = sp.vstack([drug_mono_adj[:ind, :], drug_mono_adj[ind + 1:, :]])
-
+    print('remove finished')
     # ########################################
     # protein feature matrix
     # ########################################
@@ -93,23 +96,60 @@ def load_data(path, dd_et_list, mono=True):
 
 def load_data_torch(path, dd_et_list, mono=True):
     data = load_data(path, dd_et_list, mono=mono)
-    data['d_feat'] = to.tensor(data['d_feat'].toarray())
-    data['p_feat'] = to.tensor(data['p_feat'].toarray())
+    data['d_feat'] = t.tensor(data['d_feat'].toarray(), dtype=t.float32)
 
     n_et = len(dd_et_list)
+    n_drug = data['d_feat'].shape[0]
     adj_list = data['dd_adj_list']
 
-    row, col, type = [], [], []
+    edge_index = t.tensor([[], []], dtype=t.long)
+    edge_type = t.tensor([], dtype=t.long)
+    num = [0]
+    y = t.tensor([])
+    edge_index_list = []
 
+    print(n_et, ' polypharmacy side effects')
     for i in range(n_et):
+        # pos samples
         adj = adj_list[i].tocoo()
-        row.extend(adj.row)
-        col.extend(adj.col)
-        type.extend([i] * adj.nnz)
+        edge_index_list.append()
+        pos_edge_index = t.tensor([adj.row, adj.col], dtype=t.long)
+        edge_index = t.cat((edge_index, pos_edge_index), 1)
+        y = t.cat((y, t.tensor([1] * adj.nnz, dtype=t.float32)))
 
-    data['dd_ind'] = to.tensor([row, col])
-    data['dd_type'] = to.tensor(type)
+        # neg samples
+        neg_edge_index = negative_sampling(pos_edge_index, n_drug)
+        edge_index = t.cat((edge_index, neg_edge_index), 1)
+        y = t.cat((y, t.tensor([0] * adj.nnz, dtype=t.float32)))
+
+        et = t.tensor([i] * adj.nnz * 2, dtype=t.long)
+        edge_type = t.cat((edge_type, et), 0)
+        num.append(num[-1] + adj.nnz * 2)
+
+        if i % 100 == 0:
+            print(i)
+
+    data['dd_edge_index'] = edge_index
+    data['dd_edge_type'] = edge_type
+    data['dd_edge_type_num'] = num
+    data['dd_y'] = y
+
+    print('data has been loaded')
 
     return data
+
+
+with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
+    et_list = pickle.load(f)
+data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
+feed_dict = {
+    'd_feat': data['d_feat'],
+    'dd_edge_index': data['dd_edge_index'],
+    'dd_edge_type': data['dd_edge_type'],
+    'dd_edge_type_num': data['dd_edge_type_num'],
+    'dd_y': data['dd_y']
+}
+
+
 
 
