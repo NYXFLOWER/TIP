@@ -114,3 +114,8 @@ dmypy.json
 .pyre/
 
 .idea/
+data/raw_data/
+gcn/
+data/org/
+.DS_Store
+*/*.pt
