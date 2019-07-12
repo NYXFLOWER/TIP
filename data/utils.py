@@ -1,7 +1,10 @@
-
 import numpy as np
 import scipy.sparse as sp
 import pickle
+import torch as t
+from torch_geometric.nn.models.autoencoder import negative_sampling
+
+t.manual_seed(0)
 
 
 def get_drug_index_from_text(code):
@@ -65,11 +68,11 @@ def load_data(path, dd_et_list, mono=True):
                 dd_adj_list[i] = sp.vstack([dd_adj_list[i][:ind, :], dd_adj_list[i][ind + 1:, :]]).tocsr()
                 dd_adj_list[i] = sp.hstack([dd_adj_list[i][:, :ind], dd_adj_list[i][:, ind + 1:]]).tocsr()
             # remove from d-p adj
-            dp_adj = sp.vstack([dp_adj[:ind, :], dp_adj[ind + 1:, :]]).tocsr()
+            dp_adj = sp.vstack([dp_adj[:ind, :], dp_adj[ind + 1:, :]])
             # remove from drug additional features
             if mono:
-                drug_mono_adj = sp.vstack([drug_mono_adj[:ind, :], drug_mono_adj[ind + 1:, :]]).tocsr()
-
+                drug_mono_adj = sp.vstack([drug_mono_adj[:ind, :], drug_mono_adj[ind + 1:, :]])
+    print('remove finished')
     # ########################################
     # protein feature matrix
     # ########################################
@@ -89,3 +92,48 @@ def load_data(path, dd_et_list, mono=True):
             'dp_adj': dp_adj,
             'pp_adj': pp_adj}
     return data
+
+
+def load_data_torch(path, dd_et_list, mono=True):
+    data = load_data(path, dd_et_list, mono=mono)
+    data['d_feat'] = t.tensor(data['d_feat'].toarray(), dtype=t.float32)
+
+    n_et = len(dd_et_list)
+    n_drug = data['d_feat'].shape[0]
+    adj_list = data['dd_adj_list']
+
+    num = [0]
+    edge_index_list = []
+    edge_type_list = []
+
+    print(n_et, ' polypharmacy side effects')
+
+    for i in range(n_et):
+        # pos samples
+        adj = adj_list[i].tocoo()
+        edge_index_list.append(t.tensor([adj.row, adj.col], dtype=t.long))
+        edge_type_list.append(t.tensor([i] * adj.nnz, dtype=t.long))
+        num.append(num[-1] + adj.nnz)
+
+        # if i % 100 == 0:
+        #     print(i)
+
+    data['dd_edge_index'] = t.cat(edge_index_list, 1)
+    data['dd_edge_type'] = t.cat(edge_type_list, 0)
+    data['dd_edge_type_num'] = num
+    data['dd_y_pos'] = t.ones(num[-1])
+    data['dd_y_neg'] = t.zeros(num[-1])
+
+    print('data has been loaded')
+
+    return data
+
+
+# with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
+#     et_list = pickle.load(f)
+# data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
+
+
+
+
+
