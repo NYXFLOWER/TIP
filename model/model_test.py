@@ -1,4 +1,4 @@
-from data.utils import load_data_torch, apk
+from data.utils import load_data_torch
 from model.ddip import HGCN
 from torch_geometric.data import Data
 from torch_geometric.nn.models.autoencoder import negative_sampling
@@ -7,35 +7,30 @@ from torch.nn.functional import binary_cross_entropy
 import numpy as np
 from sklearn import metrics
 import pickle
+import time
+from tempfile import TemporaryFile
+
 
 
 # ##############################################
 # load data
-et_list = [0, 1]
-data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
+with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
+    et_list = pickle.load(f)
+et_list = et_list
+feed_dict = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
 
 
-[n_drug, n_feat_d] = data['d_feat'].shape
+[n_drug, n_feat_d] = feed_dict['d_feat'].shape
 n_et_dd = len(et_list)
 
 
-# ##############################################
-print('construct feed dictionary')
-feed_dict = {
-    'd_feat': data['d_feat'],
-    'dd_edge_index': data['dd_edge_index'],
-    'dd_edge_type': data['dd_edge_type'],
-    'dd_edge_type_num': data['dd_edge_type_num'],
-    'dd_y': data['dd_y']
-}
-
-da = Data.from_dict(feed_dict)
+data = Data.from_dict(feed_dict)
 
 print('constructing model, opt and sent data to device')
 device = t.device('cuda' if t.cuda.is_available() else 'cpu')
-model = HGCN(n_feat_d, n_et_dd , n_et_dd).to(device)
-optimizer = t.optim.Adam(model.parameters())
-da = da.to(device)
+model = HGCN(n_feat_d, n_et_dd, 50).to(device)
+optimizer = t.optim.Adam(model.parameters(), lr=0.001)
+data = data.to(device)
 
 
 # train
@@ -43,12 +38,15 @@ def train():
     model.train()
 
     optimizer.zero_grad()
-    out = model(da.d_feat, da.dd_edge_index, da.dd_edge_type, da.dd_edge_type_num)
+    pos_pred, neg_pred = model(data.d_feat, data.dd_edge_index, data.dd_edge_type, data.dd_edge_type_num)
 
-    loss = binary_cross_entropy(out, data['dd_y'])
-    loss.backward()
+    pos_loss = binary_cross_entropy(pos_pred, data.dd_y_pos)
+    neg_loss = binary_cross_entropy(neg_pred, data.dd_y_neg)
+    (pos_loss).backward()
+
     optimizer.step()
-    return out, loss
+
+    return pos_pred, neg_pred, pos_loss, neg_loss
 
 
 # acc
@@ -58,12 +56,35 @@ def get_acc(pred, targ):
     aupr_sc = metrics.average_precision_score(targ.tolist(), pred.tolist())
     # apk_sc = apk(targ.tolist(), pred.tolist(), k=50)
 
+
     return roc_sc, aupr_sc
 
 
+EPOCH_NUM = 100
+train_loss = np.zeros(EPOCH_NUM)
+# y_targ = t.cat((data.dd_y_pos, data.dd_y_neg), 0)
+
+
 print('model training ...')
-for epoch in range(1, 100):
-    o, l = train()
-    roc, aupr = get_acc(o, data['dd_y'])
-    log = 'Epoch: {:03d}, Train loss: {:.4f}, Train roc: {:.4f}, train prc: {:.4f}'
-    print(log.format(epoch, l, roc, aupr))
+for epoch in range(EPOCH_NUM):
+    start = time.time()
+    p_pred, n_pred, p_loss, n_loss = train()
+
+
+    # acc pos
+    p_pred = p_pred > 0.5
+    pos_acc = p_pred.sum().tolist() / data.dd_edge_type_num[-1]
+    # acc neg
+    n_pred = n_pred <= 0.5
+    neg_acc = n_pred.sum().tolist() / data.dd_edge_type_num[-1]
+
+    log = 'Epoch: {:03d}/{:.2f}, pos_loss: {:.4f}, neg_loss: {:.4f}, total_loss: {:.4f}, pos_acc: {:.4f}, neg_acc: {:.4f}'
+    train_loss[epoch] = p_loss+n_loss
+    print(log.format(epoch, time.time() - start, p_loss, n_loss, train_loss[epoch], pos_acc, neg_acc))
+
+
+outfile = TemporaryFile()
+np.save(outfile, train_loss)
+
+# outfile.seek(0) # Only needed here to simulate closing & reopening file
+# np.load(outfile)

@@ -102,53 +102,37 @@ def load_data_torch(path, dd_et_list, mono=True):
     n_drug = data['d_feat'].shape[0]
     adj_list = data['dd_adj_list']
 
-    edge_index = t.tensor([[], []], dtype=t.long)
-    edge_type = t.tensor([], dtype=t.long)
     num = [0]
-    y = t.tensor([])
     edge_index_list = []
+    edge_type_list = []
 
     print(n_et, ' polypharmacy side effects')
+
     for i in range(n_et):
         # pos samples
         adj = adj_list[i].tocoo()
-        edge_index_list.append()
-        pos_edge_index = t.tensor([adj.row, adj.col], dtype=t.long)
-        edge_index = t.cat((edge_index, pos_edge_index), 1)
-        y = t.cat((y, t.tensor([1] * adj.nnz, dtype=t.float32)))
+        edge_index_list.append(t.tensor([adj.row, adj.col], dtype=t.long))
+        edge_type_list.append(t.tensor([i] * adj.nnz, dtype=t.long))
+        num.append(num[-1] + adj.nnz)
 
-        # neg samples
-        neg_edge_index = negative_sampling(pos_edge_index, n_drug)
-        edge_index = t.cat((edge_index, neg_edge_index), 1)
-        y = t.cat((y, t.tensor([0] * adj.nnz, dtype=t.float32)))
+        # if i % 100 == 0:
+        #     print(i)
 
-        et = t.tensor([i] * adj.nnz * 2, dtype=t.long)
-        edge_type = t.cat((edge_type, et), 0)
-        num.append(num[-1] + adj.nnz * 2)
-
-        if i % 100 == 0:
-            print(i)
-
-    data['dd_edge_index'] = edge_index
-    data['dd_edge_type'] = edge_type
+    data['dd_edge_index'] = t.cat(edge_index_list, 1)
+    data['dd_edge_type'] = t.cat(edge_type_list, 0)
     data['dd_edge_type_num'] = num
-    data['dd_y'] = y
+    data['dd_y_pos'] = t.ones(num[-1])
+    data['dd_y_neg'] = t.zeros(num[-1])
 
     print('data has been loaded')
 
     return data
 
 
-with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
-    et_list = pickle.load(f)
-data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
-feed_dict = {
-    'd_feat': data['d_feat'],
-    'dd_edge_index': data['dd_edge_index'],
-    'dd_edge_type': data['dd_edge_type'],
-    'dd_edge_type_num': data['dd_edge_type_num'],
-    'dd_y': data['dd_y']
-}
+# with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
+#     et_list = pickle.load(f)
+# data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
+
 
 
 
