@@ -3,10 +3,13 @@ import numpy as np
 import scipy.sparse as sp
 from torch.nn import Module, Linear, functional as F, Embedding
 from torch_geometric.nn import RGCNConv
+from torch_geometric.nn.models.autoencoder import negative_sampling
 
-EMBEDDING_DIM = 10
-LAYER_DD = 8
-LAYER_DD_OUT = 6
+
+t.manual_seed(0)
+EMBEDDING_DIM = 32
+LAYER_DD = 16
+LAYER_DD_OUT = 8
 
 
 class HGCN(Module):
@@ -28,9 +31,13 @@ class HGCN(Module):
         return x
 
     def decoder(self, x, edge_index, edge_type_num):
-        result = t.tensor([])
+        pos_result_list = []
+        neg_result_list = []
+
         for i in range(self.num_et):
-            ind = t.index_select(edge_index, 1, t.tensor(range(edge_type_num[i], edge_type_num[i + 1])))
+            ind = edge_index[:, edge_type_num[i]:edge_type_num[i+1]]
+            # ind = t.index_select(edge_index, 1, t.tensor(range(edge_type_num[i], edge_type_num[i + 1])))
+            neg_ind = negative_sampling(ind, x.shape[0]).tolist()
             m = self.rel_embedding(t.tensor([i], dtype=t.long))
             m = t.diag(m[0])
             # x_et = (x[ind[0]] * m[ind[0]][:, ind[1]]).sum(dim=1)
@@ -40,9 +47,10 @@ class HGCN(Module):
             m = t.sigmoid(m)
 
             ind = ind.tolist()
-            result = t.cat((result, m[ind[0], ind[1]]))
+            pos_result_list.append(m[ind[0], ind[1]])
+            neg_result_list.append(m[neg_ind[0], neg_ind[1]])
 
-        return result
+        return t.cat(pos_result_list, 0), t.cat(neg_result_list, 0)
 
     def forward(self, x, edge_index, edge_type, edge_type_num):
         x = self.encoder(x, edge_index, edge_type)
