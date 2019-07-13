@@ -6,7 +6,6 @@ from torch_geometric.nn.models.autoencoder import negative_sampling
 
 t.manual_seed(0)
 
-
 def get_drug_index_from_text(code):
     return int(code.split('D')[-1])
 
@@ -131,9 +130,18 @@ def load_data_torch(path, dd_et_list, mono=True):
 
 # with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
 #     et_list = pickle.load(f)
+# et_list = list(range(1317))
 # data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
-
-
-
-
+#
+# 
+# ind = []
+# for i in range(1317):
+#     adj = dd_adj_list[i]
+#     if adj.nnz > 500:
+#         ind.append(i)
+#
+# with open('./data/dd_edge_type_list_500.pkl', 'wb') as f:
+#     pickle.dump(ind, f)
+# for i in ind:
+#     print(dd_adj_list[i].nnz)
 

@@ -11,13 +11,12 @@ import time
 from tempfile import TemporaryFile
 
 
-
 # ##############################################
 # load data
-with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
+with open("./data/training_samples_500.pkl", "rb") as f:
     et_list = pickle.load(f)
-et_list = et_list
-feed_dict = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
+et_list = et_list[:100]
+feed_dict = load_data_torch("./data/", et_list, mono=True)
 
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
