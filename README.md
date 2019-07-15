@@ -46,7 +46,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 ![](img/step.png)
 
 ## Result by now
-Pre-train ppi embedding with 2 layers GCN for 80 epochs: 
+Pre-train ppi embedding with 2 layers GCN for 80 epochs([output](./out/ppp.pdf)): 
 - around 92% auprc
 - less than 2GB GPU memory cost. 
 - Time cost: 2 mins.
