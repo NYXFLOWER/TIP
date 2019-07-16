@@ -128,20 +128,39 @@ def load_data_torch(path, dd_et_list, mono=True):
     return data
 
 
+def cut_data(low, high, name, path='/Users/nyxfer/Docu/FM-PSEP/data/'):
+    dd_et_list = list(range(1317))
+
+    with open(path + 'graph_info.pkl', 'rb') as f:
+        drug_num, _, _, _ = pickle.load(f)
+
+    dd_adj_list = []
+    sum_adj = sp.csr_matrix((drug_num, drug_num))
+    for i in dd_et_list:
+        adj = sp.load_npz(
+            ''.join([path, 'sym_adj/drug-sparse-adj/type_', str(i), '.npz']))
+        dd_adj_list.append(adj)
+        sum_adj += adj
+
+    ind = []
+    for i in range(1317):
+        adj = dd_adj_list[i]
+        if low < adj.nnz < high:
+            ind.append(i)
+
+    with open('./data/' + name + '.pkl', 'wb') as f:
+        pickle.dump(ind, f)
+    # for i in ind:
+    #     print(dd_adj_list[i].nnz)
+
+
+
+
 # with open("/Users/nyxfer/Docu/FM-PSEP/data/training_samples_500.pkl", "rb") as f:
 #     et_list = pickle.load(f)
-# et_list = list(range(1317))
+et_list = list(range(1317))
 # data = load_data_torch("/Users/nyxfer/Docu/FM-PSEP/data/", et_list, mono=True)
 #
 # 
-# ind = []
-# for i in range(1317):
-#     adj = dd_adj_list[i]
-#     if adj.nnz > 500:
-#         ind.append(i)
-#
-# with open('./data/dd_edge_type_list_500.pkl', 'wb') as f:
-#     pickle.dump(ind, f)
-# for i in ind:
-#     print(dd_adj_list[i].nnz)
+
 
