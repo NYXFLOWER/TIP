@@ -30,9 +30,10 @@ from protein node to drug node
 
 ## Performance Comparision
 
-We will firstly evaluate three auto-encoder approach (Hamilton et al., 2017), and compare them with our approach:
+We will firstly evaluate three auto-encoder approach (Hamilton et al., 2017),
+ and compare them with our approach:
 - GAE (Kipf and Welling, 2016): [[paper]](https://arxiv.org/abs/1611.07308)
-- AROPE (Zhang et al., 2018): [[paper]](https://dl.acm.org/citation.cfm?id=3219969), [[code]](https://github.com/ZW-ZHANG/AROPE)
+- AROPE (Zhang et al., 2018): [[paper]](https://dl.acm.org/citation.cfm?id=3219969),  [[code]](https://github.com/ZW-ZHANG/AROPE)
 - LINE (Tang et al., 2015): [[paper]](https://arxiv.org/abs/1503.03578)
 
 We firstly consider using DistMult (Yang et al., 2015[[paper]](https://arxiv.org/abs/1412.6575)) as decoder to predict the polypharmacy side effect of drug pairs.
@@ -41,7 +42,8 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - DECAGON (Zitnik, 2018): [[paper]](https://arxiv.org/abs/1802.00543), [[code]](https://github.com/marinkaz/decagon)
 - DeepDDI (Ryu et al., 2018): [[paper]](https://www.pnas.org/content/115/18/E4304), [[code]](https://bitbucket.org/kaistsystemsbiology/deepddi/src/master/)
 - mvGAE (Ma et al., 2018): [[paper]](https://arxiv.org/abs/1804.10850), [[code]](https://github.com/matenure/mvGAE)
-
+- MR-GNN (Xu et al., 2019): [[paper]](https://arxiv.org/abs/1905.09558), 
+[[code]](https://github.com/prometheusXN/MR-GNN)
 
 ![](img/step.png)
 
