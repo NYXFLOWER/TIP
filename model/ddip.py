@@ -38,7 +38,7 @@ class HGCN(Module):
             ind = edge_index[:, edge_type_num[i]:edge_type_num[i+1]]
             # ind = t.index_select(edge_index, 1, t.tensor(range(edge_type_num[i], edge_type_num[i + 1])))
             neg_ind = negative_sampling(ind, x.shape[0]).tolist()
-            m = self.rel_embedding(t.tensor([i], dtype=t.long))
+            m = self.rel_embedding(t.tensor([i], dtype=t.long).to(t.device('cuda' if t.cuda.is_available() else 'cpu')))
             m = t.diag(m[0])
             # x_et = (x[ind[0]] * m[ind[0]][:, ind[1]]).sum(dim=1)
 
