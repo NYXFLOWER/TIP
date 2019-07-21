@@ -1,5 +1,5 @@
 import torch
-from torch_geometric.nn.models import GAE
+from torch_geometric.nn.models import GAE, InnerProductDecoder
 import numpy as np
 import scipy
 from torch.nn import Parameter as Param
@@ -11,10 +11,28 @@ from torch_geometric.data import Data
 
 
 torch.manual_seed(1111)
-
+np.random.seed(1111)
 
 EPS = 1e-13
 
+def remove_bidirection(edge_index, edge_type):
+
+    mask = edge_index[0] > edge_index[1]
+    keep_set = mask.nonzero().view(-1)
+
+    if edge_type is None:
+        return edge_index[:, keep_set]
+    else:
+        return edge_index[:, keep_set], edge_type[keep_set]
+
+
+def to_bidirection(edge_index, edge_type):
+    tmp = edge_index.clone()
+    tmp[0, :], tmp[1, :] = edge_index[1, :], edge_index[0, :]
+    if edge_type is None:
+        return torch.cat([edge_index, tmp], dim=1)
+    else:
+        return torch.cat([edge_index, tmp], dim=1), torch.cat([edge_type, edge_type])
 
 def negative_sampling(pos_edge_index, num_nodes):
     idx = (pos_edge_index[0] * num_nodes + pos_edge_index[1])
@@ -78,7 +96,7 @@ class MyRGCNConv(MessagePassing):
                  num_relations,
                  num_bases,
                  after_relu,
-                 bias=True,
+                 bias=False,
                  **kwargs):
         super(MyRGCNConv, self).__init__(aggr='mean', **kwargs)
 
@@ -101,11 +119,18 @@ class MyRGCNConv(MessagePassing):
 
     def reset_parameters(self):
 
-        size = self.num_bases * self.in_channels
-        uniform(size, self.basis)
-        uniform(size, self.att)
-        uniform(size, self.root)
-        uniform(size, self.bias)
+        self.att.data.normal_(std=1/np.sqrt(self.num_bases))
+
+        if self.after_relu:
+            self.root.data.normal_(std=2/self.in_channels)
+            self.basis.data.normal_(std=2/self.in_channels)
+
+        else:
+            self.root.data.normal_(std=1/np.sqrt(self.in_channels))
+            self.basis.data.normal_(std=1/np.sqrt(self.in_channels))
+
+        if self.bias is not None:
+            self.bias.data.zero_()
 
     def forward(self, x, edge_index, edge_type):
         """"""
@@ -136,3 +161,12 @@ class MyRGCNConv(MessagePassing):
         return '{}({}, {}, num_relations={})'.format(
             self.__class__.__name__, self.in_channels, self.out_channels,
             self.num_relations)
+
+
+
+class MyGAE(torch.nn.Module):
+
+    def __init__(self, encoder, decoder=None):
+        super(MyGAE, self).__init__()
+        self.encoder = encoder
+        self.decoder = InnerProductDecoder() if decoder is None else decoder
