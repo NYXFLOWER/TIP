@@ -6,7 +6,7 @@ path = r"../data/"
 pp_net = load_data(path, [])['pp_adj'].tocoo()
 indices = torch.LongTensor(np.concatenate((pp_net.col.reshape(1, -1),
                                        pp_net.row.reshape(1, -1)), axis=0))
-
+indices = remove_bidirection(indices, None)
 
 n_node = pp_net.shape[0]
 n_edge = indices.shape[1]
@@ -16,7 +16,10 @@ train_mask = rd.nonzero()[0]
 test_mask = (1 - rd).nonzero()[0]
 
 train_indices = indices[:, train_mask]
+train_indices = to_bidirection(train_indices, None)
+
 test_indices = indices[:, test_mask]
+test_indices = to_bidirection(test_indices, None)
 
 train_n_edge = train_indices.shape[1]
 test_n_edge = test_indices.shape[1]

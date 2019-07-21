@@ -32,12 +32,14 @@ et_list = [20, 34, 38, 41, 42, 46, 55, 57, 89, 92, 99, 103, 105, 110, 125, 126, 
            1067, 1069, 1073, 1076, 1082, 1085, 1087, 1088, 1090, 1091, 1093, 1095, 1101, 1102, 1104, 1106, 1107, 1108,
            1112, 1116, 1118, 1123, 1126, 1128, 1133, 1137, 1138, 1145, 1148, 1152, 1153, 1171, 1181, 1205]
 
-feed_dict = load_data_torch("./data/", et_list, mono=True)
+feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
 n_et_dd = len(et_list)
 
 data = Data.from_dict(feed_dict)
+
+data.dd_edge_index, data.dd_edge_type = remove_bidirection(data.dd_edge_index, data.dd_edge_type)
 
 n_edge = data.dd_edge_index.shape[1]
 train_mask = np.random.binomial(1, 0.90, n_edge)
@@ -51,12 +53,19 @@ data.test_idx = data.dd_edge_index[:, test_set]
 data.train_type = data.dd_edge_type[train_set]
 data.test_type = data.dd_edge_type[test_set]
 
-data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
+data.train_idx, data.train_type = to_bidirection(data.train_idx, data.train_type)
+data.test_idx, data.test_type = to_bidirection(data.test_idx, data.test_type)
 
-n_embed = 32
+# TODO: add drug feature
+data.d_feat = sparse_id(n_drug)
+n_feat_d = n_drug
+data.x_norm = torch.ones(n_drug)
+# data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
+
+n_embed = 16
 n_base = 16
 n_hid1 = 16
-n_hid2 = 8
+n_hid2 = 16
 
 
 class Encoder(torch.nn.Module):
@@ -77,6 +86,7 @@ class Encoder(torch.nn.Module):
         x = self.rgcn1(x, edge_index, edge_type)
         x = F.relu(x)
         x = self.rgcn2(x, edge_index, edge_type)
+        x = F.relu(x)
         return x
 
     def reset_paramters(self):
@@ -87,8 +97,8 @@ class MultiInnerProductDecoder(torch.nn.Module):
     def __init__(self, in_dim, num_et):
         super(MultiInnerProductDecoder, self).__init__()
         self.num_et = num_et
-        self.weight = torch.Tensor(num_et, in_dim).cuda()
         self.in_dim = in_dim
+        self.weight = Param(torch.Tensor(num_et, in_dim)).cuda()
 
         self.reset_parameters()
 
@@ -102,7 +112,7 @@ class MultiInnerProductDecoder(torch.nn.Module):
 
 encoder = Encoder(n_feat_d, n_et_dd, n_base)
 decoder = MultiInnerProductDecoder(n_hid2, n_et_dd)
-model = GAE(encoder, decoder)
+model = MyGAE(encoder, decoder)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = model.to(device)
@@ -127,9 +137,19 @@ def train():
     pos_loss = -torch.log(pos_score + EPS).mean()
     neg_loss = -torch.log(1 - neg_score + EPS).mean()
     loss = pos_loss + neg_loss
+    # loss = pos_loss
+
 
     loss.backward()
     optimizer.step()
+
+
+    score = torch.cat([pos_score, neg_score])
+    pos_target = torch.ones(pos_score.shape[0])
+    neg_target = torch.zeros(neg_score.shape[0])
+    target = torch.cat([pos_target, neg_target])
+    auprc, auroc, ap = auprc_auroc_ap(target, score)
+    print(auprc, end='   ')
 
     return z, loss
 
@@ -162,7 +182,10 @@ for epoch in range(EPOCH_NUM):
     z, loss = train()
     auprc, auroc, ap = test(z)
 
+    # print(epoch, ' ',
+    #       'auprc:', auprc, '  ',
+    #       'auroc:', auroc, '  ',
+    #       'ap:', ap)
+
     print(epoch, ' ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap)
+          'auprc:', auprc)
