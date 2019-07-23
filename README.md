@@ -1,9 +1,9 @@
 # FM-PSEP
-Our hierarchical graph convolutional neural network model *FM-PSEP* is a 
-general approach for multirelational link prediction in any hierarchical 
+Our hierarchical graph convolutional neural network model *FM-PSEP* is an **efficient** 
+general approach for **multirelational link prediction** in any hierarchical 
 heterogeneous network. 
 
-Here, Here, we are particularly concerned about the 
+Here, we are particularly concerned about the 
 safety of [polypharmacy](https://en.wikipedia.org/wiki/Polypharmacy), which is 
 the concurrent use of multiple medications by a patient. Given a pair of drug, 
 the model will predict how many polypharmacy side effects the drug pair will 
@@ -13,7 +13,7 @@ have, and what are the possibilities.
 
 Code implementations base on the [PyTorch-Geometric](https://github
 .com/rusty1s/pytorch_geometric) package, make sure it has been installed 
-before running the code.
+before running the code. 
 
 ## Data Drive
 
@@ -48,8 +48,14 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 ![](img/step.png)
 
 ## Result by now
+*All the models are trained on GPU. [torch-memlab](https://github.com/Stonesjtu/pytorch_memlab) helps to profile and inspect memory usage*
 Pre-train ppi embedding with 2 layers GCN for 80 epochs([output](./out/ppp.pdf)): 
-- around 92% auprc
+- around 92% auprc.
 - less than 2GB GPU memory cost. 
 - Time cost: 2 mins.
 
+Interaction prediction (use drug ids and single drug side effect as feature):
+- around 64% auprc (Limited to the number of parameters).
+- around 10GB GPU memory cost.
+- Time cost: 10 mins.
+- to improve: change batch => mini-batch, add more parameters, biased sampling.
