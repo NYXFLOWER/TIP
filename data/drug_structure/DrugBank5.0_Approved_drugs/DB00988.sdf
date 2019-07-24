@@ -1,0 +1,164 @@
+988
+     RDKit          2D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    3.5220    1.9842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 11  1  0
+  3  6  1  0
+  4  5  1  0
+  4  6  1  0
+  5  7  2  0
+  5  8  1  0
+  7  9  1  0
+  8 10  2  0
+  9 11  2  0
+ 10 11  1  0
+  1 12  1  0
+  2 13  1  0
+  3 14  1  0
+  3 15  1  0
+  4 16  1  0
+  4 17  1  0
+  6 18  1  0
+  6 19  1  0
+  7 20  1  0
+  8 21  1  0
+ 10 22  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.40
+
+>  <ALOGPS_LOGS>  (1) 
+-1.31
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.43e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00988
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00988
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+153.078978601
+
+>  <FORMULA>  (1) 
+C8H11NO2
+
+>  <GENERIC_NAME>  (1) 
+Dopamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2
+
+>  <INCHI_KEY>  (1) 
+VYFYYTLLBUKUHU-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.21092686800737
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-(2-aminoethyl)benzene-1,2-diol
+
+>  <JCHEM_LOGP>  (1) 
+0.029550238796553663
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+12.925186084800895
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.007776384659529
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.271456202535882
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+43.248200000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dopamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+153.1784
+
+>  <PRODUCTS>  (1) 
+DOPamine HYDROCHLORIDE AND DEXTROSE; DOPamine Hydrochloride; Dopamine; Dopamine HCl; Dopamine HCl 0.8mg/ml Dextrose 5% Inj USP; Dopamine HCl 1.6mg/ml Dextrose 5% Inj USP; Dopamine HCl 3.2mg/ml Dextrose 5% Inj USP; Dopamine HCl Inj 4%; Dopamine Hydrochloride; Dopamine Hydrochloride and 5% Dextrose Injection USP; Dopamine Hydrochloride and Dextrose; Intropin Injection 40mg/ml
+
+>  <SALTS>  (1) 
+Dopamine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00085
+
+>  <SMILES>  (1) 
+NCCC1=CC(O)=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+2-(3,4-dihydroxyphenyl)ethylamine; 3-Hydroxytyramine; 3,4-Dihydroxyphenethylamine; 4-(2-aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 4-(2-aminoethyl)catechol; 4-(2-aminoethyl)pyrocatechol; Dopamina; Dopamine; Dopaminum; Oxytyramine
+
+$$$$

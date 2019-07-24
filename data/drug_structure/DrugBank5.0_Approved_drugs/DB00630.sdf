@@ -1,0 +1,176 @@
+630
+     RDKit          2D
+
+ 27 26  0  0  0  0  0  0  0  0999 V2000
+    4.2365   -0.4851    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.3101    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9345   -1.6121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.0726    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6490   -1.1996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.7226    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950   -0.5957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.3399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.1351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    1.8794    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1095   -0.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1095    0.6419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    1.0544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  8  2  0
+  1 11  1  0
+  2  6  1  0
+  2  7  1  0
+  2  9  2  0
+  2 11  1  0
+  3 11  1  0
+ 10 14  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  3 15  1  0
+  4 16  1  0
+  5 17  1  0
+  6 18  1  0
+  7 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 12 22  1  0
+ 12 23  1  0
+ 13 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+ 14 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.34
+
+>  <ALOGPS_LOGS>  (1) 
+-1.17
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.69e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00630
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00630
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+249.016724799
+
+>  <FORMULA>  (1) 
+C4H13NO7P2
+
+>  <GENERIC_NAME>  (1) 
+Alendronic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H13NO7P2/c5-3-1-2-4(6,13(7,8)9)14(10,11)12/h6H,1-3,5H2,(H2,7,8,9)(H2,10,11,12)
+
+>  <INCHI_KEY>  (1) 
+OGSPWJRAVKPPFI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alenotop; Alned; Arendal; Beenos; Berlex; Denfos; Densidron; Dronat; Durost; Fixopan; Forosa; Fosagen; Fosalen; Fosmin; Fostolin; Fosval; Huesobone; Lendrate; Oseolen; Ostemax
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+19.397350940053858
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(4-amino-1-hydroxy-1-phosphonobutyl)phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-4.190998026971535
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+1.453334585346659
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.690481352011787
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.910686092584644
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+161.31
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+47.3738
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+alendronate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+249.096
+
+>  <PRODUCTS>  (1) 
+Accel-alendronate; Ach-alendronate; Act Alendronate; Adrovance; Alendronate; Alendronate Sodium; Alendronate-70; Alendronate-cholecalciferol; Apo-alendronate; Apo-alendronate/vitamin D3; Auro-alendronate; Binosto; Dom-alendronate; Dom-alendronate-FC; Fosamax; Fosamax Plus D; Fosavance; Gen-alendronate; Jamp-alendronate; Mint-alendronate; Mylan-alendronate; PHL-alendronate; PMS-alendronate; PMS-alendronate-FC; Q-alendronate; Ran-alendronate; Ratio Alendronate; Riva Alendronate; Riva-alendronate; Sandoz Alendronate; Sandoz Alendronate/cholecalciferol; Teva-alendronate; Teva-alendronate/cholecalciferol; Van-alendronate
+
+>  <SALTS>  (1) 
+Alendronate calcium; Alendronate sodium; Alendronate sodium anhydrous
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00561
+
+>  <SMILES>  (1) 
+NCCCC(O)(P(O)(O)=O)P(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+(4-amino-1-hydroxybutane-1,1-diyl)bis(phosphonic acid); (4-amino-1-hydroxybutylidene)bisphosphonic acid; 4-amino-1-hydroxybutane-1,1-diphosphonic acid; ABDP; Acide Alendronique; Acido Alendronico; Acidum Alendronicum; Alendronate
+
+$$$$

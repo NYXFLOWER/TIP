@@ -1,0 +1,117 @@
+
+     RDKit          2D
+
+  5  3  0  0  0  0  0  0  0  0999 V2000
+   -1.2828   -1.1224    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5610   -0.0798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5610    0.7214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2828    1.1224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1600    1.1224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+M  CHG  3   1   2   4  -1   5  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.52
+
+>  <ALOGPS_LOGS>  (1) 
+0.21
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.26e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09481
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09481
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+83.969785764
+
+>  <FORMULA>  (1) 
+CMgO3
+
+>  <GENERIC_NAME>  (1) 
+Magnesium carbonate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH2O3.Mg/c2-1(3)4;/h(H2,2,3,4);/q;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+ZLNQQNXFFQJAID-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+3.515450277384693
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+magnesium(2+) ion carbonate
+
+>  <JCHEM_LOGP>  (1) 
+0.25005136566666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.638414228618222
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.052541895520343
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.19
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.172400000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+magnesium(2+) ion carbonate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+84.314
+
+>  <PRODUCTS>  (1) 
+Acid Gone Antacid; Acid Gone Antacid Extra Strength; Aluminum hydroxide and Magnesium carbonate; Antacid; Antacid - Tab; Antacid Extra Strength; Aspirin Plus Stomach Guard Ext.stgth.caplet; Aspirin Plus Stomach Guard Extra Strength; Aspirin Plus Stomach Guard Tab; Aspirin With Stomach Guard; Aspirin With Stomach Guard Extra Strength - Tab; CVS Health Extra Strength Heartburn Relief Antacid Original Flavor; Calcium and Magnesium Tab; Cepasium Tab 100mg; Equate antacid extra strength; Estomarol; Extra Strength Heartburn Relief; Extra Strength Heartburn Relief Antacid; Flexadyn Tab; Foamcoat Antacid; GOOD NEIGHBOR PHARMACY Antacid Extra Strength; Gavis-care Antacid; Gaviscon; Gaviscon Extra Strength; Gaviscon Heartburn Relief Tablets; Humco Dewees Carminative; Inon; Maalox Antacid Caplets; MagneBind 400 Rx; Magnesium Comprime Tab; Renacidin; Riginic Antacid Liquid; Rx Act Antacid Extra Strength; SohMed Acid Reducer; Stomachin Antacid; Sunmark antacid extra strength; Tri-buffered Asa Tab; leader Antacid Extra Strength
+
+>  <SMILES>  (1) 
+[Mg++].[O-]C([O-])=O
+
+$$$$

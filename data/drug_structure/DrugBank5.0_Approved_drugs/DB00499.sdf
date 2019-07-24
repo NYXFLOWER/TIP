@@ -1,0 +1,178 @@
+499
+     RDKit          2D
+
+ 30 30  0  0  0  0  0  0  0  0999 V2000
+    2.9685    1.8563    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.8563    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 19  1  0
+  3 19  1  0
+  4 11  2  0
+  5  8  1  0
+  6  8  2  0
+  7 10  1  0
+  7 11  1  0
+  8 16  1  0
+  9 11  1  0
+  9 14  1  0
+  9 15  1  0
+ 10 13  2  0
+ 10 17  1  0
+ 12 13  1  0
+ 12 16  2  0
+ 12 19  1  0
+ 16 18  1  0
+ 17 18  2  0
+  7 20  1  0
+  9 21  1  0
+ 13 22  1  0
+ 14 23  1  0
+ 14 24  1  0
+ 14 25  1  0
+ 15 26  1  0
+ 15 27  1  0
+ 15 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+M  CHG  2   5  -1   8   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.55
+
+>  <ALOGPS_LOGS>  (1) 
+-4.69
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.66e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00499
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00499
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+276.072176843
+
+>  <FORMULA>  (1) 
+C11H11F3N2O3
+
+>  <GENERIC_NAME>  (1) 
+Flutamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H11F3N2O3/c1-6(2)10(17)15-7-3-4-9(16(18)19)8(5-7)11(12,13)14/h3-6H,1-2H3,(H,15,17)
+
+>  <INCHI_KEY>  (1) 
+MKXKFYHWDHIYRV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Andraxan; Antipros; Curestat; Cytomid; Dedile; Drogenil; Elbat; Etaconil; Eulexin; Farostat; Flimutal; Flucinom; Flulem; Odyne; Prostadirex; Prostanon
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.204003355292166
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide
+
+>  <JCHEM_LOGP>  (1) 
+3.2723109796666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.172859943644383
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6999384565398477
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+74.92
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.4208
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+flutamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+276.2118
+
+>  <PRODUCTS>  (1) 
+Apo-flutamide; Dom-flutamide; Euflex; Flutamide; Flutamide-250; Nu-flutamide Tablets; PMS-flutamide; Penta-flutamide; Teva-flutamide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00984
+
+>  <SMILES>  (1) 
+CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+Flutamid; Flutamida; Flutamide; Flutamidum; FTA; NFBA
+
+$$$$

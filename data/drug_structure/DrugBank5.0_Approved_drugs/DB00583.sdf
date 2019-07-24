@@ -1,0 +1,175 @@
+583
+     RDKit          2D
+
+ 26 25  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -0.6419    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.5957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6419    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.1832    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.5313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.5957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  1
+  2 11  1  0
+  3 11  2  0
+  4  5  1  0
+  4  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5  6  1  0
+  6 10  1  0
+ 10 11  1  0
+  1 12  1  0
+  5 13  1  0
+  5 14  1  0
+  6 15  1  0
+  7 16  1  0
+  7 17  1  0
+  7 18  1  0
+  8 19  1  0
+  8 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 10 26  1  0
+M  CHG  2   2  -1   4   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.90
+
+>  <ALOGPS_LOGS>  (1) 
+-1.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.33e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00583
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00583
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+161.105193351
+
+>  <FORMULA>  (1) 
+C7H15NO3
+
+>  <GENERIC_NAME>  (1) 
+L-Carnitine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H15NO3/c1-8(2,3)5-6(9)4-7(10)11/h6,9H,4-5H2,1-3H3/t6-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+PHIQHXFUZVPYII-ZCFIWIBFSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Albicar; Aveptol; Biocarn; Bitobionil; Cardimax; Cardispan; Carniben; Carnicor; Lecarna
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.925704079216167
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3R)-3-hydroxy-4-(trimethylazaniumyl)butanoate
+
+>  <JCHEM_LOGP>  (1) 
+-4.887506048138412
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.524970024955305
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.196175564563187
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.569523257122939
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.48530000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-carnitine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+161.1989
+
+>  <PRODUCTS>  (1) 
+Carnitor; Carnitor SF; Levocarnitine
+
+>  <SALTS>  (1) 
+Levocarnitine chloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01070
+
+>  <SMILES>  (1) 
+C[N+](C)(C)C[C@H](O)CC([O-])=O
+
+>  <SYNONYMS>  (1) 
+(-)-Carnitine; (-)-L-Carnitine; (R)-Carnitine; 3-Carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium hydroxide, inner salt; Carnitine; Levocarnitin; Levocarnitina; Lévocarnitine; Levocarnitine; Levocarnitinum; Vitamin BT
+
+$$$$

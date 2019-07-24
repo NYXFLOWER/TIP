@@ -1,0 +1,207 @@
+956
+     RDKit          2D
+
+ 43 47  0  0  1  0  0  0  0  0999 V2000
+    1.9356   -0.3879    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349   -2.5175    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    1.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3440   -1.2588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -0.8462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.2588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296   -0.8462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.2588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6773   -0.2412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -0.0213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -2.0838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296   -0.0213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8506   -0.2412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    0.3913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -2.4963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -2.0838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    0.3913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350   -1.8938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    1.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    1.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    1.6288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    2.5175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 17  1  0
+  2 16  2  0
+  3 20  1  0
+  3 22  1  0
+  4  7  1  0
+  4 13  1  0
+  4 18  1  0
+  5  6  1  0
+  5  8  1  0
+  5  9  1  1
+  5 10  1  0
+  6  7  1  0
+  6 11  1  0
+  7 12  1  0
+  8 16  1  0
+  9 13  1  0
+ 10 14  2  0
+ 10 17  1  0
+ 11 15  1  0
+ 12 14  1  0
+ 14 19  1  0
+ 15 16  1  0
+ 17 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  6 23  1  1
+  7 24  1  6
+  8 25  1  1
+  9 26  1  0
+  9 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+ 22 42  1  0
+ 22 43  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.13
+
+>  <ALOGPS_LOGS>  (1) 
+-2.57
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.97e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00956
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00956
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <EXACT_MASS>  (1) 
+299.152143543
+
+>  <FORMULA>  (1) 
+C18H21NO3
+
+>  <GENERIC_NAME>  (1) 
+Hydrocodone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H21NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3,6,11-12,17H,4-5,7-9H2,1-2H3/t11-,12+,17-,18-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+LLPOLZWFYMWNKH-CMKMFDCUSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.049349966841675
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,5R,13R,17R)-10-methoxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7(18),8,10-trien-14-one
+
+>  <JCHEM_LOGP>  (1) 
+1.9603039676666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.002748689731906
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.605500302826659
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.77
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.74470000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydrocodone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+299.3642
+
+>  <PRODUCTS>  (1) 
+Caldomine Dh Adulte; Caldomine Dh Enfant; Codofen; Coristine-DH Liq; Dalmacol; Dimetane Expectorant Dc; Dimetane Expectorant-DC Syr; Flowtuss; Hycet; Hycodan Syrup; Hycodan Tablets; Hycofenix; Hycomine; Hycomine-S; Hydrocodone Acetaminophen; Hydrocodone Bit/apap; Hydrocodone Bitartate and Acetaminophen; Hydrocodone Bitartrate; Hydrocodone Bitartrate And Acetaminophen; Hydrocodone Bitartrate Chlorpheniramine Maleate and Pseudoephedrine Hydrochloride; Hydrocodone Bitartrate and Acetaminophen; Hydrocodone Bitartrate and Acetaminophen Tablets; Hydrocodone Bitartrate and Chlorpheniramine Maleate; Hydrocodone Bitartrate and Chlorpheniramine Maleate Solution; Hydrocodone Bitartrate and Homatropine Methylbromide; Hydrocodone Bitartrate and Ibuprofen; Hydrocodone Bitartrate, Chlorpheniramine Maleate and Pseudoephedrine Hydrochloride; Hydrocodone Bitartrate, Chlorpheniramine Maleate, and Pseudoephedrine HCl; Hydrocodone Bitartrate, Chlorpheniramine Maleate, and Pseudoephedrine Hydrochloride Oral Solution; Hydrocodone Bitatrate and Acetaminophen; Hydrocodone Polistirex and Chlorpheniramine Polisitrex; Hydrocodone Polistirex and Chlorpheniramine Polistirex; Hydrocodone Polistirex and Chlorpheniramine Polistirex Extended-Release; Hydrocodone Polistirex and Chlorpheniramine Polistirex Pennkinetic; Hydrocodone Polistirex and Chlorpheniramine Polistirex extended-release; Hydrocodone bitartrate and acetaminophen; Hydrocodone bitartrate and ibuprofen; Hydrocodone bitartrate and pseudoephedrine hydrochloride solution; Hydrocodone/apap; Hydromet; Hyrdrocodone Apap; Hysingla ER; Ibucodone; Ibudone; Lorcet; Lorcet 10/650; Lorcet Hd; Lorcet Plus; Lortab; Lortab 10/325; Lortab 5/325; Lortab 7.5/325; Maxidone; Mercodol With Decapryn; Norco; Novahistex Dh; Novahistex Dh Expectorant; Novahistine Dh; Obredon; Pdp-hydrocodone; Ratio-calmydone; Ratio-coristex-DH; Reprexain; Rezira; Robidone 1mg/ml Syr; Robidone Syr 1mg/ml; Theracodophen-325; Theracodophen-650; Theracodophen-750; Theracodophen-Low-90; Topical Pain; Triaminic Expectorant Dh Syrup; Tussaminic Dh Forte Syrup; Tussaminic Dh Pediatric Syrup; TussiCaps; Tussicaps; Tussigon; Tussionex; Tussionex Pennkinetic; Vasofrinic Dh; Vicodin; Vicodin ES; Vicodin HP; Vicodin Hp; Vicoprofen; Vituz; Xodol; Xylon 10; Zamicet; Zohydro; Zohydro ER; Zutripro; Zydone; Zyfrel
+
+>  <SALTS>  (1) 
+Hydrocodone bitartrate; Hydrocodone hydrochloride; Hydrocodone polistirex
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00591; DB09475
+
+>  <SMILES>  (1) 
+[H][C@@]12OC3=C(OC)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])CCC2=O
+
+>  <SYNONYMS>  (1) 
+(-)-Dihydrocodeinone; 4,5-alpha-Epoxy-3-methoxy-17-methylmorphinan-6-one; Dihydrocodeinone; Hidrocodona; Hydrocodon; Hydrocodone polistirex; Hydrocodonum; Hydrocone; Hydroconum; Idrocodone
+
+$$$$

@@ -1,0 +1,159 @@
+614
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    7.6453   -0.4299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7154   -0.1723    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3353   -1.0973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.6098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0917   -0.7493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5653    0.3549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7806    0.6098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2632    0.0577    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2328    0.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9003    0.3549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8203   -0.4299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3828    0.3127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1675    0.0577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1279    1.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0479    0.3127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3028    1.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 11  1  0
+  2 12  1  0
+  2 15  1  0
+  3 11  2  0
+  4  8  1  0
+  5  8  2  0
+  6  7  1  0
+  6  9  1  0
+  6 11  1  0
+  7 13  2  3
+  8 15  1  0
+  9 10  1  0
+ 12 13  1  0
+ 12 14  2  0
+ 14 16  1  0
+ 15 16  2  0
+  9 17  1  0
+  9 18  1  0
+ 10 19  1  0
+ 10 20  1  0
+ 13 21  1  0
+ 14 22  1  0
+ 16 23  1  0
+M  CHG  2   4  -1   8   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.15
+
+>  <ALOGPS_LOGS>  (1) 
+-2.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.64e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00614
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00614
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+225.038570349
+
+>  <FORMULA>  (1) 
+C8H7N3O5
+
+>  <GENERIC_NAME>  (1) 
+Furazolidone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H7N3O5/c12-8-10(3-4-15-8)9-5-6-1-2-7(16-6)11(13)14/h1-2,5H,3-4H2
+
+>  <INCHI_KEY>  (1) 
+PLHJDBGFXBMTGZ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dependal-M; Furoxone
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+19.7446106059935
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-{[(5-nitrofuran-2-yl)methylidene]amino}-1,3-oxazolidin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+0.8699244056666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.413587912476163
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+100.85999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.085199999999986
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+furazolidone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+225.1583
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00988
+
+>  <SMILES>  (1) 
+[O-][N+](=O)C1=CC=C(O1)C=NN1CCOC1=O
+
+>  <SYNONYMS>  (1) 
+5-Nitro-N-(2-oxo-3-oxazolidinyl)-2-furanmethanimine; FZL; Nitrofurazolidone; Nitrofurazolidonum
+
+$$$$

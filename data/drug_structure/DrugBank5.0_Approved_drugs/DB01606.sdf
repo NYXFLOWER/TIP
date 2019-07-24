@@ -1,0 +1,183 @@
+
+     RDKit          2D
+
+ 32 34  0  0  1  0  0  0  0  0999 V2000
+    3.8486    1.2172    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5937    2.0019    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5161    1.7021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5516   -1.5154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9105   -1.0738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640    0.1373    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7547    0.4005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4692   -0.0120    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0822    0.5400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3336    0.5498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640    0.9623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8486   -0.1176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.9657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.1339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0010    0.0648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0010    1.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1036   -0.9023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9263    1.2074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7467    1.2936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1 11  1  0
+  1 12  1  0
+  4 15  2  0
+  5 18  1  0
+  6 18  2  0
+  7 12  1  0
+  7 13  1  0
+  7 15  1  0
+  8  9  1  0
+  8 16  1  0
+  8 19  1  0
+  9 10  2  0
+ 10 20  1  0
+ 11 13  1  0
+ 11 16  1  1
+ 11 17  1  0
+ 12 14  1  0
+ 13 18  1  6
+ 14 15  1  0
+ 19 20  2  0
+  5 21  1  0
+ 12 22  1  6
+ 13 23  1  0
+ 14 24  1  0
+ 14 25  1  0
+ 16 26  1  0
+ 16 27  1  0
+ 17 28  1  0
+ 17 29  1  0
+ 17 30  1  0
+ 19 31  1  0
+ 20 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.80
+
+>  <ALOGPS_LOGS>  (1) 
+-1.50
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.59e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01606
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01606
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+300.052840204
+
+>  <FORMULA>  (1) 
+C10H12N4O5S
+
+>  <GENERIC_NAME>  (1) 
+Tazobactam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12N4O5S/c1-10(5-13-3-2-11-12-13)8(9(16)17)14-6(15)4-7(14)20(10,18)19/h2-3,7-8H,4-5H2,1H3,(H,16,17)/t7-,8+,10+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+LPQZKKCYTLCDGQ-WEDXCCLWSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.21598472393581
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,3S,5R)-3-methyl-4,4,7-trioxo-3-(1H-1,2,3-triazol-1-ylmethyl)-4λ⁶-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.3995084486666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+18.64243060134982
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.862082377174405
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.7324531372644268
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+122.45999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+74.8153
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tazobactam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+300.291
+
+>  <PRODUCTS>  (1) 
+Jamp-pip/taz; Mylan-piperacillin and Tazobactam for Injection; Piperacillin / Tazobactam Powder for Injection; Piperacillin Sodium/tazobactam Sodium Powder for Injection; Piperacillin and Tazobactam; Piperacillin and Tazobactam for Injection; Piperacillin, Tazobactam; Piperacillin/tazobactam for Injection; Tazocin; Tazocin Pws IV 2g Piperacillin-.25g Tazobac.; Tazocin Pws IV 3g Piperacillin-.375g Tazobac; Tazocin Pws IV 4g Piperacillin-.5g Tazobac.; Vpi-piperacillin and Tazobactam for Injection; Zerbaxa; Zosyn; Zosyn Pharmacy Bulk Package; Zosyn in Galaxy Containers
+
+>  <SALTS>  (1) 
+Tazobactam sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03012
+
+>  <SMILES>  (1) 
+[H][C@@]12CC(=O)N1[C@@H](C(O)=O)[C@](C)(CN1C=CN=N1)S2(=O)=O
+
+$$$$

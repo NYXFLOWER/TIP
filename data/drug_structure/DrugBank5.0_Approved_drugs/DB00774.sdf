@@ -1,0 +1,174 @@
+774
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    5.3809   -0.6133    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6841   -0.8041    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0522    0.7546    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3162    1.8151    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1538    1.9168    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7851   -1.3325    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9602   -1.3229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0522   -0.2739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3162   -1.3345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3809    1.0940    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1285   -0.1893    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1538   -1.4362    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6434   -0.1722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6434    0.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2144   -0.1722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2144    0.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9289   -0.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1285    0.6700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9289    1.0653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6841    1.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  1  7  2  0
+  1 11  1  0
+  1 13  1  0
+  2  8  2  0
+  2  9  2  0
+  2 12  1  0
+  2 15  1  0
+  3 20  1  0
+  4 20  1  0
+  5 20  1  0
+ 10 14  1  0
+ 10 18  1  0
+ 11 18  1  0
+ 13 14  2  0
+ 13 17  1  0
+ 14 19  1  0
+ 15 16  1  0
+ 15 17  2  0
+ 16 19  2  0
+ 16 20  1  0
+ 10 21  1  0
+ 11 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+ 17 25  1  0
+ 18 26  1  0
+ 18 27  1  0
+ 19 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.44
+
+>  <ALOGPS_LOGS>  (1) 
+-2.59
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.58e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00774
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00774
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+330.990831754
+
+>  <FORMULA>  (1) 
+C8H8F3N3O4S2
+
+>  <GENERIC_NAME>  (1) 
+Hydroflumethiazide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H8F3N3O4S2/c9-8(10,11)4-1-5-7(2-6(4)19(12,15)16)20(17,18)14-3-13-5/h1-2,13-14H,3H2,(H2,12,15,16)
+
+>  <INCHI_KEY>  (1) 
+DMDGGSIALPNSEE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Leodrine; Saluron
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.682968710783264
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1,1-dioxo-6-(trifluoromethyl)-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.30181397099999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+10.202550200977978
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.065968668241249
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.73831760768688
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+118.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.27850000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydroflumethiazide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+331.292
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01020
+
+>  <SMILES>  (1) 
+NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+Dihydroflumethazide; Hidroflumetiazid; Hidroflumetiazida; Hydrofluméthiazide; Hydroflumethiazide; Hydroflumethiazidum; Idroflumetiazide; Metforylthiadiazin
+
+$$$$

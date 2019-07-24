@@ -1,0 +1,201 @@
+400
+     RDKit          2D
+
+ 41 43  0  0  1  0  0  0  0  0999 V2000
+    5.4278    1.1433    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4167   -0.3694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1782   -0.8542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3169   -0.0602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7493   -3.3292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0707    1.1433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5942    2.6132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7493   -0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0348   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0348   -2.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0819   -0.3694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4637   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2223   -1.4100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3368    0.4153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1618    0.4153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7493   -2.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4637   -2.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8957    1.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028    1.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3196    1.9003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1790    1.9003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8927   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.8529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1845    3.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  8  2  1  6
+  2 15  1  0
+  3 12  1  0
+  3 22  1  0
+  4 11  2  0
+  5 16  2  0
+  6 18  1  0
+  6 23  1  0
+  7 21  1  0
+  7 24  1  0
+  8  9  1  0
+  8 11  1  0
+  8 12  1  0
+  9 10  1  0
+  9 13  1  1
+ 10 16  1  0
+ 11 14  1  0
+ 12 17  2  0
+ 14 15  2  0
+ 14 18  1  0
+ 15 19  1  0
+ 16 17  1  0
+ 18 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  9 25  1  0
+ 10 26  1  0
+ 10 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 13 30  1  0
+ 17 31  1  0
+ 20 32  1  0
+ 22 33  1  0
+ 22 34  1  0
+ 22 35  1  0
+ 23 36  1  0
+ 23 37  1  0
+ 23 38  1  0
+ 24 39  1  0
+ 24 40  1  0
+ 24 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.71
+
+>  <ALOGPS_LOGS>  (1) 
+-3.84
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.04e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00400
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00400
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+352.071365983
+
+>  <FORMULA>  (1) 
+C17H17ClO6
+
+>  <GENERIC_NAME>  (1) 
+Griseofulvin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H17ClO6/c1-8-5-9(19)6-12(23-4)17(8)16(20)13-10(21-2)7-11(22-3)14(18)15(13)24-17/h6-8H,5H2,1-4H3/t8-,17+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+DDUHZTYCFQRHIY-RBHXEPJQSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Crivicin; Fulcin; Fulvicin; Grifulvin; Grifulvin V; Grisactin; Grison-250; Grisovin; Lamoryl; Likuden; Poncyl; S-Fulvin; Spirofulvin; Sporostatin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.24576060438774
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,6'R)-7-chloro-2',4,6-trimethoxy-6'-methyl-3H-spiro[1-benzofuran-2,1'-cyclohexan]-2'-ene-3,4'-dione
+
+>  <JCHEM_LOGP>  (1) 
+2.172137458333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.68867051547463
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.322861287850263
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+71.06
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+87.8459
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+griseofulvin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+352.766
+
+>  <PRODUCTS>  (1) 
+Fulvicin Pg Tab 330mg; Fulvicin U/f Tab 250mg; Fulvicin Uf Tab 500mg; Gris-PEG; Griseofulviin (microsize); Griseofulvin; Grisofulvin; Grisovin Fp Tab 125mg; Grisovin Fp Tab 250mg; Grisovin Fp Tab 500mg; Grisovin-FP 125mg Tab; Grisovin-FP 250mg Tab; Ultramicrosize Griseofulvin
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01004
+
+>  <SMILES>  (1) 
+COC1=CC(OC)=C(Cl)C2=C1C(=O)[C@]1(O2)[C@H](C)CC(=O)C=C1OC
+
+>  <SYNONYMS>  (1) 
+(+)-griseofulvin; Amudane; Griseofulvin, microcrystalline; Griseofulvin, ultramicrosize; Griseofulvina; Griseofulvine; Griseofulvinum
+
+$$$$

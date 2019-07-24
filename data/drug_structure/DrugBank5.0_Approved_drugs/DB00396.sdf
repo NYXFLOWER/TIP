@@ -1,0 +1,232 @@
+396
+     RDKit          2D
+
+ 53 56  0  0  1  0  0  0  0  0999 V2000
+    6.5848    2.1027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -2.0649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0989   -0.3718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0989    0.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3846   -0.7843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6700   -0.3718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9194   -0.7899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8795    0.7046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3846    0.8656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6700    0.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8795   -0.6232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3978   -1.6435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3609    0.0407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9128   -1.6492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0989    1.2781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6569   -2.0789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1548   -0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9257    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1359    1.4887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3728   -0.7602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1411   -2.1027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3659   -1.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9430    1.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  2  0
+  2 22  2  0
+  3  4  1  0
+  3  5  1  0
+  3 11  1  0
+  4  8  1  0
+  4  9  1  0
+  4 15  1  1
+  5  6  1  0
+  5 12  1  0
+  6  7  1  0
+  6 10  1  0
+  7 14  1  0
+  7 17  1  0
+  7 18  1  1
+  8 13  1  0
+  8 19  1  1
+  9 10  1  0
+ 11 13  1  0
+ 12 16  1  0
+ 14 16  1  0
+ 14 21  2  0
+ 17 20  1  0
+ 19 23  1  0
+ 20 22  1  0
+ 21 22  1  0
+  3 24  1  6
+  5 25  1  1
+  6 26  1  6
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 11 32  1  0
+ 11 33  1  0
+ 12 34  1  0
+ 12 35  1  0
+ 13 36  1  0
+ 13 37  1  0
+ 15 38  1  0
+ 15 39  1  0
+ 15 40  1  0
+ 16 41  1  0
+ 16 42  1  0
+ 17 43  1  0
+ 17 44  1  0
+ 18 45  1  0
+ 18 46  1  0
+ 18 47  1  0
+ 20 48  1  0
+ 20 49  1  0
+ 21 50  1  0
+ 23 51  1  0
+ 23 52  1  0
+ 23 53  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.58
+
+>  <ALOGPS_LOGS>  (1) 
+-4.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.46e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00396
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00396
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+314.224580204
+
+>  <FORMULA>  (1) 
+C21H30O2
+
+>  <GENERIC_NAME>  (1) 
+Progesterone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H30O2/c1-13(22)17-6-7-18-16-5-4-14-12-15(23)8-10-20(14,2)19(16)9-11-21(17,18)3/h12,16-19H,4-11H2,1-3H3/t16-,17+,18-,19-,20-,21+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+RJKFOVLPORLFTN-LEKSSAKUSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Agolutin; Cyclogest; Gestone; Progestasert; Progestogel; Qi Ning; Relantan; Susten; Utrogestan; Utrogestran; Utrovin; Vasclor
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+53
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+37.255973123562505
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,3aS,3bS,9aR,9bS,11aS)-1-acetyl-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+>  <JCHEM_LOGP>  (1) 
+4.148604400666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+19.456978880047192
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.470330967760454
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.816188745344462
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+34.14
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+92.7053
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+progesterone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+314.4617
+
+>  <PRODUCTS>  (1) 
+Act Progesterone Injection; Crinone; Endometrin; Estrogel Propak; Gesterol In Oil-liq Im 50mg/ml; PMS-progesterone Inj 50mg/ml USP; Prochieve; Progesterone; Progesterone Inj 50mg/ml USP; Progesterone Injection USP; Prometrium; Reddy-progesterone; Teva-progesterone; Utrogestan
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00700
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+>  <SYNONYMS>  (1) 
+(S)-4-Pregnene-3,20-dione; (S)-Pregn-4-en-3,20-dione; (S)-Progesterone; 17alpha-Progesterone; 17α-progesterone; 4-Pregnene-3,20-dione; Agolutin; Akrolutin; Corpus Luteum Hormone; delta(4)-Pregnene-3,20-dione; Gelbkörperhormon; Luteohormone; Lutogynon; Pregn-4-ene-3,20-dione; Progesteron; Progesterona; Progestérone; Progesterone; Progesteronum
+
+$$$$

@@ -1,0 +1,165 @@
+
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  4  1  1  0
+  5  2  2  0
+  6  2  1  0
+  7  3  1  0
+  8  4  2  0
+  9  5  1  0
+ 10  6  2  0
+ 11  7  2  0
+ 11  8  1  0
+ 12  9  2  0
+ 12 10  1  0
+ 13 11  1  0
+ 14 12  1  0
+ 15 13  2  0
+ 16 14  2  0
+ 17 13  1  0
+ 18 14  1  0
+ 18 17  1  0
+  1 19  1  0
+  2 20  1  0
+  3 21  1  0
+  4 22  1  0
+  5 23  1  0
+  6 24  1  0
+  7 25  1  0
+  8 26  1  0
+  9 27  1  0
+ 10 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.75
+
+>  <ALOGPS_LOGS>  (1) 
+-3.92
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.94e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09096
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09096
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+242.057908808
+
+>  <FORMULA>  (1) 
+C14H10O4
+
+>  <GENERIC_NAME>  (1) 
+Benzoyl peroxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H10O4/c15-13(11-7-3-1-4-8-11)17-18-14(16)12-9-5-2-6-10-12/h1-10H
+
+>  <INCHI_KEY>  (1) 
+OMPJBNCRMGITSC-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.15778938018316
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+benzoyl benzenecarboperoxoate
+
+>  <JCHEM_LOGP>  (1) 
+3.946932388
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.169419788005589
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.60000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.77320000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fostex
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+242.2268
+
+>  <PRODUCTS>  (1) 
+10 Benzagel Gel - 10%; 2.5 Benzagel 2.5%; 2.5 Benzagel 2.5% Acne Gel; 2.5 Benzagel Acne Lotion 2.5%; 3 Step Acne System Well at Walgreens; 5 Benzagel Liquid Acne Soap 5%; 5 Benzagel Lotion 5%; 5% BP Face and Body Wash; AB Skincare Acne Spot Treatment; AF Foam Clear Skin Acne Pore Cleanser; AKNETROL Acne Treatment; Acanya; Acetoxyl 10 Gel; Acetoxyl 2.5 Gel; Acetoxyl 20acne Gel; Acetoxyl 5 Gel; Acne Cleanser; Acne Cleansing Bar; Acne Clearing Treatment; Acne Clearning Treatment Face; Acne Control Cleanser; Acne Control Serum; Acne Cream; Acne Defense Daily Treatment Serum; Acne Eraser Cleanser; Acne Face and Body; Acne Face and Body Wash; Acne Fm Wsh Mx Cvs; Acne Lotion; Acne Med; Acne Medication 10; Acne Medication 5; Acne Solutions Clearing Moisturizer Acne Medication; Acne Solutions Emergency; Acne Spot Corrector; Acne Spot Corrector Maximum Strength; Acne Spot Repair; Acne Spot Treatment; Acne TX Mask; Acne Therapy; Acne Therapy Cleansing Wash; Acne Treatment; Acne Treatment Gel; Acne Treatment Kit Prescription Care; Acne Treatment Lotion; Acne Treatment Serum; Acne Treatment System; Acne defense Daily Treatment Serum Merle Norman; AcneFree Clear Skin Treatments 24 HOUR Acne Clearing System; AcneFree Clear Skin Treatments 24 HOUR Severe Acne Clearing System; AcneFree Clear Skin Treatments Advanced Deep Cleansing Duo; AcneFree Clear Skin Treatments Sonic Advanced Cleansing Duo; AcneFree Clear Skin Treatments Terminator 2.5; AcneFree Energizing Acne Cleanser; AcneFree Energizing Acne Wash and Scrub; AcneFree Oil-Free Acne Cleanser; AcneFree Original Strength Terminator; AcneFree Sensitive 24 HOUR Acne Clearing System; AcneFree Severe Antibacterial Cleansing Wash; AcneFree Severe Maximum Strength Repair Lotion; AcneFree Severe Terminator Maximum Strength; Acneban; Acnomel Bp 5 Lot 5%; Active Anti-acne Treatment Kit; Adapalene and Benzoyl Peroxide; Adasept B.P.2.5 Acne Gel; Adasept B.P.5 Acne Gel; Adv 3n1 Exfol Cvs; Advanced 3 in 1 Exfoliating Cleanser; Advanced Acne Wash; Advantage Acne Control Kit; Age Intervention Duality; Age Intervention Duality Md; Aktipak; All-IN-one; Aloe Clear - Acne Treatment; Ambi Acne Spot Treatment; Anti Bac Acne Clearing; Anti-Bacterial Wash with Exfoliating Beads for Blemish skin; BP Cleanser; BP Cleansing; BP Gel 5.5%; BP Wash; BP Wash Acne Treatment Pack; BPO 3 Foaming; BPO 6 Foaming; BPO 9 Foaming; BPO Creamy Wash Complete Pack; Benoxyl; Benoxyl 10% Wash; Benoxyl 5% Wash; Benoxyl-CR Advanced Acne Wash; BenzEFoam; BenzEFoam Ultra; Benzac; Benzac Ac 5 Gel 5%; Benzac Ac Gel 10%; Benzac Acne Clearing Cleanser; Benzac W 5 Gel 5%; Benzac W Wash Gel 10%; Benzac W Wash Lot 5%; Benzac W10 Gel 10% USP; Benzaclin; Benzaclin Topical Gel; Benzagel 10 Gel 10%; Benzagel 5 Gel; Benzagel 5 Gel 5%; Benzagel 5 Lotion; Benzagel 5 Wash; Benzagel 5 Wash 5%; Benzagel Spot-ON Acne Gel; Benzamycin; BenzePrO; BenzePrO Creamy Wash; Benzoil 12hr Acne Treatment; Benzoyl Peroxide; Benzoyl Peroxide 10% Gel; Benzoyl Peroxide 5% Gel; Benzoyl Peroxide Acne Treatment 5%; Benzoyl Peroxide Acne Treatment Wash 2.5%; Benzoyl Peroxide Cleanser; Benzoyl Peroxide Emollient; Benzoyl Peroxide Lotion; Benzoyl Peroxide aqueous base; Benzoyl peroxide emollient; Benzoyl peroxide short contact; Bevoline; Bio-Scriptives Repiderm; Bioelements Breakout Control; Blemish; Blemish Correcting Serum; Blemish Gel 5%; Bpo; Bpo 5% Cleanser; Bpo5 Acne Treatment Gel; Breakout Clearing Daytime Treatment; Breakout Clearing Emergency Spot Fix; Breakout Control Acne Treatment; Breakout Control Bioelements; CLEAR CELL Medicated Acne; CLEAR CELL Medicated Acne Scrub; CVS Acne Cleansing Bar; CVS Advance Acne Therapy Kit; CVS Health Acne Control Cleanser Acne Medication; CVS Health Maximum Strength Acne Treatment Acne Medication; CaraDerma; Cetaphil Acne Principles; Clarifying Acne Vanishing Treatment; Clean & Clear Advantage Foam Acne Medication; Clean & Clear Advantage Plus 3-IN-1 Cleanser; Clean & Clear Persa-gel 5; Clean and Clear Advantage 3 in 1 Exfoliating; Clean and Clear Advantage 3-in-1 Exfoliating Cleanser; Clean and Clear Advantage Acne Control; Clean and Clear Advantage Acne Control Cleanser; Clean and Clear Advantage Acne Targeting Treatment; Clean and Clear Advantage Fast Acting Treatment; Clean and Clear Continuous Control Acne Cleanser; Clean and Clear Persa-Gel 10; Cleanser Acne Clearing Treatment; Clear Acne Treatment; Clear Acne Treatment Cream; Clear Cell Medicated Acne Facial Scrub; Clear Cell Medicated Acne Lotion; Clear Daily Skin Clearing Treatment 2.5% Benzoyl Peroxide Regular Strength; Clear Daily Skin Clearing Treatment 5% Benzoyl Peroxide Extra Strength; Clear Pore On-the Spot Acne Treatment, Vanishing; Clear Pore On-the Spot Acne Treatment,tinted; Clear Proof Acne System; Clear Proof Acne System The Go Set; Clear Proof Acne Treatment Acne Medication; Clear Skin Treatment Repairing Lotion; Clear Zit; Clear Zone Acne System Skin Purifying Moisturizer; Clear Zone Acne System Skin Purifying Wash; Clearasil Bp Plus Skin Tone Crm 5%; Clearasil Daily Clear Acne Treatment Cream Bp Plus; Clearasil Daily Clear Tinted Acne Treatment; Clearasil Daily Clear Vanishing Acne Treatment; Clearasil Rapid Rescue Spot Treatment; Clearasil Stubborn Acne Control 5in1 Concealing Treatment; Clearasil Stubborn Acne Control 5in1 Spot Treatment; Clearasil Ultra Acne System; Clearasil Ultra Fast Fix Acne; Clearasil Ultra Rapid Action Acne System; Clearasil Ultra Rapid Action Clear Skin; Clearasil Ultra Rapid Action Treatment; Clearasil Ultra Rapid Action Vanishing Treatment; Clearasil Ultra Tinted Rapid Action Treatment; Cleargenix Advanced Acne Treatment; Clearz - It; Clearz-IT; Clease and Treat; Clenziderm Acne Therapeutic System; Clenziderm M.D. System Acne Therapeutic System; Clenziderm Normal To Dry Skin Acne Therapeutic System; Clenziderm Normal To Dry Skin/ Peau Normale à Sèche; Clenziderm Normal To Oily Skin Acne Therapeutic System; Clenziderm Therapeutic; Clindamycin - Benzoyl Peroxide; Clindamycin Phosphate and Benzoyl Peroxide; Clindamycin and Benzoyl Peroxide; Clindamycin phosphate and benzoyl peroxide; Clindoxyl Adv Gel; Clindoxyl Gel; Clinique Acne Solutions All-over Clearing Treatment; Clinique Acne Solutions Emergency Lotion; Clinique Skin Supplies for Men Acne Solutions Emergency Lotion; Complete Acne Therapy System; Complexion Clear Acne Treatment Rejuvenating; Continuous Control Acne Cleanser; Continuous Control Acne Cleanser Image Essentials; Controlling Cream; Coral Actives 2 Step Acne Treatment System; Crmy Acne Wash Cvs; DDF Benzoyl Peroxide Acne Treatment; Daily Acne Control Cleanser; Daily Acne Wash; Deep Pore Acne Vanishing Treatment; DermaClear Purity Cleanser Level I; DermaClear Purity Cleanser Level II; DermaClear Spot Treatment; Dermalogica Special Clearing Booster; Dermisa CLEAR SKIN; Dermoxyl Aqua Gel 10%; Dermoxyl Aqua Gel 2.5%; Dermoxyl Aqua Gel 20%; Dermoxyl Aqua Gel 5%; Dermoxyl Gel 10%; Dermoxyl Gel 2.5%; Dermoxyl Gel 20%; Dermoxyl Gel 5%; Desquam-X Gel 10%; Desquam-X Gel 5%; Desquam-X Wash; Desquam-X Wash Lot 10%; Desquam-X Wash Lot 5%; Desquam-X wash; Differin Daily Deep Cleanser with BPO; Dr Song Acne; Dr. Lin Skincare Acne; Dr. Throwers Bpo 5; Duac; Dual Intensive Acne Treatment; Dual-shave 2 In 1; Emergency Acne Vanishing Facial Cleanser; Emergency Acne Vanishing Treatment Wipes; Epiduo; Epiduo Forte; Eptex 4.5%; Equate Beauty Acne Cleansing Bar; Equate Beauty Acne Foaming Cleanser; Equate Clear Complexion Facial Cleanser; Equate Maximum Strength Spot Treatment; Equate Purifying Cleanser; Equate Repairing; Erythromycin and Benzoyl Peroxide; Erythromycin-Benzoyl Peroxide; Family Care Acne Treatment; Family Dollar Acne Treatment; Foaming Acne Face Wash Walgreens; Formulab Treat for Adult Acne; Formulab Treat for Young Adult Acne; GLYTONE Acne BPO Clearing Cleanser; GMC Medical Acne Treatment; GMC Medical Acne-BPO; GNP Acne Treatment; Gel-creme Acne Bpo Gel-cream 5%; Glytone Acne; Glytone acne 3P; Good Neighbor Pharmacy Acne Treatment; H2 Oxyl 10%; H2 Oxyl 20%; H2 Oxyl 5%; H2oxyl 2.5%; Humane Acne Wash; Iman Perfect Response Blemish Gel; Intensive Face and Body Acne Treatment; Invisible Acne Well at Walgreens; Johnson's Clean & Clear Persa-gel; Jon Ares Acne Control Step 1; Kaiser Permanente Benzoyl Peroxide; Kellett Clarifying Acne Treatment; La Roche Posay Laboratoire Dermatologique Effaclar Duo Acne Treatment; La Roche Posay Laboratoire DermatologiqueEffaclar Duo Effaclar Duo; Leader Maximum Strength Invisible Acne; Let Me Be Perfectly Clear; Loroxide Lotion 5%; MD ACNE Customized treatment; Mary Kay Acne Treatment Acne Medication; Mask; Maximum Strength Acne Medication; Meaningful Beauty Blemish Treatment; Medicated Acne Gel; Medicated Pumice Wash; Micronized BPO Scrub; Micronized BPO Wash; Micronized Benzoyl Peroxide Treatment; Modesa Acne Treatment; Nano Cleanse; Nature's Cure Acne Treatment; NeoBenz Micro Plus Pack; Neostrata Acne Clear Medicated Treatment; Neuac; Neuac Kit; NeutraCure Restore; Neutrogena Acne Control; Neutrogena Acne Mask 5%; Neutrogena Clear Pore Acne Treatment; Neutrogena Clear Pore Cleanser Mask; Neutrogena Clear Pore Daily Scrub; Neutrogena Complete Acne Therapy Solution; Neutrogena Complete Acne Therapy System; Neutrogena On-the-Spot Acne Treatment Vanishing Formula; Neutrogena On-the-spot Acne Treat. 2.5% (also Tinted Formula); Neutrogena Rapid Clear Stubborn Acne Cleanser; Neutrogena Rapid Clear Stubborn Acne Spot; Neutrogena Rapid Clear Stubborn Daily Leave On Mask; Neutrogena SkiniD Anti Acne Treatment; Neutrogena* Acne Mask, Oil Absorbing Clay Base; Nighttime Control; Nugen Acne Solution Mattifying Hydrator; Nujevi Acne; O Skin Acne Benzoyl Wash; O Skin Acne Moderate; OC Eight; OXY Maximum Action Treatment Pads; Obagi; Obagi Clenziderm Acne Gel; Obagi Clenziderm Acne Lotion; Obliterate; Oc8; Ocean Seas Dermatology Acne Treatment Cleanser; Oil-Free Acne Cleanser; Oil-free Acne Treatment; Oil-free Acne Wash Cleanser Mask; Onexton; Overnight Acne Control; Overnight Acne Control Lotion; Oxy 10 Tinted; Oxy 10 Vanishing; Oxy 5 Regular Strength Cover Up Crm 5%; Oxy 5 Regular Strength Vanishing Lot 5%; Oxy 5 Tinted; Oxy 5 Vanishing; Oxy Acne Eraser; Oxy Face Wash Maximum Aciton; Oxy Maximum Action Advanced Face Wash; Oxy Maximum Action Advanced Face Wash Sensitive; Oxy Maximum Action Face Wash; Oxy Maximum Action Face Wash Sensitive; Oxy Maximum Action Spot Treatment; Oxy Maximum Action Spot Treatment Tinted; Oxy On-The-Go Acne Stick; Oxy Rapid Spot Treatment Maximum Action; Oxy Rapid Treatment Face Wash Maximum Action; Oxy Rapid Treatment Face Wash Sensitive Skin Maximum Action; Oxy Sensitive Face Wash Maximum Soothing; Oxyderm Lot 20%; Oxyderm Lotion 10%; Oxyderm Lotion 5%; PCA SKIN Acne; PCA SKIN BPO Cleanser; PR Benzoyl Peroxide Wash; Pacnex HP; Pacnex LP; PanOxyl; Panoxyl 10 Bar 10%; Panoxyl 10 Gel; Panoxyl 20 Gel; Panoxyl 5 Bar; Panoxyl 5 Gel; Panoxyl Aquagel 10 - Gel 10%; Panoxyl Aquagel 2.5%; Panoxyl Aquagel 20 - Gel Top 20%; Panoxyl Aquagel 5%; Panoxyl Creamy Wash 4%; Panoxyl Wash 10 - Liq Top 10%; Panoxyl Wash 5% - Lot; Paula's Choice Clear Anti-acne Extra Strength System; Paula's Choice Clear Anti-acne Regular Strength System; Perrigo Benzoyl Peroxide Aqueous Base; Perrigo Benzoyl Peroxide hydroalcoholic base; Perrigo Benzoyl Peroxide wash; Persaclear; Persol Acne Cream; Persol Forte Acne Cream; Pharmaskincare Acnecare Cleanser; Pharmaskincare Acnecare Dermacontrol Cream; Phisoderm Clear Confidence Spot Treatment; Proactiv 3-step Acne Treatment System; Proactiv 3-step Convenience Pak; Proactiv Advanced Blemish Treatment; Proactiv Emergency Blemish Relief; Proactiv Extra Strength Formula; Proactiv Extra Strength Formula Cleanser; Proactiv Plus Emergency Blemish Relief; Proactiv Renewing Cleanser; Proactiv Repairing; Proactiv Repairing Treatment; Proactiv Solution Advanced Blemish Treatment; Proactiv Solution Renewing Cleanser; Proactiv Solution Repairing Treatment; Proactiv Treat; Proactiv plus Pore Targeting Treatment; Proactiv+ Skin Smoothing Exfoliator; Proactivplus Skin Smoothing Exfoliator; Pure Pefection Classic Replenishing Cleanser; Pure Perfection Classic Renewing Creme; Purifying Cleanser; Redness Relief Neutralizing Lotion; Reform; Rejuvenating Acne Cream; Relovox; Renewal Cleanser; Renewing Cleanser; Repair Lotion; Repairing Treatment; Reversion Acne Control Spot Treatment PM; Revitol Acne Treatment; Riax; Rodan & Fields Proactiv + Pore Targeting Solution; Rodan & Fields Proactiv + Skin Smoothing Exfoliator, Pore Targeting Solution, Complexion Perfecting Hydrator; Rodan & Fields Proactiv Solution Cleanse; Rodan & Fields/proactiv Solution: Renewing Cleanser; Rodan & Fields/proactiv Solution: Repairing Lotion; Rodan Fields UNBLEMISH Regimen for Acne, Blemishes and Breakouts; Rodan and Fields Unblemish - Acne Medicated; Rodan+fields Spotless; Rodan+fields Unblemish; Rugby Benzoyl Peroxide Acne Medication; SLMD AM Benzoyl Peroxide Acne Treatment; SLMD Spot Treatment; Safeway Acne Treatment; Se Bpo; Serious Action Exfoliant Wash; Serious Action Skin Medication No. 5; Serious Action Skin Wash; Shave Cream; Skin Id Personalized Acne Solution Anti-acne Treatment; Skin Id Personalized Acne Solution Cream Cleanser/mask; Skin Pharmacy Advanced Acne Therapy Kit; Skin Pharmacy Advanced Acne Therapy Targeted Treatment Wipes; SkinMedica Acne Treatment; SkinPharmacy Advanced Acne Therapy Active Clearing; SkinPharmacy Advanced Acne Therapy Kit; SkinPharmacy Advanced Acne Therapy Spot Treatment; SkinPharmacy Advanced Acne Therapy Targeted Treatment Wipes; SkinTx Acne Treatment; SkinTx Acne Treatment System; Skinprint Acne Release; Skinprint Spot-On; Solugel; Special Clearing Booster; Special Clearing Booster - Liq  5%; Spectro Acnecare Deep Pore Vanishing Lotion; Spectro Acnecare Spot Treatment; Spectro Acnecare Vanishing Lotion for Sensitive Skin; Spectro Acnecare Wash for Acne Prone Skin; Spot Clearing Lotion; Stubborn Acne Cleanser; Stubborn Acne Daily Leave-ON Mask; Stubborn Acne Solution; Stubborn Acne Spot Gel; Sulfoxyl Lotion Regular; Super Bump Relief; Tactupump; Tactupump Forte; Targeted Acne Spot Treatment CVS; Taro-benzoyl Peroxide / Clindamycin Kit; Taro-clindamycin/benzoyl Peroxide Gel; Terminator; Terminator 5; Topical Cleanser; Triple Action Acne Vanishing Treatment; UNBLEMISH Regimen for Acne, Blemishes and Breakouts Travel Size; Unblem Est; Unblemish; Vanishing Acne CVS; Vanoxide HC; WinCo Foods Maximum Strength Acne Treatment; X Out Cleansing Wipes For On The Go Blemish Treatment; X Out Wash-IN Treatment; X-Out Wash-In Treatment; Zap-IT Crm 5%; Zitfree Acne Treatment; iBlanc Restora-Bright Acne Healing; myHELPER
+
+>  <SMILES>  (1) 
+O=C(OOC(=O)C1=CC=CC=C1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Benzoyl benzenecarboperoxoate; Bepio
+
+$$$$

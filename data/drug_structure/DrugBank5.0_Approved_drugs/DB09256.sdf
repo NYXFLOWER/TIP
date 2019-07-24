@@ -1,0 +1,164 @@
+
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    0.3020   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  1  5  1  0
+  3  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+  6 12  1  0
+ 12 13  2  0
+  8 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  5 20  1  0
+  5 21  1  0
+  7 22  1  0
+ 11 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.09
+
+>  <ALOGPS_LOGS>  (1) 
+-1.16
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.40e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09256
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09256
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+200.059720321
+
+>  <FORMULA>  (1) 
+C8H9FN2O3
+
+>  <GENERIC_NAME>  (1) 
+Tegafur
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H9FN2O3/c9-5-4-11(6-2-1-3-14-6)8(13)10-7(5)12/h4,6H,1-3H2,(H,10,12,13)
+
+>  <INCHI_KEY>  (1) 
+WFWLQNSHRPWKFK-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ai Yi; ESUEEW AN T; Fimer; Ftorafur; Furil; Futraful; Icarus; Lunacin; NKS-1 T; Qi Xing; S-1; Sterozine; Tefudex; Tegacin; Tegracil; Teroful; TS-1; TS-ONE; UFT; Ufur; Unitoral; Utefos
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.52480574484032
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-fluoro-1-(oxolan-2-yl)-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+0.023826538333333702
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.078830885976586
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.251792191433699
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.64
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.501400000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tegafur
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+200.169
+
+>  <PRODUCTS>  (1) 
+Teysuno
+
+>  <SMILES>  (1) 
+FC1=CN(C2CCCO2)C(=O)NC1=O
+
+>  <SYNONYMS>  (1) 
+1-(2-Tetrahydrofuryl)-5-fluorouracil
+
+$$$$

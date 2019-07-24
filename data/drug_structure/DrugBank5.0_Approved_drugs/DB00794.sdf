@@ -1,0 +1,181 @@
+794
+     RDKit          2D
+
+ 30 31  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.2467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3166    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7291    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3166    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  9  2  0
+  3  8  1  0
+  3 10  1  0
+  4  9  1  0
+  4 10  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  5  9  1  0
+  6 11  1  0
+  7 12  2  0
+  7 13  1  0
+ 12 14  1  0
+ 13 15  2  0
+ 14 16  2  0
+ 15 16  1  0
+  3 17  1  0
+  4 18  1  0
+  6 19  1  0
+  6 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 16 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.62
+
+>  <ALOGPS_LOGS>  (1) 
+-2.32
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.04e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00794
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00794
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+218.105527702
+
+>  <FORMULA>  (1) 
+C12H14N2O2
+
+>  <GENERIC_NAME>  (1) 
+Primidone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H14N2O2/c1-2-12(9-6-4-3-5-7-9)10(15)13-8-14-11(12)16/h3-7H,2,8H2,1H3,(H,13,15)(H,14,16)
+
+>  <INCHI_KEY>  (1) 
+DQMZLTXERSFNPB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Liskantin; Mizodin; Mylepsinum; Pridona; Primid; Prysoline; Sertan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.443778126060693
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-ethyl-5-phenyl-1,3-diazinane-4,6-dione
+
+>  <JCHEM_LOGP>  (1) 
+1.1182988526666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.620389416238778
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.497225813561856
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.1729072262349876
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.2
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.03760000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+primidone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+218.2518
+
+>  <PRODUCTS>  (1) 
+Mysoline; Mysoline 250mg Tab; Mysoline Pediatric Chewable Tablets 125mg; Mysoline Tab 125mg; Mysoline Tab 250mg; Primidone; Primidone 125 Tab; Primidone 250 Tab; Sertan Tab 125mg; Sertan Tab 250mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00549
+
+>  <SMILES>  (1) 
+CCC1(C(=O)NCNC1=O)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Desoxyphenobarbital; Primaclone; Primidon; Primidona; Primidone; Primidonum
+
+$$$$

@@ -1,0 +1,169 @@
+181
+     RDKit          2D
+
+ 26 26  0  0  1  0  0  0  0  0999 V2000
+    3.5220   -2.7308    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2 11  1  0
+  3 11  2  0
+  4  8  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  6  9  2  0
+  6 10  1  0
+  7 11  1  0
+  9 12  1  0
+ 10 13  2  0
+ 12 14  2  0
+ 13 14  1  0
+  2 15  1  0
+  4 16  1  0
+  4 17  1  0
+  5 18  1  0
+  7 19  1  0
+  7 20  1  0
+  8 21  1  0
+  8 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.82
+
+>  <ALOGPS_LOGS>  (1) 
+-2.48
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.12e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00181
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00181
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+213.05565634
+
+>  <FORMULA>  (1) 
+C10H12ClNO2
+
+>  <GENERIC_NAME>  (1) 
+Baclofen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12ClNO2/c11-9-3-1-7(2-4-9)8(6-12)5-10(13)14/h1-4,8H,5-6,12H2,(H,13,14)
+
+>  <INCHI_KEY>  (1) 
+KPYSYYIEGFHWSV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Baclon; Kemstro; Lioresal Intrathecal; Nu-Baclofen
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.126856164006483
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-3-(4-chlorophenyl)butanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.7824002601230235
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.88689479330878
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.792014945506153
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.82920000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+baclofen
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+213.661
+
+>  <PRODUCTS>  (1) 
+Apo-baclofen Tablets - 10mg; Apo-baclofen Tablets - 20mg; Ava-baclofen; Baclofen; Baclofen Injection; Baclofen Tablets - 10mg; Baclofen Tablets - 20mg; Baclofen Tablets 10mg; Baclofen Tablets 20mg; Baclofen-10 - Tab; Baclofen-20 - Tab; Co Baclofen Tablets 10mg; Co Baclofen Tablets 20mg; Dom-baclofen-tab 10mg; Dom-baclofen-tab 20mg; Equipto - Baclofen External Cream Compounding Kit; Ftp-baclofen; Gablofen; Gapeam Budibac; Lioresal; Lioresal (baclofen); Lioresal D.S. Tab 20mg; Lioresal Intrathecal 0.05mg/ml; Lioresal Intrathecal 0.5mg/ml; Lioresal Intrathecal 2mg/ml; Lioresal Tab 10mg; Med Baclofen Tab 10mg; Med Baclofen Tab 20mg; Mylan-baclofen; Novo-baclofen; PHL-baclofen; PMS-baclofen; PMS-baclofen Tab 20mg; Penta-baclofen Tablets; Ratio-baclofen; Riva-baclofen; Sandoz Baclofen; Val-baclofen Intrathecal
+
+>  <SALTS>  (1) 
+Baclofen hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00551
+
+>  <SMILES>  (1) 
+NCC(CC(O)=O)C1=CC=C(Cl)C=C1
+
+$$$$

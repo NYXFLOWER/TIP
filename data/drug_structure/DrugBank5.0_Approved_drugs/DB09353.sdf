@@ -1,0 +1,112 @@
+
+     RDKit          2D
+
+  8  8  0  0  0  0  0  0  0  0999 V2000
+    1.7581    1.1747    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9959    1.4904    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0738    0.4125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2337    1.1747    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7581   -0.3497    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0821    0.4125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9959   -0.6654    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2337   -0.3497    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  4  1  0
+  7  5  1  0
+  8  6  1  0
+  8  7  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09353
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09353
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+255.77656552
+
+>  <FORMULA>  (1) 
+S8
+
+>  <GENERIC_NAME>  (1) 
+Sulfur
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/S8/c1-2-4-6-8-7-5-3-1
+
+>  <INCHI_KEY>  (1) 
+JLQNHALFVCURHW-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.395357370526924
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+octathiocane
+
+>  <JCHEM_LOGP>  (1) 
+4.755188349333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+46.0464
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cyclooctasulfur
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+256.52
+
+>  <PRODUCTS>  (1) 
+5s Blemish Treatment; Acne Aid Gel; Acne Blemish Cream(sulfur Cream); Acne Clearning Treatment Face; Acne LotionSulfur Sulfur; Acne Treatment Sulfur Wash Rodan and Field; Acne Treatment maximum strength CVS; Acnefree Therapeutic Sulfur Mask; Acnomel Skin Tone Cream; Actinac Pwr; Actinac Pws; Activ O2 Acne Treatment Cream; Adult Acnomel; Almay Trouble Spotter Acne Pimple Medication; Amino Mask Bioelements; Anti Acne Natural Volcanic Sulfur; Anti-Bac Concentrate Bioelements, Inc.; Anti-acne Formula for Men; Anti-acne Formula-light; Anti-acne Formula-medium; Armarita; Avar; Avar Cleansing Pads; Avar LS; Avar LS Cleansing Pads; Avar Ls; Avar-e; Avar-e Green; Avar-e LS; BP Cleansing Wash; Belli Acne Control Spot Treatment; Bioelements Amino Mask; Blemish Buster; Calcium Magnesium Sulfur Silicon - Tab; Clarifying Colloidal Sulfur Mask; Clarifying Mask; Clear Logix Oil Absorbent Acne Mask; ClearCalm 3 Acne Treatment Mask; ClearCalm 3 Anti-Acne Starter; Clearasil Daily Clear Adult Tinted Acne Treatment; Clearasil Daily Clear Tinted Adult Treatment; Clearasil Skin Tone Acne Crm Medication; Clearasil Vanishing Acne Crm Medication; Clearskin 2 Tinted Blemish Crm; Clenia; CliXit (TM) acne eraser; CliXit Acne Eraser; Clinicians Complex; Concealing Spot Treatment; Coral KAVI; Correct and Perfect Spot Treatment; Cvs Acne Treatment; DDF Sulfur Therapeutic Sulfur Acne Treatment; DHC Acne Spot Therapy; De La Cruz Sulfur Acne Medication; Derma-force; DermaWash S2; Dermaklear Akne Treatment With Sulfur; Dermoscribe Seborrheic Dermatitis; Dr. S. Wongs Acne Treatment Sulphur; Dry Lo - Sulphur Drying Lotion; ELFMineral Blemish Kit Box; Earths Care Acne Spot Treatment; Earths Care Acne Treatment Mask; End-zit; EradiKate ACNE TREATMENT; EradiKate Facial Mask; Exact-Rx SODIUM SULFACETAMIDE and SULFER 10%/5% Cleanser; Facematter; Feix Bioazufre / Biosulphur; Feix Facial; Glytone Acne Facial Masque; Glytone Acne Spot Treatment; Glytone acne treatment flesh tinted acne; Grandpas Thylox Acne Treatment With Sulfur; Holywood Beauty; HydroPeptide SPOT CORRECTION; Jason Dandruff Relief Treatment; Joesoef Skincare Anti Acne; Kiehls Since 1851 Dermatologist Solutions Breakout Control Targeted Acne Spot Treatment; Liquimat Acne Treatment and Cover-UP; MALIN GOETZ acne treatment nighttime; Madina Acne; Malin and Goetz Acne Treatment; Margarite Zinc Cream; Matrix Active Soln.ac.clean.bar Acne Treat.; Mazon Medicated Shampoo; Medrol Acne Lotion; Mineral Blemish Kit; Motto; Neo-medrol Acne Lotion; Nerd Acne Treatment; Oligostim Soufre; Overnight Spot Treatment; Palmers Skin Success; Pazol XS; Pernox Crm; Pernox Crm Lemon; Perrigo Sodium Sulfacetamide and Sulfur; Persol Acne Cream; Persol Forte Acne Cream; Pharmassist Clarifex Ph Mud Crm 3.0%; Plexion; Postacne Lotion - 2%; Postacne Lotion 2%; Prascion Cleanser; Prascion FC; Prascion RA; Proactiv Clear Purifying Mask; Proactiv Concealer Plus; Proactiv Refining Mask; Proactiv Skin Purifying Mask; Proactiv Solution Refining Mask; Proactiv plus Skin Purifying Mask; Pureness Brand Spot Cream; Quick Dry Acne Treatment; RED BETTER SPOT CORRECTOR non-drying acne balm; Renu Laboratories Acne Sulphur L; Renu Laboratories Drying; Rezamid; Rodan Fields UNBLEMISH Regimen for Acne, Blemishes and Breakouts; Rodan and Fields Unblemish 1 Wash Acne Medicated Cleanser; Rosanil; Rosula; Rosula Wash; SODIUM SULFACETAMIDE and SULFUR; SODIUM SULFACETAMIDE and SULFUR Topical Suspension; SODIUM SULFACETAMIDE and SULFUR Wash; Sastid Soap for Stubborn Acne; Sebex; Sebulex Liq; Sebutone Shampoo; Shiseido Pureness Blemish Control Cream-3%; Sodium Polysulthionate, 5-mthf; Sodium Sulfacetamide - Sulfur Cleansing Pads; Sodium Sulfacetamide - Sulfur Wash; Sodium Sulfacetamide 10 Sulfur 2 Cleanser; Sodium Sulfacetamide 10 Sulfur 2 cream; Sodium Sulfacetamide 10 Sulfur 5; Sodium Sulfacetamide 10 Sulfur 5 Cleanser; Sodium Sulfacetamide 10 and Sulfur 5; Sodium Sulfacetamide 9 Sulfur 4.5 Wash; Sodium Sulfacetamide 9.8% and Sulfur 4.8%; Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser; Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cream; Sodium Sulfacetamide 9.8%, Sulfur 4.8%; Sodium Sulfacetamide and Sulfur; Sodium Sulfacetamide and Sulfur 10 Percent and 2 Percent Cleanser; Sodium Sulfacetamide and Sulfur 10 Percent and 5 Percent Cleanser; Sodium Sulfacetamide and Sulfur Cleanser; Sodium Sulfacetamide and Sulfur External Cream; Sodium Sulfacetamide and Sulfur External Liquid; Sodium Sulfacetamide, Sulfur; Sodium polysulthionate and folic acid; Sodium polysulthionate, 5-methyltetrahydrofolate; Soufre; Soufre 100%; Spai-sons Acid Anti-dandruff; Spai-sons Marigold Oily Skin; Spot Correction; Sterex Crm Plus; Sterex Lot Plus; Sterex Shp; Sul-ray Acne Treatment Sop 5%; SulfaCLEAR; SulfaCleanse 8/4; Sulfacet R Lotion; Sulfacet-R; Sulfacetamide Sodium and Sulfur; Sulfacetamide Sodium, Sulfur; Sulfix; Sulfoxyl Lotion Regular; Sulfur; Sulfur 8 Med.antidand.hair & Scalp Cond.orig; Sulfur Cleanser; Sulpho-lac Medicated; Sulphur Ont 10%; Sumadan; Sumadan Wash; Sumadan Xlt; Sumaxin CP; Sumaxin Cleansing Pads; Sumaxin TS; Therapeutic Sulfur Mask; Thunas Eczema Ont; Thylox; Treatment 101 Acne Clearing Treatment; UNBLEMISH Regimen for Acne, Blemishes and Breakouts Travel Size; Unmasked; Virti-SULF; X Out Spot Corrector; Xizflus; Zencia Wash; Zo Skin Health Offects Sulfur Masque Acne Treatment; ariSulfur Acne Treatment; bareMinerals Blemish Therapy; dr dennis gross Correct and Perfect; dr dennis gross Trifix Acne Clearing; eyes lips face Mineral Blemish Kit Box
+
+>  <SALTS>  (1) 
+Sulfur chloride
+
+>  <SMILES>  (1) 
+S1SSSSSSS1
+
+$$$$

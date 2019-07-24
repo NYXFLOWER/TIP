@@ -1,0 +1,203 @@
+
+     RDKit          2D
+
+ 43 42  0  0  0  0  0  0  0  0999 V2000
+    3.7688   -0.2062    0.0000 Tc  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3258   -2.5535    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4678   -0.0783    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6757    1.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822    3.6342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9612    2.3967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8967    2.3967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4678    1.5717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8967   -0.0783    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8967   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822    1.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6112   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8967   -2.5535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6112   -2.1410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822   -2.1410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4678    2.3967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2467    1.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3258   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4678   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8967   -3.3785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9612    1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 16  1  0
+  3 14  2  0
+  4 23  1  0
+  5 24  1  0
+  6 23  2  0
+  7 24  2  0
+  8 11  1  0
+  8 18  1  0
+  8 19  1  0
+  9 10  1  0
+  9 14  1  0
+ 10 12  2  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 16  1  0
+ 12 20  1  0
+ 13 17  2  0
+ 13 21  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 15 22  1  0
+ 18 24  1  0
+ 19 23  1  0
+  4 25  1  0
+  5 26  1  0
+  9 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 17 30  1  0
+ 18 31  1  0
+ 18 32  1  0
+ 19 33  1  0
+ 19 34  1  0
+ 20 35  1  0
+ 20 36  1  0
+ 20 37  1  0
+ 21 38  1  0
+ 21 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+ 22 42  1  0
+ 22 43  1  0
+M  ISO  1   1  99
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.39
+
+>  <ALOGPS_LOGS>  (1) 
+-3.83
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.68e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09137
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09137
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+484.953989
+
+>  <FORMULA>  (1) 
+C15H19BrN2O5Tc
+
+>  <GENERIC_NAME>  (1) 
+Technetium Tc-99m mebrofenin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H19BrN2O5.Tc/c1-8-4-9(2)15(10(3)14(8)16)17-11(19)5-18(6-12(20)21)7-13(22)23;/h4H,5-7H2,1-3H3,(H,17,19)(H,20,21)(H,22,23);/i;1+2
+
+>  <INCHI_KEY>  (1) 
+JLJSYHOPCNWUNE-NLQOEHMXSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+43
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.99774699542287
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-({[(3-bromo-2,4,6-trimethylphenyl)carbamoyl]methyl}(carboxymethyl)amino)acetic acid (⁹⁹Tc)technetium
+
+>  <JCHEM_LOGP>  (1) 
+0.4541599343248183
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+5.513336402411959
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.813197865712222
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.1311527615266384
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+106.93999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+89.26559999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+({[(3-bromo-2,4,6-trimethylphenyl)carbamoyl]methyl}(carboxymethyl)amino)acetic acid (⁹⁹Tc)technetium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+486.136
+
+>  <PRODUCTS>  (1) 
+Choletec; Kit for the Preparation of Technetium Tc 99m Mebrofenin; Mebrofenin
+
+>  <SMILES>  (1) 
+[99Tc].[H]OC(=O)C([H])([H])N(C([H])([H])C(=O)O[H])C([H])([H])C(=O)N([H])C1=C(C(Br)=C(C([H])=C1C([H])([H])[H])C([H])([H])[H])C([H])([H])[H]
+
+>  <SYNONYMS>  (1) 
+Bis(2-[[2-(3-bromo-2,4,6-trimethylanilino)-2-oxoethyl]-(carboxymethyl)amino]acetate) technetium; Technetium (99mTc) mebrofenin; Technetium Tc 99m diisopropyl-iminodiacetic acid; Technetium Tc 99m DISIDA; Technetium Tc 99m Mebrofenin; Technetium Tc-99m mebrofenin kit
+
+$$$$

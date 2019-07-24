@@ -1,0 +1,218 @@
+1224
+     RDKit          2D
+
+ 52 55  0  0  0  0  0  0  0  0999 V2000
+    4.0279   -4.2678    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2907    1.9368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8621    4.0431    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5418   -0.2312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2576   -1.7175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4403   -2.4607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0772   -0.9126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3643   -0.2928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4349   -1.6558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7223   -1.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1839    0.5120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6154   -2.4607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6485    1.1936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1012   -3.1056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2847   -3.9098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2841   -2.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9547   -3.1056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7711   -3.9099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6639   -4.5038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7554    2.6183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6497   -3.4193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8410   -4.2570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7717   -2.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3918   -4.5038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3974    3.3615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4060   -3.4193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2148   -4.2570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 18  1  0
+  2 13  1  0
+  2 20  1  0
+  3 25  1  0
+  4  7  1  0
+  4  8  1  0
+  4 11  1  0
+  5  9  1  0
+  5 10  1  0
+  5 12  1  0
+  6 12  2  0
+  6 17  1  0
+  7  9  1  0
+  8 10  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 15 19  1  0
+ 16 21  2  0
+ 17 18  2  0
+ 17 23  1  0
+ 18 24  1  0
+ 19 22  2  0
+ 20 25  1  0
+ 21 22  1  0
+ 23 26  2  0
+ 24 27  2  0
+ 26 27  1  0
+  3 28  1  0
+  7 29  1  0
+  7 30  1  0
+  8 31  1  0
+  8 32  1  0
+  9 33  1  0
+  9 34  1  0
+ 10 35  1  0
+ 10 36  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 13 39  1  0
+ 13 40  1  0
+ 16 41  1  0
+ 19 42  1  0
+ 20 43  1  0
+ 20 44  1  0
+ 21 45  1  0
+ 22 46  1  0
+ 23 47  1  0
+ 24 48  1  0
+ 25 49  1  0
+ 25 50  1  0
+ 26 51  1  0
+ 27 52  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.93
+
+>  <ALOGPS_LOGS>  (1) 
+-3.98
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.03e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01224
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01224
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+383.166747749
+
+>  <FORMULA>  (1) 
+C21H25N3O2S
+
+>  <GENERIC_NAME>  (1) 
+Quetiapine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H25N3O2S/c25-14-16-26-15-13-23-9-11-24(12-10-23)21-17-5-1-3-7-19(17)27-20-8-4-2-6-18(20)22-21/h1-8,25H,9-16H2
+
+>  <INCHI_KEY>  (1) 
+URKOMYMAXPYINW-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.78085656642276
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[2-(4-{2-thia-9-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,9,11,13-heptaen-10-yl}piperazin-1-yl)ethoxy]ethan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+2.8079425159999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.121227695042847
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.064644323860867
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+48.300000000000004
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+114.08540000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+quetiapine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+383.507
+
+>  <PRODUCTS>  (1) 
+Abbott-quetiapine; Accel-quetiapine; Ach-quetiapine Fumarate XR; Act Quetiapine; Apo-quetiapine; Apo-quetiapine XR; Auro-quetiapine; Ava-quetiapine; Bio-quetiapine; Dom-quetiapine; Ipg-quetiapine; Jamp-quetiapine; Mar-quetiapine; Mint-quetiapine; Mylan-quetiapine; Nat-quetiapine; Nu-quetiapine; PHL-quetiapine; PMS-quetiapine; Priva-quetiapine; Pro-quetiapine; Quetiapine; Quetiapine Extended Release; Quetiapine Fumarate; Quetiapine Fumarate Extended Release; Quetiapine Fumarate Extended-Release; Quetiapine Tablets; Quetiapine XR; Quetiapine fumarate; Ran-quetiapine; Ratio-quetiapine; Riva-quetiapine; Sandoz Quetiapine; Sandoz Quetiapine XR; Sandoz Quetiapine Xrt; Seroquel; Seroquel 150 mg; Seroquel 300 mg; Seroquel Tab 100mg; Seroquel Tab 200mg; Seroquel Tab 25mg; Seroquel XR; Teva-quetiapine; Teva-quetiapine XR; Torrent-quetiapine Fumarate; Van-quetiapine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00675
+
+>  <SMILES>  (1) 
+OCCOCCN1CCN(CC1)C1=NC2=CC=CC=C2SC2=CC=CC=C12
+
+$$$$

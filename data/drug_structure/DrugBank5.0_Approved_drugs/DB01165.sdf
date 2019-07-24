@@ -1,0 +1,215 @@
+1165
+     RDKit          2D
+
+ 46 49  0  0  1  0  0  0  0  0999 V2000
+    5.2224    2.1733    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7572   -0.3074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3574    0.1203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3958   -2.3388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0858   -1.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.3482    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2357   -1.1610    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.1733    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4948   -1.5965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.9357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.5858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7506   -1.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9594   -1.5429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.9357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4980   -2.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -0.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.5858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6571   -1.1156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3796   -1.5139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 14  1  0
+  2 17  1  0
+  3 23  2  0
+  4 26  1  0
+  5 26  2  0
+  6  9  1  0
+  6 10  1  0
+  6 12  1  0
+  7 11  1  0
+  7 13  1  0
+  7 20  1  0
+  8 15  1  0
+  8 16  1  0
+  8 24  1  0
+  9 15  1  0
+ 10 16  1  0
+ 11 17  1  0
+ 11 22  1  0
+ 12 14  1  0
+ 12 19  2  0
+ 13 14  2  0
+ 13 18  1  0
+ 18 21  2  0
+ 18 23  1  0
+ 19 21  1  0
+ 20 25  2  0
+ 23 25  1  0
+ 25 26  1  0
+  4 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 11 32  1  0
+ 15 33  1  0
+ 15 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 17 38  1  0
+ 20 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+ 22 42  1  0
+ 22 43  1  0
+ 24 44  1  0
+ 24 45  1  0
+ 24 46  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.02
+
+>  <ALOGPS_LOGS>  (1) 
+-2.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.44e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01165
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01165
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+361.143784348
+
+>  <FORMULA>  (1) 
+C18H20FN3O4
+
+>  <GENERIC_NAME>  (1) 
+Ofloxacin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H20FN3O4/c1-10-9-26-17-14-11(16(23)12(18(24)25)8-22(10)14)7-13(19)15(17)21-5-3-20(2)4-6-21/h7-8,10H,3-6,9H2,1-2H3,(H,24,25)
+
+>  <INCHI_KEY>  (1) 
+GSDSWSVVBLHKDQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Floxin; Floxstat; Zanocin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.69213757881419
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.0⁵,¹³]trideca-5(13),6,8,11-tetraene-11-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.6542797531974264
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.447057267648649
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.201449203748399
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+73.32
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+94.93590000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ofloxacin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+361.3675
+
+>  <PRODUCTS>  (1) 
+Apo-ofloxacin; Floxin I.V. Liq 20mg/ml; Floxin Otic; Floxin Tablets 200mg; Floxin Tablets 300mg; Floxin Tablets 400mg; Novo-ofloxacin; Ocuflox; Ofloxacin; Ofloxacin Otic; Ofloxacin Tablets; Ofloxacin ophthalmic; PMS-ofloxacin; Sandoz Ofloxacin
+
+>  <SALTS>  (1) 
+Ofloxacin hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00502
+
+>  <SMILES>  (1) 
+CC1COC2=C3N1C=C(C(O)=O)C(=O)C3=CC(F)=C2N1CCN(C)CC1
+
+>  <SYNONYMS>  (1) 
+8-Fluoro-3-methyl-9-(4-methyl-piperazin-1-yl)-6-oxo-2,3-dihydro-6H-1-oxa-3a-aza-phenalene-5-carboxylic acid; Ofloxacine; Ofloxacino; Ofloxacinum; OFLX
+
+$$$$

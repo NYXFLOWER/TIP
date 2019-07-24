@@ -1,0 +1,160 @@
+
+     RDKit          2D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+    1.4480   -0.0011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0240    0.7126    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0360   -0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2048    0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2744   -0.0011    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2048    1.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2048    0.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4480   -1.4288    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2167   -0.7126    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4480    0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0384    0.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0384    1.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4383    1.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2744    0.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  2  1  0
+  5  1  2  0
+  6  4  2  0
+  7  4  1  0
+  8  3  1  0
+  9  3  1  0
+ 10 11  1  0
+ 11  7  2  0
+ 12  6  1  0
+ 13  2  1  0
+ 14 10  1  0
+ 12 10  2  0
+  3 15  1  0
+  6 16  1  0
+  7 17  1  0
+ 11 18  1  0
+ 12 19  1  0
+ 13 20  1  0
+ 13 21  1  0
+ 13 22  1  0
+ 14 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.01
+
+>  <ALOGPS_LOGS>  (1) 
+-2.01
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.31e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB08792
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB08792
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+233.0010339
+
+>  <FORMULA>  (1) 
+C9H9Cl2NO2
+
+>  <GENERIC_NAME>  (1) 
+Diloxanide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H9Cl2NO2/c1-12(9(14)8(10)11)6-2-4-7(13)5-3-6/h2-5,8,13H,1H3
+
+>  <INCHI_KEY>  (1) 
+GZZZSOOGQLOEOB-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.903445969734367
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2,2-dichloro-N-(4-hydroxyphenyl)-N-methylacetamide
+
+>  <JCHEM_LOGP>  (1) 
+2.0529852579999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.100647895983926
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.391427527281026
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.943352740620747
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.540000000000006
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+55.99360000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+entamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+234.08
+
+>  <SALTS>  (1) 
+Diloxanide furoate
+
+>  <SMILES>  (1) 
+CN(C(=O)C(Cl)Cl)C1=CC=C(O)C=C1
+
+$$$$

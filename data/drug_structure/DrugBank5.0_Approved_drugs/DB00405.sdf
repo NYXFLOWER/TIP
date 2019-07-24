@@ -1,0 +1,194 @@
+405
+     RDKit          2D
+
+ 38 39  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -2.8876    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  6  1  0
+  2 12  1  0
+  2 13  1  0
+  3  8  2  0
+  3 18  1  0
+  4  5  1  6
+  4  7  1  0
+  4  8  1  0
+  5  6  1  0
+  7  9  2  0
+  7 10  1  0
+  8 11  1  0
+  9 14  1  0
+ 10 15  2  0
+ 11 16  2  0
+ 14 17  2  0
+ 15 17  1  0
+ 16 19  1  0
+ 18 19  2  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 18 37  1  0
+ 19 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.63
+
+>  <ALOGPS_LOGS>  (1) 
+-4.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.27e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00405
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00405
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+318.073161265
+
+>  <FORMULA>  (1) 
+C16H19BrN2
+
+>  <GENERIC_NAME>  (1) 
+Dexbrompheniramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H19BrN2/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13/h3-9,11,15H,10,12H2,1-2H3/t15-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+ZDIGNSYAACHWNL-HNNXBMFYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Disophrol; Drixoral
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.838223053041332
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+[(3S)-3-(4-bromophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+>  <JCHEM_LOGP>  (1) 
+3.749658864
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.478390040370506
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+16.130000000000003
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.66830000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dexbrompheniramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+319.239
+
+>  <PRODUCTS>  (1) 
+Acticon; Actidogesic; Ala-hist Ir; Ala-hist PE; Alahist CF; Alahistdm DM; Bio-cnex; Biogesic; Bionatuss DXP; Chlo Hist; Chlo Tuss; Conex; Coricidin 'd' Nasal and Sinus Congestion; Coricidin D Nasal and Sinus Congestion Tablets; Dallergy; Dexbrompherniramine Maleate and Pseudoephedrine Sulfate 6mg/120mg; Dologen; Dologen 325; Dologesic DF; Dologesic NF; Drixoral Cold & Sinus; Drixoral Day/night - Srt/tabs; Drixoral Syrup; Drixtab Tab; G-Con-X; G-Dologen; G-P-tuss Dxp; M-end Dmx; M-end Max D; Panatuss DXP; Panatuss Pediatric Drops DXP; PediaVent; Supress A
+
+>  <SALTS>  (1) 
+Dexbrompheniramine maleate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00770
+
+>  <SMILES>  (1) 
+CN(C)CC[C@@H](C1=CC=C(Br)C=C1)C1=CC=CC=N1
+
+>  <SYNONYMS>  (1) 
+(R)-3-(4-Bromophenyl)-3-(2-pyridyl)propyldimethylamine; 3-(4-bromophenyl)- N,N-dimethyl- 3-pyridin-2-yl-propan-1-amine; D-Brompheniramine; Desbrofeniramina; Dexbrompheniramin; Dexbromphéniramine; Dexbrompheniraminum
+
+$$$$

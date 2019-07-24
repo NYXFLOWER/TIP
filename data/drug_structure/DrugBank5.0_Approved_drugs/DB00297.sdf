@@ -1,0 +1,219 @@
+297
+     RDKit          2D
+
+ 49 50  0  0  1  0  0  0  0  0999 V2000
+    5.9370   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2  4  1  0
+  2  6  1  0
+  2  9  1  0
+  3 10  1  0
+  3 13  1  0
+  4  5  1  0
+  4 10  1  0
+  5  7  1  0
+  6  8  1  0
+  7  8  1  0
+  9 11  1  0
+ 11 12  1  0
+ 12 14  1  0
+ 13 15  2  0
+ 13 16  1  0
+ 15 17  1  0
+ 15 19  1  0
+ 16 18  2  0
+ 16 20  1  0
+ 17 21  2  0
+ 18 21  1  0
+  3 22  1  0
+  4 23  1  0
+  5 24  1  0
+  5 25  1  0
+  6 26  1  0
+  6 27  1  0
+  7 28  1  0
+  7 29  1  0
+  8 30  1  0
+  8 31  1  0
+  9 32  1  0
+  9 33  1  0
+ 11 34  1  0
+ 11 35  1  0
+ 12 36  1  0
+ 12 37  1  0
+ 14 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+ 17 41  1  0
+ 18 42  1  0
+ 19 43  1  0
+ 19 44  1  0
+ 19 45  1  0
+ 20 46  1  0
+ 20 47  1  0
+ 20 48  1  0
+ 21 49  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.31
+
+>  <ALOGPS_LOGS>  (1) 
+-3.47
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.77e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00297
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00297
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+288.220163528
+
+>  <FORMULA>  (1) 
+C18H28N2O
+
+>  <GENERIC_NAME>  (1) 
+Bupivacaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H28N2O/c1-4-5-12-20-13-7-6-11-16(20)18(21)19-17-14(2)9-8-10-15(17)3/h8-10,16H,4-7,11-13H2,1-3H3,(H,19,21)
+
+>  <INCHI_KEY>  (1) 
+LEBVLXFERQHONN-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Bupivan; Carbostesin; Marcain; Marcaina; Sensorcaine-MPF
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.194430336787995
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-butyl-N-(2,6-dimethylphenyl)piperidine-2-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+4.515518884333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.623539229353206
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.003403055870814
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.34
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.19330000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+bupivacaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+288.4277
+
+>  <PRODUCTS>  (1) 
+Bupivacaine; Bupivacaine HCl 0.5% and Epinephrine 1:200,000 Injection; Bupivacaine Hydrochloride; Bupivacaine Hydrochloride In Dextrose Injection USP; Bupivacaine Hydrochloride Injection USP; Bupivacaine Hydrochloride Injection USP .25%; Bupivacaine Hydrochloride Injection USP .50%; Bupivacaine Hydrochloride Injection USP .75%; Bupivacaine Hydrochloride and Epinephrine; Bupivacaine Injection BP; Disposable Convenience Kit (Single Shot Epidural); Exparel; Fentanyl Citrate, Bupivacaine HCl; Gapeam Budibac; Jamp-bupivacaine; Marcaine; Marcaine 0.25% Liq Prt 2.5mg/ml; Marcaine 0.5% and Epinephrine 1:200,000 Liq; Marcaine 0.50% Liq Bin 5mg/ml; Marcaine 0.75% Liq Prt 7.5mg/ml; Marcaine 0.75% Liq Spinal 7.5mg/ml; Marcaine E; Marcaine E 0.25% Liq Prt; Marcaine E Liq Prt 0.50%; Marcaine Spinal; Marcaine with Epinephrine; Marvona SUIK; P-Care 100MX; P-Care M; P-Care MG; Physicians EZ Use M-pred; ReadySharp Anesthetics plus Dexamethasone; ReadySharp Anesthetics plus Ketorolac; ReadySharp Anesthetics plus MethylPrednisolone 80; ReadySharp Bupivacaine; ReadySharp-A; ReadySharp-K; ReadySharp-P40; ReadySharp-P80; Sensorcaine; Sensorcaine Forte; Sensorcaine MPF; Sensorcaine Mpf; Sensorcaine With Epinephrine; Vivacaine
+
+>  <SALTS>  (1) 
+Bupivacaine hydrochloride; Bupivacaine hydrochloride monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00247
+
+>  <SMILES>  (1) 
+CCCCN1CCCCC1C(=O)NC1=C(C)C=CC=C1C
+
+>  <SYNONYMS>  (1) 
+(±)-bupivacaine; (RS)-bupivacaine; 1-Butyl-2',6'-pipecoloxylidide; 1-Butyl-N-(2,6-dimethylphenyl)-2-piperidinecarboxamide; Bupivacaina; Bupivacainum; dl-1-Butyl-2',6'-pipecoloxylidide; DL-Bupivacaine; racemic bupivacaine
+
+$$$$

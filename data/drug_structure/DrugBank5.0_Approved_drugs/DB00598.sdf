@@ -1,0 +1,220 @@
+598
+     RDKit          2D
+
+ 48 49  0  0  1  0  0  0  0  0999 V2000
+    5.6655    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    3.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.4620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    3.6631    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089   -4.1746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    3.2506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2 20  1  0
+  3 24  2  0
+  4  6  1  0
+  4  8  1  0
+  5 24  1  0
+  6  7  1  0
+  6 11  1  0
+  7  9  1  0
+  8 10  1  0
+  9 13  1  0
+ 10 12  1  0
+ 12 14  2  0
+ 12 15  1  0
+ 13 16  2  0
+ 13 17  1  0
+ 14 18  1  0
+ 15 19  2  0
+ 16 21  1  0
+ 17 22  2  0
+ 18 20  2  0
+ 18 24  1  0
+ 19 20  1  0
+ 21 23  2  0
+ 22 23  1  0
+  1 25  1  0
+  2 26  1  0
+  4 27  1  0
+  5 28  1  0
+  5 29  1  0
+  6 30  1  0
+  7 31  1  0
+  7 32  1  0
+  8 33  1  0
+  8 34  1  0
+  9 35  1  0
+  9 36  1  0
+ 10 37  1  0
+ 11 38  1  0
+ 11 39  1  0
+ 11 40  1  0
+ 14 41  1  0
+ 15 42  1  0
+ 16 43  1  0
+ 17 44  1  0
+ 19 45  1  0
+ 21 46  1  0
+ 22 47  1  0
+ 23 48  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.73
+
+>  <ALOGPS_LOGS>  (1) 
+-4.75
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.78e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00598
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00598
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+328.178692644
+
+>  <FORMULA>  (1) 
+C19H24N2O3
+
+>  <GENERIC_NAME>  (1) 
+Labetalol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H24N2O3/c1-13(7-8-14-5-3-2-4-6-14)21-12-18(23)15-9-10-17(22)16(11-15)19(20)24/h2-6,9-11,13,18,21-23H,7-8,12H2,1H3,(H2,20,24)
+
+>  <INCHI_KEY>  (1) 
+SGUAFYQXFOLMHL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Albetol; Latol; Normadate; Normodyne
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.83456628952474
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxy-5-{1-hydroxy-2-[(4-phenylbutan-2-yl)amino]ethyl}benzamide
+
+>  <JCHEM_LOGP>  (1) 
+1.886505183513802
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.107054338718662
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.049596519651542
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.800780451999865
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+95.58
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+94.71520000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+labetalol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+328.4055
+
+>  <PRODUCTS>  (1) 
+Apo-labetalol Tablets; Labetalol; Labetalol HCL; Labetalol HCl; Labetalol Hydrochloride; Labetalol Hydrochloride Injection; Labetalol Hydrochloride Injection USP; Labetalol Hydrochloride Injection, USP; Labetalol hydrochloride; Labetolol Hydrochloride Injection USP; Mylan-labetalol Hydrochloride Injection, USP; Trandate; Trandate 5mg/ml; Trandate Inj 5mg/ml; Trandate Tab 100mg; Trandate Tab 200mg
+
+>  <SALTS>  (1) 
+Labetalol Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01062
+
+>  <SMILES>  (1) 
+CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+Labetalolum; Labetolol
+
+$$$$

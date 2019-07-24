@@ -1,0 +1,181 @@
+[NO NAME]
+     RDKit          2D
+
+ 33 34  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.1658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.3092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.0717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7937    1.4033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7937    2.2283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0792    2.6408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647    2.2284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647    1.4034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4447    0.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  2  7  2  0
+  3  8  2  0
+  4  6  1  0
+  4  8  1  0
+  4  9  1  0
+  5  7  1  0
+  5  8  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 10  1  0
+ 16 10  1  0
+ 16  7  1  0
+ 16  6  1  0
+ 16 17  1  0
+  5 18  1  0
+  9 19  1  0
+  9 20  1  0
+  9 21  1  0
+ 11 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+ 13 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 17 31  1  0
+ 17 32  1  0
+ 17 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.80
+
+>  <ALOGPS_LOGS>  (1) 
+-2.19
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.51e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01355
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01355
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+236.116092388
+
+>  <FORMULA>  (1) 
+C12H16N2O3
+
+>  <GENERIC_NAME>  (1) 
+Hexobarbital
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H16N2O3/c1-12(8-6-4-3-5-7-8)9(15)13-11(17)14(2)10(12)16/h6H,3-5,7H2,1-2H3,(H,13,15,17)
+
+>  <INCHI_KEY>  (1) 
+UYXAWHWODHRRMR-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Citopan; Evipal; Evipan; Tobinal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.140505358024516
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-(cyclohex-1-en-1-yl)-1,5-dimethyl-1,3-diazinane-2,4,6-trione
+
+>  <JCHEM_LOGP>  (1) 
+1.2476219283333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.40510859245819
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+61.947399999999995
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hexobarbital
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+236.267
+
+>  <SALTS>  (1) 
+Hexobarbital sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03301
+
+>  <SMILES>  (1) 
+CN1C(=O)NC(=O)C(C)(C1=O)C1=CCCCC1
+
+>  <SYNONYMS>  (1) 
+5-(1-cyclohexen-1-yl)-1,5-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione; 5-(1-cyclohexen-1-yl)-1,5-dimethylbarbituric acid; 5-Cyclohex-1-enyl-1,5-dimethyl-pyrimidine-2,4,6-trione; Hexobarbitone; Methexenyl; Methylhexabital
+
+$$$$

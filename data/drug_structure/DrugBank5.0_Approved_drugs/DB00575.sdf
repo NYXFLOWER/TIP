@@ -1,0 +1,164 @@
+575
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    4.5080   -0.3751    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3751    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.8797    1.6829    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5472    0.5269    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6868    1.8544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0993    1.1399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.8624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.3751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2 11  1  0
+  3  6  1  0
+  3  8  1  0
+  4  8  1  0
+  4  9  1  0
+  5  7  1  0
+  5  8  2  0
+  6  7  1  0
+  9 10  2  0
+  9 11  1  0
+ 10 12  1  0
+ 11 13  2  0
+ 12 14  2  0
+ 13 14  1  0
+  3 15  1  0
+  4 16  1  0
+  6 17  1  0
+  6 18  1  0
+  7 19  1  0
+  7 20  1  0
+ 12 21  1  0
+ 13 22  1  0
+ 14 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.55
+
+>  <ALOGPS_LOGS>  (1) 
+-2.68
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.80e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00575
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00575
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+229.017352717
+
+>  <FORMULA>  (1) 
+C9H9Cl2N3
+
+>  <GENERIC_NAME>  (1) 
+Clonidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H9Cl2N3/c10-6-2-1-3-7(11)8(6)14-9-12-4-5-13-9/h1-3H,4-5H2,(H2,12,13,14)
+
+>  <INCHI_KEY>  (1) 
+GJSURZIOUXUGAL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Catapres-TTS; Catapresan; Catapressan; Dixarit; Isoglaucon; Run Rui; Velaril; Winpress
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.69630745656319
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-(2,6-dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine
+
+>  <JCHEM_LOGP>  (1) 
+2.4850887036666673
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.164017075161533
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+36.42
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.088800000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+clonidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+230.094
+
+>  <PRODUCTS>  (1) 
+Apo-clonidine; Apo-clonidine Tab 0.1mg; Apo-clonidine Tab 0.2mg; Catapres; Catapres Tab 0.1mg; Catapres Tab 0.2mg; Clonidine; Clonidine 0.1; Clonidine HCl Tab 0.2mg; Clonidine HYDROCHLORIDE; Clonidine Hydrochloride; Clonidine Hydrochloride Extended-Release; Clonidine hydrochloride; Clonidine hydrochloride extended-release; Clonidine transdermal system; Clorpres; Combipres 0.1/15 Tab; Dixarit Tab 0.025mg; Dom-clonidine; Duraclon; Kapvay; Mint-clonidine; Nexiclon; Nexiclon XR; Ntp-clonidine; Nu-clonidine Tab 0.1mg; Nu-clonidine Tab 0.2mg; Teva-clonidine
+
+>  <SALTS>  (1) 
+Clonidine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00174; DB07566
+
+>  <SMILES>  (1) 
+ClC1=CC=CC(Cl)=C1NC1=NCCN1
+
+>  <SYNONYMS>  (1) 
+Chlofazoline; Clonidin; Clonidina; Clonidinum
+
+$$$$

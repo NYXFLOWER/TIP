@@ -1,0 +1,147 @@
+
+     RDKit          2D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    0.6124    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8165    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3269   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6124    1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -1.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5310   -0.1768    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  5  1  2  0
+  4  1  1  0
+  3  2  1  0
+  2  6  1  0
+  7  3  1  0
+  2  8  1  0
+  3  9  1  0
+  3 10  1  0
+  4 11  1  0
+  6 12  1  0
+  6 13  1  0
+  7 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.57
+
+>  <ALOGPS_LOGS>  (1) 
+-0.72
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.31e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00151
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00151
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+121.019749163
+
+>  <FORMULA>  (1) 
+C3H7NO2S
+
+>  <GENERIC_NAME>  (1) 
+L-Cysteine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+XUJNEKJLAYXESH-REOHCLBHSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.405322792266677
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2-amino-3-sulfanylpropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.7921332976482773
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+10.171891903949282
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.345995198078135
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.053809511128133
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+28.2236
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-cysteine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+121.158
+
+>  <PRODUCTS>  (1) 
+Aminoderm Poudre; Cicatrin Powder; Distilpure Msm; FreAmine HBC; FreAmine III; HepatAmine; L Cysteine HCl Inj 50mg/ml; L-Cysteine Hydrochloride; Medi Msm (methyl Sulfonyl Methane); NephrAmine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SALTS>  (1) 
+L-Cysteine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00018; DB04443; DB09485
+
+>  <SMILES>  (1) 
+N[C@@H](CS)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2R)-2-amino-3-mercaptopropanoic acid; (2R)-2-amino-3-sulfanylpropanoic acid; (R)-2-Amino-3-mercaptopropanoic acid; Cys; Cysteine; Free Cysteine; L-2-Amino-3-mercaptopropionic acid; L-Cys; L-Cystein; L-Zystein
+
+$$$$

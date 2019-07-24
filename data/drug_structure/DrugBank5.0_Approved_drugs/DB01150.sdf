@@ -1,0 +1,217 @@
+
+     RDKit          2D
+
+ 46 48  0  0  1  0  0  0  0  0999 V2000
+    6.3222   -7.3480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3222   -6.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0367   -7.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4972   -7.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4972   -6.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0367   -6.1105    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7512   -7.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0367   -8.5855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7827   -7.7605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7827   -6.1105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7512   -6.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4656   -7.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7512   -8.9980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3222   -8.9980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0682   -6.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1801   -7.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3537   -6.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0682   -7.3480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3537   -5.2855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6393   -6.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9248   -6.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6393   -7.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2103   -6.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9248   -7.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2103   -7.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4959   -7.7605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8946   -7.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  1  0
+  5  2  1  0
+  6  2  1  0
+  7  3  2  0
+  8  3  1  0
+  9  4  2  0
+  5  4  1  0
+  5 10  1  1
+ 11  6  1  0
+ 12  7  1  0
+ 11  7  1  0
+ 13  8  2  0
+ 14  8  1  0
+ 15 10  1  0
+ 16 12  2  3
+ 17 15  1  6
+ 18 15  2  0
+ 17 19  1  0
+ 20 17  1  0
+ 21 20  2  0
+ 22 20  1  0
+ 23 21  1  0
+ 24 22  2  0
+ 25 23  2  0
+ 25 24  1  0
+ 26 25  1  0
+ 16 27  1  0
+  2 28  1  6
+  5 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 12 33  1  0
+ 14 34  1  0
+ 16 35  1  0
+ 17 36  1  0
+ 19 37  1  0
+ 19 38  1  0
+ 21 39  1  0
+ 22 40  1  0
+ 23 41  1  0
+ 24 42  1  0
+ 26 43  1  0
+ 27 44  1  0
+ 27 45  1  0
+ 27 46  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.94
+
+>  <ALOGPS_LOGS>  (1) 
+-3.42
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.49e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01150
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01150
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+389.104541423
+
+>  <FORMULA>  (1) 
+C18H19N3O5S
+
+>  <GENERIC_NAME>  (1) 
+Cefprozil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H19N3O5S/c1-2-3-10-8-27-17-13(16(24)21(17)14(10)18(25)26)20-15(23)12(19)9-4-6-11(22)7-5-9/h2-7,12-13,17,22H,8,19H2,1H3,(H,20,23)(H,25,26)/t12-,13-,17-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+WDLWHQDACQUCJR-PBFPGSCMSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Brisoral; Cefzil; Cronocef; Serozil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+39.34702707999143
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(6R,7R)-7-[(2R)-2-amino-2-(4-hydroxyphenyl)acetamido]-8-oxo-3-(prop-1-en-1-yl)-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.921689336014764
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.479927600304658
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.529320722733119
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.429767892340149
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+132.96
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+101.27310000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cefprozilo
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+389.426
+
+>  <PRODUCTS>  (1) 
+Apo-cefprozil; Auro-cefprozil; Ava-cefprozil; Cefprozil; Cefprozil Powder for Oral Suspension; Cefprozil Tablets; Cefzil; Cefzil Powder for Oral Suspension-125mg/5ml; Cefzil Powder for Oral Suspension-250 Mg/ 5 Ml; Cefzil Tablets - 250mg; Cefzil Tablets - 500mg; Mint-cefprozil; Nu-cefprozil; Ran-cefprozil; Sandoz Cefprozil
+
+>  <SALTS>  (1) 
+Cefprozil monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00461
+
+>  <SMILES>  (1) 
+[H][C@]12SCC(C=CC)=C(N1C(=O)[C@@]2([H])NC(=O)[C@H](N)C1=CC=C(O)C=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+Cefprozil anhydrous; Cefprozilo; Cefprozilum
+
+$$$$

@@ -1,0 +1,141 @@
+
+     RDKit          2D
+
+ 14 13  0  0  0  0  0  0  0  0999 V2000
+    0.1105   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  4  6  2  0
+  4  7  2  0
+  1  8  1  0
+  1  9  1  0
+  2 10  1  0
+  2 11  1  0
+  3 12  1  0
+  3 13  1  0
+  5 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.19
+
+>  <ALOGPS_LOGS>  (1) 
+-0.08
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.05e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01956
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01956
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+125.014663785
+
+>  <FORMULA>  (1) 
+C2H7NO3S
+
+>  <GENERIC_NAME>  (1) 
+Taurine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H7NO3S/c3-1-2-7(4,5)6/h1-3H2,(H,4,5,6)
+
+>  <INCHI_KEY>  (1) 
+XOAAWQZATWQOTB-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.824350988998518
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-aminoethane-1-sulfonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.6146873946423876
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-1.4937847370487942
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.343935759428495
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.39
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+24.605100000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+taurine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+125.147
+
+>  <PRODUCTS>  (1) 
+Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; Tozal; TrophAmine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03010; DB11103
+
+>  <SMILES>  (1) 
+NCCS(O)(=O)=O
+
+>  <SYNONYMS>  (1) 
+Aminoethylsulfonic acid; Taurineold
+
+$$$$

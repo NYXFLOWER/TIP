@@ -1,0 +1,263 @@
+ 
+     RDKit          2D
+
+ 69 71  0  0  1  0  0  0  0  0999 V2000
+   12.1679  -11.8385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1679  -12.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8824  -13.0760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5969  -12.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5969  -11.8385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8824  -11.4260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4535  -11.4260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7490  -11.8329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4535  -13.0760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8824  -13.9009    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3224  -13.0825    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3224  -11.4195    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0142  -11.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7316  -11.4209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4431  -11.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4372  -10.1784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7199   -9.7709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0084  -10.1885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7375  -12.2507    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1290   -9.7723    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2954   -9.7836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7140   -8.9510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4266   -8.5328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1389   -8.9373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8504   -8.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8446   -7.6948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1323   -7.2903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4207   -7.7078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5834   -8.9358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5894   -9.7759    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5594   -7.2752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7028   -7.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  1  6  1  0
+  1  7  1  1
+  7  8  1  0
+  2  9  1  6
+  3 10  1  6
+  4 11  1  1
+  5 12  1  6
+ 13 12  1  6
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 13 18  1  0
+ 14 19  1  6
+ 16 20  1  1
+ 18 21  1  1
+ 17 22  1  6
+ 23 22  1  6
+ 23 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 23 28  1  0
+ 25 29  1  6
+ 29 30  1  0
+ 26 31  1  1
+ 28 32  1  6
+  1 33  1  0
+  2 34  1  0
+  3 35  1  0
+  4 36  1  0
+  5 37  1  0
+  7 38  1  0
+  7 39  1  0
+  8 40  1  0
+  9 41  1  0
+ 10 42  1  0
+ 10 43  1  0
+ 11 44  1  0
+ 13 45  1  0
+ 14 46  1  0
+ 15 47  1  0
+ 15 48  1  0
+ 16 49  1  0
+ 17 50  1  0
+ 18 51  1  0
+ 19 52  1  0
+ 19 53  1  0
+ 20 54  1  0
+ 20 55  1  0
+ 21 56  1  0
+ 23 57  1  0
+ 25 58  1  0
+ 26 59  1  0
+ 27 60  1  0
+ 27 61  1  0
+ 28 62  1  0
+ 29 63  1  0
+ 29 64  1  0
+ 30 65  1  0
+ 30 66  1  0
+ 31 67  1  0
+ 32 68  1  0
+ 32 69  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.98
+
+>  <ALOGPS_LOGS>  (1) 
+-0.94
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.37e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00684
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00684
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+467.259127807
+
+>  <FORMULA>  (1) 
+C18H37N5O9
+
+>  <GENERIC_NAME>  (1) 
+Tobramycin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H37N5O9/c19-3-9-8(25)2-7(22)17(29-9)31-15-5(20)1-6(21)16(14(15)28)32-18-13(27)11(23)12(26)10(4-24)30-18/h5-18,24-28H,1-4,19-23H2/t5-,6+,7+,8-,9+,10+,11-,12+,13+,14-,15+,16-,17+,18+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+NLVFBUXFDBBNBW-PBSUHMDJSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aktob; Alveoterol; Amgy; Bactob; Belbarmicina; Bideon Biotic; Bioptic; Bramitob; Gernebcin; Nebcin; Obracin; Tobracin; Tobramaxin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+14
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+47.182264548541966
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+10
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,3R,4S,5S,6R)-4-amino-2-{[(1S,2S,3R,4S,6R)-4,6-diamino-3-{[(2R,3R,5S,6R)-3-amino-6-(aminomethyl)-5-hydroxyoxan-2-yl]oxy}-2-hydroxycyclohexyl]oxy}-6-(hydroxymethyl)oxane-3,5-diol
+
+>  <JCHEM_LOGP>  (1) 
+-6.477500564666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+5
+
+>  <JCHEM_PKA>  (1) 
+13.132781993910879
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.542545735150494
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.826251293406527
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+268.16999999999996
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+106.69489999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tobramycin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+467.5145
+
+>  <PRODUCTS>  (1) 
+Aj-tobramycin; Apo-tobramycin; Bethkis; Jamp-tobramycin; Kitabis Pak; Nebcin Inj 1.2gm/30ml; Nebcin Inj 10mg/ml; Nebcin Inj 10mg/ml (vantage Vial); Nebcin Inj 40mg/ml; Nebcin Inj 60mg; Nebcin Inj 80mg; PMS-tobramycin 0.3% Ophthalmic Solution; Sandoz Tobramycin 0.3%; TOBI Podhaler; Teva-tobramycin; Tobi; Tobi Podhaler; TobraDex; Tobradex; Tobradex ST; Tobramycin; Tobramycin Inhalation Solution; Tobramycin Inhalation Solution Pak; Tobramycin Inhalation Solution USP; Tobramycin Injection; Tobramycin Injection USP; Tobramycin Injection, USP; Tobramycin Ophthalmic Solution USP 0.3%; Tobramycin Sulfate; Tobramycin and Dexamethasone; Tobramycin for Injection; Tobramycin for Injection U.S.P.; Tobramycin in Sodium Chloride; Tobrex; Tobrexan; Zylet
+
+>  <SALTS>  (1) 
+Tobramycin hydrochloride; Tobramycin Sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00582
+
+>  <SMILES>  (1) 
+NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)C[C@@H]1O
+
+>  <SYNONYMS>  (1) 
+Nebramycin-Faktor 6; Tobramicina; Tobramycin; Tobramycine ; Tobramycinum
+
+$$$$

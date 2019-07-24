@@ -1,0 +1,177 @@
+900
+     RDKit          2D
+
+ 29 31  0  0  1  0  0  0  0  0999 V2000
+    3.6321    0.6079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4177    2.6717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.1584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -0.8446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6834    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -2.1724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1158   -0.0604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9009    0.1932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9024    1.0182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1182    1.2745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8646    2.0596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.0959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -1.5084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.9209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.3334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 11  1  0
+  2 12  1  0
+  3 16  2  0
+  8  4  1  6
+  4 13  1  0
+  4 14  1  0
+  5 13  1  0
+  5 17  1  0
+  6 14  2  0
+  6 15  1  0
+  7 16  1  0
+  7 17  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  6
+ 13 15  2  0
+ 15 16  1  0
+  2 18  1  0
+  5 19  1  0
+  8 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 12 27  1  0
+ 14 28  1  0
+ 17 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.99
+
+>  <ALOGPS_LOGS>  (1) 
+-1.55
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.58e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00900
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00900
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+236.09094027
+
+>  <FORMULA>  (1) 
+C10H12N4O3
+
+>  <GENERIC_NAME>  (1) 
+Didanosine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12N4O3/c15-3-6-1-2-7(17-6)14-5-13-8-9(14)11-4-12-10(8)16/h4-7,15H,1-3H2,(H,11,12,16)/t6-,7+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+BXZVVICBKDXVGW-NKWVEPMBSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.897494329326598
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+9-[(2R,5S)-5-(hydroxymethyl)oxolan-2-yl]-6,9-dihydro-3H-purin-6-one
+
+>  <JCHEM_LOGP>  (1) 
+-0.35163640833333387
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+14.672761682427211
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.9434804699499475
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.754142082753731
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.74
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.593799999999995
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+didanosine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+236.2273
+
+>  <PRODUCTS>  (1) 
+Didanosine; Videx; Videx Chewable Dispersible Tab 100mg; Videx Chewable Dispersible Tab 150mg; Videx Chewable Dispersible Tab 25mg; Videx Chewable Dispersible Tab 50mg; Videx EC; Videx Pediatric Powder Sol 4g/bott
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00240; DB02392
+
+>  <SMILES>  (1) 
+OC[C@@H]1CC[C@@H](O1)N1C=NC2=C1NC=NC2=O
+
+>  <SYNONYMS>  (1) 
+Dideoxyinosine
+
+$$$$

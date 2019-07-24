@@ -1,0 +1,228 @@
+
+     RDKit          2D
+
+ 51 53  0  0  0  0  0  0  0  0999 V2000
+    3.3137    1.1210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6648    2.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3137    0.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9012   -0.6341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9012    0.7947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2512   -2.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4262   -2.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0762   -0.6341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0762    0.7947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5062   -1.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1713   -1.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7086    0.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4932    0.3822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7086    1.4622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6637    0.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8387   -0.7446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2237    0.7947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0137    0.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8387    0.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4932    1.2072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3987   -0.6341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8387    0.9053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3987    0.7947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  3  1  0
+  7  6  1  0
+  8  4  1  0
+  9  5  2  0
+ 10  6  1  0
+ 11  7  1  0
+ 13 12  1  0
+ 15  8  2  0
+ 15  9  1  0
+ 16 10  1  0
+ 16 11  1  0
+ 17 12  1  0
+ 17 14  1  0
+ 19 15  1  1
+ 19 16  1  0
+ 19 18  1  0
+ 20  1  1  0
+ 20  2  1  0
+ 20 13  1  0
+ 20 14  1  0
+ 21 18  2  0
+ 19 22  1  0
+ 17 23  1  6
+ 23 18  1  0
+  1 24  1  0
+  1 25  1  0
+  1 26  1  0
+  2 27  1  0
+  2 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+  6 34  1  0
+  7 35  1  0
+  7 36  1  0
+  8 37  1  0
+  9 38  1  0
+ 10 39  1  0
+ 10 40  1  0
+ 11 41  1  0
+ 11 42  1  0
+ 12 43  1  0
+ 12 44  1  0
+ 13 45  1  0
+ 13 46  1  0
+ 14 47  1  0
+ 14 48  1  0
+ 16 49  1  0
+ 17 50  1  0
+ 22 51  1  0
+M  CHG  1  20   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.20
+
+>  <ALOGPS_LOGS>  (1) 
+-5.57
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.44e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00986
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00986
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+318.206370186
+
+>  <FORMULA>  (1) 
+C19H28NO3
+
+>  <GENERIC_NAME>  (1) 
+Glycopyrronium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H28NO3/c1-20(2)13-12-17(14-20)23-18(21)19(22,16-10-6-7-11-16)15-8-4-3-5-9-15/h3-5,8-9,16-17,22H,6-7,10-14H2,1-2H3/q+1/t17-,19-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+ANGKOCUUWGHLCE-HKUYNNGSSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acpan; Nodapton; Robanul; Robinal; Tarodyl
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+51
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.990278087156796
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3S)-3-{[(2R)-2-cyclopentyl-2-hydroxy-2-phenylacetyl]oxy}-1,1-dimethylpyrrolidin-1-ium
+
+>  <JCHEM_LOGP>  (1) 
+-1.4080879931384127
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.533272276219833
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.315146706381445
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+101.0809
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(3S)-3-{[(2R)-2-cyclopentyl-2-hydroxy-2-phenylacetyl]oxy}-1,1-dimethylpyrrolidin-1-ium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+318.436
+
+>  <PRODUCTS>  (1) 
+Bevespi Aerosphere; Cuvposa; Enurev Breezhaler; Glycate; Glycopyrrolate; Glycopyrrolate Injection; Glycopyrrolate Injection Multidose; Glycopyrrolate Injection USP; Robinul; Robinul 0.2mg/ml Liq Inj; Robinul Forte; Robinul Forte Tab 2mg; Robinul Tab 1mg; Robinul-forte Tab 2mg; Seebri Breezhaler; Seebri Neohaler; Sialanar; Tovanor Breezhaler; Ultibro Breezhaler; Utibron Neohaler
+
+>  <SALTS>  (1) 
+Glycopyrronium bromide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01000; DB06583
+
+>  <SMILES>  (1) 
+[H][C@@]1(CC[N+](C)(C)C1)OC(=O)[C@@](O)(C1CCCC1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Glycopyrrolate cation; Glycopyrrolate ion; Glycopyrronium cation; Glycopyrronium ion
+
+$$$$

@@ -1,0 +1,160 @@
+
+     RDKit          2D
+
+ 19 18  0  0  1  0  0  0  0  0999 V2000
+    2.8073   -0.9817    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0928    0.2558    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8073    1.4932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9505   -0.5693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2362    0.6682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8073    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9505    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6651    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  8  1  0
+  3  8  2  0
+  4  9  2  0
+  6  5  1  6
+  5  9  1  0
+  6  7  1  0
+  6  8  1  0
+  9 10  1  0
+  1 11  1  0
+  2 12  1  0
+  5 13  1  0
+  6 14  1  0
+  7 15  1  0
+  7 16  1  0
+ 10 17  1  0
+ 10 18  1  0
+ 10 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.03
+
+>  <ALOGPS_LOGS>  (1) 
+-1.51
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.09e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06151
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06151
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+163.030313849
+
+>  <FORMULA>  (1) 
+C5H9NO3S
+
+>  <GENERIC_NAME>  (1) 
+Acetylcysteine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H9NO3S/c1-3(7)6-4(2-10)5(8)9/h4,10H,2H2,1H3,(H,6,7)(H,8,9)/t4-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+PWKSKIMOESPYIA-BYPYZUCNSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Fluimucil; Lysox; Mucolysin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.3392752094222
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2-acetamido-3-sulfanylpropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.7113127423333335
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.049469514329088
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.817578829469042
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.494491573735262
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.39999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+37.6674
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+acetylcysteine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+163.195
+
+>  <PRODUCTS>  (1) 
+Acetadote; Acetylcysteine; Acetylcysteine Injection 200 mg/ml; Acetylcysteine Solution; Acetylcysteine Solution USP; Cetylev; DermaNIC; Mucomyst; Mucomyst Inj 200mg/ml; Parvolex; Parvolex Liq IV 200mg/ml
+
+>  <SALTS>  (1) 
+Acetylcysteine amide; Acetylcysteine zinc
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB05436
+
+>  <SMILES>  (1) 
+CC(=O)N[C@@H](CS)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2R)-2-acetylamino-3-sulfanylpropanoic acid; (R)-2-acetylamino-3-mercaptopropanoic acid; (R)-mercapturic acid; Acetilcisteina; Acetylcysteinum; L-acetylcysteine; L-α-acetamido-β-mercaptopropionic acid; Mercapturic acid; N-acetyl-L-(+)-cysteine; N-acetyl-L-cysteine; N-acetylcysteine; NAC
+
+$$$$

@@ -1,0 +1,156 @@
+
+     RDKit          2D
+
+ 20 19  0  0  0  0  0  0  0  0999 V2000
+   -3.1875    1.3438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730    0.1063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730    0.9313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586    1.3438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    0.1063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    0.9313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296    2.1688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296    1.3438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3849    0.9313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  3  2  2  3
+  3  4  1  0
+  4  6  1  0
+  6  5  2  3
+  6  8  1  0
+  8  7  1  0
+  8  9  1  0
+  1 10  1  0
+  1 11  1  0
+  2 12  1  0
+  4 13  1  0
+  5 14  1  0
+  7 15  1  0
+  7 16  1  0
+  7 17  1  0
+  9 18  1  0
+  9 19  1  0
+  9 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.83
+
+>  <ALOGPS_LOGS>  (1) 
+-1.97
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.38e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00331
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00331
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+129.101445377
+
+>  <FORMULA>  (1) 
+C4H11N5
+
+>  <GENERIC_NAME>  (1) 
+Metformin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H11N5/c1-9(2)4(7)8-3(5)6/h1-2H3,(H5,5,6,7,8)
+
+>  <INCHI_KEY>  (1) 
+XZWYZXLIPXDOLR-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Apo-Metformin; Gen-Metformin; Novo-Metformin; Nu-Metformin; Sandoz Metformin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.427402057461823
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-carbamimidamido-N,N-dimethylmethanimidamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.9184292649999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+12.325150598106353
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.99
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.642700000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+metformin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+129.1636
+
+>  <PRODUCTS>  (1) 
+Act Metformin; Actoplus Met; Actoplus Met XR; Alogliptin and Metformin Hydrochloride; Apo-metformin - Tab 500mg; Apo-metformin 850 Mg Tablets; Apo-metformin ER; Appformin; Appformin-D; Auro-metformin; Ava-metformin; Avandamet; Bci Metformin; Bio-metformin; Dm2; Dom-metformin; Ecl-metformin; Fortamet; GLIPIZIDE and METFORMIN HYDROCHLORIDE; Glipizide and Metformin HCl; Glipizide and Metformin Hydrochloride; Glubrava; Glucophage; Glucophage XR; Glucovance; Glumetza; Glumetza (sb); Glyburide (micronized) and Metformin Hydrochloride; Glyburide and Metformin; Glyburide and Metformin Hydrochloride; Glyburide-Metformin Hydrochloride; Glycon; Glycon 850mg; Invokamet; Invokamet XR; Ipg-metformin; Jamp-metformin; Jamp-metformin Blackberry; Janumet; Janumet XR; Jentadueto; Jentadueto XR; Kazano; Kombiglyze XR; Komboglyze; Mar-metformin; Med Metformin Tablets 500mg; Metfomin Hydrochloride; Metformin; Metformin Fc; Metformin HCl; Metformin HCl ER; Metformin Hydrochloride; Metformin Hydrochloride E/r; Metformin Hydrochloride ER; Metformin Hydrochloride Extended Release; Metformin Tablets; Metformin Tablets 500mg; Metformin hydrochloride; Metformin hydrochloride ER; Metformin-500  -  Tab 500mg; Metformin-850; Mint-metformin; Mylan-metformin; Ntp-metformin; Nu-metformin (850mg); Nu-metformin - Tab 500mg; Orb-metformin; PHL-metformin; PMS-metformin; PMS-metformin - Tab 500mg; PMS-rosiglitazone-metformin; Pg-metformin; Pioglitazole and metformin hydrochloride; Pioglitazone HCL and Metformin HCL; Pioglitazone Hydrochloride and Metformin Hydrochloride; Pioglitazone and Metformin Hydrochloride; Pioglitazone and Metformin Hydrocholride; Pioglitazone and metformin; PrandiMet; Priva-metformin; Pro-metformin; Q-metformin; Ran-metformin; Ratio-metformin; Repaglinide and Metformin Hydrochloride; Rhoxal-metformin; Riomet; Riva-metformin; Sandoz Metformin Fc; Septa-metformin; Synjardy; Synjardy XR; Teva-metformin; Van-metformin; Velmetia; Xigduo; Xigduo XR
+
+>  <SALTS>  (1) 
+Metformin Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01099
+
+>  <SMILES>  (1) 
+CN(C)C(=N)NC(N)=N
+
+>  <SYNONYMS>  (1) 
+1,1-Dimethylbiguanide; Dimethylbiguanid; Metformin; Metformina; Metformine; Metforminum
+
+$$$$

@@ -1,0 +1,177 @@
+322
+     RDKit          2D
+
+ 28 29  0  0  1  0  0  0  0  0999 V2000
+    4.5079    1.9573    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7464   -1.0026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1816   -2.4547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7969   -2.3685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.3073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.7823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.3073    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.5448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665   -1.7873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.5177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4115   -1.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4915   -1.7873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764   -2.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.5448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.9573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0
+  2 10  1  0
+  2 12  1  0
+  9  3  1  1
+  4 13  1  0
+  5 14  2  0
+  6 17  2  0
+ 10  7  1  6
+  7 14  1  0
+  7 15  1  0
+  8 14  1  0
+  8 17  1  0
+  9 11  1  0
+  9 12  1  0
+ 10 11  1  0
+ 12 13  1  1
+ 15 16  2  0
+ 16 17  1  0
+  3 18  1  0
+  4 19  1  0
+  8 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 15 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.15
+
+>  <ALOGPS_LOGS>  (1) 
+-0.78
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.08e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00322
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00322
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+246.065199677
+
+>  <FORMULA>  (1) 
+C9H11FN2O5
+
+>  <GENERIC_NAME>  (1) 
+Floxuridine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H11FN2O5/c10-4-2-12(9(16)11-8(4)15)7-1-5(14)6(3-13)17-7/h2,5-7,13-14H,1,3H2,(H,11,15,16)/t5-,6+,7+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+ODKNJVUHOIMIIZ-RRKCRQDMSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+FUDR
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.77757990995401
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-fluoro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+-1.3151611686666662
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.907877307910667
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.678643455901932
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9780835982375358
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+99.09999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.2578
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+floxuridine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+246.1924
+
+>  <PRODUCTS>  (1) 
+Floxuridine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00692
+
+>  <SMILES>  (1) 
+OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(F)C(=O)NC1=O
+
+>  <SYNONYMS>  (1) 
+Deoxyfluorouridine; Floxiridina; Floxuridin; Floxuridine; Floxuridinum; Fluorodeoxyuridine; Fluoruridine Deoxyribose
+
+$$$$

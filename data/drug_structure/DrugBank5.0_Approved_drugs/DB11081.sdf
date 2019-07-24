@@ -1,0 +1,112 @@
+
+     RDKit          2D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+    1.2375    0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Al  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  2  7  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11081
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11081
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+131.888096562
+
+>  <FORMULA>  (1) 
+AlCl3
+
+>  <GENERIC_NAME>  (1) 
+Aluminum chloride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Al.3ClH/h;3*1H/q+3;;;/p-3
+
+>  <INCHI_KEY>  (1) 
+VSCWAEJMTAWNJL-UHFFFAOYSA-K
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.488405258632799
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+trichloroalumane
+
+>  <JCHEM_LOGP>  (1) 
+1.6534999999999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+18.408900000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+aluminium chloride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+133.341
+
+>  <PRODUCTS>  (1) 
+Aarica; Anti-perspirant Roll-ON Deod; Aquastop Liq; Arrid Cream; Certain Dri Roll-ON; Clinical Strength MiracleDry Antiperspirant Deodorant PM; Denti-care Hemostatic Solution; Duradry PM; Frenna AC; Gingi Aid 10%; Gingi Aid 25%; Gingi Aid Dark Braid #2; Gingi Aid Dark Braid #3; Gingigel Gel 200mg/gm; Hemogin L Hemostatic Liq 25%; Hemostatic Solution; Hemox A; Hydrosal Professional; Hypercare; Lumicain; Mitchum Anti Perspirant Crm Scented; Mitchum Antipersp Crm Unscented; Ms Hemostatic; NRG Hemo-Stat; Purax; Racestyptine Cord; Racestyptine Sol; Scotts Select NEPHRO-stat; Sulpak II; Sweatblock; Topical Hemo-Stat; Xerac AC; Xeransis; Youth Dew Roll On Antipersp Deod Lot; ZeroSweat 3 DAY PROTECTION ANTIPERSPIRANT
+
+>  <SALTS>  (1) 
+Aluminium chloride hexahydrate
+
+>  <SMILES>  (1) 
+Cl[Al](Cl)Cl
+
+>  <SYNONYMS>  (1) 
+Aluminium chloride
+
+$$$$

@@ -1,0 +1,169 @@
+
+     RDKit          2D
+
+ 25 24  0  0  1  0  0  0  0  0999 V2000
+   22.2164  -15.6487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5020  -17.7111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9309  -17.7111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7876  -15.6487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3597  -16.8862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3587  -16.4736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0732  -17.7111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2164  -16.4736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5020  -16.8862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9309  -16.8862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7876  -16.4736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6452  -16.4736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0732  -16.8862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  6
+  9  2  1  1
+ 10  3  1  6
+ 11  4  1  6
+  5 12  1  0
+  6 13  1  0
+  7 13  2  0
+  8  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 11 13  1  0
+  1 14  1  0
+  2 15  1  0
+  3 16  1  0
+  4 17  1  0
+  5 18  1  0
+  6 19  1  0
+  8 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.57
+
+>  <ALOGPS_LOGS>  (1) 
+-0.09
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.59e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13180
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13180
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+196.058302738
+
+>  <FORMULA>  (1) 
+C6H12O7
+
+>  <GENERIC_NAME>  (1) 
+Gluconic Acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H12O7/c7-1-2(8)3(9)4(10)5(11)6(12)13/h2-5,7-11H,1H2,(H,12,13)/t2-,3-,4+,5-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+RGHNJXZEOKUKBD-SQOUGZDYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.148802962824295
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.4097443106666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+12.593710458724512
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.3882055743218547
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.974220927705365
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+138.45000000000002
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.27100000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+gluconate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+196.1553
+
+>  <PRODUCTS>  (1) 
+Hyperlyte (multi-electrolyte Concentrate); Isolyte S; Isolyte S (multi-electrolyte Injection); Isolyte S Ph 7.4 (multi-electrolyte Injection); Isolyte S With 5% Dextrose Inj; Isolyte S in Dextrose; Isoplate; Lypholyte; Lypholyte Multi-electrolyte Conc Inj; Normosol-R; Normosol-R & 5% Dextrose; Normosol-R and Dextrose; Nutrilyte; Physiolyte; Physiosol; Plasma-Lyte 148; Plasma-Lyte A; Plasma-lyte A Injection; Plasmalyte 148 In 5% Dextrose Inj; Plasmalyte 148 In Water; Renacidin
+
+>  <SALTS>  (1) 
+Sodium gluconate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09408
+
+>  <SMILES>  (1) 
+OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+D-Gluconic Acid; Dextronic acid; Maltonic acid
+
+$$$$

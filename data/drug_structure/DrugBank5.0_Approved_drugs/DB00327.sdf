@@ -1,0 +1,207 @@
+327
+     RDKit          2D
+
+ 40 44  0  0  1  0  0  0  0  0999 V2000
+    1.9356   -0.2231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349   -2.3527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    1.8149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3440   -1.0939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -0.6814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296   -0.6814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6773   -0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    0.1436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296    0.1436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8506   -0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    0.5561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -2.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    0.5561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350   -1.7290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    1.3811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    1.3811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    1.7936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 17  1  0
+  2 16  2  0
+  3 20  1  0
+  4  7  1  0
+  4 13  1  0
+  4 18  1  0
+  5  6  1  0
+  5  8  1  0
+  5  9  1  1
+  5 10  1  0
+  6  7  1  0
+  6 11  1  0
+  7 12  1  0
+  8 16  1  0
+  9 13  1  0
+ 10 14  2  0
+ 10 17  1  0
+ 11 15  1  0
+ 12 14  1  0
+ 14 19  1  0
+ 15 16  1  0
+ 17 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  3 22  1  0
+  6 23  1  1
+  7 24  1  6
+  8 25  1  1
+  9 26  1  0
+  9 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 21 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.69
+
+>  <ALOGPS_LOGS>  (1) 
+-1.81
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.39e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00327
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00327
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <EXACT_MASS>  (1) 
+285.136493479
+
+>  <FORMULA>  (1) 
+C17H19NO3
+
+>  <GENERIC_NAME>  (1) 
+Hydromorphone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2,4,10-11,16,19H,3,5-8H2,1H3/t10-,11+,16-,17-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WVLOADHCBXTIJK-YNHQPCIGSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Palladone
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.023248428425724
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,5R,13R,17R)-10-hydroxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7(18),8,10-trien-14-one
+
+>  <JCHEM_LOGP>  (1) 
+1.6227496759764108
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+18.00207891919619
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.107628114711872
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.586674910405563
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+49.77
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+78.26240000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydromorphone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+285.3377
+
+>  <PRODUCTS>  (1) 
+Apo-hydromorphone; Bar-hydromorphone HCl; Dilaudid; Dilaudid Hp; Dilaudid-HP-plus; Dilaudid-XP; Exalgo; Hydromorph Contin; Hydromorph Contin-controlled Release Cap - 12mg; Hydromorph Contin-controlled Release Cap - 18mg; Hydromorph Contin-controlled Release Cap - 24mg; Hydromorph Contin-controlled Release Cap - 30mg; Hydromorph Contin-controlled Release Cap - 3mg; Hydromorph Contin-controlled Release Cap - 6mg; Hydromorph.ir - 2mg; Hydromorph.ir - 4mg; Hydromorph.ir - 8mg; Hydromorphone; Hydromorphone HCl; Hydromorphone HCl Tab 2mg USP; Hydromorphone HCl Tab 4mg USP; Hydromorphone Hp 10; Hydromorphone Hp 20; Hydromorphone Hp 50; Hydromorphone Hp Forte Injection; Hydromorphone Hydrochloride; Hydromorphone Hydrochloride Extended-Release; Hydromorphone Hydrochloride Injection; Hydromorphone Hydrochloride Injection Hp 10; Hydromorphone Hydrochloride Injection Hp 50; Hydromorphone Hydrochloride Injection Hp Forte; Hydromorphone Hydrochloride Injection USP; Hydromorphone Hydrochloride Sup 3mg; Hyrdomorphone Hydrochloride; Jurnista; PHL-hydromorphone; PHL-hydromorphone -syr 1mg/ml; PMS Hydromorphone Sirop 1mg/ml; PMS Hydromorphone Suppositoire 3mg; PMS-hydromorphone Tab 1mg; PMS-hydromorphone Tab 2mg; PMS-hydromorphone Tab 4mg; PMS-hydromorphone Tab 8mg; Palladone XL - 12mg; Palladone XL - 16mg; Palladone XL - 24mg; Teva-hydromorphone
+
+>  <SALTS>  (1) 
+Hydromorphone Hydrochloride; Hydromorphone sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01021
+
+>  <SMILES>  (1) 
+[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])CCC2=O
+
+>  <SYNONYMS>  (1) 
+6-Deoxy-7,8-dihydro-6-oxomorphine; 7,8-Dihydromorphinone; Dihydromorfinon; Dihydromorphinone; Dimorphone; Hidromorfona; Hydromorfona; Hydromorphonum; Idromorfone
+
+$$$$

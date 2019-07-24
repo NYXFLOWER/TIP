@@ -1,0 +1,112 @@
+
+     RDKit          2D
+
+  3  0  0  0  0  0  0  0  0  0999 V2000
+    2.8660   -0.2500    0.0000 Ca  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    0.2500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.2500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB01164
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01164
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+109.900296569
+
+>  <FORMULA>  (1) 
+CaCl2
+
+>  <GENERIC_NAME>  (1) 
+Calcium Chloride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Ca.2ClH/h;2*1H/q+2;;/p-2
+
+>  <INCHI_KEY>  (1) 
+UXVMQQNJUSDDNG-UHFFFAOYSA-L
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Jarcal; LiquiCal-D 400
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium dichloride
+
+>  <JCHEM_LOGP>  (1) 
+-0.57
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-7.000000000000001
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+calcium dichloride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+110.984
+
+>  <PRODUCTS>  (1) 
+(40 Mmols/l) Potassium Chloride In Lactated Ringer's Injection USP; 5% Dextrose In Lactated Ringer's Injection; Accusol 35 K0; Accusol 35 K2; Accusol 35 K4; Acetate Concentrate R07376; Acid Concentrate  D12028; Acid Concentrate  D12054; Acid Concentrate  D12092; Acid Concentrate  D12093; Acid Concentrate  D12095; Acid Concentrate  D12119; Acid Concentrate  D12132; Acid Concentrate  D12150; Acid Concentrate  D12247; Acid Concentrate  D12250; Acid Concentrate  D12261; Acid Concentrate  D12268; Acid Concentrate (r04146); Acid Concentrate (r04938); Acid Concentrate (r04968); Acid Concentrate (r04969); Acid Concentrate (r04974); Acid Concentrate (r04975); Acid Concentrate (r04976); Acid Concentrate (r04981); Acid Concentrate (r04984); Acid Concentrate (ro4147); Acid Concentrate (ro4148); Acid Concentrate (ro9503); Acid Concentrate (rz262c); Acid Concentrate (rz271c); Acid Concentrate (rz272c); Acid Concentrate (rz274c); Acid Concentrate (rz275c); Acid Concentrate 2100; Acid Concentrate 2101; Acid Concentrate 2102; Acid Concentrate 2105; Acid Concentrate 2106; Acid Concentrate 2109; Acid Concentrate 2112; Acid Concentrate 2113; Acid Concentrate 2116; Acid Concentrate 2117; Acid Concentrate 2119; Acid Concentrate 2120; Acid Concentrate 2121; Acid Concentrate 2122; Acid Concentrate 2123; Acid Concentrate 2125; Acid Concentrate 2126; Acid Concentrate 2128; Acid Concentrate 2129; Acid Concentrate 2131; Acid Concentrate 2132; Acid Concentrate 2135; Acid Concentrate 2139; Acid Concentrate 2147; Acid Concentrate 2148; Acid Concentrate 2151; Acid Concentrate 2152; Acid Concentrate 2155; Acid Concentrate 2156; Acid Concentrate 2161; Acid Concentrate 2162; Acid Concentrate 2163; Acid Concentrate 2165; Acid Concentrate 2166; Acid Concentrate 2168; Acid Concentrate 2171; Acid Concentrate 2175; Acid Concentrate 2182; Acid Concentrate 2185; Acid Concentrate 2186; Acid Concentrate 2189; Acid Concentrate 2190; Acid Concentrate 2196; Acid Concentrate 2198; Acid Concentrate 3186; Acid Concentrate 3187; Acid Concentrate A1220; Acid Concentrate A1221; Acid Concentrate A1222; Acid Concentrate A1223; Acid Concentrate A1224; Acid Concentrate A1225; Acid Concentrate A1226; Acid Concentrate A1227; Acid Concentrate A1228; Acid Concentrate A1229; Acid Concentrate A1230; Acid Concentrate A1231; Acid Concentrate A1241; Acid Concentrate A1242; Acid Concentrate A1243; Acid Concentrate A1245; Acid Concentrate A1246; Acid Concentrate A1251; Acid Concentrate A1252; Acid Concentrate A1253; Acid Concentrate A1255; Acid Concentrate A1261; Acid Concentrate A1262; Acid Concentrate A1263; Acid Concentrate A1264; Acid Concentrate A1265; Acid Concentrate A1266; Acid Concentrate A1267; Acid Concentrate A1268; Acid Concentrate A1269; Acid Concentrate A1270; Acid Concentrate A1271; Acid Concentrate A1272; Acid Concentrate A1273; Acid Concentrate A1274; Acid Concentrate A1275; Acid Concentrate A1276; Acid Concentrate A1277; Acid Concentrate A1278; Acid Concentrate A1279; Acid Concentrate A1280; Acid Concentrate A1294; Acid Concentrate A1295; Acid Concentrate A1296; Acid Concentrate A1297; Acid Concentrate A1298; Acid Concentrate Bp Ro4151; Acid Concentrate Bp Ro9505; Acid Concentrate Bp Ro9506; Acid Concentrate Bp Ro9507; Acid Concentrate Bp Rz267c; Acid Concentrate Bp Rz278c; Acid Concentrate Bp Rz279c; Acid Concentrate D 12219 Liq; Acid Concentrate D-12287; Acid Concentrate D-18003; Acid Concentrate D-18006; Acid Concentrate D12067; Acid Concentrate D12091; Acid Concentrate D12094; Acid Concentrate D12112; Acid Concentrate D12117; Acid Concentrate D12135; Acid Concentrate D12143; Acid Concentrate D12146; Acid Concentrate D12167; Acid Concentrate D12184; Acid Concentrate D12185; Acid Concentrate D12186; Acid Concentrate D12187; Acid Concentrate D12188; Acid Concentrate D12196; Acid Concentrate D12197; Acid Concentrate D12201; Acid Concentrate D12204; Acid Concentrate D12205; Acid Concentrate D12207; Acid Concentrate D12209; Acid Concentrate D12220; Acid Concentrate D12221; Acid Concentrate D12225; Acid Concentrate D12236; Acid Concentrate D12248; Acid Concentrate D12249; Acid Concentrate D12251; Acid Concentrate D12252; Acid Concentrate D12255; Acid Concentrate D12259; Acid Concentrate D12260; Acid Concentrate D12262; Acid Concentrate D12264; Acid Concentrate D12265; Acid Concentrate D12266; Acid Concentrate D12267; Acid Concentrate D12269; Acid Concentrate D12270; Acid Concentrate D12271; Acid Concentrate D12272; Acid Concentrate D12273; Acid Concentrate D12274; Acid Concentrate D12275; Acid Concentrate D12282; Acid Concentrate D12284; Acid Concentrate D12285; Acid Concentrate D12286; Acid Concentrate D12290; Acid Concentrate D12291; Acid Concentrate D12292; Acid Concentrate D12293; Acid Concentrate D12294; Acid Concentrate D12299; Acid Concentrate D12300; Acid Concentrate D12301; Acid Concentrate D12302; Acid Concentrate D12303; Acid Concentrate D12304; Acid Concentrate D12305; Acid Concentrate D12306; Acid Concentrate D12308; Acid Concentrate D12309; Acid Concentrate D12310; Acid Concentrate D12311; Acid Concentrate D12315; Acid Concentrate D12316; Acid Concentrate D12318; Acid Concentrate D12319; Acid Concentrate D13001; Acid Concentrate D18000; Acid Concentrate D18001; Acid Concentrate D18008; Acid Concentrate D18009; Acid Concentrate Ro4131; Acid Concentrate Ro4132; Acid Concentrate Ro4136; Acid Concentrate Ro4137; Acid Concentrate Ro4138; Acid Concentrate Ro4144; Acid Concentrate Ro4145; Acid Concentrate Ro4947; Acid Concentrate Ro4979; Acid Concentrate Ro4983; Acid Concentrate Ro9500; Acid Concentrate Ro9501; Acid Concentrate Ro9502; Acid Concentrate Rx252c; Acid Concentrate Rx253c; Acid Concentrate Rz110c; Acid Concentrate Rz111c; Acid Concentrate Rz119c; Acid Concentrate Rz123c; Acid Concentrate Rz127c; Acid Concentrate Rz144c; Acid Concentrate Rz150c; Acid Concentrate Rz153c; Acid Concentrate Rz164c; Acid Concentrate Rz167c; Acid Concentrate Rz171c; Acid Concentrate Rz183c; Acid Concentrate Rz185c; Acid Concentrate Rz186c; Acid Concentrate Rz194c; Acid Concentrate Rz195c; Acid Concentrate Rz196c; Acid Concentrate Rz202c; Acid Concentrate Rz203c; Acid Concentrate Rz205c; Acid Concentrate Rz206c; Acid Concentrate Rz207c; Acid Concentrate Rz208c; Acid Concentrate Rz210c; Acid Concentrate Rz211c; Acid Concentrate Rz212c; Acid Concentrate Rz213c; Acid Concentrate Rz247c; Acid Concentrate Rz248c; Acid Concentrate Rz249c; Acid Concentrate Rz254c; Acid Concentrate Rz264c; Acid Concentrate Rz265c; Acid Concentrate(36.83x) R04900; Acid Concentrate(36.83x) R04906; Acid Concentrate-r04948 Liq; Acid Conentrate (r04930); Acid Hemodialysis Conc Sb 1003; Amo Endosol Extra; Amo Endosol Solution; Artisial; Balance 1.5% Glucose, 1.25mmol/l Calcium; Balance 1.5% Glucose, 1.75mmol/l Calcium; Balance 2.3% Glucose, 1.25mmol/l Calcium; Balance 2.3% Glucose, 1.75mmol/l Calcium; Balance 4.25% Glucose, 1.25mmol/l Calcium; Balance 4.25% Glucose, 1.75mmol/l Calcium; Balanced Salt; Balanced Salt Solution; Bicarb Hemodial Conc 36.83; Bicarb Hemodial Conc 36.83x Acid; Bicarbolyte Bicar Hemodialsis Conc; Bicarbolyte Bicar Hemodialysis Conc; Bicavera 1.5% Glucose; Bicavera 2.3% Glucose; Bicavera 4.25% Glucose; Bicavera Forte 1.5% Glucose; Bicavera Forte 2.3% Glucose; Bicavera Forte 4.25% Glucose; Bss; Bss Plus; Bss Sterile Irrigating Solution; Calciject Inj 100mg/ml; Calcium Chloride; Calcium Chloride Additive 0.13-4.5l; Calcium Chloride Bp - Additive for Concentrated Haemodialysis Solutions; Calcium Chloride Inj 10%; Calcium Chloride Injection 100mg/ml; Calcium Chloride Injection USP; Calcium Chloride for Haemodialysis; Calcium-35 0.25 - 10; Calcium-35 0.25 - 4.5; Calcium-36.8  0.25-4.5; Calcium-36.8  0.5-4.5; Calcium-45  0.25-4.5; Calcium-45  0.5-4.5; Caneal Peritoneal Dialysis Solution; Cardioplegic; Citrasate C0125; Citrasate C10125; Citrasate C1125; Citrasate C1150; Citrasate C2125; Citrasate C2150; Citrasate C3125; Citrasate C3150; Citrasate C4125; Clinimix E; Concentrated Haemodialysis Solution Bp-rz266c; Concentrated Haemodialysis Solution Bp-rz270c; D-12043 Sol Conc Electrolyt Pour Dialy; D12006; D12034 Conc Electrolyte Renal Dialysis; D12046 Conc Electrolyte Renal Dialysis; D12230 Liq; Delflex A Perit.dial.solN.W.1.5%dext.low mg; Delflex A Perit.dial.solN.W.2.5%dext.low mg; Delflex A Perit.dial.soln W.4.25%dext.low mg; Delflex A Periton.dial.solN.W.1.5% Dextrose; Delflex A Periton.dial.solN.W.4.25% Dextrose; Delflex A Periton.dial.soln. W.2.5% Dextrose; Delflex Perit.dial.soL.1.5%dex.low Ca Low mg; Delflex Perit.dial.soL.2.5%dex.low Ca Low mg; Delflex Perit.dial.soL.4.25%dex.low Calow mg; Delflex Peritoneal Dialysis Solution With 0.5% Dextrose; Dextrose 2.5% In Half Strength Lactated Ringer's Injection, USP; Dextrose 5% In Lactated Ringers; Dianeal Pd 101 Capd Solution W 0.5% Dextrose; Dianeal Pd 101 Capd Solution W 1.5% Dextrose; Dianeal Pd 101 Capd Solution W 2.5% Dextrose; Dianeal Pd 101 Capd Solution W 4.25% Dextrose; Dianeal Pd 102 Capd Solution W 1.5% Dextrose; Dianeal Pd 102 Capd Solution W 4.25% Dextrose; Dianeal Pd 104 Capd Solution W 0.5% Dextrose; Dianeal Pd109 Capd Solution; Dianeal Pd4 Capd Solution With 1.5% Dextrose and 2.5meq/l Calcium; Dianeal Pd4 Capd Solution With 2.5% Dextrose and 2.5meq/l Calcium; Dianeal Pd4 Capd Solution With 4.25% Dextrose and 2.5meq/l Calcium; Elliott's Solution A; Extraneal; Eye Stream; H-629; H-700; H-701; H-702; H-706; H-710; H.E.L.P.bicel; Haemosol H-200; Haemosol H-201; Haemosol H-202; Haemosol H-206; Haemosol H-208; Haemosol H-223; Haemosol H-224; Haemosol H-225; Haemosol H-226; Haemosol H-227; Haemosol H-228; Haemosol H-229; Haemosol H-230; Haemosol H-232; Haemosol H-250; Haemosol H-251; Haemosol H-252; Haemosol H-253; Haemosol H-254; Haemosol H-260; Haemosol H-320; Haemosol H-321; Haemosol H-330; Haemosol H-331; Haemosol H-332; Haemosol H-400; Haemosol H-401; Haemosol H-402; Haemosol H-404; Haemosol H-407; Haemosol H-408; Haemosol H-410; Haemosol H-601; Haemosol H-602; Haemosol H-608; Haemosol H-615; Haemosol H-616; Haemosol H-617; Haemosol H-623; Haemosol H-624; Haemosol H-625; Haemosol H-630; Haemosol H-631; Haemosol H-661; Haemosol H-690; Hemasate Ultra Hs0125; Hemasate Ultra Hs1125; Hemasate Ultra Hs1150; Hemasate Ultra Hs2125; Hemasate Ultra Hs2150; Hemasate Ultra Hs3125; Hemasate Ultra Hs3150; Hemasate Ultra Hs4125; Hemosate Ultra Hs0125; Hemosate Ultra Hs1125; Hemosate Ultra Hs1150; Hemosate Ultra Hs2125; Hemosate Ultra Hs2150; Hemosate Ultra Hs3125; Hemosate Ultra Hs3150; Hemosate Ultra Hs4125; Hemosol Lg2; Hemosol Lg4; Hemosol Lo; Hyperlyte CR; Hyperlyte CR Multi-electrolyte Concentrate; Inpersol Lc With Dextrose 1.5% Liq; Inpersol Lc With Dextrose 2.5% Liq; Inpersol Lc With Dextrose 4.25% Liq; Inpersol Lm W 1.5% Dextrose; Inpersol Lm W 2.5% Dextrose; Inpersol Lm W 4.25% Dextrose; Inpersol W Dextrose 1.5%; Inpersol W Dextrose 2.5%; Inpersol W Dextrose 4.25% Inj; Inpersol With Dextrose 0.5%; Iocare Balanced Salt Solution; Isolyte R In 5% Dextrose; K+36.8; K1 Liq R04911; K1 Liq R04978; K2 Liq R04902; K2 With Glucose Liq R04977; Lactated Ringer's Injection; Lactated Ringer's Injection USP; Lactated Ringer's Irrigation; Lactated Ringer's Irrigation Sol; Lactated Ringers; Lactated Ringers Inj USP; Lactated Ringers Inj W 5% Dextrose; Lactated Ringers Irrigation; Moi-stir Oral Swabsticks; Moi-stir Spray; Multiple Electrolyte Additive Liq Formula 1; Naturalyte H-200; Naturalyte H-201; Naturalyte H-202; Naturalyte H-206; Naturalyte H-208; Naturalyte H-223; Naturalyte H-224; Naturalyte H-225; Naturalyte H-226; Naturalyte H-227; Naturalyte H-228; Naturalyte H-229; Naturalyte H-230; Naturalyte H-232; Naturalyte H-251; Naturalyte H-252; Naturalyte H-260; Naturalyte H-320; Naturalyte H-321; Naturalyte H-330; Naturalyte H-331; Naturalyte H-332; Naturalyte H-400; Naturalyte H-401; Naturalyte H-402; Naturalyte H-407; Naturalyte H-408; Naturalyte H-410; Naturalyte H-602; Naturalyte H-608; Naturalyte H-615; Naturalyte H-616; Naturalyte H-617; Naturalyte H-623; Naturalyte H-624; Naturalyte H-625; Naturalyte H-630; Naturalyte H-631; Naturalyte H-661; Naturalyte H-690; Naturalyte H-702; Naturalyte H-706; Navstel; Nutrilyte II; Nxstage Pureflow Dialysate Concentrate (sak 303); Nxstage Pureflow Dialysate Concentrate (sak 304); Nxstage Pureflow Dialysate Concentrate (sak 305); Nxstage Pureflow Dialysate Concentrate (sak-301); Nxstage Pureflow Dialysate Concentrate (sak-302); Nxstage Pureflow Solution Rfp-204-can; Nxstage Pureflow Solution Rfp-207-can; Nxstage Pureflow Solution Rfp-209-can; Odan Balanced Salt Solution; Olimel 3.3% E; Olimel 4.4% E; Olimel 5.7% E; OroMin; Periolimel 2.5% E; Phoxillum Bk4/2.5; Physioneal 40 Glucose 1.36% W/V 13.6mg/ml Clear-flex; Physioneal 40 Glucose 1.36% W/V 13.6mg/ml Solution for Peritoneal Dialysis; Physioneal 40 Glucose 2.27% W/V 22.7 mg/ml Clear-flex; Physioneal 40 Glucose 2.27% W/V 22.7 mg/ml, Solution for Peritoneal Dialysis; Physioneal 40 Glucose 3.86% W/V 38.6 mg/ml Clear-flex; Physioneal 40 Glucose 3.86% W/V 38.6mg/ml, Solution for Peritoneal Dialysis; Plegisol; Potas Chlor 20meq 5% Dex and Lactate Ringer; Potassium Chlor 40meq 5% Dex & Lac Ring; Potassium Chloride In Lactated Ringer's Injection; Prismasol 0; Prismasol 2; Prismasol 4; Quixil; R04903 Liq; R04909 Liq; R04919 Liq; R04922 Liq; R04931 Liq; R04936 Liq; R04945 Liq; R04946 Liq; R04972 Liq; R04973 Liq; Ringer's Inj; Ringer's Injection USP; Ringers; Rs-274; Salivart Aer; Salivart Oral Moisturizer; Sb 1000; Sb 1004; Sb 1005; Sb 1006; Sb-110; Sb-111; Sb-119; Sb-123; Sb-127; Sb-131; Sb-132; Selectbag One (ax050g); Selectbag One (ax125g); Selectbag One (ax150g); Selectbag One (ax200g); Selectbag One (ax225g); Selectbag One (ax250g); Selectbag One (ax2525g); Selectbag One (ax2550g); Selectbag One (ax275g); Selectbag One (ax325g); Selectbag One (ax350g); Selectbag One (ax450g); Selutrio 10; Selutrio 40; TPN Electrolytes; Tqm Acid Concentrate A1280; Vamin N; Vivia Acid
+
+>  <SALTS>  (1) 
+Calcium chloride dihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00840
+
+>  <SMILES>  (1) 
+[Cl-].[Cl-].[Ca++]
+
+>  <SYNONYMS>  (1) 
+Calcium chloride anhydrous; Calcium chloride, anhydrous; calcium(2+) chloride
+
+$$$$

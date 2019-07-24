@@ -1,0 +1,201 @@
+961
+     RDKit          2D
+
+ 40 41  0  0  1  0  0  0  0  0999 V2000
+    4.5080   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2  4  1  0
+  2  8  1  0
+  2 10  1  0
+  3  9  1  0
+  3 11  1  0
+  4  5  1  0
+  4  9  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 14  1  0
+ 12 16  1  0
+ 13 15  2  0
+ 13 17  1  0
+ 14 18  2  0
+ 15 18  1  0
+  3 19  1  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.16
+
+>  <ALOGPS_LOGS>  (1) 
+-2.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.21e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00961
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00961
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+246.173213336
+
+>  <FORMULA>  (1) 
+C15H22N2O
+
+>  <GENERIC_NAME>  (1) 
+Mepivacaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H22N2O/c1-11-7-6-8-12(2)14(11)16-15(18)13-9-4-5-10-17(13)3/h6-8,13H,4-5,9-10H2,1-3H3,(H,16,18)
+
+>  <INCHI_KEY>  (1) 
+INWLQCZOYSRPNW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Scandicaine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.607636461108108
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-(2,6-dimethylphenyl)-1-methylpiperidine-2-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+3.191619869666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.623901615091178
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.253864226422989
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.34
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.31970000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mepivacaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+246.348
+
+>  <PRODUCTS>  (1) 
+2% Polocaine Dental With Levonordefrin 1:20,000; 3% Polocaine Dental; Carbocaine; Carbocaine  Liq 2%; Carbocaine 1%; Carbocaine 2%; Carbocaine 2% With Neo-cobefrin; Carbocaine 3%; Carbocaine Inj Liq 10mg/ml; Carbocaine Inj Liq 20mg/ml; Carbocaine Liq 1%; Carbocaine with Neo-Cobefrin; IQ Dental Mepivacaine; Isocaine; Isocaine HCl Inj 2%; Isocaine HCl Inj 3%; Leep RediKit; Mepivacaine; Mepivacaine Hydrochloride; Mepivacaine Hydrochloride and Levonordefrin; Mepivacaine Hydrochloride with Levonordefrin; Mepivacaine With Levonordefrin; Mepivacaine with levonordefrin; Mepivicaine Hydrochloride Injection, USP 3%; Pearson Mepivacaine; Polocaine; Polocaine-MPF; Scandonest 2% Special Inj; Scandonest 2% With Levonordefrin; Scandonest 3% Plain Inj; Scandonest L; Scandonest Plain
+
+>  <SALTS>  (1) 
+Mepivacaine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01094
+
+>  <SMILES>  (1) 
+CN1CCCCC1C(=O)NC1=C(C)C=CC=C1C
+
+>  <SYNONYMS>  (1) 
+1-methyl-2',6'-pipecoloxylidide; DL-Mepivacaine; Mepivacaina; Mepivacainum; N-(2,6-Dimethylphenyl)-1-methyl-2-piperidinecarboxamide; N-(2,6-Dimethylphenyl)-1-methylpiperidine-2-carboxamide
+
+$$$$

@@ -1,0 +1,173 @@
+
+     RDKit          2D
+
+ 28 28  0  0  0  0  0  0  0  0999 V2000
+    0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105   -1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395   -1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  2  0
+  5  3  1  0
+  7  1  1  0
+  8  2  1  0
+  8  3  2  0
+  9  4  1  0
+  9  5  2  0
+ 10  6  1  0
+ 10  7  2  0
+ 11 10  1  0
+ 12  8  1  0
+ 13 12  1  0
+ 14 12  1  0
+ 15 12  1  0
+ 16  6  3  0
+ 17  9  1  0
+ 17 11  1  0
+ 18  7  1  0
+ 19 11  2  0
+  1 20  1  0
+  1 21  1  0
+  1 22  1  0
+  2 23  1  0
+  3 24  1  0
+  4 25  1  0
+  5 26  1  0
+ 17 27  1  0
+ 18 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.30
+
+>  <ALOGPS_LOGS>  (1) 
+-4.34
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.24e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB08880
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB08880
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+270.061612157
+
+>  <FORMULA>  (1) 
+C12H9F3N2O2
+
+>  <GENERIC_NAME>  (1) 
+Teriflunomide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H9F3N2O2/c1-7(18)10(6-16)11(19)17-9-4-2-8(3-5-9)12(13,14)15/h2-5,18H,1H3,(H,17,19)/b10-7-
+
+>  <INCHI_KEY>  (1) 
+UTNUDOFZCWSZMS-YFHOEESVSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.152880031825852
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2Z)-2-cyano-3-hydroxy-N-[4-(trifluoromethyl)phenyl]but-2-enamide
+
+>  <JCHEM_LOGP>  (1) 
+2.138883199333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+13.077413112411985
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.483074968734172
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.214976920842886
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+73.12
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.3928
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+teriflunomide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+270.2073
+
+>  <PRODUCTS>  (1) 
+Aubagio
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00364; DB03805
+
+>  <SMILES>  (1) 
+C\C(O)=C(/C#N)C(=O)NC1=CC=C(C=C1)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+(Z)-2-cyano-alpha,alpha,alpha-trifluoro-3-hydroxy-p-crotonotoluidide; A 77-1726; A 771726; A771726; HMR 1726; Teriflunomida; Tériflunomide; Teriflunomidum
+
+$$$$

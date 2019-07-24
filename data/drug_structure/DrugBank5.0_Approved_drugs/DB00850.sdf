@@ -1,0 +1,229 @@
+850
+     RDKit          2D
+
+ 53 56  0  0  0  0  0  0  0  0999 V2000
+    8.8480   -1.8712    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.9361   -3.5410    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    3.0581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073    0.5834    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    1.4083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9361   -1.8912    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    0.1710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073    1.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    0.5834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    1.8208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216    0.1710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216   -0.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    1.8208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9361   -1.0664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    2.6456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6504   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6504   -3.1286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216   -3.1286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3878   -1.8626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4843   -1.8626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3878   -3.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4843   -3.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1352   -2.2865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7368   -2.2865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1352   -3.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7368   -3.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 24  1  0
+  2 18  1  0
+  2 19  1  0
+  3 15  1  0
+  4  7  1  0
+  4  8  1  0
+  4 11  1  0
+  5  9  1  0
+  5 10  1  0
+  5 13  1  0
+  6 14  1  0
+  6 16  1  0
+  6 17  1  0
+  7  9  1  0
+  8 10  1  0
+ 11 12  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 16 18  2  0
+ 16 20  1  0
+ 17 19  2  0
+ 17 21  1  0
+ 18 22  1  0
+ 19 23  1  0
+ 20 24  2  0
+ 21 25  2  0
+ 22 26  2  0
+ 23 27  2  0
+ 24 26  1  0
+ 25 27  1  0
+  3 28  1  0
+  7 29  1  0
+  7 30  1  0
+  8 31  1  0
+  8 32  1  0
+  9 33  1  0
+  9 34  1  0
+ 10 35  1  0
+ 10 36  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 12 39  1  0
+ 12 40  1  0
+ 13 41  1  0
+ 13 42  1  0
+ 14 43  1  0
+ 14 44  1  0
+ 15 45  1  0
+ 15 46  1  0
+ 20 47  1  0
+ 21 48  1  0
+ 22 49  1  0
+ 23 50  1  0
+ 25 51  1  0
+ 26 52  1  0
+ 27 53  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.15
+
+>  <ALOGPS_LOGS>  (1) 
+-4.23
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.37e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00850
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00850
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+403.148510866
+
+>  <FORMULA>  (1) 
+C21H26ClN3OS
+
+>  <GENERIC_NAME>  (1) 
+Perphenazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H26ClN3OS/c22-17-6-7-21-19(16-17)25(18-4-1-2-5-20(18)27-21)9-3-8-23-10-12-24(13-11-23)14-15-26/h1-2,4-7,16,26H,3,8-15H2
+
+>  <INCHI_KEY>  (1) 
+RGCVKNLCSQQDEP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Decentan; Emesinal; Fentazin; Perphenan; PZC; Trilafon; Trilifan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+44.77499972085428
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-{4-[3-(2-chloro-10H-phenothiazin-10-yl)propyl]piperazin-1-yl}ethan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+3.6920178093333327
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.593098118515542
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.210900734200099
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.950000000000003
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+116.09870000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+perphenazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+403.969
+
+>  <PRODUCTS>  (1) 
+Apo Peram Tab 2-25; Apo Peram Tab 3-15; Elavil Plus Tab; Etrafon 2 10; Etrafon A Tab; Etrafon D Tab; Etrafon F Tab; PMS Perphenazine Concentrate Liq 3.2mg/ml; PMS Perphenazine Tab 16mg; PMS Perphenazine Tab 2mg; PMS Perphenazine Tab 4mg; PMS Perphenazine Tab 8mg; PMS-levazine 2/25 Tab; PMS-levazine 3/15 Tab; PMS-levazine 4/25 Tab; Perphenazine; Perphenazine 16 Tab; Perphenazine 2 Tab 2mg; Perphenazine 8 Tab 8mg; Perphenazine Tab 2mg; Perphenazine Tab 4mg; Perphenazine and Amitriptyline Hydrochloride; Phenazine 16 Tab; Phenazine 2 Tab; Phenazine 4 Tab; Phenazine 8 Tab; Proavil Tab; Triavil Tab; Trilafon Conc 16mg/5ml; Trilafon Inj 5mg/ml; Trilafon Syr 2mg/5ml; Trilafon Tab 2mg; Trilafon Tab 4mg; Trilafon Tab 8mg
+
+>  <SALTS>  (1) 
+Perphenazine enanthate; Perphenazine heptanoate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00429
+
+>  <SMILES>  (1) 
+OCCN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1
+
+>  <SYNONYMS>  (1) 
+Etaperazin; Etaperazine; Ethaperazine; Perfenazina; Perphenazin; Perphénazine
+
+$$$$

@@ -1,0 +1,116 @@
+
+     RDKit          2D
+
+  8  5  0  0  0  0  0  0  0  0999 V2000
+   -2.9696    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4546    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6296   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6296    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6296    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8046    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4546    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  2  0
+  4  5  1  0
+  4  6  1  0
+  4  7  1  0
+  6  8  1  0
+M  CHG  4   1   1   2   1   5  -1   7  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09414
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09414
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+173.888658754
+
+>  <FORMULA>  (1) 
+HK2O4P
+
+>  <GENERIC_NAME>  (1) 
+Dipotassium phosphate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2K.H3O4P/c;;1-5(2,3)4/h;;(H3,1,2,3,4)/q2*+1;/p-2
+
+>  <INCHI_KEY>  (1) 
+ZPWVASYFFYYZEW-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.2347000379981
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dipotassium hydrogen phosphate
+
+>  <JCHEM_LOGP>  (1) 
+-1.0201038226666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.951626889535468
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.7961261340181292
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.42
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+12.4085
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dipotassium hydrogen phosphate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+174.1759
+
+>  <PRODUCTS>  (1) 
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; Aminosyn 10% W Electrolytes; Aminosyn 8.5% Injection With Electrolytes; Aminosyn II 10% With Electrolytes; Artisial; Clinimix E; Dextrose 50% Inj W Electrolytes PF Abbovac; Instillation Medium for Immucyst; Ionosol and Dextrose; Isolyte M In 5% Dextrose; Potassium Phosphate Inj 3mmp/ml; Potassium Phosphates; Potassium Phosphates Inj; Potassium Phosphates Injection, USP; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; Salivart Aer; Salivart Oral Moisturizer; Tianshi Vital Powder I; Tianshi Vital Powder II; Tianshi Vital Powder III; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E
+
+>  <SMILES>  (1) 
+[K+].[K+].OP([O-])([O-])=O
+
+>  <SYNONYMS>  (1) 
+Di-potassium hydrogen phosphate; Dibasic potassium phosphate; Dipotassium acid phosphate; Dipotassium hydrogen monophosphate; Dipotassium hydrogen orthophosphate; Dipotassium hydrogen phosphate; Dipotassium monophosphate; Kali phosphoricum; Phosphoric acid, dipotassium salt; Phosphoric acid, potassium salt (1:2); Potassium phosphate dibasic; Potassium phosphate, dibasic; Potassium phosphate,dibasic; Secondary potassium phosphate
+
+$$$$

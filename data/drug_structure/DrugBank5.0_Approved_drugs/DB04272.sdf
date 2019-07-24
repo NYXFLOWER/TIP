@@ -1,0 +1,161 @@
+
+     RDKit          2D
+
+ 21 20  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4 11  1  0
+  2  1  2  0
+  3  1  1  0
+  5  4  2  0
+  6  4  1  0
+  8  7  2  0
+ 10  8  1  0
+  8  9  1  0
+ 12 10  1  0
+ 11 12  1  0
+  1 12  1  0
+ 12 13  1  0
+  3 14  1  0
+  6 15  1  0
+  9 16  1  0
+ 10 17  1  0
+ 10 18  1  0
+ 11 19  1  0
+ 11 20  1  0
+ 13 21  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.33
+
+>  <ALOGPS_LOGS>  (1) 
+-0.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.06e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB04272
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB04272
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical; vet_approved
+
+>  <EXACT_MASS>  (1) 
+192.02700261
+
+>  <FORMULA>  (1) 
+C6H8O7
+
+>  <GENERIC_NAME>  (1) 
+Citric Acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)
+
+>  <INCHI_KEY>  (1) 
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.535026604328738
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxypropane-1,2,3-tricarboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.3226874519999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-3
+
+>  <JCHEM_PKA>  (1) 
+4.674836176324
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.0479515131680714
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.185693450231931
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+132.13
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.6239
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+citric acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+192.1235
+
+>  <PRODUCTS>  (1) 
+A-C-D Solution; ACD Blood-Pack Units (PL 146 Plastic); ACD Solution Modified; Acd A; Acd-A; Additive Solution Formula 3 As-3; Alka Seltzer; Alka Seltzer Evt; Alka Seltzer Flavoured; Alka Seltzer Original; Alka-Seltzer; Alka-Seltzer Extra Strength; Alka-Seltzer Gold; Alka-Seltzer HEARTBURN; Alka-Seltzer Heartburn; Alka-Seltzer Lemon Lime; Alka-Seltzer Original; Alka-Seltzer XTRA STRENGTH; Alka-seltzer Flavoured; Alka-seltzer Flavoured - Evt; All-Natural Pen Spray; Anticoagulant Cit Phos Dex Adenine Sol USP; Anticoagulant Citrate Dextr Sol Formula A USP; Anticoagulant Citrate Dextrose A; Anticoagulant Citrate Dextrose A ACD-A; Anticoagulant Citrate Dextrose Solution USP (acd) Formula A; Anticoagulant Citrate Dextrose Solution USP (acd) Formula B; Anticoagulant Citrate Phosphate Dextrose (CPD) Blood-Pack Units in PL 146 Plastic; Anticoagulant Solution Citrate Phosphate Dextrose (cpd); As 3; Bicaruvas; Blood Pack Unit Cpd; Bromo Seltzer; CPDA-1 Blood Collection System; CVS Health Antacid and Pain Reliever; Citracleen; Citrasate C0125; Citrasate C10125; Citrasate C1125; Citrasate C1150; Citrasate C2125; Citrasate C2150; Citrasate C3125; Citrasate C3150; Citrasate C4125; Citrocarbonate Eff Pws; Clenpiq; Cpd; Cpd Adenine Cpda 1; Cpd Solution; Cpda-1; Cytra-K Crystals; Effervescent Antacid and Pain Relief; Effervescent Pain Relief; Effervescent Pain Relief Fast Relief; Effervescent Pain Relief Fast Relief Fast Relief; EnLyte; Haemonetics Additive Solution Formula 3 (AS-3); Haemonetics Anticoagulant Citrate Dextrose Solution; Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (CP2D); Hand Sanitizer; Hand Washing; Hemasate Ultra Hs0125; Hemasate Ultra Hs1125; Hemasate Ultra Hs1150; Hemasate Ultra Hs2125; Hemasate Ultra Hs2150; Hemasate Ultra Hs3125; Hemasate Ultra Hs3150; Hemasate Ultra Hs4125; Hemosate Ultra Hs0125; Hemosate Ultra Hs1125; Hemosate Ultra Hs1150; Hemosate Ultra Hs2125; Hemosate Ultra Hs2150; Hemosate Ultra Hs3125; Hemosate Ultra Hs3150; Hemosate Ultra Hs4125; Heparin Sodium 1000units In 0.9% Sodium Chloride Injection USP; Heparin Sodium In 5% Dextrose Injection, 25000unit/500ml; Leukotrap WB System; Lytren; Lytren Rhs Liq; Medique Medi Seltzer; Neutra-seltzer; Nutricel Additive System - CP2D; Oracit; Oral Purgative; Pain Relief Fast Relief; Pico-salax; Picodan; Picoflo; Picot Plus Effervescent; Potassium Citrate Citric Acid Crystals; Potassium Citrate and Citric Acid; Potassium Citrate-Citric Acid; Potassium Citrate-Sodium Citrate-Citric Acid; Premier Value Antacid and Pain Relief Medicine; Prepopik; Purg-odan; Renacidin; Riga Purgative Lemon Flav Liq; Sal De Uvas Picot; Sal de Uvas Picot; Sodium Citrate and Citric Acid; Sodium Citrate-Citric Acid; Sterile Cord Blood Collection Unit; Sterile Cord Blood Collection Unit (MSC1207DD); Stop Hair; TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1); Top Value Effervescent Pain Relief; Tricitrates; Urologic G for Irrigation; Urologic Solution G; Vida Mia Pain Relief; Whitening Lemon Peel; WinCo Foods Effervescent Antacid and Pain Relief; Zee-Seltzer Antacid and Pain Reliever; bdr Re-action natural low base skin refiner exfoliation essence
+
+>  <SALTS>  (1) 
+Citric acid monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00922
+
+>  <SMILES>  (1) 
+OC(=O)CC(O)(CC(O)=O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+2-Hydroxytricarballylic acid; 3-Carboxy-3-hydroxypentane-1,5-dioic acid; Citric Acid, Anhydrous; Citronensäure
+
+$$$$

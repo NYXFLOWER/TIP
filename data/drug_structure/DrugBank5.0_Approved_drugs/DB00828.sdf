@@ -1,0 +1,153 @@
+828
+     RDKit          2D
+
+ 15 15  0  0  1  0  0  0  0  0999 V2000
+    3.6020    0.0231    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.4356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    0.0231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6020    0.8481    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6020   -0.8019    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770    0.0231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.3894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.1039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  1  0
+  1  5  2  0
+  6  1  1  1
+  6  2  1  0
+  2  7  1  0
+  6  7  1  0
+  7  8  1  6
+  3  9  1  0
+  4 10  1  0
+  6 11  1  0
+  7 12  1  0
+  8 13  1  0
+  8 14  1  0
+  8 15  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.86
+
+>  <ALOGPS_LOGS>  (1) 
+-0.47
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.69e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00828
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00828
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+138.008195224
+
+>  <FORMULA>  (1) 
+C3H7O4P
+
+>  <GENERIC_NAME>  (1) 
+Fosfomycin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H7O4P/c1-2-3(7-2)8(4,5)6/h2-3H,1H3,(H2,4,5,6)/t2-,3+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+YMDXZJFXQJVXBF-STHAYSLISA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Veramina
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.802823765291116
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+[(2R,3S)-3-methyloxiran-2-yl]phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.7377748799999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+7.82082800096408
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.2504967658604222
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.306369310142533
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+70.06
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+25.8737
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fosfomycin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+138.059
+
+>  <PRODUCTS>  (1) 
+Monurol
+
+>  <SALTS>  (1) 
+Fosfomycin calcium monohydrate; Fosfomycin disodium; Fosfomycin tromethamine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00987
+
+>  <SMILES>  (1) 
+C[C@@H]1O[C@@H]1P(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+Fosfocina; Phosphomycin; Phosphonomycin
+
+$$$$

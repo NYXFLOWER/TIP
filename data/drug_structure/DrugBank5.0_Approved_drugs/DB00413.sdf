@@ -1,0 +1,183 @@
+
+     RDKit          2D
+
+ 31 32  0  0  0  0  0  0  0  0999 V2000
+   -0.5893    0.9429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3038    0.5304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3038   -0.2947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5893   -0.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1252   -0.2947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1252    0.5304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9098    0.7853    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9098   -0.5496    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3947    0.1178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0182    0.9429    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2197    0.1178    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7327    0.5304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4472    0.9429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1616    0.5304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  6  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  8  1  0
+  6  5  2  0
+  7  6  1  0
+  7  9  1  0
+  8  9  2  0
+  2 10  1  1
+  9 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  3 18  1  0
+  3 19  1  0
+  4 20  1  0
+  4 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 14 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.18
+
+>  <ALOGPS_LOGS>  (1) 
+-3.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.40e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00413
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00413
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+211.114318249
+
+>  <FORMULA>  (1) 
+C10H17N3S
+
+>  <GENERIC_NAME>  (1) 
+Pramipexole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H17N3S/c1-2-5-12-7-3-4-8-9(6-7)14-10(11)13-8/h7,12H,2-6H2,1H3,(H2,11,13)/t7-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+FASDKYOPVNHBLU-ZETCQYMHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Glepark; Medopexol; Miramel; Miraper; Mirapexin; Pexola; Sifrol; Sifrol ER
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.468695615682893
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(6S)-N6-propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine
+
+>  <JCHEM_LOGP>  (1) 
+1.7642826546666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.661047871514864
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.310439610499934
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+50.94
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.7672
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pramipexole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.327
+
+>  <PRODUCTS>  (1) 
+Act Pramipexole; Apo-pramipexole; Auro-pramipexole; Ava-pramipexole; Dom-pramipexole; Mirapex; Mirapex ER; Mirapexin; Mylan-pramipexole; Ntp-pramipexole; Nu-pramipexole; PMS-pramipexole; Pramipexole; Pramipexole Accord; Pramipexole Dihydrochloride; Pramipexole Dihydrochloride Extended-Release; Pramipexole dihydrochloride; Sandoz Pramipexole; Sifrol; Teva-pramipexole
+
+>  <SALTS>  (1) 
+Pramipexole dihydrochloride monohydrate; Pramipexole hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00156
+
+>  <SMILES>  (1) 
+CCCN[C@H]1CCC2=C(C1)SC(N)=N2
+
+>  <SYNONYMS>  (1) 
+(-)-Pramipexole; (S)-N  6-propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine; Pramipexol; Pramipexole; Pramipexolum
+
+$$$$

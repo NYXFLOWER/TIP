@@ -1,0 +1,143 @@
+Structure #1
+     RDKit          2D
+
+ 12 11  0  0  0  0  0  0  0  0999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  3  5  2  0
+  3  6  1  0
+  1  7  1  0
+  1  8  1  0
+  1  9  1  0
+  2 10  1  0
+  4 11  1  0
+  6 12  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.79
+
+>  <ALOGPS_LOGS>  (1) 
+0.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.62e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB04398
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB04398
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+90.031694058
+
+>  <FORMULA>  (1) 
+C3H6O3
+
+>  <GENERIC_NAME>  (1) 
+Lactic Acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)
+
+>  <INCHI_KEY>  (1) 
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+8.051819865737096
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxypropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.47182951800000017
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+14.593508084825753
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.784942414122652
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6696493832413326
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+18.8398
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lactic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+90.0779
+
+>  <PRODUCTS>  (1) 
+(40 Mmols/l) Potassium Chloride In Lactated Ringer's Injection USP; 5% Dextrose In Lactated Ringer's Injection; Balance 1.5% Glucose, 1.25mmol/l Calcium; Balance 1.5% Glucose, 1.75mmol/l Calcium; Balance 2.3% Glucose, 1.25mmol/l Calcium; Balance 2.3% Glucose, 1.75mmol/l Calcium; Balance 4.25% Glucose, 1.25mmol/l Calcium; Balance 4.25% Glucose, 1.75mmol/l Calcium; Caneal Peritoneal Dialysis Solution; Cheongin Haejanghwan; Cheongin Haewoohwan; Cheongin Samrakhwan; Cuplex Gel; Curel Alpha Hydroxy Dry Skin Lotion; Delflex A Perit.dial.solN.W.1.5%dext.low mg; Delflex A Perit.dial.solN.W.2.5%dext.low mg; Delflex A Perit.dial.soln W.4.25%dext.low mg; Delflex A Periton.dial.solN.W.1.5% Dextrose; Delflex A Periton.dial.solN.W.4.25% Dextrose; Delflex A Periton.dial.soln. W.2.5% Dextrose; Delflex Perit.dial.soL.1.5%dex.low Ca Low mg; Delflex Perit.dial.soL.2.5%dex.low Ca Low mg; Delflex Perit.dial.soL.4.25%dex.low Calow mg; Delflex Peritoneal Dialysis Solution With 0.5% Dextrose; Dextrose 2.5% In Half Strength Lactated Ringer's Injection, USP; Dextrose 5% In Lactated Ringers; Dextrose 5% and Electrolyte No75 Inj; Dianeal Pd 101 Capd Solution W 0.5% Dextrose; Dianeal Pd 101 Capd Solution W 1.5% Dextrose; Dianeal Pd 101 Capd Solution W 2.5% Dextrose; Dianeal Pd 101 Capd Solution W 4.25% Dextrose; Dianeal Pd 102 Capd Solution W 1.5% Dextrose; Dianeal Pd 102 Capd Solution W 4.25% Dextrose; Dianeal Pd 104 Capd Solution W 0.5% Dextrose; Dianeal Pd109 Capd Solution; Dianeal Pd4 Capd Solution With 1.5% Dextrose and 2.5meq/l Calcium; Dianeal Pd4 Capd Solution With 2.5% Dextrose and 2.5meq/l Calcium; Dianeal Pd4 Capd Solution With 4.25% Dextrose and 2.5meq/l Calcium; Extraneal; Fresh Morning Bifidus bifidus; Glycerolyte 57 Solution; Hemosol Lg2; Hemosol Lg4; Hemosol Lo; Herbal Stemcell Aha Peel; Inpersol Lc With Dextrose 1.5% Liq; Inpersol Lc With Dextrose 2.5% Liq; Inpersol Lc With Dextrose 4.25% Liq; Inpersol Lm W 1.5% Dextrose; Inpersol Lm W 2.5% Dextrose; Inpersol Lm W 4.25% Dextrose; Inpersol W Dextrose 1.5%; Inpersol W Dextrose 2.5%; Inpersol W Dextrose 4.25% Inj; Inpersol With Dextrose 0.5%; Ionosol and Dextrose; Keri Fast Absorbing - Aha - Lot 5%; Keri Original - Aha - Lotion 5%; Kimchi Vitamin chewable multivitamin; Lactate 1-2-3 Injection; Lactate Chloride Dextrose Inj; Lactated Ringer's Injection; Lactated Ringer's Injection USP; Lactated Ringer's Irrigation; Lactated Ringer's Irrigation Sol; Lactated Ringers; Lactated Ringers Inj USP; Lactated Ringers Inj W 5% Dextrose; Lactated Ringers Irrigation; Lactimol - Crm 10%; Nxstage Pureflow Dialysate Concentrate (sak 303); Nxstage Pureflow Dialysate Concentrate (sak 304); Nxstage Pureflow Dialysate Concentrate (sak 305); Nxstage Pureflow Dialysate Concentrate (sak-301); Nxstage Pureflow Dialysate Concentrate (sak-302); Nxstage Pureflow Solution Rfp-204-can; Nxstage Pureflow Solution Rfp-207-can; Nxstage Pureflow Solution Rfp-209-can; PRENATE Restore; Penederm Cream; Penederm Lotion; Physioneal 40 Glucose 1.36% W/V 13.6mg/ml Clear-flex; Physioneal 40 Glucose 1.36% W/V 13.6mg/ml Solution for Peritoneal Dialysis; Physioneal 40 Glucose 2.27% W/V 22.7 mg/ml Clear-flex; Physioneal 40 Glucose 2.27% W/V 22.7 mg/ml, Solution for Peritoneal Dialysis; Physioneal 40 Glucose 3.86% W/V 38.6 mg/ml Clear-flex; Physioneal 40 Glucose 3.86% W/V 38.6mg/ml, Solution for Peritoneal Dialysis; Potas Chlor 20meq 5% Dex and Lactate Ringer; Potassium Chlor 40meq 5% Dex & Lac Ring; Potassium Chloride In Lactated Ringer's Injection; Prism0cal; Prismasol 0; Prismasol 2; Prismasol 4; Selutrio 10; Selutrio 40; Sodium Lactate; Ti-U-lac Lotion; Tiacid Solution
+
+>  <SALTS>  (1) 
+Sodium lactate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01996; DB09294
+
+>  <SMILES>  (1) 
+CC(O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(±)-2-hydroxypropanoic acid; 2-Hydroxypropanoic acid; 2-Hydroxypropionic acid; Acidum lacticum; DL- lactic acid; DL-Lactic Acid; DL-Milchsäure; Lacticum acidum; Milchsäure; Milk acid; rac-lactic acid; α-hydroxypropanoic acid; α-hydroxypropionic acid
+
+$$$$

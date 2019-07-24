@@ -1,0 +1,137 @@
+
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  5  7  1  0
+  7  8  2  0
+  2  8  1  0
+  1  9  1  0
+  3 10  1  0
+  4 11  1  0
+  7 12  1  0
+  8 13  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.37
+
+>  <ALOGPS_LOGS>  (1) 
+-0.96
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.40e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13154
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13154
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+128.002892489
+
+>  <FORMULA>  (1) 
+C6H5ClO
+
+>  <GENERIC_NAME>  (1) 
+Parachlorophenol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H5ClO/c7-5-1-3-6(8)4-2-5/h1-4,8H
+
+>  <INCHI_KEY>  (1) 
+WXNZTHHGJRFXKQ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.024294368266357
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-chlorophenol
+
+>  <JCHEM_LOGP>  (1) 
+2.2737251706666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.963636620612126
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.261855903181934
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+32.8437
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chlorophenol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+128.556
+
+>  <PRODUCTS>  (1) 
+Camphorated Para Chlorophenol Liq; Caustinerf; Cresophene Liq
+
+>  <SMILES>  (1) 
+OC1=CC=C(Cl)C=C1
+
+>  <SYNONYMS>  (1) 
+4-Chlorophenol; 4-chlorphenol; p-Chlorophenol
+
+$$$$

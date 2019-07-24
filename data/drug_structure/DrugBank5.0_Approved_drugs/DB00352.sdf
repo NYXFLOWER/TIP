@@ -1,0 +1,153 @@
+2723601
+     RDKit          2D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+    3.5220    1.4933    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.9818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171    0.5071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.8206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.9818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2  8  1  0
+  2 10  1  0
+  3  7  1  0
+  3 11  1  0
+  4  8  1  0
+  4 11  2  0
+  5  9  1  0
+  5 10  2  0
+  6 10  1  0
+  7  8  2  0
+  7  9  1  0
+  2 12  1  0
+  3 13  1  0
+  6 14  1  0
+  6 15  1  0
+ 11 16  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.36
+
+>  <ALOGPS_LOGS>  (1) 
+-2.30
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.34e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00352
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00352
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+167.026565875
+
+>  <FORMULA>  (1) 
+C5H5N5S
+
+>  <GENERIC_NAME>  (1) 
+Tioguanine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H5N5S/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H4,6,7,8,9,10,11)
+
+>  <INCHI_KEY>  (1) 
+WYWHKKSPHMUBEB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Tioguanina; Tioguanine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.645580884623488
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-6,7-dihydro-3H-purine-6-thione
+
+>  <JCHEM_LOGP>  (1) 
+-0.34946934999999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.254381575136076
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.526449965810505
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.7004519894928056
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+79.09
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+46.891999999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+thioguanine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+167.192
+
+>  <PRODUCTS>  (1) 
+Lanvis; Tabloid
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00290
+
+>  <SMILES>  (1) 
+NC1=NC(=S)C2=C(N1)N=CN2
+
+>  <SYNONYMS>  (1) 
+2-amino-1H-purine-6(7H)-thione; 2-aminopurine-6-thiol; Thioguanine; Tioguanin; Tioguanine; Tioguaninum
+
+$$$$

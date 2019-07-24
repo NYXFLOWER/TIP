@@ -1,0 +1,207 @@
+ 
+     RDKit          2D
+
+ 42 45  0  0  0  0  0  0  0  0999 V2000
+   13.5847   -8.0997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0879   -7.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2856   -6.6446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0296   -6.3036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4141   -8.1146    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7692   -6.6707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9382   -7.4782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6915   -6.0733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8997   -6.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7020   -7.1028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2962   -7.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7236   -7.7361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3396   -7.1848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1706   -6.3773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3852   -6.1194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2104   -8.8370    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3835   -8.8370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9700   -9.5531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3835  -10.2693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2104  -10.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6238   -9.5531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1389   -7.4474    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   11.9664  -10.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0
+  1  5  2  0
+  4  6  1  0
+  2  3  2  0
+  5  7  1  0
+  1  2  1  0
+  6  7  2  0
+  3  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+  2 11  1  0
+  7 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+  6 15  1  0
+  1 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 16 21  1  0
+ 13 22  1  0
+ 19 23  1  0
+  4 24  1  0
+  8 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 17 32  1  0
+ 17 33  1  0
+ 18 34  1  0
+ 18 35  1  0
+ 20 36  1  0
+ 20 37  1  0
+ 21 38  1  0
+ 21 39  1  0
+ 23 40  1  0
+ 23 41  1  0
+ 23 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.67
+
+>  <ALOGPS_LOGS>  (1) 
+-3.25
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.86e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00363
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00363
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+326.129824335
+
+>  <FORMULA>  (1) 
+C18H19ClN4
+
+>  <GENERIC_NAME>  (1) 
+Clozapine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H19ClN4/c1-22-8-10-23(11-9-22)18-14-4-2-3-5-15(14)20-16-7-6-13(19)12-17(16)21-18/h2-7,12,20H,8-11H2,1H3
+
+>  <INCHI_KEY>  (1) 
+QZUDBNBUXVUHMW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Azaleptine; Cloment; Clonex; Clopin; Clopine; Clopsine; Clorazem; Lanolept; Lapenax; Leponex; Lodux; Lozapin; Luften; Mezapin; Refract; Refraxol; Sensipin; Sequax; Sizopin; Sizopril; Syclop; Syzopin; Tanyl; Uspen; Zapen; Zapenia; Zapine; Ziproc; Zopin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.76978422413783
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-chloro-10-(4-methylpiperazin-1-yl)-2,9-diazatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,9,11,13-heptaene
+
+>  <JCHEM_LOGP>  (1) 
+3.400241024333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.900124965902936
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.351009067472559
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+30.870000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+97.35649999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+clozapine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+326.823
+
+>  <PRODUCTS>  (1) 
+Aa-clozapine; Auro-clozapine; Clozapine; Clozaril; FazaClo; Gen-clozapine; PMS-clozapine; Sandoz Clozapine; Versacloz
+
+>  <SALTS>  (1) 
+Clozapine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00470
+
+>  <SMILES>  (1) 
+CN1CCN(CC1)C1=NC2=CC(Cl)=CC=C2NC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+Clozapin; Clozapine; Clozapinum
+
+$$$$

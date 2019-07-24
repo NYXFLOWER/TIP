@@ -1,0 +1,193 @@
+1057
+     RDKit          2D
+
+ 38 37  0  0  0  0  0  0  0  0999 V2000
+    3.3008    1.5700    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5863    1.1574    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8719    0.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1739    1.8719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9989    0.4429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4442    1.1574    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7298    1.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1586    0.7450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8567    1.8719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0318    0.4429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0153    1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1574    1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5863    2.5863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4429    0.7450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1739    3.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 11  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  2  0
+  3 12  1  0
+  4 13  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+  6 10  1  0
+  7 11  1  0
+ 12 14  1  0
+ 13 15  1  0
+  7 16  1  0
+  7 17  1  0
+  8 18  1  0
+  8 19  1  0
+  8 20  1  0
+  9 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 15 38  1  0
+M  CHG  1   6   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.15
+
+>  <ALOGPS_LOGS>  (1) 
+-2.99
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.97e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01057
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01057
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+256.113625809
+
+>  <FORMULA>  (1) 
+C9H23NO3PS
+
+>  <GENERIC_NAME>  (1) 
+Echothiophate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H23NO3PS/c1-6-12-14(11,13-7-2)15-9-8-10(3,4)5/h6-9H2,1-5H3/q+1
+
+>  <INCHI_KEY>  (1) 
+BJOLKYGKSZKIGU-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Echodide; Phospholine Iodide
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.65124589853474
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+diethyl {[2-(trimethylazaniumyl)ethyl]sulfanyl}phosphonate
+
+>  <JCHEM_LOGP>  (1) 
+-3.050055222805079
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-8.202808728963555
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+35.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+78.138
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+echothiophate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+256.323
+
+>  <PRODUCTS>  (1) 
+Phospholine Iodide - Liq Pws 3mg/5ml; Phospholine Iodide - Pws 12.5mg/5ml; Phospholine Iodide - Pws 6.25mg/5ml; Phospholine Iodide 12.5mg/5ml; Phospholine Iodide 3mg/5ml; Phospholine Iodide 6.25mg/5ml; Phospholine Iodide Ophthalmic; Phospholine Iodide Pws 6.25mg/5ml
+
+>  <SALTS>  (1) 
+Echothiophate iodide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00942
+
+>  <SMILES>  (1) 
+CCOP(=O)(OCC)SCC[N+](C)(C)C
+
+>  <SYNONYMS>  (1) 
+2-(Diethoxyphosphorylsulfanyl)ethyl-N,N,N-trimethylazanium iodide; Echothiophate; Ecothiopate; Ecothiopatum; Phospholine
+
+$$$$

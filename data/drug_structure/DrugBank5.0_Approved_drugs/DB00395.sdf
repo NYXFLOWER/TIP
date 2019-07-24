@@ -1,0 +1,200 @@
+395
+     RDKit          2D
+
+ 42 41  0  0  1  0  0  0  0  0999 V2000
+    6.3799   -0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    0.7846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089   -0.4529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.8654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3634   -1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234   -0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234    0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2379   -0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 14  1  0
+  2 10  1  0
+  2 16  1  0
+  3 14  2  0
+  4 16  2  0
+  5 14  1  0
+  5 15  1  0
+  6 16  1  0
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+  7 11  1  0
+  8 12  1  0
+ 12 13  1  0
+ 15 17  1  0
+ 15 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 15 36  1  0
+ 17 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+ 18 41  1  0
+ 18 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.76
+
+>  <ALOGPS_LOGS>  (1) 
+-2.52
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.92e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00395
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00395
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+260.173607266
+
+>  <FORMULA>  (1) 
+C12H24N2O4
+
+>  <GENERIC_NAME>  (1) 
+Carisoprodol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H24N2O4/c1-5-6-12(4,7-17-10(13)15)8-18-11(16)14-9(2)3/h9H,5-8H2,1-4H3,(H2,13,15)(H,14,16)
+
+>  <INCHI_KEY>  (1) 
+OFZCIYFFPZCNJE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Carisoma; Gencari; Genesafe; Hiranin; Listaflex; Sanoma; Tensaprin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.77196464252258
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(carbamoyloxy)methyl]-2-methylpentyl N-(propan-2-yl)carbamate
+
+>  <JCHEM_LOGP>  (1) 
+1.9243119289999993
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.561383387346432
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.057489105445953
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+90.64999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+67.10079999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+Soma
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+260.33
+
+>  <PRODUCTS>  (1) 
+CARISOPRODOL and ASPIRIN; Carisoprodol; Carisoprodol Immediate Release; Carisoprodol and Aspirin; Carisoprodol, Aspirin and Codeine Phosphate; Soma; Soma Tablets 350mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00417
+
+>  <SMILES>  (1) 
+CCCC(C)(COC(N)=O)COC(=O)NC(C)C
+
+>  <SYNONYMS>  (1) 
+(RS)-2-{[(aminocarbonyl)oxy]methyl}-2-methylpentyl isopropylcarbamate; Carisoprodate; Carisoprodol; Carisoprodolum; Isobamate; Isomeprobamate; Isopropyl meprobamate; Isopropylmeprobamate; Someprobamate
+
+$$$$

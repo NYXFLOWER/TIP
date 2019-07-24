@@ -1,0 +1,257 @@
+836
+     RDKit          2D
+
+ 67 70  0  0  0  0  0  0  0  0999 V2000
+    6.4896    4.5228    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.3794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3626   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    0.0148    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7254   -2.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    1.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    1.2523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5541    1.2523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    0.4273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5541    0.4273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396   -0.8103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -1.2228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -2.0478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2521    2.3794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -2.0478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -2.8728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9501   -2.0478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0771    2.3794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876   -2.7622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396   -3.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4106   -3.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2521    3.8083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4896    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0771    3.8083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.7622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396   -4.1103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4106   -4.1103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3573   -1.7996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8687   -3.1423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.0478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -4.5228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 26  1  0
+  2  6  1  0
+  3 17  2  0
+  4  9  1  0
+  4 10  1  0
+  4 11  1  0
+  5 17  1  0
+  5 31  1  0
+  5 32  1  0
+  6  7  1  0
+  6  8  1  0
+  6 14  1  0
+  7  9  1  0
+  8 10  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 15  1  0
+ 13 16  1  0
+ 13 17  1  0
+ 14 18  2  0
+ 14 19  1  0
+ 15 20  2  0
+ 15 22  1  0
+ 16 21  2  0
+ 16 23  1  0
+ 18 24  1  0
+ 19 25  2  0
+ 20 27  1  0
+ 21 28  1  0
+ 22 29  2  0
+ 23 30  2  0
+ 24 26  2  0
+ 25 26  1  0
+ 27 33  2  0
+ 28 34  2  0
+ 29 33  1  0
+ 30 34  1  0
+  2 35  1  0
+  7 36  1  0
+  7 37  1  0
+  8 38  1  0
+  8 39  1  0
+  9 40  1  0
+  9 41  1  0
+ 10 42  1  0
+ 10 43  1  0
+ 11 44  1  0
+ 11 45  1  0
+ 12 46  1  0
+ 12 47  1  0
+ 18 48  1  0
+ 19 49  1  0
+ 20 50  1  0
+ 21 51  1  0
+ 22 52  1  0
+ 23 53  1  0
+ 24 54  1  0
+ 25 55  1  0
+ 27 56  1  0
+ 28 57  1  0
+ 29 58  1  0
+ 30 59  1  0
+ 31 60  1  0
+ 31 61  1  0
+ 31 62  1  0
+ 32 63  1  0
+ 32 64  1  0
+ 32 65  1  0
+ 33 66  1  0
+ 34 67  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.44
+
+>  <ALOGPS_LOGS>  (1) 
+-5.74
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.60e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00836
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00836
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+476.223056017
+
+>  <FORMULA>  (1) 
+C29H33ClN2O2
+
+>  <GENERIC_NAME>  (1) 
+Loperamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C29H33ClN2O2/c1-31(2)27(33)29(24-9-5-3-6-10-24,25-11-7-4-8-12-25)19-22-32-20-17-28(34,18-21-32)23-13-15-26(30)16-14-23/h3-16,34H,17-22H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+RDOIQAHITMMDAJ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dimor; Fortasec; Imodium; Kaopectate II; Lopedium; Lopedium express; Lopex; Maalox Anti-Diarrheal; Pepto Diarrhea Control
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+52.66924387425545
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-N,N-dimethyl-2,2-diphenylbutanamide
+
+>  <JCHEM_LOGP>  (1) 
+4.771190858666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.964882601505003
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.409298603197188
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+43.78
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+139.31900000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+imodium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+477.038
+
+>  <PRODUCTS>  (1) 
+7 Select Anti Diarrheal; A D; Alti-loperamide - 2mg Caplet; Anti Diarrheal; Anti-Diarrheal; Anti-Diarrheal Loperamide HCl; Anti-Diarrheal loperamide HCl; Anti-diarrheal; Anti-diarrheal Caplets - 2mg; Antidiarrheal Relief; Apo-loperamide - Tab 2mg; Berkley and Jensen Anti Diarrheal; Care One Anti Diarrheal; Care One anti diarrheal loperamide hydrochloride; CareOne Diarrhea Control; CareOne Loperamide Hydrochloride; CareOne loperamide hydrochloride; Circle K Anti-Diarrheal; Core Values Anti Diarrheal; Dg Health Anti Diarrheal; Dg Health Loperamide Hydrochloride; Diahalt Caplets - 2mg; Diarr-eze; Diarr-eze - Liq Orl 0.2mg/ml; Diarrhea Relief; Diarrhea Relief - Caplets 2mg; Diarrhea Relief Liquid Gels; Dom-loperamide Caplets 2mg; Dom-loperamide Hydrochloride Solution-orl; Equaline Anti Diarrheal; Equaline loperamide hydrochloride; Equate Loperamide Hydrochloride; Equate anti diarrheal; Fad First Aid Direct Anti-diarrheal; Family Wellness Anti Diarrheal; Gadavyt Loperamide HCl; Good Neighbor Pharmacy Anti Diarrheal; Good Neighbor Pharmacy Loperamide Hydrochloride; Good Sense Anti Diarrheal; Good Sense Loperamide Hydrochloride; Good Sense anti diarrheal; Handy Solutions Anti-Diarrheal; Harmon Face Values Anti Diarrheal; Harris Teeter Anti Diarrheal; Harris Teeter Loperamide Hydrochloride; Health Mart Anti Diarrheal; Health Mart Loperamide Hydrochloride; Healthy Accents Anti Diarrheal; Imodium - Caplet 2mg; Imodium A-D; Imodium AD; Imodium Calming Liquid; Imodium Cap 2mg; Imodium Caplets 2mg; Imodium Complete Caplets; Imodium Complete Chewable Tablets; Imodium Liqui-gels; Imodium Oral Sol 0.2mg/ml; Imodium Quick Dissolve; Kirkland Signature Anti Diarrheal; Leader Anti Diarrheal; Leader Anti-diarrheal; Leader Loperamide; Leader Loperamide Hydrochloride; Lil Drug Store Anti-Diarrheal; Lil Drug Store Anti-Diarrheal Soft Gelatin; Loperacap; Loperamide; Loperamide HCl; Loperamide HCl Anti-Diarrheal; Loperamide Hydrochloride; Loperamide hydrochloride; Loperamide-2; MEDIQUE Diamode; Medex Anti-Diarrheal Relief; PHL-loperamide; PMS-loperamide - Caplet 2mg; PMS-loperamide Hydrochloride Solution.2mg/ml; Preferred Plus Loperamide; Preferred Plus Loperamide Hydrochloride; Rexall Anti Diarrheal; Rhoxal-loperamide; Riva-loperamide; Rx Act Anti Diarrheal; Sandoz Loperamide; ShopRite Anti Diarrheal; Signature Care Anti Diarrheal; Simply Right Anti Diarrheal; Smart Sense Anti Diarrheal; Smart Sense Loperamide Hydrochloride; Smart Sense anti diarrheal; Stomach Relief Anti Diarrheal; Sunmark Anti Diarrheal; Sunmark Loperamide Hydrochloride; Teva-loperamide; Topcare Anti Diarrheal; Topcare Loperamide Hydrochloride; Up and Up anti diarrheal; Vaprino A-D; good neighbor pharmacy Loperamide hydrochloride
+
+>  <SALTS>  (1) 
+Loperamide hydrochloride; Loperamide oxide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00275
+
+>  <SMILES>  (1) 
+CN(C)C(=O)C(CCN1CCC(O)(CC1)C1=CC=C(Cl)C=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Loperamid; Loperamida; Lopéramide; Loperamidum
+
+$$$$

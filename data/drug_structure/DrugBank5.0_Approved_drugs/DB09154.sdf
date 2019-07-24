@@ -1,0 +1,162 @@
+
+     RDKit          2D
+
+ 21 17  0  0  0  0  0  0  0  0999 V2000
+    1.3480    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6336    2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4914    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2059    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0809    2.7770    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.1105    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  1  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  5 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+  5 13  1  0
+  1 17  1  0
+  1 18  1  0
+  6 19  1  0
+  6 20  1  0
+ 13 21  1  0
+M  CHG  6   4  -1   9  -1  12  -1  14   1  15   1  16   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.55
+
+>  <ALOGPS_LOGS>  (1) 
+-0.54
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.37e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09154
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09154
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+257.97283534
+
+>  <FORMULA>  (1) 
+C6H5Na3O7
+
+>  <GENERIC_NAME>  (1) 
+Sodium Citrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8O7.3Na/c7-3(8)1-6(13,5(11)12)2-4(9)10;;;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);;;/q;3*+1/p-3
+
+>  <INCHI_KEY>  (1) 
+HRXKRNGNAMMEHJ-UHFFFAOYSA-K
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+21
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.225921410589983
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+trisodium 2-hydroxypropane-1,2,3-tricarboxylate
+
+>  <JCHEM_LOGP>  (1) 
+-1.3226874519999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-3
+
+>  <JCHEM_PKA>  (1) 
+4.674836176324
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.0479515131680732
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.185693450231931
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+140.61999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+68.13520000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+trisodium citrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+258.068
+
+>  <PRODUCTS>  (1) 
+A-C-D Solution; ACD Blood-Pack Units (PL 146 Plastic); Acd A; Acd-A; Additive Solution Formula 3 As-3; Amo Endosol Solution; Anticoagulant Cit Phos Dex Adenine Sol USP; Anticoagulant Citrate Dextr Sol Formula A USP; Anticoagulant Citrate Dextrose A; Anticoagulant Citrate Dextrose A ACD-A; Anticoagulant Citrate Dextrose Solution USP (acd) Formula A; Anticoagulant Citrate Dextrose Solution USP (acd) Formula B; Anticoagulant Citrate Phosphate Dextrose (CPD) Blood-Pack Units in PL 146 Plastic; Anticoagulant Sod Citrate Soltn 4gm/100ml; Anticoagulant Sodium Citrate; Anticoagulant Sodium Citrate 4% W/V Solution, USP; Anticoagulant Sodium Citrate Sol 4% USP; Anticoagulant Sodium Citrate Solution USP; Anticoagulant Solution Citrate Phosphate Dextrose (cpd); As 3; Balanced Salt; Balanced Salt Solution; Blood Pack Unit Cpd; Bromo Seltzer; Bronchodex Fort-DM Syr; Bss; Bss Sterile Irrigating Solution; CPDA-1 Blood Collection System; Citrocarbonate Eff Pws; Cpd; Cpd Adenine Cpda 1; Cpd Solution; Cpda-1; Dalmacol; EnLyte; Haemonetics Additive Solution Formula 3 (AS-3); Haemonetics Anticoagulant Citrate Dextrose Solution; Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (CP2D); Haemonetics Anticoagulant Sodium Citrate; InterSol; Iocare Balanced Salt Solution; Lemon Eno 2650mg/pck; Leukotrap WB System; Lytren; Lytren Rhs Liq; Mercodol With Decapryn; Metrate; Microlax Micro Enema; Microlax Micro-enema; Nauzene; Neo Tuss Syr; Nutricel Additive System - CP2D; Odan Balanced Salt Solution; Oracit; Orange Eno 2645mg/pck; Pleo Alkala Antacid; Potassium Citrate-Sodium Citrate-Citric Acid; Ratio-calmydone; Rehydralyte; Sodium Citrate; Sodium Citrate Blood-Pack Units, (PL 146 Plastic); Sodium Citrate and Citric Acid; Sodium Citrate-Citric Acid; Sterile Cord Blood Collection Unit; Sterile Cord Blood Collection Unit (MSC1207DD); TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1); Tricitrates; Vito Bronches Sirop; triCitrasol
+
+>  <SALTS>  (1) 
+Trisodium citrate dihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09159
+
+>  <SMILES>  (1) 
+[Na+].[Na+].[Na+].OC(CC([O-])=O)(CC([O-])=O)C([O-])=O
+
+>  <SYNONYMS>  (1) 
+Sodium citrate anhydrous; Sodium citrate, anhydrous; trisodium citrate anhydrous; Trisodium citrate, anhydrous
+
+$$$$

@@ -1,0 +1,162 @@
+
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    5.0013    5.9411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    3.0536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309    2.1965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    2.1965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    5.5286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    4.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    5.5286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    4.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.4661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    5.9411    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4760    2.9812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8109    2.9812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    5.9411    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    4.7036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    4.2911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    3.4661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  5  1  1  0
+  7  6  2  0
+  8  6  1  0
+ 10  7  1  0
+ 11  3  1  0
+ 11  9  2  0
+ 12  4  1  0
+ 12  9  1  0
+ 13  5  2  0
+ 13  7  1  0
+ 14  5  1  0
+ 14  8  2  0
+ 15  6  1  0
+ 15  9  1  0
+ 16  2  1  0
+ 16  8  1  0
+  1 17  1  0
+  1 18  1  0
+  1 19  1  0
+  2 20  1  0
+  2 21  1  0
+  2 22  1  0
+  3 23  1  0
+  3 24  1  0
+  4 25  1  0
+  4 26  1  0
+ 12 27  1  0
+ 15 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.01
+
+>  <ALOGPS_LOGS>  (1) 
+-3.33
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.14e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09242
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09242
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+241.073037738
+
+>  <FORMULA>  (1) 
+C9H12ClN5O
+
+>  <GENERIC_NAME>  (1) 
+Moxonidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H12ClN5O/c1-5-13-7(10)6(8(14-5)16-2)15-9-11-3-4-12-9/h3-4H2,1-2H3,(H2,11,12,15)
+
+>  <INCHI_KEY>  (1) 
+WPNJAUFVNXKLIM-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.56614387041943
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-chloro-N-(4,5-dihydro-1H-imidazol-2-yl)-6-methoxy-2-methylpyrimidin-5-amine
+
+>  <JCHEM_LOGP>  (1) 
+1.5387770663333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.2619138509713075
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+71.43
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.41069999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+moxonidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+241.677
+
+>  <SMILES>  (1) 
+COC1=NC(C)=NC(Cl)=C1NC1=NCCN1
+
+>  <SYNONYMS>  (1) 
+(2R,4R)-1-[(2S)-5-[(aminoiminomethyl)amino]-1-oxo-2-[[(1,2,3,4-tetrahydro-3-methyl-8- quinolinyl)sulfonyl]amino]pentyl]-4-methyl-2-piperidinecarboxylic acid
+
+$$$$

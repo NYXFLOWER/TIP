@@ -1,0 +1,265 @@
+
+     RDKit          2D
+
+ 72 76  0  0  0  0  0  0  0  0999 V2000
+    1.7268   -3.5738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8837   -1.8806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6375    1.5571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6297    3.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8429   -0.5602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5780   -0.4104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9293    0.2602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4915    0.4099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0911   -2.3507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8811    1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -3.1711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8811    2.8076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0494   -1.7334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3205    1.5934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1078   -4.3802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0364    4.1213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0892   -0.8954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2621    0.7453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6701   -2.2010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4522    1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4238   -1.8656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1666    1.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5836   -3.0213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4522    2.8076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1322   -2.6644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9604    2.3952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2509   -3.5064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1666    3.2201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1958   -3.3739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3459    3.1527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0560   -5.7930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2813   -4.6484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9112   -5.5678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7482    5.7930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6689    5.4393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2813    4.8993    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5963   -5.1081    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4120    4.9688    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  5  2  0
+  8  6  1  0
+ 11  9  1  0
+ 12 10  1  0
+ 17  5  1  0
+ 17  6  2  0
+ 13 17  1  0
+ 18  7  1  0
+ 18  8  2  0
+ 14 18  1  0
+ 19 13  2  3
+ 20 14  2  3
+ 21  9  1  0
+ 21 19  1  0
+ 22 10  1  0
+ 22 20  1  0
+ 23 19  1  0
+ 24 20  1  0
+ 25  1  1  0
+ 25  2  1  0
+ 25 21  1  0
+ 26  3  1  0
+ 26  4  1  0
+ 26 22  1  0
+ 27 11  1  0
+ 27 15  1  0
+ 27 23  1  0
+ 27 25  1  0
+ 28 12  1  0
+ 28 16  1  0
+ 28 24  1  0
+ 28 26  1  0
+ 29 23  2  0
+ 30 24  2  0
+ 37 15  1  0
+ 37 31  1  0
+ 37 32  2  0
+ 37 33  2  0
+ 38 16  1  0
+ 38 34  1  0
+ 38 35  2  0
+ 38 36  2  0
+  1 39  1  0
+  1 40  1  0
+  1 41  1  0
+  2 42  1  0
+  2 43  1  0
+  2 44  1  0
+  3 45  1  0
+  3 46  1  0
+  3 47  1  0
+  4 48  1  0
+  4 49  1  0
+  4 50  1  0
+  5 51  1  0
+  6 52  1  0
+  7 53  1  0
+  8 54  1  0
+  9 55  1  0
+  9 56  1  0
+ 10 57  1  0
+ 10 58  1  0
+ 11 59  1  0
+ 11 60  1  0
+ 12 61  1  0
+ 12 62  1  0
+ 13 63  1  0
+ 14 64  1  0
+ 15 65  1  0
+ 15 66  1  0
+ 16 67  1  0
+ 16 68  1  0
+ 21 69  1  0
+ 22 70  1  0
+ 31 71  1  0
+ 34 72  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.37
+
+>  <ALOGPS_LOGS>  (1) 
+-4.99
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.71e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09534
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09534
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+562.169510403
+
+>  <FORMULA>  (1) 
+C28H34O8S2
+
+>  <GENERIC_NAME>  (1) 
+Ecamsule
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C28H34O8S2/c1-25(2)21-9-11-27(25,15-37(31,32)33)23(29)19(21)13-17-5-7-18(8-6-17)14-20-22-10-12-28(24(20)30,26(22,3)4)16-38(34,35)36/h5-8,13-14,21-22H,9-12,15-16H2,1-4H3,(H,31,32,33)(H,34,35,36)
+
+>  <INCHI_KEY>  (1) 
+HEAHZSUCFKFERC-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+72
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+59.63980284079506
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+{3-[(4-{[7,7-dimethyl-3-oxo-4-(sulfomethyl)bicyclo[2.2.1]heptan-2-ylidene]methyl}phenyl)methylidene]-7,7-dimethyl-2-oxobicyclo[2.2.1]heptan-1-yl}methanesulfonic acid
+
+>  <JCHEM_LOGP>  (1) 
+4.100861718666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+-0.4443537858220932
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-1.0463970592479317
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.013169511012951
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+142.88
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+143.55619999999993
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+{3-[(4-{[7,7-dimethyl-3-oxo-4-(sulfomethyl)bicyclo[2.2.1]heptan-2-ylidene]methyl}phenyl)methylidene]-7,7-dimethyl-2-oxobicyclo[2.2.1]heptan-1-yl}methanesulfonic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+562.69
+
+>  <PRODUCTS>  (1) 
+45 SPF High Protection Uva Uvb Cream; Anthelios - Lait SPF 45; Anthelios Dermo-kids; Anthelios L - Ecran Intolerances Solaires SPF 60; Anthelios L-lait Ecran Intol.solaire SPF 60; Anthelios Lotion Corps Ultra-fluide; Anthelios Mist; Anthelios S - Ecran Solaire SPF 30; Anthelios SPF 45; Anthelios Spray SPF 30; Anthelios Spray SPF 45; Anthelios Ultra-fluid Lotion; Anthelios XL Cream SPF 60; Anthelios-creme Solaire SPF 10; Anthelios-ecran Invisible SPF 20; Anthelios-lait Ecran Invisible SPF 20; Antherpos; Antherpos-ceralip Solaire SPF 50; Aqualia Thermal Uv; Autobronzant Creme Fps 15; Autobronzant SPF 7; Autobronzant Vapo Fps 15; Baume Levres Anti-dessechement Transparent SPF 30; Biokids SPF 35; Biotherm - Lait Ecran Total SPF 25; Blue Therapy Moisturizing Cream Dry Skin SPF 15; Blue Therapy Moisturizing Cream Normal/combination Skin SPF 15; Complete Lightweight Lotion SPF 15; Complete Lightweight Lotion SPF 45; Creme Ecran Total Intolerances Solaires SPF 40; Creme Ecran Total Intolerances Solaires SPF 45; Creme Ecran Total SPF 25; Creme Fondante SPF 15; Creme Protectrice Spf15; Creme Solaire Haute Protection SPF 15; Creme Visage Fps 30; Creme Visage Fps 45; Ecran Solaire SPF 15 - Crm; Ecran Total Anti-intolerance SPF 30-crm; Ecran Total Solaire Fps 25; Eye Contour Multi-protection Sun Care SPF 30; Face Multi-protection Sun Cream SPF 15; Face Multi-protection Sun Cream SPF 30; Face Multi-protection Sun Cream SPF 50; Face and Body Lotion SPF 50; Fps 15 Lait Solaire; Fps 30 Lait Solaire; Fps 30 Soin Complet; Fps 45 Soin Complet; Fps 50 Lait Solaire; Fps 60 Soin Complet; Future White SPF 40; Gel Creme Protecteur SPF 15; Gelee Fraiche Bronz.hydratante SPF 8; Gelee Fraiche Hydratante SPF 10; Gelee Fraiche Hydratante SPF 15; Gelee Fraicheur Bronzage Eclat SPF 8; Gelée Fraîche Bronzante Hydratante Fps 8; Hydraphase Uv; La Roche Posay Laboratoire Dermatologique Anthelios SX Daily Moisturizing Sunscreen Broad Spectrum SPF 15; Lait Bronzant Hydro-nutritif SPF 8; Lait Ecran Extreme SPF 60; Lait Ecran SPF 35 Enfants; Lait Ecran Total Intolerances Solaires SPF 30; Lait Ecran Total SPF 25; Lait Ecran Total Special Enfants SPF 25; Lait Protecteur Fps 60; Lait Protecteur Hydro-satinant Spf15; Lait Protecteur SPF 15; Lait Protecteur SPF 15 Peaux Cl/sens./enf.; Lait Protecteur SPF 8; Lait Solaire Corps Protection Solaire Fps 15; Lait Solaire Ecran Total SPF 25; Lait Solaire Haute Protection SPF 15; Lait écran Total SPF 25; Lancome Creme Ecran Total SPF 25; Lancome Lait Ecran Total Hydro-satin.spf25; Lotion Vapo Fps 15; Lotion Vapo SPF 30; Lumiactiv; Multi Recharge SPF 15; Ombrelle - Cold Weather Defence SPF 25; Ombrelle - Lotion Enfants SPF 30; Ombrelle - Lotion Extreme SPF 30; Ombrelle - Lotion Spf30; Ombrelle Baume Pour Les Levres SPF 30; Ombrelle Cream SPF 60; Ombrelle Creme Ecran SPF 60; Ombrelle Creme Spf45 Kids; Ombrelle Kids SPF 60; Ombrelle L'oreal Suncare Research Kids (SPF 30); Ombrelle L'oreal Suncare Research Kids (SPF 45); Ombrelle Sport Lotion SPF 30; Ombrelle Sport Lotion SPF 45; Ombrelle Sport Spray Spf15; Ombrelle-lotion SPF 15; Ombrelle-lotion SPF 30; Ombrelle-lotion SPF 45; Ombrelle-lotion Spf15; Protective Gel-cream Body SPF 20; Rosaliac Uv; SPF 30 Anthelios XL Lotion; SPF 30 Lotion Très Douce; SPF 30 Ultra Light Advanced Weightless Body Lotion; SPF 50 Invisible Mist; SPF 50+ Kids Lotion; SPF 50+ Ultra Light Advanced Weightless Body Lotion; SPF 60 Anthelios XL Lightweight Lotion; SPF 60 Anthelios XL Lotion; Sheer Lotion SPF 45 Bare Skin Feel; Sheer Lotion SPF 60 Bare Skin Feel; Skin Vivo Uniformity SPF 15; Soin Solaire Autobronzant SPF 8 - Crm; Soin Solaire SPF 8-crm; Soin Solaire Visage Creme Multi-protection Fps 30; Sun Protection Cream SPF 30; Sun Protection Cream SPF 45; Sunfitness Creme Fondante SPF 30; Sunfitness Gelee Fraicheur SPF 15; Sunfitness Lait Fondant SPF 15; Sunfitness Lait Fondant SPF 30; Sunscreen Cream Spf60; Thermal Fix Uv SPF 20; Thermal S Uv SPF 20; Ultra-fluid Body Milk Sun Protection SPF 15; Ultra-fluid Body Milk Sun Protection SPF 30; Ultra-fluid Protection SPF 20; Ultra-fluid Sun Protection SPF 30; Ultra-light Lotion SPF 50; Urban Defense; Vichy Creme Ecran Total Intol.soc. SPF 30; Vichy Lait Ecran Total Intoler.sol. SPF 30; Vichy Lait Ecran Total Special Enf.SPF 25; Vichy Lait Hydratant Bronzage Progresif Spf8; Vichy Lait Protecteur SPF 15; Vichy-creme Ecran Total SPF 25; Vichy-creme Haute Protection SPF 15; Vichy-lait Ecran Total SPF 25; Écran Solaire Spécial Rides SPF 15; Écran Total Anti-intolérances Solaires Fps 30; Écran Total Solaire SPF 25
+
+>  <SMILES>  (1) 
+CC1(C)C2CCC1(CS(O)(=O)=O)C(=O)C2=CC1=CC=C(C=C2C3CCC(CS(O)(=O)=O)(C2=O)C3(C)C)C=C1
+
+>  <SYNONYMS>  (1) 
+Terephthalylidene dicamphor sulfonic acid
+
+$$$$

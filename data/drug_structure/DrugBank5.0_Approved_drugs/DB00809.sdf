@@ -1,0 +1,200 @@
+809
+     RDKit          2D
+
+ 41 42  0  0  1  0  0  0  0  0999 V2000
+    4.2365   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    3.3001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  2 10  1  0
+  3  6  1  0
+  3  7  1  0
+  3  9  1  0
+  4 20  2  0
+  4 21  1  0
+  5  6  1  0
+  5  8  1  0
+  5 10  1  0
+  7 11  1  0
+  8 12  2  0
+  8 13  1  0
+  9 14  1  0
+ 11 15  2  0
+ 11 16  1  0
+ 12 17  1  0
+ 13 18  2  0
+ 15 20  1  0
+ 16 21  2  0
+ 17 19  2  0
+ 18 19  1  0
+  2 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 20 40  1  0
+ 21 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.42
+
+>  <ALOGPS_LOGS>  (1) 
+-2.88
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.75e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00809
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00809
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+284.152477894
+
+>  <FORMULA>  (1) 
+C17H20N2O2
+
+>  <GENERIC_NAME>  (1) 
+Tropicamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H20N2O2/c1-2-19(12-14-8-10-18-11-9-14)17(21)16(13-20)15-6-4-3-5-7-15/h3-11,16,20H,2,12-13H2,1H3
+
+>  <INCHI_KEY>  (1) 
+BGDKAVGWHJFAGW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Better; Camide; Ciclomidrin; Dilate; Eyetrop; Losemin; Midax; Midric; Minims Tropicamide; Mydral; Mydramide; Mydriaticum; Mydricol; Ocu-Tropic; Tropicacyl
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.77973099442558
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-ethyl-3-hydroxy-2-phenyl-N-(pyridin-4-ylmethyl)propanamide
+
+>  <JCHEM_LOGP>  (1) 
+1.3772273896666662
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.183162019438925
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.020044778744474
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+53.43
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.5347
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tropicamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+284.3529
+
+>  <PRODUCTS>  (1) 
+Diophenyl-T Solution; Minims Tropicamide 1%; Mydriacyl; Odan-tropicamide; PMS-tropicamide Oph Sltn 1%; Paremyd; Phenyltrope Oph Soln; R.O.-tropamide; Tropicamide; Tropicamide 1% - Liq Oph 10mg/ml
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00287
+
+>  <SMILES>  (1) 
+CCN(CC1=CC=NC=C1)C(=O)C(CO)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Tropicamid; Tropicamida; Tropicamide; Tropicamidum
+
+$$$$

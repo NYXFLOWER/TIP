@@ -1,0 +1,137 @@
+753
+     RDKit          2D
+
+ 12 11  0  0  1  0  0  0  0  0999 V2000
+    3.0791    0.9760    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6740    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.4529    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.9760    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.2615    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.9760    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  9  1  0
+  3  9  1  0
+  4  9  1  0
+  5 10  1  0
+  6 10  1  0
+  7  8  1  0
+  7 10  1  0
+  8  9  1  0
+  8 11  1  0
+ 10 12  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.30
+
+>  <ALOGPS_LOGS>  (1) 
+-1.72
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.56e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00753
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00753
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+183.971433418
+
+>  <FORMULA>  (1) 
+C3H2ClF5O
+
+>  <GENERIC_NAME>  (1) 
+Isoflurane
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H
+
+>  <INCHI_KEY>  (1) 
+PIWKPBJCKXDKJR-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aerrane; Forene; Isocane; Isorane
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.729701728222967
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane
+
+>  <JCHEM_LOGP>  (1) 
+2.8359380043333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.715466341834886
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+9.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+23.038999999999994
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+isoflurane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+184.492
+
+>  <PRODUCTS>  (1) 
+Forane; Forane Liq Inh; Isoflurane; Isoflurane USP; Terrell
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00212
+
+>  <SMILES>  (1) 
+FC(F)OC(Cl)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+1-chloro-2,2,2-trifluoroethyl difluoromethyl ether; Isoflurane; Isoflurano; Isofluranum
+
+$$$$

@@ -1,0 +1,152 @@
+437
+     RDKit          2D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+    2.3645    1.4001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.9139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    0.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2  3  1  0
+  2  7  1  0
+  3  8  1  0
+  4  7  2  0
+  4 10  1  0
+  5  9  1  0
+  5 10  2  0
+  6  7  1  0
+  6  8  2  0
+  6  9  1  0
+  2 11  1  0
+  3 12  1  0
+  8 13  1  0
+ 10 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.72
+
+>  <ALOGPS_LOGS>  (1) 
+-1.36
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.88e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00437
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00437
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+136.03851077
+
+>  <FORMULA>  (1) 
+C5H4N4O
+
+>  <GENERIC_NAME>  (1) 
+Allopurinol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H4N4O/c10-5-3-1-8-9-4(3)6-2-7-5/h1-2H,(H2,6,7,8,9,10)
+
+>  <INCHI_KEY>  (1) 
+OFCNXPDARWKPPY-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adenock; Allohexal; Alloril; Aluron; Milurit; Progout; Zyloric; Zyrik
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.665587273192898
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1H,2H,4H-pyrazolo[3,4-d]pyrimidin-4-one
+
+>  <JCHEM_LOGP>  (1) 
+-1.7583063776666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.529859254148572
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.828742070600279
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.5670119659248782
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+65.85
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.24260000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ALLO
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+136.1115
+
+>  <PRODUCTS>  (1) 
+Alloprin; Allopurinol; Allopurinol Tablets 100mg; Allopurinol Tablets 200mg; Allopurinol Tablets 300mg; Allopurinol sodium; Allopurinol-100; Allopurinol-200; Allopurinol-300; Aloprim; Apo-allopurinol; Duzallo; Ipg-allopurinol; Jamp-allopurinol; Mar-allopurinol; Novo-purol Tab 100mg; Novo-purol Tab 200 mg; Novo-purol Tab 300mg; Ntp-allopurinol; Nu-allopurinol; Purinol Tab 100mg; Purinol Tab 200mg; Purinol Tab 300mg; Riva-purinol 100mg Tablets; Riva-purinol 200mg Tablets; Riva-purinol 300mg Tablets; Zyloprim; Zyloprim 100; Zyloprim 200
+
+>  <SALTS>  (1) 
+Allopurinol Sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00435; DB03027
+
+>  <SMILES>  (1) 
+O=C1N=CN=C2NNC=C12
+
+>  <SYNONYMS>  (1) 
+1,5-Dihydro-4H-pyrazolo(3,4-d)pyrimidin-4-one; 1,5-Dihydro-4H-pyrazolo(3,4-d)pyrimidine-4-one; 1H-Pyrazolo(3,4-d)pyrimidin-4-ol; 4-HPP; 4-Hydroxy-1H-pyrazolo(3,4-d)pyrimidine; 4-Hydroxy-3,4-pyrazolopyrimidine; 4-Hydroxypyrazolo(3,4-d)pyrimidine; 4-Hydroxypyrazolopyrimidine; 4-Hydroxypyrazolyl(3,4-d)pyrimidine; 4'-Hydroxypyrazolol(3,4-d)pyrimidine; 4H-Pyrazolo(3,4-d)pyrimidin-4-one; Allopurinolum; Alopurinol
+
+$$$$

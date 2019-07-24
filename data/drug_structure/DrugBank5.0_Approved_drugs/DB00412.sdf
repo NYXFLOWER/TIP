@@ -1,0 +1,213 @@
+
+     RDKit          2D
+
+ 44 46  0  0  0  0  0  0  0  0999 V2000
+    7.2598    0.4956    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6012    0.0785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0988    2.4586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4024   -0.4296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4577    0.4910    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4793    1.0385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0287    0.4910    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1736    1.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4591    1.7285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7447    1.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9273    1.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1722    0.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7447    0.4910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0302    1.7286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8867    0.4910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3156    0.4910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0301    0.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3156    1.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0668    0.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7433    0.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4577    1.3161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7432   -0.7464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0287   -1.1589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6857    0.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6857   -0.7464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 19  1  0
+  2 15  1  0
+  2 16  1  0
+  3 11  2  0
+  4 19  2  0
+  5 12  1  0
+  5 20  1  0
+  5 21  1  0
+  6 11  1  0
+  6 19  1  0
+  7 20  2  0
+  7 24  1  0
+  8  9  1  0
+  8 11  1  0
+  9 10  1  0
+ 10 13  2  0
+ 10 14  1  0
+ 12 15  1  0
+ 13 17  1  0
+ 14 18  2  0
+ 16 17  2  0
+ 16 18  1  0
+ 20 22  1  0
+ 22 23  2  0
+ 23 25  1  0
+ 24 25  2  0
+  6 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 21 38  1  0
+ 21 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+ 23 42  1  0
+ 24 43  1  0
+ 25 44  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.95
+
+>  <ALOGPS_LOGS>  (1) 
+-3.97
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.80e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00412
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00412
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+357.114712179
+
+>  <FORMULA>  (1) 
+C18H19N3O3S
+
+>  <GENERIC_NAME>  (1) 
+Rosiglitazone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H19N3O3S/c1-21(16-4-2-3-9-19-16)10-11-24-14-7-5-13(6-8-14)12-15-17(22)20-18(23)25-15/h2-9,15H,10-12H2,1H3,(H,20,22,23)
+
+>  <INCHI_KEY>  (1) 
+YASAKCUCGLMORW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Blutab; DH-Rosidia; Diaben; Diaglinex; Gaudil; Gliximina; Naidi; Rogelin; Roglit; Romerol; Rosit; Rosix; Rossini; Sensulin; Sheng Ao; Sheng Min
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+37.802626142874665
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-[(4-{2-[methyl(pyridin-2-yl)amino]ethoxy}phenyl)methyl]-1,3-thiazolidine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+2.446347898605694
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+19.059949534231166
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.844312266695456
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.228630838640058
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+71.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+97.78990000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+rosiglitazone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+357.427
+
+>  <PRODUCTS>  (1) 
+Apo-rosiglitazone; Avaglim; Avandamet; Avandaryl; Avandia; Avandia 2mg; Avandia 4mg; Avandia 8mg; Dom-rosiglitazone; Mylan-rosiglitazone; PHL-rosiglitazone; PMS-rosiglitazone; PMS-rosiglitazone-metformin; Teva-rosiglitazone
+
+>  <SALTS>  (1) 
+Rosiglitazone Maleate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00403
+
+>  <SMILES>  (1) 
+CN(CCOC1=CC=C(CC2SC(=O)NC2=O)C=C1)C1=CC=CC=N1
+
+>  <SYNONYMS>  (1) 
+(±)-5-[p-[2-(methyl-2-pyridylamino)ethoxy]benzyl]-2,4-thiazolidinedione; (RS)-5-{4-[2-(Methyl-2-pyridylamino)ethoxy]benzyl}-2,4-thiazolidinedion; Rosiglitazon; Rosiglitazona; Rosiglitazone; Rosiglitazonum
+
+$$$$

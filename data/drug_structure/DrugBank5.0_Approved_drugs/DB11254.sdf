@@ -1,0 +1,175 @@
+
+     RDKit          2D
+
+ 32 32  0  0  0  0  0  0  0  0999 V2000
+   -2.8579    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  3  1  0
+  5  4  1  0
+  6  5  1  0
+  8  7  2  0
+ 10  6  1  0
+ 10  7  1  0
+ 11  8  1  0
+ 11  9  2  0
+ 12  9  1  0
+ 12 10  2  0
+ 13 11  1  0
+ 14 12  1  0
+  1 15  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  3 20  1  0
+  3 21  1  0
+  4 22  1  0
+  4 23  1  0
+  5 24  1  0
+  5 25  1  0
+  6 26  1  0
+  6 27  1  0
+  7 28  1  0
+  8 29  1  0
+  9 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.77
+
+>  <ALOGPS_LOGS>  (1) 
+-2.63
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.54e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11254
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11254
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+194.13067982
+
+>  <FORMULA>  (1) 
+C12H18O2
+
+>  <GENERIC_NAME>  (1) 
+Hexylresorcinol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H18O2/c1-2-3-4-5-6-10-7-8-11(13)9-12(10)14/h7-9,13-14H,2-6H2,1H3
+
+>  <INCHI_KEY>  (1) 
+WFJIVOKAWHGMBH-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.978834395187235
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-hexylbenzene-1,3-diol
+
+>  <JCHEM_LOGP>  (1) 
+4.102379887
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+10.910620947081043
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.552104799647893
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.620601061009045
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.06600000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+oxana
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+194.2701
+
+>  <PRODUCTS>  (1) 
+Antiseptic Sore Throat Loz(honey Eucalyp.fl); Antiseptic Sore Throat Loz(mint Menthol Flv); Antiseptic Sore Throat Loz. (lemon Flavour); Antiseptic Throat Lozenges (with Hexylresorcinol); Avapta; Bradosol Lozenges Extra Strength 3.5mg; Bradosol Lozenges Extra Strength 3.5mg Mint; Bradosol Lozenges Regular Strength 2.4mg (cherry, Mint, Lemon, Orange, Honey-eucalyptus); Bradosol Multiflavour Loz 2.4mg; Bronchodex Past.antisep.-s.miel Et Eucalypt.; Bronchodex Past.antisept. Extra Fortes-S.cer; Bronchodex Pastilles Antiseptiques-S.cerise; Bronchodex Pastilles Antiseptiques-S.menthe; Cherry Antiseptic Throat Lozenges 2.4mg/loz; Honey Eucalyptus Antiseptic Throat Loz 2.4mg; Lemon Menthol Antiseptic Throat Loz 2.4mg; Mint Antiseptic Throat Lozenges 2.4mg/loz; Myxcin-C; S.T.37; Soothe Aid Loz 2.4mg; Strepsils Anaesthetic Formula; Strepsils Extra Black Cherry; Sucrets Cherry Vapour Action Loz; Sucrets Extra Strength Cherry Lozenges; Sucrets Extra Strength Mint Loz; Sucrets Honey Lemon Vapour Action Loz; Sucrets Original Mint; Sucrets Regular Mint Loz; Throat Loz 2.4mg Cherry
+
+>  <SMILES>  (1) 
+CCCCCCC1=C(O)C=C(O)C=C1
+
+$$$$

@@ -1,0 +1,151 @@
+
+     RDKit          2D
+
+ 18 14  0  0  0  0  0  0  0  0999 V2000
+   -0.5045    1.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1545    1.1269    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3295    1.9519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3295    0.3019    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3204   -0.3019    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6224    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8065    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3295    1.1269    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0920    0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9795    0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9583   -1.9519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9795    1.1269    0.0000 Tc  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  0
+  8  2  1  0
+  8  3  1  0
+  8  4  2  0
+  9  1  1  0
+  9  5  1  0
+  9  6  1  0
+  9  7  2  0
+  1 13  1  0
+  1 14  1  0
+ 10 15  1  0
+ 10 16  1  0
+ 11 17  1  0
+ 11 18  1  0
+M  CHG  5   2  -1   3  -1   5  -1   6  -1  12   4
+M  ISO  1  12  98
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.03
+
+>  <ALOGPS_LOGS>  (1) 
+-1.50
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.35e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09138
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09138
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+305.861006841
+
+>  <FORMULA>  (1) 
+CH6O8P2Tc
+
+>  <GENERIC_NAME>  (1) 
+Technetium Tc-99m medronate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH6O6P2.2H2O.Tc/c2-8(3,4)1-9(5,6)7;;;/h1H2,(H2,2,3,4)(H2,5,6,7);2*1H2;/q;;;+4/p-4/i;;;1+1
+
+>  <INCHI_KEY>  (1) 
+IUPNVOAUFBLQME-SGNQUONSSA-J
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+18
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.058620793426666
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(⁹⁸Tc)technetium(4+) ion dihydrate (phosphonatomethyl)phosphonate
+
+>  <JCHEM_LOGP>  (1) 
+-2.35491473
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+2.023613473644353
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.2687747793575674
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+126.38
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+23.3917
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(⁹⁸Tc)technetium(4+) ion dihydrate phosphonatomethylphosphonate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+305.906
+
+>  <PRODUCTS>  (1) 
+Kit for the Preparation of Technetium Tc 99M Medronate
+
+>  <SALTS>  (1) 
+Technetium Tc-99m medronate disodium
+
+>  <SMILES>  (1) 
+O.O.[98Tc+4].[O-]P([O-])(=O)CP([O-])([O-])=O
+
+>  <SYNONYMS>  (1) 
+99m Tc medronate; 99m Tc-medronate; 99mTc medronate; 99mTc-medronate; AN-MDP; Cis-Mdp; Tc 99m Mdp; Tc-99m Mdp; Technetium (99mTc) medronic acid; Technetium (99mTc) Methylenediphosphonate; Technetium 99mTc medronic acid; Technetium methylene diphosphonate; Technetium Tc 99m medronate; Technetium Tc 99m medronic acid; Technetium Tc 99M Mpi Mdp; Technetium tc-99m medronate kit
+
+$$$$

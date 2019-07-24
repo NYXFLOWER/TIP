@@ -1,0 +1,180 @@
+1131
+     RDKit          2D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+    2.3645   -3.0154    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.5221    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5221    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.7596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2846    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    2.7596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  7  1  0
+  2 11  2  0
+  3 10  1  0
+  3 14  1  0
+  4 11  1  0
+  4 14  2  3
+  5 11  1  0
+  6 14  1  0
+  7  8  1  0
+  7  9  1  0
+ 10 12  2  0
+ 10 13  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+  3 18  1  0
+  5 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  8 26  1  0
+  9 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 15 32  1  0
+ 16 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.90
+
+>  <ALOGPS_LOGS>  (1) 
+-2.95
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.86e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01131
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01131
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+253.109423244
+
+>  <FORMULA>  (1) 
+C11H16ClN5
+
+>  <GENERIC_NAME>  (1) 
+Proguanil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H16ClN5/c1-7(2)15-10(13)17-11(14)16-9-5-3-8(12)4-6-9/h3-7H,1-2H3,(H5,13,14,15,16,17)
+
+>  <INCHI_KEY>  (1) 
+SSOLNOMRVKKSON-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.84067113141314
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(E)-1-({amino[(4-chlorophenyl)amino]methylidene}amino)-N'-(propan-2-yl)methenimidamide
+
+>  <JCHEM_LOGP>  (1) 
+1.8874301803333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+19.76859708058674
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.122047373021262
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.78999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.0676
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+proguanil
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+253.731
+
+>  <PRODUCTS>  (1) 
+Atovaquone Proguanil; Atovaquone and Proguanil HCl; Atovaquone and Proguanil Hydrochloride; Atovaquone and Proguanil Hydrochloride Pediatric; Atovaquone and Proguanil Hydrochloride Tablets; Malarone; Malarone Pediatric; Mylan-atovaquone/proguanil; Paludrine Tab 0.1gm; Paludrine Tab 100mg; Teva-atovaquone Proguanil
+
+>  <SALTS>  (1) 
+Proguanil hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00188
+
+>  <SMILES>  (1) 
+CC(C)\N=C(/N)N=C(N)NC1=CC=C(Cl)C=C1
+
+$$$$

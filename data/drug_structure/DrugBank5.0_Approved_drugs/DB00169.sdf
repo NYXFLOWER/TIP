@@ -1,0 +1,263 @@
+
+     RDKit          2D
+
+ 72 74  0  0  1  0  0  0  0  0999 V2000
+   -1.0890    1.2765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -0.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4101   -0.2159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8950    0.4515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035    0.8640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -1.1985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035    0.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035   -1.6110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035   -2.4360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -2.8485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5179   -2.8485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -3.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745   -2.4360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5179   -3.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035   -4.0860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2324   -4.0860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3044    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4101    1.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1246    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8390    1.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9825    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2680    1.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2680    1.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5535    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4101    1.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745    0.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745    0.8640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745    1.6890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 26 27  1  0
+ 27 25  1  0
+ 27  1  1  0
+ 26  2  1  0
+ 26  3  1  0
+ 25  4  1  0
+  1  5  1  0
+  2  6  2  0
+  2  7  1  0
+  6  8  1  0
+  8  9  2  0
+  9 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 10 13  2  3
+ 11 14  1  0
+ 12 15  1  0
+ 14 16  1  1
+  3  4  1  0
+  5  7  1  0
+ 14 15  1  0
+ 25 18  1  0
+ 18 17  1  6
+ 18 19  1  0
+ 19 20  1  0
+ 20 24  1  0
+ 24 22  1  0
+ 22 21  1  0
+ 22 23  1  0
+ 27 28  1  1
+  1 29  1  0
+  1 30  1  0
+  3 31  1  0
+  3 32  1  0
+  4 33  1  0
+  4 34  1  0
+  5 35  1  0
+  5 36  1  0
+  6 37  1  0
+  7 38  1  0
+  7 39  1  0
+  8 40  1  0
+ 11 41  1  0
+ 11 42  1  0
+ 12 43  1  0
+ 12 44  1  0
+ 13 45  1  0
+ 13 46  1  0
+ 14 47  1  0
+ 15 48  1  0
+ 15 49  1  0
+ 16 50  1  0
+ 17 51  1  0
+ 17 52  1  0
+ 17 53  1  0
+ 18 54  1  0
+ 19 55  1  0
+ 19 56  1  0
+ 20 57  1  0
+ 20 58  1  0
+ 21 59  1  0
+ 21 60  1  0
+ 21 61  1  0
+ 22 62  1  0
+ 23 63  1  0
+ 23 64  1  0
+ 23 65  1  0
+ 24 66  1  0
+ 24 67  1  0
+ 25 68  1  6
+ 26 69  1  6
+ 28 70  1  0
+ 28 71  1  0
+ 28 72  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+7.98
+
+>  <ALOGPS_LOGS>  (1) 
+-6.01
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.80e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00169
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00169
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+384.33921603
+
+>  <FORMULA>  (1) 
+C27H44O
+
+>  <GENERIC_NAME>  (1) 
+Cholecalciferol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C27H44O/c1-19(2)8-6-9-21(4)25-15-16-26-22(10-7-17-27(25,26)5)12-13-23-18-24(28)14-11-20(23)3/h12-13,19,21,24-26,28H,3,6-11,14-18H2,1-2,4-5H3/b22-12+,23-13-/t21-,24+,25-,26+,27-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+QYSXJUFSXHHAJI-YRZJJWOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Delta-D; Optimal-D; Vigantol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+49.600072009805885
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,3Z)-3-{2-[(1R,3aS,4E,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-octahydro-1H-inden-4-ylidene]ethylidene}-4-methylidenecyclohexan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+7.125460754666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.384341369959035
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.3184890847799178
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+123.22449999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+vitamin D3
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+384.6377
+
+>  <PRODUCTS>  (1) 
+A + D Ointment; A.R.T.H. Away Formula; Acti-cal/mag 2:1 + Zinc and D Caplet; Actical Plus Calcium-magnesium-vitamin D3-silicon Chewable; Active Calcium Plus Magnesium, Vitamin D and Silicon; Active FE; Actonel Sachet Kit; Adrovance; Adult Infuvite Multiple Vitamins; Alendronate-cholecalciferol; Am Caps; Animi-3; Animi-3 with Vitamin D; Antiseptic Skin Cream; Apcal; Apo-alendronate/vitamin D3; Avon Nutrivance Soft Calcium Chews With Vitamin D; Beta Carotene Provitamin A With D; C-Nate DHA; C.H.V. Formula; Cal-mag Citrate Zinc & Vitamin D Tablets; Cal-mag Complete With Zinc, C and D; Cal-mag With Zinc & Vitamin D; Cal/mag 1:1 With Zinc and Vitamin D - Tablet; Calci-yum Plus Magnesium + D3; Calcium & Magnesium Citrate Plus D With Manganese, Potassium & Zinc; Calcium & Magnesium With Potassium, Zinc, Manganese & Vitamin D; Calcium & Vitamin D; Calcium 250 Mg With Vitamin D; Calcium 600 + D; Calcium 600mg + Vit D3 125unit Tab; Calcium Citrate With Vitamin D; Calcium Citrate and Vitamin D 200mg/160iu; Calcium Complex High Grade; Calcium Et Magnesium Plus Vitamin D; Calcium Folic Acid Plus D Chewable; Calcium Supplement Tab; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium With Vitamin D 200 Mg/160 Iu; Calcium and Magnesium 1:1 Plus Tablets; Calcium and Magnesium Citrate and Vitamin D 250mg/125mg/200iu; Calcium and Magnesium With Vitamin D; Calcium-magnesium With K & Zn and Vitamin D3; Calcium/magnesium/vitamin D - Capsule; Calma-D; Calplus; Caltrate 600 Plus D - Tablet; Cataplex D Tab 400unit; Central-vite 18 Essential; Chela Calmag-100 Plus Zinc D3; Chela Calmag-300 Plus Zinc D3; Chewable Multivitamins; Chewable Multivitamins Plus Iron; Children Choice Multivit Chewable Tab; Children Choice Multivitamin W Iron Chew Tab; Children Vitamin Drops; Children's Chewable Multi-vitamin; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multiple Vit.plus Iron; Children's Chewable Multiple Vitamins - Tab; Children's Vitamins Chewable; Children's Vitamins W Iron Chewable; Childrens Chewable Vitamin Tab; Childrens Chewable Vitamins; Ciferex; Cifrazol; CitraNatal B-Calm; CitraNatal Harmony 3.0; Cod Liver Oil Mint Flav; Cod Liver Oil Oleovitamin A & D Caps 20min; Complete Multivitamins and Minerals for Children; Coral Calcium Plus Vitamin D 210mg/100iu; D Vi Sol Infants Drops 400unit/0.6ml; D-tabs 10000unit; Derma-force; Dry Super Vitamin A Plus D - Cap; Durachol; Efferlife Calcium 500mg + Vitamin D3 440 Iu + Vitamin C 125mg; Efferlife Multivitamins and Minerals; Enrich Core Pack - Children Vitamin and Mineral Supplement; Enviroflex - Tab; Escavite; Euro D 10 000; Extra P.N. Vitamin-mineral Drink Mix; Extra-Virt Plus DHA; Floriva; Floriva Plus; Folcal DHA; Folcaps Care One; Folcaps Omega-3; Folet One; Folika-D; Folivane-PRx DHA; Foltabs Prenatal; For Kids Only Chewable Multivit. Plus Iron; For Kids Only Chewable Multivitamins - Tab; Formula 3200 Waf 100unit; Formula O-care Vitamin and Mineral Supplement; Formula Osg; Fortamines 10 Capsules; Fortamines-10 Comprimes; Forty Plus Vitamin Supplement; Fosamax Plus D; Fosavance; G.A.S. Complex; Garfield Chewable Multivits Plus Iron Tab; Gestamine Comprimes; Gesticare DHA; HemeNatal OB; Hormodausse Plus Calc Et D Tab; Hvp Chelated Cal/mag With Zinc and Vitamins C and D; INATAL Ultra; Inatal Advance; Infant Multivitamin Drops; Infuvite Adult Multiple Vitamins; Iprical; Iron Polysaccharides Folic Acid DHA; Isotonix Calcium Plus Formula; Jamp-vitamin D; Kid's Choice Children's Chewable Vitamins - Tab; Kids Stuff Tablets; Kids Stuff With Iron Tablets; Kimchi Vitamin chewable multivitamin; L.I.P. Complex; Liqui Cal-D; Liquid Cal/mag Plus D; Liquid Calcium and Magnesium With Vit.d; Luxa-D; Magnacal; Menocal Tab; Mid-life Magnacal 2; Milk Calcium With Vitamins C, D, and Phosphorous; Mor-vites Tab; Multi #2; Multi - N.T.O.x Formula - Tab; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin Drops with Fluoride; Multi Vitamin Drops with Fluoride and Iron; Multi Vitamin Drops with Fluoride with Iron; Multi Vitamin Plus Iron; Multi Vitamin and Fluoride; Multi Vitamin with Fluoride; Multi Vitamin, Iron and Fluoride; Multi Vitamins & Minerals; Multi-Vit with Fluoride; Multi-Vit with Fluoride and Iron; Multi-Vitamin Drops with Fluoride and Iron; Multi-Vitamin Fluoride; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multi-Vitamin with Fluoride; Multi-vitamin Dietary Supplement; Multi-vitamins; Multi-vitamins With Minerals; MultiVitamin Drops with Fluoride and Iron; Multicaps; Multiple Vitamins; Multiple Vitamins & Minerals Tablets; Multitabs; Multivitamin; Multivitamin Drops with Fluoride; Multivitamin with Fluoride; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamines Plus Fer Pour Enfants (chewable Tablets); Multivitamines Pour Enfants (chewable Tablets); Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Multivitamins for Children; Mvc; N.E.U. Complex; Nata Komplete; NataFort; Natavite; Neo-vites & Minerals Tab; Nestabs ONE; Nexa Plus; Nexa Select Rx Prenatal Vitamin with Plant-Based DHA; Nrg Plus Liq; NuFera; Nutri-chem Calcium Magnesium With D and Zinc; Nutrifer Plus Tablets; Nutrilite Double X; O Calcium 500mg Plus D Tab; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; O-calcium 250mg Plus D; Opti-cal Chewable +d Caplet; Orifer F; Osteo Formula; Osteo Formula Tab; Osteo Tablets; Osteo-life; Osteo-plus; Oyster Shell Calcium with Vitamin D; P.N.P. Vitamin Drink; P.R.O. Complex; PM Caps; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV-First; PNV-Select; PRENATE Enhance; PRENATE Restore; Paramettes Chewable Multivitamins Plus Iron; Paramettes Chewable Multivits With Iron Tab; Paramettes Multivits Plus Iron Tab (teens); Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Pharma-D 10000 Iu; Pharma-D 5000 Iu; Pharma-D 50000 Iu; Pnv-dha; Port A Mins Super Cal-mag 300/150 With Vitamin D3; Port A Mins Super Calcium 375 With Vitamin D3; Port A Mins Super Calcium 750 With Vitamin D3; PreNatal 19; PreNatal Vitamins Plus; PreNexa; PrePLUS; PreQue 10; PreTAB; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenaissance; Prenaissance Plus; Prenatal Plus; Prenatal Plus Iron; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Prenate Elite; Prenate Essential; Prenate Pixie; Prenate Star; Prevital Tab; Pure Calcium calcium; Q.T. Vitamin and Mineral Drink Mix; Redoxon-cal; Revesta; Riva-D; Sandoz Alendronate/cholecalciferol; Se-Care Chewable; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Sincera - Tablets; Strovite One Caplets; Sun-rype Vitaburst; Super Cal Mag Plus; Super Charged Energy; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super-pote Vitamin Supplement; Supplement De Vitamines Et Mineraux; Supplements De Vitamines Et Mineraux; T-PA Cap; T.A. Vit A & D Ointment; Teva-alendronate/cholecalciferol; Tozal; Tri Vi Flor Tab; Tri-VI-sol Drops; Tri-Vit With Fluoride And Iron Drops; Tri-Vit with Fluoride Drops; TriAdvance; Tricare Prenatal; Trinatal GT; Triple Vitamin Drops with Fluoride; Triple-Vitamin Drops with Fluoride; Triveen-PRx RNF; UltimateCare ONE NF; Usana Active Calcium; Usana Calmag Plus Tablets - Tab; Usana Megavitamin Tablets - Tab; Usana Optimizer Actical Plus Calcium-magnesium-vitamin D3-silicon Tablets; VITAMINS A, C, D and FLUORIDE; VP CH Plus; VP CH Ultra; VP-HEME One; VP-heme OB; VemaVite-PRx 2 with Fish-Based DHA; Vidextra; Virt-PN Plus; Virt-Pn; Virt-Pn DHA; Vita Day Tab; Vitafol Nano; Vitafol Ultra; Vitamin D 1000iu; Vitamin D 400 Iu; Vitamin D 400 Iu Tablets; Vitamin D-dry 400 I.U.; Vitamin D3-softgel Capsules; Vitamin D3-softgel Capsules 10000 Iu; Vitamin D3Dietary Supplemen Dietary Supplement; Vitamine D 10 000; Vitamines A - D Calcium; Vp-CH-pnv; Vtb Vitamin and Mineral Supplement; Women's Formula; Women's Support Tablets; Zatean-CH; Zavara; Zolate; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00008; APRD00506
+
+>  <SMILES>  (1) 
+CC(C)CCC[C@@H](C)[C@@]1([H])CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C
+
+>  <SYNONYMS>  (1) 
+(+)-vitamin D3; (3β,5Z,7E)-9,10-secocholesta-5,7,10(19)-trien-3-ol; (5Z,7E)-(3S)-9,10-secocholesta-5,7,10(19)-trien-3-ol; Activated 7-dehydrocholesterol; Calciol; CC; Colecalciferol; colecalciferolum; Oleovitamin D3; Vitamin D-3; Vitamin D3
+
+$$$$

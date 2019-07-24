@@ -1,0 +1,246 @@
+[NO NAME]
+     RDKit          2D
+
+ 64 65  0  0  0  0  0  0  0  0999 V2000
+    3.8861    1.4562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006    1.8687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3151    1.4562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3151    0.6312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0296    1.8687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440    1.4562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440    0.6312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4585    1.8687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1730    1.4562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8752    1.8893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1969    0.6316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9231    0.2400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6013    1.4978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6253    0.6731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3397    0.2606    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.8861    0.6312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1716    0.2187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1716   -0.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8861   -1.0188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8861   -1.8438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006   -2.2563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3150   -1.8438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3150   -1.0188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0295   -2.2563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440   -1.8438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7440   -1.0188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4585   -2.2563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1729   -1.8438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8874   -0.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1729   -1.0188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8874   -2.2563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6019   -1.8438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6019   -1.0188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3163   -0.6063    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  5  1  0
+  3  4  2  3
+  5  6  1  0
+  6  8  1  0
+  6  7  2  3
+  8  9  1  0
+ 10  9  2  0
+  9 11  1  0
+ 10 13  1  0
+ 11 12  2  0
+ 12 14  1  0
+ 14 13  2  0
+ 14 15  1  0
+  1 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  2  3
+ 22 24  1  0
+ 24 25  1  0
+ 25 26  2  3
+ 25 27  1  0
+ 27 28  1  0
+ 30 28  1  0
+ 28 31  2  0
+ 29 30  2  0
+ 31 32  1  0
+ 32 33  2  0
+ 29 33  1  0
+ 33 34  1  0
+  1 35  1  0
+  1 36  1  0
+  2 37  1  0
+  4 38  1  0
+  5 39  1  0
+  7 40  1  0
+  8 41  1  0
+ 10 42  1  0
+ 11 43  1  0
+ 12 44  1  0
+ 13 45  1  0
+ 16 46  1  0
+ 16 47  1  0
+ 17 48  1  0
+ 17 49  1  0
+ 18 50  1  0
+ 18 51  1  0
+ 19 52  1  0
+ 19 53  1  0
+ 20 54  1  0
+ 20 55  1  0
+ 21 56  1  0
+ 23 57  1  0
+ 24 58  1  0
+ 26 59  1  0
+ 27 60  1  0
+ 29 61  1  0
+ 30 62  1  0
+ 31 63  1  0
+ 32 64  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.71
+
+>  <ALOGPS_LOGS>  (1) 
+-4.29
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.61e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00878
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00878
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+504.203196424
+
+>  <FORMULA>  (1) 
+C22H30Cl2N10
+
+>  <GENERIC_NAME>  (1) 
+Chlorhexidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H30Cl2N10/c23-15-5-9-17(10-6-15)31-21(27)33-19(25)29-13-3-1-2-4-14-30-20(26)34-22(28)32-18-11-7-16(24)8-12-18/h5-12H,1-4,13-14H2,(H5,25,27,29,31,33)(H5,26,28,30,32,34)
+
+>  <INCHI_KEY>  (1) 
+GHXZTYHSJHQHIJ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cida-Stat; Corsodyl; Dyna-Hex; Exidine; Hexadol; Hibiscrub; Hibitane; Microderm; Oro-Clense; Periogard Oral Rinse; Pharmaseal Scrub Care; Prevacare R; Rotersept; Sterilon; Tubulicid
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+10
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+54.59983398247406
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+10
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+N-(4-chlorophenyl)-1-3-(6-{N-[3-(4-chlorophenyl)carbamimidamidomethanimidoyl]amino}hexyl)carbamimidamidomethanimidamide
+
+>  <JCHEM_LOGP>  (1) 
+4.510369177333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+4
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.516535500120664
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+167.58
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+181.71459999999993
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chlorhexidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+505.447
+
+>  <PRODUCTS>  (1) 
+3M Avagard; 3m Soluprep Sponge; Acclean Chlorhexidine Gluconate 0.12% Oral Rinse; Antibacterial Protective Hand; Antiseptic Body Cleanser; Antiseptic Cleanser Solution; Antiseptic Cleansing Wipes; Antiseptic First Aid Spray; Antiseptic Lotion Soap 2%; Antiseptic Skin Cleanser; Antiseptic Skin Cleanser Exidine-2 CHG; Aplicare Antiseptic Chlorhexidine Gluconate; Aplicare Chlorhexidine Gluconate 2% Solution; Apo-chlorhexidine Oral Rinse; Avagard Chg; Avidene Surgical Scrub; BD E-Z Scrub; BD E-Z Scrub 107; Bacti-stat Chg; Bactigras; Bactoshield; Bactoshield CHG; Bactoshield Chg 2%; Bactoshield Chg 4%; Baxedin; Baxedin 2% - 70%; Baxedin Liq 20%; Baxedin Pre-OP; Betasept; Bioprep; Bioprep Liq; Burn O Sol Spray; Calgon Vestal 2% Chg Antimicrob.skin Cleans.; Calgon Vestal 4% Chg Antimicrob.skin Cleans.; Cardinal Health; Cardinal Health Antiseptic Skin Cleanser; Chlora-cleanze; ChloraPrep One-Step; Chloraprep Liq 0.5%; Chlorhexidine; Chlorhexidine 0.5% Liq; Chlorhexidine 2% Antiseptic Hand Wash; Chlorhexidine 4% Antiseptic Hand Wash; Chlorhexidine Alcohol Free; Chlorhexidine Gluconante Chlorhexidine Gluconate Oral Rinse; Chlorhexidine Gluconate; Chlorhexidine Gluconate 0.12% Oral Rinse; Chlorhexidine Gluconate 0.12% Oral Rinse, USP; Chlorhexidine Gluconate Chlorhexidine Gluconate Oral Rinse; Chlorhexidine Gluconate Oral Rinse; Chlorhexidine Gluconate Solution 0.05%; Chlorhexidine Gluconate Solution USP 20%; Chlorhexidine Liq 0.05%; Chlorhexidine Solution; Chlorhexidine and Isopropyl Alcohol Prep Pads; Chlorhexidine and Isopropyl Alcohol Swabsticks; Chlorhexidine-cetrimide Soltn Conc; Chlorhexseptic-liq 0.5mg/ml; Cida-stat Foam; Cida-stat Liq; Denti-care Chlorhexidine Gluconate Oral Rinse 0.12%; Dermsafe Chlorhexidine Gluconate Hand Sanitizer Lotion; Dermsafe Pc; Dexidin 0.5 Solution; Dexidin 2 Detergent; Dexidin 2 Solution; Dexidin 20; Dexidin Liq 4%; Dyna-Hex 2; Dyna-Hex 75; Dyna-hex 4; E-Z Scrub 107; E-Z Scrub 747 4%; E-Z Scrub Antimicrobial Foam Solution Containing 4% Chg; Endure 400 Scrub-Stat 4; Endure 420 Cida-Stat; Eyewash Station Additive Concentrate; Ezy-TM; First Aid Antiseptic Skin Cleanser; Flamazine C; Foam Care Chg Surgical Hand Scrub; Foam Safe; Freeman Packing Alcohol Wipe; Germi Stat Gel 2%; Germi Stat Gel 4%; Germi-stat 0.5% Antiseptic Prep Gel; Germi-stat 2% Foaming Liquid; Germi-stat Prep Gel; Gum Paroex; Hand Wipes; Hand wipes; Henry Schein Antimicrobial Skin Cleanser; Hexifoam-skin Disinfectant Aer 1%; Hexirex Antiseptic Skin Cleanser; Hibiclens; Hibiclens Antiseptic/antimicrobial Skin Cleanser; Hibidil; Hibistat; Hibistat Germicidal Hand Rinse; Hibitane Skin Cleanser; Hibitane Skin Cleanser 2%; Hibitane Skin Cleanser 4%; Hibitane Skin Cleanser Liq 4%; Hygenipak 2% Chg Skin Cleanser; Hygienipak 2% Chg Foaming Skin Cleanser; Hygienipak 4% Chg Foaming Skin Cleanser; Hygienipak 4% Chg Skin Cleanser; Ic-gel; Instillagel; Kimvent Oral Care Q2 Kit with CHG; KleerSight; Laura Line Antibacterial Cream Soap 2%; Laura Line Chlorhexidine Antiseptic Soap; Loris - I.V.; Loris 2% Chg Body Cleanser/nettoyant Pour Le Corps; Loris 2% Chg Solution; Loris 2% Chg Wipe/serviette; Microban Medical; NUPRO Chlorhexidine Gluconate; Oral Cleansing and Suctioning System, q2; Oral Cleansing and Suctioning System, q4; Oris Chx; Oro Clear; Oro-clense; Oronine H Ointment 1%; Ostar Antimicrobial Hand Soap 2% - Liquid; Paroex; Perichlor; Peridex; Peridex Oral Rinse; Peridex Oral Rinse 0.12%; PerioChip; PerioGard Alcohol Free; Periogard; Periogard (Chlorhexidine Gluconate); Perioselect Antimicrobial Sol 0.12%; PhysiciansCare Eyewash Station Additive Concentrate; Pre-Scrub II Surgical Hand Scrub; Prevantics Swab; Prevantics swabstick; Prevora Stage 1; Pro-dentx Chlorhexidene Oral Rinse; Provon Antimicrobial Foam Handwash; Provon Antiseptic Lotion Soap With 2% Chg; Purmist; QCare Rx Oral Cleansing and Suctioning System; QCare Rx Oral Cleansing and Suctioning System, Q2; QCare Rx Oral Cleansing and Suctioning System, Q4; QCare Rx Petite Oral Cleansing and Suctioning System; Rougier Clean Derm; Rougier Vap-chlorhexidine Gluconate 2% W/V; Rouhex G 20%; Rouhex G 4%; Rouhex G Liq 2%; Rugby Antiseptic Skin Cleanser; Salvesept Crm; Savlodil; Savlon Hospital Concentrate; Scrub; Scrub Care; Scrub Care Exidine -4 CHG; Scrub Care Exidine-2 CHG; Scrub Care Surgical Scrub Brush/nail Cleaner With Exidine 4; Scrub Stat 4 Foam Liq; Scrub, Scrub-Stat; Scrub, Scrub-Stat, Foam Safe, Micro-Guard; Scrub-Stat; Scrub-stat IV 4%; Seaqua X; Septi-san; Serdaen; Skin Antisepsis, Oral Cleansing and Nasal Antisepsis System; Skin antisepsis, oral cleansing, nasal antisepsis; Skinvisible Chlorhexidine Formula Hand Sanitizer Lotion; Smart Sense Antiseptic Skin Cleanser; Soft Care 2% Chg Antimicrobial Skin Cleanser; Soft Care Antiseptic Hand Soap; Solunet C Brosse 4%; Soluprep; Soluprep AQ; Soluprep AQ Applicator; Soluprep AQ Sponge; Soluprep AQ Swab; Soluprep AQ Wipe; Soluprep Antiseptic Skin Cleanser; Soluprep Antiseptic Skin Cleanser Preoperative Kit; Soluprep Applicator; Soluprep Ld Sponge; Soluprep Qd Solution; Soluprep Qd Swab; Soluprep Qd Wipe; Soluprep Swab; Soluprep Wipe; Spectro Gram 2 Skin Cleanser; Spectro Tar Antiseptic Shampoo; Spray On Plastic Bandage Aerosol; Spray On Plastic Bandage Non-aerosol; Stanhexidine 2% With Isopropyl Alcohol 4%; Stanhexidine 20%; Stanhexidine 4% With Isopropyl Alcohol 4%; Stanhexidine Aqueous 2% With 4% Isopropyl Alcohol; Stanhexidine Red Tincture 0.5%; Stat Touch 2 Antimicrobial Skin Cleanser; Steri-clean; Steri-stat Liq 2.0%; Steri-stat Liq 20%; Steri-stat Liq 4.0%; Steri-stat Tincture (tinted) Antis Prep Gel; Sterigel Plus; Sterixin 0.05%; X-pur Chlorhexidine
+
+>  <SALTS>  (1) 
+Chlorhexidine acetate; Chlorhexidine gluconate; Chlorhexidine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00545
+
+>  <SMILES>  (1) 
+ClC1=CC=C(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)NC2=CC=C(Cl)C=C2)C=C1
+
+>  <SYNONYMS>  (1) 
+Chlorhexidin; Chlorhexidinum; Cloresidina; Clorhexidina
+
+$$$$

@@ -1,0 +1,199 @@
+489
+     RDKit          2D
+
+ 38 38  0  0  1  0  0  0  0  0999 V2000
+    4.5080    2.7366    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.3885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9205    2.0221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0955    3.4511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.2135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.3241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.6260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.4511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.4991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  4  2  0
+  1  6  1  0
+  1 18  1  0
+  2  7  1  0
+  5  8  1  0
+  5  9  1  0
+  6 15  1  0
+  7  8  1  0
+  7 10  1  0
+  9 13  1  0
+  9 14  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 11 16  1  0
+ 12 17  2  0
+ 15 16  2  0
+ 15 17  1  0
+  2 19  1  0
+  5 20  1  0
+  6 21  1  0
+  7 22  1  0
+  8 23  1  0
+  8 24  1  0
+  9 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.85
+
+>  <ALOGPS_LOGS>  (1) 
+-2.54
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.82e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00489
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00489
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+272.119463206
+
+>  <FORMULA>  (1) 
+C12H20N2O3S
+
+>  <GENERIC_NAME>  (1) 
+Sotalol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H20N2O3S/c1-9(2)13-8-12(15)10-4-6-11(7-5-10)14-18(3,16)17/h4-7,9,12-15H,8H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+ZBMZVLHSJCTVON-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Biosotal; Cardol; Darob; Darob mite; Hipecor; Loritmik; Rytmobeta; Sotacor; Sotagard; Sotalex; Sotapor; Talozin; Tan Shi; Xi An Lin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.34074945103318
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-(4-{1-hydroxy-2-[(propan-2-yl)amino]ethyl}phenyl)methanesulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.3950640027108308
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.100645593387327
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.069402607110716
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.428215396630177
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+78.42999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.1191
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sotalol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+272.364
+
+>  <PRODUCTS>  (1) 
+Apo-sotalol - Tab 160mg; Apo-sotalol 80mg Tablets; Ava-sotalol; Betapace; Betapace AF; Co Sotalol; Dom-sotalol; Ftp-sotalol; Gen-sotalol 240mg; Jamp-sotalol; Linsotalol - Tab 80mg; Linsotalol -tab 160mg; Med Sotalol; Mylan-sotalol; Novo-sotalol Tab 160mg; Novo-sotalol Tab 80mg; Nu-sotalol - Tab 160 mg; Nu-sotalol - Tab 80mg; PHL-sotalol; PMS-sotalol - 160 mg; PMS-sotalol - 240 mg; PMS-sotalol - 80 mg; Pro-sotalol; Ratio-sotalol; Rho-sotalol; Rhoxal-sotalol; Riva-sotalol; Rylosol; Sandoz Sotalol; Sorine; Sotacor Tab 160mg; Sotacor Tab 240mg; Sotacor Tab 80mg; Sotalol; Sotalol Hydrochloride; Sotalol hydrochloride; Sotalol-160 - Tab 160mg; Sotalol-80 - Tab 80mg; Sotamol; Sotylize
+
+>  <SALTS>  (1) 
+Sotalol Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01230
+
+>  <SMILES>  (1) 
+CC(C)NCC(O)C1=CC=C(NS(C)(=O)=O)C=C1
+
+>  <SYNONYMS>  (1) 
+Sotalol; Sotalolo; Sotalolum
+
+$$$$

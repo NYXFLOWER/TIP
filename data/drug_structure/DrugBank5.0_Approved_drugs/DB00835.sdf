@@ -1,0 +1,194 @@
+835
+     RDKit          2D
+
+ 38 39  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -2.8876    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  6  1  0
+  2 12  1  0
+  2 13  1  0
+  3  8  2  0
+  3 18  1  0
+  4  5  1  0
+  4  7  1  0
+  4  8  1  0
+  5  6  1  0
+  7  9  2  0
+  7 10  1  0
+  8 11  1  0
+  9 14  1  0
+ 10 15  2  0
+ 11 16  2  0
+ 14 17  2  0
+ 15 17  1  0
+ 16 19  1  0
+ 18 19  2  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 18 37  1  0
+ 19 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.63
+
+>  <ALOGPS_LOGS>  (1) 
+-4.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.27e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00835
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00835
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+318.073161265
+
+>  <FORMULA>  (1) 
+C16H19BrN2
+
+>  <GENERIC_NAME>  (1) 
+Brompheniramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H19BrN2/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13/h3-9,11,15H,10,12H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+ZDIGNSYAACHWNL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Bromfed; Bromfenex; Dimetane; Lodrane
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.07581576045864
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+[3-(4-bromophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+>  <JCHEM_LOGP>  (1) 
+3.749658864
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.478390040370506
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+16.130000000000003
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.66830000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+brompheniramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+319.239
+
+>  <PRODUCTS>  (1) 
+7 Select Cold and Allergy Childrens; AP-Hist DM; Alahist DM; Altidec A; Altipres-B; Assured Childrens Cold and Cough; Atuss Da; Auro Tap Childrens Cold and Allergy; Auromine Childrens Cold and Allergy; BIO Dtuss DMX; Balahist DM Syrup; Bio T Pres-B; Bpm-DM-phen; Brohist D; Brom Tapp; Brom Tapp DM; Bromfed DM; BromfedDM DM; Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide; Brompheniramine Maleate, Pseudoephedrine Hydrochloride and DextromethorphanHydrobromide; Brompheniramine Maleate, Pseudoephedrine Hydrochloride, Dextromethorphan Hydrobromide; Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide; Brotapp; Brotapp DM Cold and Cough; Brotapp PE-DM Cough and Cold Liquid; BroveX PEB; BroveX PEB DM; BroveX PSB; BroveX PSB DM; CareOne Childrens Cold and Allergy; CareOne Childrens Cold and Cough; Centussin Dhc; Childrens Cold and Allergy; Childrens Cold and Allergy Relief; Childrens Cold and Cough; Childrens Cold and Cough Relief; Childrens Cough and Cold; Childrens Dibromm Cold and Allergy; Childrens Dibromm Cold and Cough; Childrens Dimetapp Cold and Allergy; Childrens Dimetapp Cold and Cough; Childrens Dimetapp Multi-Symptom Cold Relief Dye-Free; Childrens Metapp Daytime; Childrens Wal Tap DM; Childrens Wal Tap DM Cough and Cold; Childrens Wal Tap Elixer Cold and Allergy; Cold & Allergy Relief - Liq; Cold Liquid; Cold Liquid Grape Flavour; Cold Relief; Cold Relief DM; Cold Syrup; Cold and Allergy; Cold and Allergy Childrens; Cold and Cough; Cold and Cough Childrens; Cold and Cough DM; Cold and Cough childrens; Cough, Cold & Allergy Relief; DG Health Childrens Cold and Cough; DM Cough and Cold Liquid; DM Cough and Cold Liquid Cherry Flavour; DM Cough and Cold Relief; DM Cough and Cold Syrup; Daytime Cold and Cough and NightTime Cold and Congestion Childrens; Decongestant Antihistaminic Syrup; Dg Health Cold and Allergy Childrens; DiBromm DM; DiBromm with PE; Dibromm Cold and Allergy Childrens; Dibromm Cold and Cough Childrens; Dibromm DM; Dibromm With PE; Dicel CD; Dimaphen; Dimaphen DM; Dimegan Inj 10mg/ml; Dimetane DX; Dimetane Elixir 2mg/5ml; Dimetane Expectorant C; Dimetane Expectorant Dc; Dimetane Expectorant Liq; Dimetane Expectorant-C Syr; Dimetane Expectorant-DC Syr; Dimetane Tab 4mg; Dimetapp; Dimetapp Chewable Tablets; Dimetapp Chewables for Kids; Dimetapp Children's Cold & Allergy Tablets; Dimetapp Children's Cold & Fever; Dimetapp Clear; Dimetapp Cough & Cold Liqui-gels  -  Cap; Dimetapp Cough, Cold & Flu; Dimetapp DM Cough & Cold; Dimetapp DM Elixir; Dimetapp DM Tab; Dimetapp Elixir; Dimetapp Extentabs; Dimetapp Extra Strength; Dimetapp Extra Strength DM Cough & Cold; Dimetapp Liqui-gels Cap; Dimetapp Oral Infant Cold Drops; Dimetapp Oral Infant Cold and Fever Drops; Dimetapp Oral Infant Drops; Dimetapp Tab; Dimetapp-C; Dimetapp-C Syr; EndaCof DM; Equaline Childrens Cold and Cough; Equate Childrens Cold and Cough; Extra Strength Cold Liquid; Extra Strength Cold Syrup; Extra Strength DM Cough and Cold Liquid; Extra Strength DM Cough and Cold Syrup; Glenmax PEB; Glenmax PEB DM; Glenmax PEB DM FORTE; Good Neighbor Pharmacy Cold and Allergy Childrens; Good Neighbor Pharmacy Cold and Cough; Good Sense Childrens Cold and Allergy; Good Sense Childrens Cold and Cough; Health Mart Cold and Allergy Childrens; Health Mart Cold and Cough childrens; Healthy Accents Childrens Cold and Cough; Healthy Accents Cold and Allergy Childrens; J-cof Dhc; J-tan D Pd; J-tan Pd; Kids Cold Chewable Tablets; Leader Childrens Cold and Allergy; Leader Childrens Cold and Cough; LoHist DM; LoHist PEB; LoHist PEB DM; Lodrane D; M-Hist DM; M-end PE; M-end Wc; Mar-cof BP; Neo DM; Niva-Hist DM; Oral Infant Cold Drops; Pharmetapp Elixir; Pluratuss; Poly-Tussin AC; Presgen B; Q Tapp Cold and Allergy; Q Tapp Cold and Cough; Q-Tapp; Q-Tapp DM Elixir; RelCof DM; Relhist BP; Robitussin Children's Cold; Robitussin Children's Cough & Cold Bedtime; Rompe Pecho SF FLU; Ru-Hist D; Runny Nose and Cough; Rx Act Cold and Allergy Childrens; Rydex; Rynex DM; Rynex PE; Rynex Pse; ShopRite Childrens Cold and Allergy; ShopRite Childrens Cold and Cough; Signature Care Childrens Cold and Cough; Smart Sense Cold and Allergy Childrens; Smart Sense Cold and Cough; Staflex; Sunmark Cold and Allergy Childrens; Sunmark Cold and Cough DM Childrens; Tantapp Elixir; Topcare Childrens Cold and Allergy; Topcare childrens cold and cough; Triaminic Cold and Allergy; Tussi Pres B; Up and Up Childrens Cold and Cough; Vazobid-PD; Wal Tap Elixir Childrens; healthy accents cold and cough DM
+
+>  <SALTS>  (1) 
+Brompheniramine maleate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00832
+
+>  <SMILES>  (1) 
+CN(C)CCC(C1=CC=C(Br)C=C1)C1=CC=CC=N1
+
+>  <SYNONYMS>  (1) 
+BPN; Bromfeniramina; Brompheniramin; Bromphéniramine; Brompheniraminum
+
+$$$$

@@ -1,0 +1,172 @@
+
+     RDKit          2D
+
+ 29 29  0  0  1  0  0  0  0  0999 V2000
+   12.0614   -8.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6455   -7.9569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8859   -8.6737    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8211   -7.9569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4126   -8.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0614   -7.2438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6455   -9.3866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5882  -10.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8211   -9.3866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5882   -8.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4126  -10.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1723   -9.3866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1723  -10.8163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8868   -7.2476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3028   -6.5346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2963   -7.9644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  3  1  2  0
+  7  1  1  0
+  4  2  1  0
+  2  6  1  0
+  5  4  1  0
+  9  5  2  0
+ 10  5  1  0
+ 12  8  1  0
+ 13  8  1  0
+ 11  8  2  0
+ 11  9  1  0
+ 12 10  2  0
+ 15 14  2  0
+ 16 14  1  0
+  6 14  1  0
+  2 17  1  0
+  4 18  1  0
+  4 19  1  0
+  6 20  1  0
+  7 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 16 27  1  0
+ 16 28  1  0
+ 16 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.03
+
+>  <ALOGPS_LOGS>  (1) 
+-1.95
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.51e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11102
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11102
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+223.084457909
+
+>  <FORMULA>  (1) 
+C11H13NO4
+
+>  <GENERIC_NAME>  (1) 
+N-acetyltyrosine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H13NO4/c1-7(13)12-10(11(15)16)6-8-2-4-9(14)5-3-8/h2-5,10,14H,6H2,1H3,(H,12,13)(H,15,16)/t10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+CAHKINHBCWCHCF-JTQLQIEISA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.207127397134244
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-acetamido-3-(4-hydroxyphenyl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.5928963343333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+9.504642405547322
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.6702360614092835
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.4776622716829717
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.63
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.541000000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+acetyl-L-tyrosine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+223.2252
+
+>  <PRODUCTS>  (1) 
+Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; TrophAmine
+
+>  <SMILES>  (1) 
+CC(=O)N[C@@H](CC1=CC=C(O)C=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(+)-(2s)-2-(acetylamino)-3-(4-hydroxyphenyl)propanoic acid; (2s)-2-acetylamino-3-(4-hydroxyphenyl)propanoic acid; Acetyl tyrosine; L-N-acetyltyrosine; Melanowhite-A; N-acetyl-L-tyrosine; N-acetyl-tyrosine; N-acetyltyrosin
+
+$$$$

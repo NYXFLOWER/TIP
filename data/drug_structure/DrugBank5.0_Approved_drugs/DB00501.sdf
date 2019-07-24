@@ -1,0 +1,189 @@
+501
+     RDKit          2D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+    2.8795   -0.9075    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3176   -3.5983    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5138    1.1812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9050   -2.3287    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6631    2.6024    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3577    2.0211    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9920    4.1098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7301   -2.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2150   -1.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3645   -0.2400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0288    0.5137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9850   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7697   -3.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1782    1.9349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0221    2.7749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3276    3.3561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2 12  1  0
+  2 14  1  0
+  3 11  1  0
+  3 15  1  0
+  4  8  1  0
+  4 14  2  0
+  5 15  1  0
+  5 17  1  0
+  6 15  2  0
+  6 16  1  0
+  7 17  3  0
+  8  9  1  0
+  8 12  2  0
+ 10 11  1  0
+ 12 13  1  0
+  2 18  1  0
+  3 19  1  0
+  5 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 14 30  1  0
+ 16 31  1  0
+ 16 32  1  0
+ 16 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.44
+
+>  <ALOGPS_LOGS>  (1) 
+-2.49
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.16e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00501
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00501
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+252.115715232
+
+>  <FORMULA>  (1) 
+C10H16N6S
+
+>  <GENERIC_NAME>  (1) 
+Cimetidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H16N6S/c1-8-9(16-7-15-8)5-17-4-3-13-10(12-2)14-6-11/h7H,3-5H2,1-2H3,(H,15,16)(H2,12,13,14)
+
+>  <INCHI_KEY>  (1) 
+AQIXAKUUQRKLND-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cimetag; Tagamet HB200; Ulcedine; Ulcerfen; Ulcimet
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.473564589152033
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(Z)-1-cyano-2-methyl-3-(2-{[(5-methyl-1H-imidazol-4-yl)methyl]sulfanyl}ethyl)guanidine
+
+>  <JCHEM_LOGP>  (1) 
+-0.10935610666666695
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+19.978992917390485
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.382499342054437
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.913918811850311
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.88999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+70.3171
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tagamet HB
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+252.339
+
+>  <PRODUCTS>  (1) 
+Acid Reducer; Apo Cimetidine Tab 200mg; Apo Cimetidine Tab 300mg; Apo Cimetidine Tab 400mg; Apo Cimetidine Tab 600mg; Apo-cimetidine Oral Solution; Apo-cimetidine Tab 800mg; Cimetidine; Cimetidine 200 Tab 200mg; Cimetidine Acid Reducer; Cimetidine Hydrochloride; Cimetidine Hydrochloride Oral Solution; Cimetidine Tab 300mg; Cimetidine Tab 400mg; Cimetidine Tab 600mg; DG Health Heartburn Relief; Dom-cimetidine; Equaline Acid Reducer; Equate Cimetidine; Gaviscon All-night; Gaviscon Prevent; Gaviscon Prevent Extra Strength; Gen-cimetidine Tablets 200mg; Good Neighbor Pharmacy Heartburn Relief; Good Sense Heartburn Relief; Harris Teeter Acid Reducer; Heartburn Relief; Leader Heartburn Relief; Mylan-cimetidine; Novo-cimetine; Novo-cimetine Injection; Nu-cimet Tab 200mg; Nu-cimet Tab 300mg; Nu-cimet Tab 400mg; Nu-cimet Tab 600mg; PMS-cimetidine; Peptol Tab 200mg; Peptol Tab 300mg; Peptol Tab 400mg; Peptol Tab 600mg; Peptol Tab 800mg; Smart Sense Acid Reducer; SunMark heartburn relief acid reducer; Tagamet; Tagamet 300; Tagamet 400; Tagamet 600; Tagamet Infusion 6mg/ml; Tagamet Inj 150mg/ml; Tagamet Liq 300mg/5ml; Tagamet Liquid 60mg/ml; TopCare Heartburn Relief; Up and Up Acid Reducer
+
+>  <SALTS>  (1) 
+Cimetidine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00568
+
+>  <SMILES>  (1) 
+C\N=C(\NCCSCC1=C(C)NC=N1)NC#N
+
+>  <SYNONYMS>  (1) 
+Cimetidin; Cimetidina; Cimétidine; Cimetidinum
+
+$$$$

@@ -1,0 +1,190 @@
+1168
+     RDKit          2D
+
+ 35 35  0  0  0  0  0  0  0  0999 V2000
+    2.3645    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.8876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  5  1  0
+  2  8  1  0
+  3  4  1  0
+  3  9  1  0
+  4 16  1  0
+  5 10  1  0
+  5 11  1  0
+  6  9  1  0
+  6 12  2  0
+  6 13  1  0
+  7  8  1  0
+  7 14  2  0
+  7 15  1  0
+ 12 14  1  0
+ 13 15  2  0
+  2 17  1  0
+  3 18  1  0
+  4 19  1  0
+  5 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 15 32  1  0
+ 16 33  1  0
+ 16 34  1  0
+ 16 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.53
+
+>  <ALOGPS_LOGS>  (1) 
+-2.99
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.28e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01168
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01168
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+221.152812245
+
+>  <FORMULA>  (1) 
+C12H19N3O
+
+>  <GENERIC_NAME>  (1) 
+Procarbazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H19N3O/c1-9(2)15-12(16)11-6-4-10(5-7-11)8-14-13-3/h4-7,9,13-14H,8H2,1-3H3,(H,15,16)
+
+>  <INCHI_KEY>  (1) 
+CPTBDICYNRMXFX-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Indicarb; Natulan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.876377098580605
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[(2-methylhydrazin-1-yl)methyl]-N-(propan-2-yl)benzamide
+
+>  <JCHEM_LOGP>  (1) 
+0.9857342426666669
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.032635956351093
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.59929223107174
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+53.160000000000004
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+86.97830000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+procarbazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+221.2988
+
+>  <PRODUCTS>  (1) 
+Matulane
+
+>  <SALTS>  (1) 
+Procarbazine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00695
+
+>  <SMILES>  (1) 
+CNNCC1=CC=C(C=C1)C(=O)NC(C)C
+
+>  <SYNONYMS>  (1) 
+1-Methyl-2-(p-(isopropylcarbamoyl)benzyl)hydrazine; 2-(p-Isopropylcarbamoylbenzyl)-1-methylhydrazine; 4-((2-Methylhydrazino)methyl)-N-isopropylbenzamide; N-(1-Methylethyl)-4-((2-methylhydrazino)methyl)benzamide; N-4-Isopropylcarbamoylbenzyl-N'-methylhydrazine; N-isopropyl-4-[(2-methylhydrazino)methyl]benzamide; N-Isopropyl-p-(2-methylhydrazinomethyl)-benzamide; N-Isopropyl-α-(2-methylhydrazino)-p-toluamide; p-(2-Methylhydrazinomethyl)-N-isopropylbenzamide; Procarbazin; Procarbazina; Procarbazinum
+
+$$$$

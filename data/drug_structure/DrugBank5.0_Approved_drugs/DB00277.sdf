@@ -1,0 +1,163 @@
+277
+     RDKit          2D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+    3.0791    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2 10  2  0
+  3  7  1  0
+  3 10  1  0
+  3 11  1  0
+  4  9  1  0
+  4 10  1  0
+  4 12  1  0
+  5  8  1  0
+  5 13  1  0
+  6  7  1  0
+  6 13  2  0
+  7  8  2  0
+  8  9  1  0
+  5 14  1  0
+ 11 15  1  0
+ 11 16  1  0
+ 11 17  1  0
+ 12 18  1  0
+ 12 19  1  0
+ 12 20  1  0
+ 13 21  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.26
+
+>  <ALOGPS_LOGS>  (1) 
+-0.90
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.29e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00277
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00277
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+180.06472552
+
+>  <FORMULA>  (1) 
+C7H8N4O2
+
+>  <GENERIC_NAME>  (1) 
+Theophylline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H8N4O2/c1-10-5-4(8-3-9-5)6(12)11(2)7(10)13/h3H,1-2H3,(H,8,9)
+
+>  <INCHI_KEY>  (1) 
+ZFXYFBGIUFBOJW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Quibron-T; Respbid; Slo-Bid; Theo 24; Theo-Dur; Theodur G
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.85540087856322
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+>  <JCHEM_LOGP>  (1) 
+-0.7693216573333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.815127426971927
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.77711753278622
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+69.30000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.9345
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+theophylline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+180.164
+
+>  <PRODUCTS>  (1) 
+Apo-theo ER; Apo-theo-LA Srt 100mg; Apo-theo-LA Srt 200mg; Apo-theo-LA Srt 300mg; Elixir De Theophylline; Elixophyllin; I D M Expectorant Tab; Idm Tab; PMS-theophylline Elixir; Pulmophylline Elx; Quibron T SR Tab 300mg; Ratio-theo-bronc; Senophylline; Slo-bid 100; Slo-bid 200; Slo-bid 300; Slo-bid 50; Tedral Tab; Teva-theophylline SR; Theo ER; Theo-24; Theo-SR 300 Srt 300mg; Theo-dur 100 mg; Theo-dur 200 mg; Theo-dur 300 mg; Theo-dur 450 mg; Theochron Srt 100mg; Theochron Srt 200mg; Theochron Srt 300mg; Theolair; Theolair SR Tab 200mg; Theolair SR Tab 250mg; Theolair SR Tab 300mg; Theolair SR Tab 500mg; Theolair Tab 125mg; Theolair Tab 250mg; Theophylline; Theophylline (Anhydrous); Theophylline 0.8mg and 5% Dextrose Inj; Theophylline 0.8mg/ml In 5% Dextrose Inj; Theophylline 1.6mg and 5% Dextrose Inj; Theophylline 4mg and 5% Dextrose Inj; Theophylline 80mg/15ml; Theophylline Anhydrous; Theophylline Elixir; Theophylline Elx; Theophylline Extended Release; Theophylline Rougier Elixir; Theophylline in Dextrose; Theophylline(Anhydrous); Uniphyl
+
+>  <SALTS>  (1) 
+Theophylline sodium glycinate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00082; DB09359
+
+>  <SMILES>  (1) 
+CN1C2=C(NC=N2)C(=O)N(C)C1=O
+
+>  <SYNONYMS>  (1) 
+1,3-dimethyl-7H-purine-2,6-dione; 1,3-dimethylxanthine; Theophyllin; Theophylline anhydrous; Theophylline, anhydrous
+
+$$$$

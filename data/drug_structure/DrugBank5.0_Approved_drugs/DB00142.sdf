@@ -1,0 +1,157 @@
+142
+     RDKit          2D
+
+ 19 18  0  0  1  0  0  0  0  0999 V2000
+    4.5079    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.6005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 10  1  0
+  3  9  2  0
+  4 10  2  0
+  7  5  1  6
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  1  0
+  1 11  1  0
+  2 12  1  0
+  5 13  1  0
+  5 14  1  0
+  6 15  1  0
+  6 16  1  0
+  7 17  1  0
+  8 18  1  0
+  8 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.54
+
+>  <ALOGPS_LOGS>  (1) 
+-0.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.06e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00142
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00142
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+147.053157781
+
+>  <FORMULA>  (1) 
+C5H9NO4
+
+>  <GENERIC_NAME>  (1) 
+Glutamic Acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WHUUTDBJXJRKMK-VKHMYHEASA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.3211868607686
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-aminopentanedioic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.241447075983049
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+4.27124634014693
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.8777772810395925
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.536217151721162
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+100.61999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.287699999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-glutamic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+147.1293
+
+>  <PRODUCTS>  (1) 
+Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Clinisol; Glutamic Acid HCl Betaine HCl W Pepsin; Glutamic Acid HCl Cap 325mg; Glutamic Acid Hydrochloride Nu Life; Glutamic Acid Pepsin and Betaine Tablets; Novamine; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; ProSol; Stomach Aid-digestive Aid; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SALTS>  (1) 
+Glutamic acid hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00027
+
+>  <SMILES>  (1) 
+N[C@@H](CCC(O)=O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2S)-2-Aminopentanedioic acid; (S)-2-Aminopentanedioic acid; (S)-Glutamic acid; Glu; L-Glutamate; L-Glutamic acid; L-Glutaminic acid
+
+$$$$

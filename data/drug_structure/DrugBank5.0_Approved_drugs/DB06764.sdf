@@ -1,0 +1,178 @@
+
+     RDKit          2D
+
+ 31 33  0  0  0  0  0  0  0  0999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7615    1.3099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0164    2.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    2.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0964    1.3099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  4  8  1  0
+  3  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+  9 14  1  0
+ 14 15  1  0
+  1 15  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  3 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  7 24  1  0
+  8 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 13 29  1  0
+ 15 30  1  0
+ 15 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.11
+
+>  <ALOGPS_LOGS>  (1) 
+-2.92
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.39e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06764
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06764
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+200.131348523
+
+>  <FORMULA>  (1) 
+C13H16N2
+
+>  <GENERIC_NAME>  (1) 
+Tetryzoline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H16N2/c1-2-6-11-10(4-1)5-3-7-12(11)13-14-8-9-15-13/h1-2,4,6,12H,3,5,7-9H2,(H,14,15)
+
+>  <INCHI_KEY>  (1) 
+BYJAVTDNIXVSPW-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+31
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.927261535315424
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(1,2,3,4-tetrahydronaphthalen-1-yl)-4,5-dihydro-1H-imidazole
+
+>  <JCHEM_LOGP>  (1) 
+2.2408906230000003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.166670151811907
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+24.39
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+61.48380000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+visine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+200.285
+
+>  <PRODUCTS>  (1) 
+8-symptom Relief; Advance Relief Eye Drops; Advanced Relief Eye Drops; Advanced relief; Allergy Eye Drops; Assured Advanced Relief Eye; Assured Original Relief Eye; CAREALL Eyedrops Original; CVS Astringent Eye; CVS Redness Relief Maximum; CVS Redness Relief Original; Care One Eye Drops Seasonal Relief; Circle K Eye Drops Redness Reliever; Clear Eyes Triple Action; Clear Eyes Triple Action Relief; Colirio Ocusan; Collyrium Eye Drops; Cool Eye Drops; DG Health Sterile Advanced Relief Eye; DG Health Sterile Redness Relief; Dg Health Original; Equate Eye Drops; Eye Drops; Eye Drops 0.5mg/ml; Eye Drops AC; Eye Drops Advanced Relief; Eye Drops Extra; Eye Drops Regular; Family Care Advanced Formula Eye; Family Care Original Eye; Family Wellness Advanced Eye; Family Wellness Irritation Relief Ac Eye Drops; Freds Advanced Eye Drops; Freds Astringent Rdeness Reliever Eye; Freds Original Eye Drops; Good Neighbor Pharmacy Eye Drop; Good Neighbor Pharmacy Eye Drops Advanced Relief; GoodSense Advanced Relief Eye; GoodSense Irritation Relief Eye; GoodSense Original Formula Eye; Goodsense Advanced Relief Eye; Goodsense Irritation Relief Eye; Goodsense Original Eye Drops; Irritation Relief Eye; Leader Advanced Formula Eye Drops; Leader Original Formula; Leader Original Formula Eye Drops; Leader Relief; Leader Relief Eye; Lil Drug Store Eye Drops Redness Reliever; Major Redness Reliever Eye; Nwi Original; OptiClear; Optical Advanced Eye; Optical Original Eye Drops; Optimis7; Original Eye Drops; Premier Value Advanced Eye Drops; Premier Value Eye Ac; Premier Value Original; Premier Value Sterile Eye Drops; Quality Choice Original Eye Drops; R.O.-eye Drops; Redness reliever; Redness reliever and Lubricant; Rite Aid Original Sterile Eye; Rohto Arctic; Rohto Ice; Rohto Relief; Rugby Eye; Seasonal itchy and Red eye relief; Shopko Advanced Formula Eye Drops; Shopko Original Formula Eye Drops; Shopko Relief; Sound Body Original Eye; SoundBody Advanced Relief; Sunmark Eye Drops Advanced Moisturizer/Lubricant; Sunmark Eye Drops Original Formula; T-raojo; Tyzine; Tyzine Pediatric; Visine A.C. Ophthalmic Sol; Visine Advanced Relief; Visine Cool; Visine Extra Ophthalmic Sol; Visine Maximum Strength Redness Relief Formula; Visine Multi-symptom; Visine Original; Visine Original Redness Relief; Visine Summer Spectrum Relief; Visine for Allergy 3 Symptom Relief; Visine for Red Eye Cool; Visine for Red Eye Triple Action; Visine for Red Eye Workplace; Walgreens Maximum Relief Eye Drops; Walgreens Original Eye Drops; Walgreens Sterile Advance Relief Eye Drops; Walgreens Sterile Original Eye; Walgreens Sterile Original Eye Drops
+
+>  <SALTS>  (1) 
+Tetrahydrozoline hydrochloride
+
+>  <SMILES>  (1) 
+C1CN=C(N1)C1CCCC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+(RS)-2-(1,2,3,4-tetrahydronaphthalen-1-yl)-4,5-dihydro-1H-imidazole; Tetrahydrozoline; Tetrizolina; Tetryzolin; Tétryzoline; Tetryzolinum
+
+$$$$

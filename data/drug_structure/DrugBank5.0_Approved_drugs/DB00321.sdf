@@ -1,0 +1,207 @@
+321
+     RDKit          2D
+
+ 44 46  0  0  0  0  0  0  0  0999 V2000
+    2.5995   -1.7286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6160    2.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4410    2.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0285    0.7464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1016    1.9086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9554    1.9086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2852    1.1043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7718    1.1043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0285   -0.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3140   -0.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2844    2.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7725    2.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6643    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3926    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3139   -1.3161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4070    1.5949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8412    0.7571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2157    0.7571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5995   -2.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8850   -1.3161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 20  1  0
+  1 21  1  0
+  2  3  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  1  0
+  4  8  1  0
+  4  9  2  3
+  5  7  2  0
+  5 11  1  0
+  6  8  2  0
+  6 12  1  0
+  7 13  1  0
+  8 14  1  0
+  9 10  1  0
+ 10 15  1  0
+ 11 16  2  0
+ 12 17  2  0
+ 13 18  2  0
+ 14 19  2  0
+ 16 18  1  0
+ 17 19  1  0
+  2 22  1  0
+  2 23  1  0
+  3 24  1  0
+  3 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 15 34  1  0
+ 16 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 21 44  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.10
+
+>  <ALOGPS_LOGS>  (1) 
+-4.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.50e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00321
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00321
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+277.183049741
+
+>  <FORMULA>  (1) 
+C20H23N
+
+>  <GENERIC_NAME>  (1) 
+Amitriptyline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H23N/c1-21(2)15-7-12-20-18-10-5-3-8-16(18)13-14-17-9-4-6-11-19(17)20/h3-6,8-12H,7,13-15H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+KRMDCWKBEZIMAB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adepril; Amitryp; Conmitrip; Endep; Fiorda; Kamitrin; Laroxyl; Latilin; Maxitrip; Redomex; Saroten; Sarotex; Sarotex Retard; Syneudon; Tryptanol; Tryptanol; Tryptizol; Uxen Retard
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.73941640344825
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl(3-{tricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-ylidene}propyl)amine
+
+>  <JCHEM_LOGP>  (1) 
+4.8095349149999995
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.76073872870795
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+3.24
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+101.50720000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+amitriptyline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+277.4033
+
+>  <PRODUCTS>  (1) 
+Amitriptyline; Amitriptyline 10 Tab; Amitriptyline 25 Tab; Amitriptyline HCl Tab 25mg; Amitriptyline HCl Tab 50mg; Amitriptyline Hydrochloride; Amitriptyline Tablets B.p 25mg; Amitriptyline-10; Amitriptyline-25; Amitriptyline-50; Apo Peram Tab 2-25; Apo Peram Tab 3-15; Apo-amitriptyline; Bio-amitriptyline; Chlordiazepoxide and Amitriptyline HCl; Chlordiazepoxide and Amitriptyline Hydrochloride; Dom-amitriptyline; Elavil; Elavil 25 mg; Elavil Pamoate Syr 10mg/5ml; Elavil Plus Tab; Elavil Tablet 10mg; Elavil Tablet 25mg; Elavil Tablet 50mg; Elavil Tablet 75mg; Equipto - Amitriptyline External Cream Compounding Kit; Etrafon 2 10; Etrafon A Tab; Etrafon D Tab; Etrafon F Tab; Gpc-amitriptyline; Ipg-amitriptyline; Jamp-amitriptyline; Jamp-amitriptyline Tablets; Levate; Mar-amitriptyline; Novo-triptyn Tab 10mg; Novo-triptyn Tab 25mg; Novo-triptyn Tab 50mg; Nu-amitriptyline Tablets; PMS-amitriptyline; PMS-levazine 2/25 Tab; PMS-levazine 3/15 Tab; PMS-levazine 4/25 Tab; Perphenazine and Amitriptyline Hydrochloride; Proavil Tab; Sentravil PM-25; Teva-amitriptyline; Triavil Tab
+
+>  <SALTS>  (1) 
+Amitriptyline Hydrochloride; Amitriptyline Pamoate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00227
+
+>  <SMILES>  (1) 
+CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+Amitriptilina; Amitriptylin; Amitriptyline; Amitriptylinum
+
+$$$$

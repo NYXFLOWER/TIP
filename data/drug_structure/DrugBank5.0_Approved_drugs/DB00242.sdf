@@ -1,0 +1,184 @@
+242
+     RDKit          2D
+
+ 31 33  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -0.5556    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.3467    0.7358    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2852    1.6299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1323    2.7996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.7167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -2.0446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5556    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.7931    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.0306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8305    0.0675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6170    1.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6155    0.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8328    1.4024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5792    2.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556   -1.3806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.7931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.2056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 10  1  0
+  2 13  1  0
+ 11  3  1  6
+  4 14  1  0
+ 10  5  1  6
+  5 15  1  0
+  5 16  1  0
+  6 16  2  0
+  6 17  1  0
+  7 15  1  0
+  7 19  2  0
+  8 18  2  0
+  8 19  1  0
+  9 18  1  0
+ 10 12  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 13 14  1  6
+ 15 17  2  0
+ 17 18  1  0
+  3 20  1  0
+  4 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 16 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.12
+
+>  <ALOGPS_LOGS>  (1) 
+-1.65
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.35e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00242
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00242
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+285.062866982
+
+>  <FORMULA>  (1) 
+C10H12ClN5O3
+
+>  <GENERIC_NAME>  (1) 
+Cladribine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12ClN5O3/c11-10-14-8(12)7-9(15-10)16(3-13-7)6-1-4(18)5(2-17)19-6/h3-6,17-18H,1-2H2,(H2,12,14,15)/t4-,5+,6+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+PTOAARAWEBMLNO-KVQBGUIXSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Leustatin; Litak; Movectro; Mylinax
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.933311613576564
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S,5R)-5-(6-amino-2-chloro-9H-purin-9-yl)-2-(hydroxymethyl)oxolan-3-ol
+
+>  <JCHEM_LOGP>  (1) 
+-0.2817754633333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+14.784914754981045
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.886716048865388
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+1.3268966303757452
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+119.30999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+67.18350000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cladribine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+285.687
+
+>  <PRODUCTS>  (1) 
+Cladribine; Cladribine Injection; Leustatin 1mg/ml; Mavenclad
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00260
+
+>  <SMILES>  (1) 
+NC1=C2N=CN([C@H]3C[C@H](O)[C@@H](CO)O3)C2=NC(Cl)=N1
+
+>  <SYNONYMS>  (1) 
+2-CdA; 2-Chloro-2'-deoxy-beta-adenosine; 2-Chloro-2'-deoxyadenosine; 2-Chlorodeoxyadenosine; 2ClAdo; CldAdo
+
+$$$$

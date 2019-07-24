@@ -1,0 +1,161 @@
+
+     RDKit          2D
+
+ 23 20  0  0  0  0  0  0  0  0999 V2000
+    1.2964   -0.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4714   -0.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0589    0.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0589   -1.1227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4714    1.0207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7661    0.3062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3607    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7732    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3607   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5982    0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7732   -1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5357   -0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5911    0.3062    0.0000 Ca  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  2  1  0
+  5  3  2  0
+  6  3  1  0
+  8  7  1  0
+  9  8  1  0
+ 10  8  1  0
+ 11  9  2  0
+ 12  9  1  0
+  1 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  4 18  1  0
+  7 19  1  0
+  7 20  1  0
+  7 21  1  0
+  8 22  1  0
+ 10 23  1  0
+M  CHG  3   6  -1  12  -1  13   2
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.36
+
+>  <ALOGPS_LOGS>  (1) 
+-0.06
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.91e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13231
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13231
+
+>  <DRUG_GROUPS>  (1) 
+approved; experimental; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+218.0103289
+
+>  <FORMULA>  (1) 
+C6H10CaO6
+
+>  <GENERIC_NAME>  (1) 
+Calcium lactate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C3H6O3.Ca/c2*1-2(4)3(5)6;/h2*2,4H,1H3,(H,5,6);/q;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+MKJXYGKVIBWPFZ-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.6471030931770345
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium bis(2-hydroxypropanoate)
+
+>  <JCHEM_LOGP>  (1) 
+-0.47182951800000017
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+14.593508084825753
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.784942414122652
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6696493832413326
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+29.676900000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+calcium dilactate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+218.218
+
+>  <PRODUCTS>  (1) 
+Calcimax Tab 324mg; Calcium Ctr Srt; Calcium Lactate Et Magnesium Sulfate; Calcium Lactate Tab 10gr; Calcium Lactate Tab 324mg; Calcium Lactate Tab 648mg; Calcium Lactate Tab 650mg; Calcium Lactate Tab 650mg USP; Calcium Supplement Tab; Dicalcine Tab No460; Mangadyn
+
+>  <SMILES>  (1) 
+[Ca++].CC(O)C([O-])=O.CC(O)C([O-])=O
+
+>  <SYNONYMS>  (1) 
+calcium 2-hydroxypropanoate
+
+$$$$

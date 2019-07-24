@@ -1,0 +1,180 @@
+712
+     RDKit          2D
+
+ 31 32  0  0  1  0  0  0  0  0999 V2000
+    1.6500    0.7466    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -2.9659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -1.7284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    3.2216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 13  1  0
+  3 13  2  0
+  4  5  1  0
+  4 11  1  0
+  4 13  1  0
+  5  7  2  0
+  5  8  1  0
+  6  9  2  0
+  6 10  1  0
+  6 12  1  0
+  7  9  1  0
+  8 10  2  0
+ 12 14  2  0
+ 12 15  1  0
+ 14 16  1  0
+ 15 17  2  0
+ 16 18  2  0
+ 17 18  1  0
+  2 19  1  0
+  4 20  1  0
+  7 21  1  0
+  8 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 14 27  1  0
+ 15 28  1  0
+ 16 29  1  0
+ 17 30  1  0
+ 18 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.57
+
+>  <ALOGPS_LOGS>  (1) 
+-3.99
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.49e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00712
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00712
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+244.089957865
+
+>  <FORMULA>  (1) 
+C15H13FO2
+
+>  <GENERIC_NAME>  (1) 
+Flurbiprofen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H13FO2/c1-10(15(17)18)12-7-8-13(14(16)9-12)11-5-3-2-4-6-11/h2-10H,1H3,(H,17,18)
+
+>  <INCHI_KEY>  (1) 
+SYTBZMRGLBWNTM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acustop Cataplasma; Adofeed; Ansaid; Antadys; Cebutid; Flurofen; Ocuflur; Stayban; Strefen; Strepfen; Strepsils; Strepsils Intensive; TransAct; Urbifen; Zepolas
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.231700553760707
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(3-fluoro-4-phenylphenyl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.943907682
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.421757643734796
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+37.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+67.29270000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+flurbiprofen
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+244.2609
+
+>  <PRODUCTS>  (1) 
+Ansaid Tablets 100 mg; Ansaid Tablets 50 mg; Antiphlamine Pain Relieving; Apo-flurbiprofen Fc Tablets 100mg; Apo-flurbiprofen Fc Tablets 50mg; Flurbiprofen; Flurbiprofen Sodium; Flurbiprofen-100 Tab 100mg; Flurbiprofen-50 Tab 50mg; Froben; Froben SR; Froben Tab 100mg; Froben Tab 50mg; Froben-SR Cap 200mg; Novo-flurprofen SR; Nu-flurbiprofen Tab 100mg; Nu-flurbiprofen Tab 50mg; Ocufen; Ocufen Oph Soln 0.03%; Ratio-flurbiprofen Tablets 100mg; Ratio-flurbiprofen Tablets 50mg; Teva-flurbiprofen
+
+>  <SALTS>  (1) 
+Flurbiprofen Sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00753
+
+>  <SMILES>  (1) 
+CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Flurbiprofen; Flurbiprofene; Flurbiprofeno; Flurbiprofenum; S-flurbiprofen
+
+$$$$

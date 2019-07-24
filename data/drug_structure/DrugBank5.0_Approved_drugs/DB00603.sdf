@@ -1,0 +1,247 @@
+
+     RDKit          2D
+
+ 62 65  0  0  1  0  0  0  0  0999 V2000
+    1.8036   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045   -1.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8036    1.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045    1.3786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885    0.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1245   -0.2714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100    0.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100   -1.5089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1245   -1.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8390    0.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8390   -1.5089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5534   -0.2714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045   -0.2714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100    0.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0189    0.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0189    1.7911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0189    0.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2679   -1.5089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5534   -1.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1245    0.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5181    1.6336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8036    2.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2202    2.6295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5181    2.4586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100   -2.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2326    1.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9470    1.6336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2326    0.3961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 17 13  1  0
+ 17 15  1  0
+ 17  1  1  0
+ 13 14  1  0
+ 13  2  1  0
+ 15  3  1  0
+ 15  4  1  0
+  5  1  1  0
+ 14  6  1  0
+ 14  7  1  0
+  2  8  1  0
+  6  9  1  0
+  6 10  1  0
+  9 11  2  0
+ 10 12  1  0
+ 11 19  1  0
+  3  5  1  0
+  4  7  1  0
+  8  9  1  0
+ 12 19  1  0
+ 15 16  1  1
+ 19 18  2  0
+  6 20  1  1
+  3 21  1  6
+  3 22  1  0
+ 22 23  1  0
+ 22 24  2  0
+  8 25  1  1
+ 21 26  1  0
+ 26 27  1  0
+ 26 28  2  0
+  1 29  1  0
+  1 30  1  0
+  2 31  1  0
+  2 32  1  0
+  4 33  1  0
+  4 34  1  0
+  5 35  1  0
+  5 36  1  0
+  7 37  1  0
+  7 38  1  0
+  8 39  1  0
+ 10 40  1  0
+ 10 41  1  0
+ 11 42  1  0
+ 12 43  1  0
+ 12 44  1  0
+ 13 45  1  1
+ 14 46  1  6
+ 16 47  1  0
+ 16 48  1  0
+ 16 49  1  0
+ 17 50  1  6
+ 20 51  1  0
+ 20 52  1  0
+ 20 53  1  0
+ 23 54  1  0
+ 23 55  1  0
+ 23 56  1  0
+ 25 57  1  0
+ 25 58  1  0
+ 25 59  1  0
+ 27 60  1  0
+ 27 61  1  0
+ 27 62  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.42
+
+>  <ALOGPS_LOGS>  (1) 
+-5.24
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.21e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00603
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00603
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+386.245709576
+
+>  <FORMULA>  (1) 
+C24H34O4
+
+>  <GENERIC_NAME>  (1) 
+Medroxyprogesterone acetate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C24H34O4/c1-14-12-18-19(22(4)9-6-17(27)13-21(14)22)7-10-23(5)20(18)8-11-24(23,15(2)25)28-16(3)26/h13-14,18-20H,6-12H2,1-5H3/t14-,18+,19-,20-,22+,23-,24-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+PSGAAPLEWMOORI-PEINSRQWSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Depo-subq provera 104
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+44.05026524216284
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,2R,8S,10R,11S,14R,15S)-14-acetyl-2,8,15-trimethyl-5-oxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-14-yl acetate
+
+>  <JCHEM_LOGP>  (1) 
+4.1293237843333355
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+19.537071747913437
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.821218245286996
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.904302756399779
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.440000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+107.80539999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+provera
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+386.5244
+
+>  <PRODUCTS>  (1) 
+Apo-medroxy; Apo-medroxy Tablets; Depo-Provera; Depo-SubQ Provera; Depo-provera Sterile Aqueous Suspension 150 mg/ml; Depo-provera Sterile Aqueous Suspension 50 mg/ml; Dom-medroxyprogesterone; Gen-medroxy Tablet 10mg; Gen-medroxy Tablet 2.5mg; Gen-medroxy Tablet 5mg; Medroxy-2.5; Medroxy-5; Medroxyprogesterone Acetate; Medroxyprogesterone Acetate Injectable Suspension USP; Meprogest; Nu-medroxy; PMS-medroxyprogesterone; Penta-medroxyprogesterone Tablets; Premphase; Premplus; Premplus Cycle; Prempro; Proclim; Provera; Provera 100mg Tablets; Provera 10mg Tablets; Provera 2.5mg Tablets; Provera 5mg Tablets; Provera Pak 10mg Tablets; Provera Pak 5mg Tablets; Ratio-mpa; Teva-medroxyprogesterone
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00627
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)CC[C@]12C
+
+>  <SYNONYMS>  (1) 
+17-Acetoxy-6α-methylprogesterone; 17α-hydroxy-6α-methylprogesterone acetate; 6-alpha-Methyl-17-alpha-acetoxyprogesterone; 6-alpha-Methyl-17-alpha-hydroxyprogesterone acetate; 6α-Methyl-17-acetoxy progesterone; 6α-Methyl-17α-hydroxyprogesterone acetate; Medroxyacetate progesterone; Medroxyprogesterone 17-acetate; Methylacetoxyprogesterone; Metigestrona; MPA
+
+$$$$

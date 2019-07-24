@@ -1,0 +1,215 @@
+
+     RDKit          2D
+
+ 45 47  0  0  1  0  0  0  0  0999 V2000
+    9.8459   -4.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8459   -5.4940    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5604   -5.9063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2748   -5.4940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2748   -4.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5604   -4.2566    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0210   -4.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0210   -5.4940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3066   -4.2566    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5922   -4.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5922   -5.4940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3066   -5.9063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8777   -4.2566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0001   -5.9130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5604   -6.7312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8360   -7.1494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2647   -7.1379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1519   -4.6759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4713   -4.1967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8024   -4.6960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0706   -5.4865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9052   -5.4757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8776   -3.4192    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7246   -5.4950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4249   -5.8996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1301   -5.4927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4247   -6.7288    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5941   -3.0055    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5942   -2.1770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  1  6  1  0
+  1  7  1  0
+  7  8  1  0
+  2  8  1  0
+  7  9  1  1
+  9 10  1  0
+ 10 11  2  0
+  8 12  2  0
+ 10 13  1  0
+  4 14  1  0
+  3 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 13 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  2  0
+ 21 22  1  0
+ 18 22  2  0
+ 13 23  2  0
+ 14 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 25 27  2  0
+ 23 28  1  0
+ 28 29  1  0
+  1 30  1  6
+  5 31  1  0
+  5 32  1  0
+  7 33  1  0
+  9 34  1  0
+ 14 35  1  0
+ 14 36  1  0
+ 17 37  1  0
+ 20 38  1  0
+ 21 39  1  0
+ 22 40  1  0
+ 26 41  1  0
+ 26 42  1  0
+ 29 43  1  0
+ 29 44  1  0
+ 29 45  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.24
+
+>  <ALOGPS_LOGS>  (1) 
+-3.17
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.84e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01112
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01112
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+424.068884198
+
+>  <FORMULA>  (1) 
+C16H16N4O8S
+
+>  <GENERIC_NAME>  (1) 
+Cefuroxime
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H16N4O8S/c1-26-19-9(8-3-2-4-27-8)12(21)18-10-13(22)20-11(15(23)24)7(5-28-16(17)25)6-29-14(10)20/h2-4,10,14H,5-6H2,1H3,(H2,17,25)(H,18,21)(H,23,24)/b19-9-/t10-,14-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+JFPVXVDWJQMJEE-IZRZKJBUSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cefurax; Elobact; Oraxim; Sharox; Supacef; Zinnat
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+38.749728909236225
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(6R,7R)-3-[(carbamoyloxy)methyl]-7-[(2Z)-2-(furan-2-yl)-2-(methoxyimino)acetamido]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.9029734729999994
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.97507618266688
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.149449980213596
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.149047285054373
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+173.76
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+97.16580000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sharox
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+424.385
+
+>  <PRODUCTS>  (1) 
+Apo-cefuroxime; Auro-cefuroxime; Ceftin; Ceftin - Pwr 250mg/sachet; Ceftin - Pws 125mg/5ml; Ceftin - Tab 250mg; Ceftin - Tab 500mg; Ceftin Pws 125mg/5ml; Ceftin Tab 250mg; Ceftin Tab 500mg; Ceftin for Oral Suspension-pws 250mg/pck; Cefuroxime; Cefuroxime Axetil; Cefuroxime Axetil For Oral Suspension; Cefuroxime Sodium; Cefuroxime axetil; Cefuroxime for Injection USP; Cefuroxime for Injection, USP; Kefurox; Kefurox Inj Pws 1.5gm/add-vantage Vial; Kefurox Inj Pws 750mg/add-vantage Vial; Novo-cefuroxime; Nu-cefuroxime; Orb-cefuroxime; Pro-cefuroxime - 500; Ratio-cefuroxime; Zinacef; Zinacef Inj 1.5gm/vial; Zinacef Inj 7.5gm/vial; Zinacef Inj 750mg/vial; Zinacef Injection - Pws  IV 1.5gm/vial; Zinacef Injection - Pws IV 7.5gm/vial; Zinacef Injection - Pws Im IV 750mg/vial
+
+>  <SALTS>  (1) 
+Cefuroxime axetil; Cefuroxime sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00285
+
+>  <SMILES>  (1) 
+[H][C@]12SCC(COC(N)=O)=C(N1C(=O)[C@H]2NC(=O)C(=N/OC)\C1=CC=CO1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+Cefuroxime; Cefuroximo; Cefuroximum
+
+$$$$

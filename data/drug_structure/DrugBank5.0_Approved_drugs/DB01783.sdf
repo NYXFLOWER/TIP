@@ -1,0 +1,183 @@
+
+     RDKit          2D
+
+ 32 31  0  0  1  0  0  0  0  0999 V2000
+   16.4584   -4.2762    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7441   -3.8637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0296   -4.2762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6007   -4.2762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3151   -3.8637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0296   -5.1012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7441   -3.0388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8862   -3.8637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1729   -3.8637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8874   -4.2762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6019   -3.8637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6019   -3.0388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3163   -4.2762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9026   -3.1493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7276   -3.1493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  1  1  0
+  2  7  2  0
+  3  2  1  0
+  3  6  1  0
+  4  8  1  0
+  3  5  1  0
+  5  4  1  0
+  5 14  1  0
+  5 15  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+  1 16  1  0
+  3 17  1  0
+  4 18  1  0
+  4 19  1  0
+  6 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 14 29  1  0
+ 15 30  1  0
+ 15 31  1  0
+ 15 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.12
+
+>  <ALOGPS_LOGS>  (1) 
+-0.56
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.05e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01783
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01783
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical; vet_approved
+
+>  <EXACT_MASS>  (1) 
+219.110672659
+
+>  <FORMULA>  (1) 
+C9H17NO5
+
+>  <GENERIC_NAME>  (1) 
+Pantothenic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H17NO5/c1-9(2,5-11)7(14)8(15)10-4-3-6(12)13/h7,11,14H,3-5H2,1-2H3,(H,10,15)(H,12,13)
+
+>  <INCHI_KEY>  (1) 
+GHOKWGTUZJEAQD-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.915355629120093
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3-(2,4-dihydroxy-3,3-dimethylbutanamido)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.3553751066666662
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+12.685728183953426
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.3547414254714205
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.7860052632571373
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+106.86
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.5111
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+DL-pantothenic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+219.235
+
+>  <PRODUCTS>  (1) 
+Acti Pantothenic Acid 1000 Timed Caplet; Acti-pantothenic Acid 300 Caplet 300mg; Adrenergy Tablets; Adrenogist Tab; Advanced 2000 Capsules; Allbee With C 550 Cap; Allbee With Vitamin C Cap; American Eagle Energizer Plus Vitamin Supplement Drink; American Plus Energy & Vitamin Drink; Armax; B 50 Capsules; B C Antistress Cap; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Complex 500 Tab; B Complex Plus C 300mg Tab; B Complex Tablets; B Complex W C Forte Cap; B Complex W Vit C W Non-med Yeast&liver Tab; B Complex W Vitamin C Fortis Cap; B Complex With C 300mg; B Complex With C 300mg Tab; B Complex With C 550mg; B Compound 50mg Tab; B Plus C 300mg Timed Release; B Stress C + Iron & Vite; B Totum 500; B Virol; B With C 500 Cap; B-100 Caps; B-100 Complex Tablets; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Complex Tab; B-50 Hi Potency B Vitamins Tab; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex Tablets; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B-plus - Tab; B50 B Complex Tab; B50 Complex; Bacmin; Balanced B 125 Srt; Balanced B-100 B-complex Vitamins Tab; Balanced B-100 Timed Release; Balanced B-50 B-complex Vitamins Tab; Balanced B-50 B-complex Vitamins, Timed Rele; Balanced B-50 Complex; Balanced B-complex Vit + Vit C&e Tab; Balanced B100; Balanced B50 Complex; Beminal With C Fortis Cap; Bev 29 Tab; Bev B-150; Bio-fen; Biosculpt; C-B Complex; C-apnto-B6 Vitamins W Magnesium Tab; C.R.T. X Multivitamin & Mineral Powder Mix; Calcium Pantothenate Tab 250mg; Calpan Tab 100mg; Calpan Tab 250mg; Carbassist Tablets; Cc II; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Cedevita Plus Vitamin Supplement; Cedevita Sugar-free Vitamin Supplement; Central-vite 18 Essential; Century Complete; Children Choice Multivit Chewable Tab; Children Choice Multivitamin W Iron Chew Tab; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Childrens Chewable Vitamin Tab; Childrens Multiple Vit and Min Chew Tab; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Complex 5 - Pwr; Complex-75; Complexe B 75mg; Complexe B Compose 75; Complexe B-75; Concept DHA; Concept OB; D Pantothenic 500mg With 100mg C; D Pantothenic Acid Tab 100mg; D'pantothenic Acid Srt 1000mg; D'pantothenic Acid-B1-B2 Tab; D-pantothenic Acid 250mg; D-pantothenic Acid 250mg Cap; Daily Energy Brand B-complex; Derma-force; Dia-vite; Diaplex; Dp 2000; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Multivitamins and Minerals; Energy 80 Prolonged Release Tab; Enrich Core Pack - Children Vitamin and Mineral Supplement; Enviroflex - Tab; Envive; Escavite; Essential B Tablets; Extra P.N. Vitamin-mineral Drink Mix; Fem - Pmt; Floriva Plus; Formula 9 Tab; Formula Adr-vitamin B2,b6 W Calpan Tab; Formula Cm; Formula D.S.; Formula F.E.S. Vitamins Tab; Formula Im-vitamins and Minerals Tab; Formula Js; Formula L.G.I.; Formula Lf; Formula Statin Support; Fortamines 10 Capsules; Fortamines-10 Comprimes; Fortistress Tab; Forty Plus Vitamin Supplement; Fusion Activator Formula Tab; Glyco-aide Tab; Gtf Support Caplet; Harvest Of Values All B Complex Tab; Hemarexin Tab; HemeNatal OB; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Balanced B-100 Complex - Tab; Hi Potency Stress B Tension With C; High Potency Vitamin B Complex + C Tab; Hill.vite; Hypo Vites Tab; Iberet 500; Insur-all Vitamin Supplement; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Kanga Sport Vitamins B & C Plus Minerals; Kanga-B Vitamin B Group + C; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kc Vitamin and Mineral Supplement; Kenwood Liquid Supplement; Kindervites; Leritone Junior; Lipo-B-C Tab; Lipovitan; Liqui B Complex; Liqui B Complex Plus; Liqui Infant Vitamins; Liqui Vita; Liquid B Complex 50; Livron Plus Tab; Low Potency B Complex Tab; M.V.I. Paediatric; Maxi 10 Tab; Mega 13 Multivitamin Formula; Meplex T 750; Mini-B Tab; Mor-vites Tab; Mr. Tumee Multi-vitamin; Multi #2; Multi - N.T.O.x Formula - Tab; Multi B; Multi Nt-OX; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi Vitamins & Minerals; Multi-vitamin Dietary Supplement; Multi-vitamines Enfants Comprime; Multi-vitamins With Minerals; Multicaps; Multiple Vitamin Plus Minerals Tab; Multiple Vitamins & Minerals Tablets; Multiple Vitamins Plus Iron for Women; Multiple Vitamins W Minerals Tab; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multisol; Multitabs; Multivit-liq; Multivitamines Et Mineraux; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Myhephron Dialysis and Stress Supplement; Mynephrocaps Dialysis/stress Vitamin Supplement; Nata Komplete; Nephrocaps; Nioxin Recharging Complex; Nutrilite Double X; Nutrol-B-complex; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; Original Bioscal Forte Multi-vitamin Supplement Capsules; Orti B; P.N.P. Vitamin Drink; PM Caps; PNV Ferrous Fumarate Docusate Folic Acid; PNV-Select; Pantacid Tab 250mg; Pantothenic Acid; Pantothenic Acid 100 Mg Tablets; Pantothenic Acid 100mg; Pantothenic Acid 250mg; Pantothenic Acid 500 Caplet 500mg; Pantothenic Acid 500 mg; Pantothenic Acid 500mg; Pantothenic Acid Cap 250mg; Pantothenic Acid Caps 100mg; Pantothenic Acid Caps 250mg; Pantothenic Acid Ctr Srt 500mg; Pantothenic Acid Tab 100mg; Pantothenic Acid Tab 100mg Nu Life; Pantothenic Acid Tab 200mg; Pantothenic Acid Tab 250mg; Pantothenic Acid Tab 500mg; Pantothenic Acid Tablets 300mg; Pantothenic Acid-S Tab 100mg; Phosthenine Vitamines Et Fer (ampoules Buvable); Phytopure; Polymine Avec Zinc Et Cuivre; Potassium Plus Vit B Complex; PreNatal 19; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenatal Mega Antioxidant; Prenate Elite; Prenate Star; PureVit DualFe Plus; Q.T. Vitamin and Mineral Drink Mix; Red American Eagle Vitamin Supplement Drink; Red Bull; Reno Caps; Replavite; Revit Plus Cap; Revival 1 Tab; Right Choice A.M. Multi Formula - Caplet; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Se-Tan PLUS; Shen Min Vitamin Supplement; Sibergin B - Cap; Snh Formula; Somavit Brand Vitamins and Minerals Complex; Sopalamine 3b Plus; Sopalamine/3b Plus C; Spectra 301 Vitamin and Mineral Supp; Spectrum 2 Cap; Stress B & C  Caplet; Stress B Capsules With Vitamin C; Stress B Complex With C, E & Iron; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Ctr Srt; Stress Formula; Stress Formula + Iron; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Multivitamin Tablets USP; Stress Formula Tab; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Tab; Stress Tab With Iron and Vitamin E; Stress Tab With Zinc, Copper and Vitamin E; Stress Tablets; Stress Vitamin B With C Complex Tablets; Stressmates; Strovite Forte Caplet; Strovite One Caplets; Sun-rype Vitaburst; Super B Compound W 500mg Vit C; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Pantoplex; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super-cell; Super-pote Vitamin Supplement; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supravite Bouteille 250ml; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; Surbex 500 Filmtab; Surbex-500 With Iron; Surbex-500 With Zinc; Swical-energy-2; T.R.I. B-plex Src; Tandem OB; Tandem Plus; Tar-end; Time Release B 100 Compound  -  Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Toni Com Liq; Tri Adrenopan; Trinatal GT; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; Ultra Enerforce; Ultra Hr; Usana Megavitamin Tablets - Tab; VP-HEME One; VP-heme OB; Vasodyn Tab; Vege 1 Daily Tab; Virt-Caps; Virt-Pn; Virt-Vite Plus; Vit B Complex Ctr; Vit B Complex Plus Vit C 550mg; Vit-HA Multi Vitamin and Zinc Supplement; Vita B + C 500 Tab; Vita B Complex Tab; Vita-B; Vita-B-75 Cap; Vita-tenic Cap 300mg; Vita-worth B-complex Tablets; Vitabanks Vitamin Tab; Vitaflex Dietary Suplement; Vital Be-100; Vitalife  -  Capsule; Vitamin B + C Cap; Vitamin B Complex + C 300mg Cap; Vitamin B Complex + C 600mg Tab; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Plus 300mg Vitamin C; Vitamin B Complex Plus C 300mg Timed Release; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Complex W C 300mg Tab; Vitamin B Complex W C Tab; Vitamin B Compound Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Compound With Vitamin C Fortis Capsule Dtc; Vitamin B Cpd W Vit C Tab; Vitamin B Tablets; Vitamin B5 (pantothenic Acid) Tab 250mg; Vitamin B5 Tab 50mg USP Chewable; Vitamine 110 Liq; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitaplex; Vitogen B Compound W C Fortis Capsules; Vitogen B Stress C Vit E Zinc & Cop; Vitogen B Stress C600; Vitreat Chewable Vitamin Tab; Vitreat Chewable Vitamins Plus Iron; Vtb Vitamin and Mineral Supplement; Women's Change Formula; Women's Formula; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SALTS>  (1) 
+Calcium pantothenate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02501
+
+>  <SMILES>  (1) 
+CC(C)(CO)C(O)C(=O)NCCC(O)=O
+
+>  <SYNONYMS>  (1) 
+(+)-Pantothenic acid; D-pantothenic acid; Pantothenate; Vitamin B5
+
+$$$$

@@ -1,0 +1,230 @@
+737
+     RDKit          2D
+
+ 55 58  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -3.3001    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 24  1  0
+  2  4  1  0
+  2  5  1  0
+  2  8  1  0
+  3  6  1  0
+  3  7  1  0
+  3  9  1  0
+  4  6  1  0
+  5  7  1  0
+  8 10  1  0
+  8 11  1  0
+  9 12  1  0
+ 10 13  2  0
+ 10 14  1  0
+ 11 15  2  0
+ 11 16  1  0
+ 12 17  2  0
+ 12 18  1  0
+ 13 19  1  0
+ 14 20  2  0
+ 15 21  1  0
+ 16 22  2  0
+ 17 23  1  0
+ 18 26  2  0
+ 19 24  2  0
+ 20 24  1  0
+ 21 25  2  0
+ 22 25  1  0
+ 23 27  2  0
+ 23 28  1  0
+ 26 27  1  0
+  4 29  1  0
+  4 30  1  0
+  5 31  1  0
+  5 32  1  0
+  6 33  1  0
+  6 34  1  0
+  7 35  1  0
+  7 36  1  0
+  8 37  1  0
+  9 38  1  0
+  9 39  1  0
+ 13 40  1  0
+ 14 41  1  0
+ 15 42  1  0
+ 16 43  1  0
+ 17 44  1  0
+ 18 45  1  0
+ 19 46  1  0
+ 20 47  1  0
+ 21 48  1  0
+ 22 49  1  0
+ 25 50  1  0
+ 26 51  1  0
+ 27 52  1  0
+ 28 53  1  0
+ 28 54  1  0
+ 28 55  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.59
+
+>  <ALOGPS_LOGS>  (1) 
+-5.58
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.03e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00737
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00737
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+390.186276581
+
+>  <FORMULA>  (1) 
+C25H27ClN2
+
+>  <GENERIC_NAME>  (1) 
+Meclizine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C25H27ClN2/c1-20-6-5-7-21(18-20)19-27-14-16-28(17-15-27)25(22-8-3-2-4-9-22)23-10-12-24(26)13-11-23/h2-13,18,25H,14-17,19H2,1H3
+
+>  <INCHI_KEY>  (1) 
+OCJYIGYOJCODJL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Chiclida; Meclicot; Navicalm; Postafen; Sea-Legs
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+44.86953307259893
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-[(4-chlorophenyl)(phenyl)methyl]-4-[(3-methylphenyl)methyl]piperazine
+
+>  <JCHEM_LOGP>  (1) 
+6.387941532333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.160772842506658
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+119.39220000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+meclizine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+390.948
+
+>  <PRODUCTS>  (1) 
+Antivert; Antivert Tab; Bonamine; Bonamine Tab 25mg Chewable; Bonine; CVS Motion Sickness Fast Melting; Dramamine Less Drowsy; Jet-Avert Motion Sickness Aid; Less Drowsy Formula Motion Sickness Relief; Less Drowsy Motion Sickness Relief; Meclizine; Meclizine 25; Meclizine HCL; Meclizine HCL 12.5 mg; Meclizine HCL 25 mg; Meclizine HCl; Meclizine HCl 25 mg; Meclizine Hydrochloride; Meclizine Hydrocloride; Medique Medi-Meclizine; Motion Relief - Less Drowsy Formula; Motion Sickness; Motion Sickness II; Motion Sickness Less Drowsy; Motion Sickness Less Drowsy Formula; Motion Sickness Relief; Motion Sickness Relief Less Drowsy; Motion sickness; Motion sickness Relief; Motion sickness less drowsy formula; Motion-Time Chewable; Naus-ease; Rugby; Rugby Meclizine HCl, 12.5 mg Each ANTIEMETIC; Rugby Meclizine HCl, 12.5 mg Each Antiemetic; Rugby Travel Sickness Meclizine HCl, 25 mg Each (ANTIEMETIC); Rugby Travel Sickness Meclizine HCl, 25 mg Each (Antiemetic); Rugby Travel SicknessMeclizine HCl, 25 mg Each (ANTIEMETIC); Rugby Travel SicknessMeclizine HCl, 25 mg Each (ANTIEMETIC) Meclizine HCl, 25 mg Each (ANTIEMETIC); RugbyMeclizine HCl, 12.5 mg Each ANTIEMETIC Meclizine HCl, 12.5 mg Each ANTIEMETIC; Sea-calm; Trav-L-tabs; Travel Ease; Travel Sickness Meclizine HCl; Travel Time; Travel-Ease; Verticalm; Wal Dram; Wal-Dram 2 Quick-Dissolving; Zentrip
+
+>  <SALTS>  (1) 
+Meclizine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00354
+
+>  <SMILES>  (1) 
+CC1=CC(CN2CCN(CC2)C(C2=CC=CC=C2)C2=CC=C(Cl)C=C2)=CC=C1
+
+>  <SYNONYMS>  (1) 
+Meclozine
+
+$$$$

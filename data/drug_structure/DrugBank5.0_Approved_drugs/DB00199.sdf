@@ -1,0 +1,361 @@
+12560
+     RDKit          2D
+
+118120  0  0  1  0  0  0  0  0999 V2000
+    4.5376   -0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376    0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9887   -2.4873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -2.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    1.1675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0127    1.8819    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    3.4214    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876   -0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    3.3109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0471    1.3810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2057    0.9833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2502   -1.6905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0127    0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3626   -0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751   -0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751   -1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3626    0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6001   -1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751    1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0127   -0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    2.5964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6001   -0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876   -2.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376    1.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1918   -2.2739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    2.5964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2502   -0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2502    1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -3.1195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8377    0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    1.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8377   -0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -3.1195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8377    1.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6001    1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3626    1.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1876   -0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    3.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0752   -0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9260    0.6943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2502    2.5964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    1.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -3.8339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.1195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8377    3.3109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    3.8339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 15  1  1  6
+ 22  1  1  6
+ 18  2  1  6
+ 23  2  1  6
+ 17  3  1  1
+  4 22  1  0
+  4 37  1  0
+  5 23  1  0
+  5 35  1  0
+  6 38  1  0
+  6 39  1  0
+ 24  7  1  6
+  7 51  1  0
+ 26  8  1  1
+ 30  9  1  6
+ 32 10  1  1
+ 34 11  1  1
+ 12 36  2  0
+ 13 39  2  0
+ 27 14  1  6
+ 14 48  1  0
+ 14 49  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 16 18  1  0
+ 16 25  1  1
+ 17 19  1  0
+ 17 29  1  0
+ 18 20  1  0
+ 19 21  1  0
+ 20 39  1  0
+ 20 40  1  1
+ 21 36  1  0
+ 21 41  1  1
+ 22 26  1  0
+ 23 28  1  0
+ 24 28  1  0
+ 24 30  1  0
+ 24 42  1  0
+ 26 27  1  0
+ 27 33  1  0
+ 30 35  1  0
+ 31 34  1  0
+ 31 36  1  0
+ 31 43  1  6
+ 32 34  1  0
+ 32 38  1  0
+ 32 44  1  0
+ 33 37  1  0
+ 35 46  1  1
+ 37 47  1  1
+ 38 45  1  1
+ 45 50  1  0
+  3 52  1  0
+  8 53  1  0
+  9 54  1  0
+ 10 55  1  0
+ 11 56  1  0
+ 15 57  1  0
+ 16 58  1  0
+ 18 59  1  0
+ 19 60  1  0
+ 19 61  1  0
+ 20 62  1  0
+ 21 63  1  0
+ 22 64  1  0
+ 23 65  1  0
+ 25 66  1  0
+ 25 67  1  0
+ 25 68  1  0
+ 26 69  1  0
+ 27 70  1  0
+ 28 71  1  0
+ 28 72  1  0
+ 29 73  1  0
+ 29 74  1  0
+ 29 75  1  0
+ 30 76  1  0
+ 31 77  1  0
+ 33 78  1  0
+ 33 79  1  0
+ 34 80  1  0
+ 35 81  1  0
+ 37 82  1  0
+ 38 83  1  0
+ 40 84  1  0
+ 40 85  1  0
+ 40 86  1  0
+ 41 87  1  0
+ 41 88  1  0
+ 41 89  1  0
+ 42 90  1  0
+ 42 91  1  0
+ 42 92  1  0
+ 43 93  1  0
+ 43 94  1  0
+ 43 95  1  0
+ 44 96  1  0
+ 44 97  1  0
+ 44 98  1  0
+ 45 99  1  0
+ 45100  1  0
+ 46101  1  0
+ 46102  1  0
+ 46103  1  0
+ 47104  1  0
+ 47105  1  0
+ 47106  1  0
+ 48107  1  0
+ 48108  1  0
+ 48109  1  0
+ 49110  1  0
+ 49111  1  0
+ 49112  1  0
+ 50113  1  0
+ 50114  1  0
+ 50115  1  0
+ 51116  1  0
+ 51117  1  0
+ 51118  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.37
+
+>  <ALOGPS_LOGS>  (1) 
+-3.20
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.59e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00199
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00199
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+733.461241235
+
+>  <FORMULA>  (1) 
+C37H67NO13
+
+>  <GENERIC_NAME>  (1) 
+Erythromycin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C37H67NO13/c1-14-25-37(10,45)30(41)20(4)27(39)18(2)16-35(8,44)32(51-34-28(40)24(38(11)12)15-19(3)47-34)21(5)29(22(6)33(43)49-25)50-26-17-36(9,46-13)31(42)23(7)48-26/h18-26,28-32,34,40-42,44-45H,14-17H2,1-13H3/t18-,19-,20+,21+,22-,23+,24+,25-,26+,28-,29+,30-,31+,32-,34+,35-,36-,37-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+ULGZDMOVFRHVEP-RWJQBGPGSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Eryc; Ilosone; Staticin; T-stat
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+13
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+78.21474107799995
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-{[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy}-14-ethyl-7,12,13-trihydroxy-4-{[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy}-3,5,7,9,11,13-hexamethyl-1-oxacyclotetradecane-2,10-dione
+
+>  <JCHEM_LOGP>  (1) 
+2.596388847333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+12.90862050588721
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.438841177083088
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.380974796874835
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+193.91
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+186.03709999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+erythromycin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+733.9268
+
+>  <PRODUCTS>  (1) 
+Aktipak; Alti-erythromycin Tab 250mg USP; Benzamycin; E.E.S.; E.E.s; E.E.s 400; ERYTHROMYCIN Base Filmtab; Ees 600 Tablets 600mg; Ees-200; Ees-200 Chewable Tbs (eryped); Ees-400; Emycin Ect 250mg; Ery; Ery-Ped; Ery-Tab; Ery-tab; Erybid; Eryc Delayed-release Capsules; Erygel; Erymycin Ophthalmic Ointment 5mg/g; Erysol; Erythro-500 Tab 500mg USP; Erythro-EC; Erythro-ES; Erythro-ES Tab 600mg USP; Erythro-S; Erythro-base; Erythro-base Tab 250mg USP; Erythrocin Filmtab 250mg; Erythrocin Filmtab 500mg; Erythrocin I.V.; Erythrocin IV; Erythrocin Lactobionate; Erythrocin Liq 250; Erythrocin Liquid 125; Erythrocin Stearate; Erythromid Tab 250mg; Erythromycin; Erythromycin Base; Erythromycin Base Base; Erythromycin Base Filmtab; Erythromycin Capsules USP 250mg; Erythromycin Ethylsuccinate; Erythromycin Ethylsuccinate and Sulfisoxazole Acetyl; Erythromycin Ophthalmic Ointment U.S.P.; Erythromycin Stearate Tablets USP 250mg; Erythromycin and Benzoyl Peroxide; Erythromycin-Benzoyl Peroxide; Erythromycine 250 Tab; Euro-erythromycin Ophthalmic Ointment USP; Ilosone 250mg Pulvule 375; Ilosone Liquid 125mg/5ml; Ilosone Liquid 250mg/5ml; Ilotycin; Ilotycin Cryst Op Ont 0.5% 52; Ilotycin Gluceptate IV Ampoule 646 1gm; Novo-rythro Encap 250mg; Novo-rythro Estolate Cap 250mg; Novo-rythro Estolate Suspension; Novo-rythro Ethylsuccinate Pwr 400mg/5ml; Novo-rythro Ethylsuccinate Pws; Novo-rythro Stearate Tab 250mg; Nu-erythromycin-S 250mg Tablets; Odan-erythromycin; Onguent Ophtalmique D'erythromycine USP; Pce; Pdp-erythromycin; Pediazole; Sans-acne Solution; Sterile Erythromycin Lactobionate Pws 1000mg; Sterile Erythromycin Lactobionate Pws 500mg; Stievamycin Forte; Stievamycin Mild; Stievamycin Regular; T-stat Lot; T-stat Pad-lot
+
+>  <SALTS>  (1) 
+Erythromycin estolate; Erythromycin ethylsuccinate; Erythromycin gluceptate; Erythromycin lactobionate; Erythromycin phosphate; Erythromycin stearate; Erythromycin sulfate; Erythromycin thiocyanate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00953
+
+>  <SMILES>  (1) 
+CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O
+
+>  <SYNONYMS>  (1) 
+3''-O-demethylerythromycin; Abomacetin; Eritromicina; Erythromycin A; Erythromycin C; érythromycine; Erythromycinum
+
+$$$$

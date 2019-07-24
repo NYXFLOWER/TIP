@@ -1,0 +1,167 @@
+1296
+     RDKit          2D
+
+ 25 25  0  0  1  0  0  0  0  0999 V2000
+    4.2365   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.7284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.9842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 11  1  0
+  7  2  1  6
+  8  3  1  1
+  4 11  1  0
+  5 12  1  0
+  9  6  1  1
+  7  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 12  1  6
+  2 13  1  0
+  3 14  1  0
+  4 15  1  0
+  5 16  1  0
+  6 17  1  0
+  6 18  1  0
+  7 19  1  0
+  8 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.73
+
+>  <ALOGPS_LOGS>  (1) 
+0.49
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.51e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01296
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01296
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+179.079372531
+
+>  <FORMULA>  (1) 
+C6H13NO5
+
+>  <GENERIC_NAME>  (1) 
+Glucosamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H13NO5/c7-3-5(10)4(9)2(1-8)12-6(3)11/h2-6,8-11H,1,7H2/t2-,3-,4-,5-,6?/m1/s1
+
+>  <INCHI_KEY>  (1) 
+MSWZFWKMSRAUBD-IVMDWMLBSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.870984220140656
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3R,4R,5S,6R)-3-amino-6-(hydroxymethyl)oxane-2,4,5-triol
+
+>  <JCHEM_LOGP>  (1) 
+-3.0394210146666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+12.974072372694078
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.726975176724002
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.229727434444008
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+116.17
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+37.58090000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+glucosamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+179.1711
+
+>  <PRODUCTS>  (1) 
+Remaxazon External Patch
+
+>  <SALTS>  (1) 
+Glucosamine sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01563
+
+>  <SMILES>  (1) 
+N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O
+
+$$$$

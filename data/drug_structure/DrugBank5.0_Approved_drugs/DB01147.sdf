@@ -1,0 +1,217 @@
+1147
+     RDKit          2D
+
+ 47 50  0  0  1  0  0  0  0  0999 V2000
+    3.0617    3.1935    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.4193    0.0256    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2207   -1.6423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1222   -2.7070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4812   -2.2655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2082   -0.6497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6531    1.3398    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -1.0544    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2207    0.3586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2376    1.9219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -0.2294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9042   -0.6419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4193   -1.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8029   -0.2259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8029   -1.0577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5717   -0.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5717   -1.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6742   -2.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4234    0.1468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8412    0.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9719    1.5459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0261    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7077    1.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7526    2.7427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3988    1.4682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4885    3.1157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1346    1.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    2.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 25  1  0
+  2 11  1  0
+  2 12  1  0
+  3 15  2  0
+  4 18  1  0
+  5 18  2  0
+  6 19  2  0
+  7 10  1  0
+  7 22  1  0
+  8 11  1  0
+  8 13  1  0
+  8 15  1  0
+ 14  9  1  1
+  9 19  1  0
+ 10 21  2  0
+ 11 14  1  0
+ 12 13  1  0
+ 12 16  1  0
+ 12 17  1  0
+ 13 18  1  6
+ 14 15  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 20 22  2  0
+ 21 23  1  0
+ 22 24  1  0
+ 23 25  2  0
+ 23 26  1  0
+ 25 27  1  0
+ 26 28  2  0
+ 27 29  2  0
+ 28 29  1  0
+  4 30  1  0
+  9 31  1  0
+ 11 32  1  6
+ 13 33  1  0
+ 14 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 17 40  1  0
+ 24 41  1  0
+ 24 42  1  0
+ 24 43  1  0
+ 26 44  1  0
+ 27 45  1  0
+ 28 46  1  0
+ 29 47  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.61
+
+>  <ALOGPS_LOGS>  (1) 
+-3.91
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.32e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01147
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01147
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+435.065569098
+
+>  <FORMULA>  (1) 
+C19H18ClN3O5S
+
+>  <GENERIC_NAME>  (1) 
+Cloxacillin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H18ClN3O5S/c1-8-11(12(22-28-8)9-6-4-5-7-10(9)20)15(24)21-13-16(25)23-14(18(26)27)19(2,3)29-17(13)23/h4-7,13-14,17H,1-3H3,(H,21,24)(H,26,27)/t13-,14+,17-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+LQOLIRLGBULYKD-JKIFEVAISA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aclox; Apo-Cloxi; Auropen Inj.; Cloxacil; Cloxam; Orbenin; Vaclox; Vamcloxil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+41.637534371820784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,5R,6R)-6-[3-(2-chlorophenyl)-5-methyl-1,2-oxazole-4-amido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+2.301739658333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+13.646550253027858
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.7497843753671107
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.4133461786577338
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+112.74
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+106.6371
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cloxacillin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+435.881
+
+>  <PRODUCTS>  (1) 
+Apo Cloxi Cap 250mg; Apo Cloxi Cap 500mg; Apo Cloxi for Oral Soln 125mg/5ml; Cloxacillin; Cloxacillin Sodium Sterile Inj 250mg/vial; Cloxacillin Sodium for Injection; Cloxacillin for Injection; Cloxacillin-250 Cap; Nu-cloxi Capsules 250mg; Nu-cloxi Capsules 500mg; Nu-cloxi Solution 125mg/5ml; Orbenin 500 Cap 500mg; Orbenin Cap 250mg; Orbenin Cap 500mg; Orbenin Inj 2000mg; Orbenin Inj 250mg; Orbenin Inj 500mg; Orbenin Pwr 125mg/5ml; Orbenin Pws 125mg/5ml; Riva-cloxacillin 250 Mg Capsules; Riva-cloxacillin 500 Mg Capsules; Taro-cloxacillin Cap 250mg; Taro-cloxacillin Cap 500mg; Tegopen Inj 2000mg/vial; Tegopen Inj 250mg/vial; Tegopen Inj 500mg/vial; Teva-cloxacillin
+
+>  <SALTS>  (1) 
+Cloxacillin benzathine; Cloxacillin sodium; Cloxacillin sodium hydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00882; EXPT01068
+
+>  <SMILES>  (1) 
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1Cl)C(O)=O
+
+$$$$

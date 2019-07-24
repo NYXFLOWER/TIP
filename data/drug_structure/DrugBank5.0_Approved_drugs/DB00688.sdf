@@ -1,0 +1,249 @@
+688
+     RDKit          2D
+
+ 62 64  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9150   -0.1279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.6971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5094   -0.9529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9383    1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6898    1.3203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2846    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6529   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2239    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6529    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9383   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2239   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9383    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5094    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4335   -0.7918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7949    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4335    0.5360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9383   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5094   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  1 13  1  0
+  2 22  1  0
+  2 24  1  0
+  3 18  1  0
+  3 29  1  0
+  4 19  1  0
+  4 31  1  0
+  5 20  1  0
+  6 24  2  0
+  7 29  2  0
+  8  9  1  0
+  8 10  1  0
+  8 11  1  0
+  9 12  1  0
+ 10 13  1  0
+ 11 18  1  0
+ 14 16  2  0
+ 14 17  1  0
+ 14 22  1  0
+ 15 19  1  0
+ 15 20  2  0
+ 15 21  1  0
+ 16 20  1  0
+ 16 24  1  0
+ 17 19  2  0
+ 17 27  1  0
+ 21 23  1  0
+ 23 26  2  0
+ 25 26  1  0
+ 25 28  1  0
+ 26 30  1  0
+ 28 29  1  0
+  5 32  1  0
+  9 33  1  0
+  9 34  1  0
+ 10 35  1  0
+ 10 36  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 12 39  1  0
+ 12 40  1  0
+ 13 41  1  0
+ 13 42  1  0
+ 18 43  1  0
+ 18 44  1  0
+ 21 45  1  0
+ 21 46  1  0
+ 22 47  1  0
+ 22 48  1  0
+ 23 49  1  0
+ 25 50  1  0
+ 25 51  1  0
+ 27 52  1  0
+ 27 53  1  0
+ 27 54  1  0
+ 28 55  1  0
+ 28 56  1  0
+ 30 57  1  0
+ 30 58  1  0
+ 30 59  1  0
+ 31 60  1  0
+ 31 61  1  0
+ 31 62  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.17
+
+>  <ALOGPS_LOGS>  (1) 
+-3.66
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.50e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00688
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00688
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+433.210052351
+
+>  <FORMULA>  (1) 
+C23H31NO7
+
+>  <GENERIC_NAME>  (1) 
+Mycophenolate mofetil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C23H31NO7/c1-15(5-7-19(25)30-13-10-24-8-11-29-12-9-24)4-6-17-21(26)20-18(14-31-23(20)27)16(2)22(17)28-3/h4,26H,5-14H2,1-3H3/b15-4+
+
+>  <INCHI_KEY>  (1) 
+RTGDFNSFWBGLEC-SYZQJQIISA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+CellCept  Oral Suspension ; CellCept Intravenous
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+45.55005955684284
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(morpholin-4-yl)ethyl (4E)-6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-1,3-dihydro-2-benzofuran-5-yl)-4-methylhex-4-enoate
+
+>  <JCHEM_LOGP>  (1) 
+3.4736355743333323
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.674685074330249
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.75889164079593
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.194606743423789
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+94.52999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+117.0961
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mycophenolate mofetil
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+433.4947
+
+>  <PRODUCTS>  (1) 
+Accel-mycophenolate Mofetil Capsules; Accel-mycophenolate Mofetil Tablets; Ach-mycophenolate; Apo-mycophenolate; CellCept; Cellcept; Cellcept I.V.; Co Mycophenolate; Jamp-mycophenolate; Jamp-mycophenolate Capsules; Mycophenolate Mofetil; Mycophenolate Mofetil Tablets; Mycophenolate Mofetil Teva; Mycophenolate Mofetil for Injection, USP; Mycophenolate mofetil; Myfenax; Mylan-mycophenolate; Ran-mycophenolate; Sandoz Mycophenolate Mofetil; Teva-mycophenolate; Van-mycophenolate
+
+>  <SALTS>  (1) 
+Mycophenolate mofetil hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01602
+
+>  <SMILES>  (1) 
+COC1=C(C\C=C(/C)CCC(=O)OCCN2CCOCC2)C(O)=C2C(=O)OCC2=C1C
+
+>  <SYNONYMS>  (1) 
+2-morpholinoethyl (E)-6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-5-phthalanyl)-4-methyl-4-hexenoate; MMF; Mycophenolic acid morpholinoethyl ester
+
+$$$$

@@ -1,0 +1,191 @@
+1161
+     RDKit          2D
+
+ 37 37  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.9034    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.3967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.3784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.6342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    3.6342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.5534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2  9  1  0
+  2 12  1  0
+  3 12  2  0
+  4  6  1  0
+  4  7  1  0
+  4  8  1  0
+  5 16  1  0
+  6  9  1  0
+  7 10  1  0
+  8 11  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 14 17  1  0
+ 15 18  2  0
+ 16 17  2  0
+ 16 18  1  0
+  5 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  7 24  1  0
+  8 25  1  0
+  8 26  1  0
+  9 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 11 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 15 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.72
+
+>  <ALOGPS_LOGS>  (1) 
+-2.32
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.30e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01161
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01161
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+270.113505569
+
+>  <FORMULA>  (1) 
+C13H19ClN2O2
+
+>  <GENERIC_NAME>  (1) 
+Chloroprocaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H19ClN2O2/c1-3-16(4-2)7-8-18-13(17)11-6-5-10(15)9-12(11)14/h5-6,9H,3-4,7-8,15H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+VDANGULDQQJODZ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Nesacaine-CE; Piocaine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.73575721920887
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(diethylamino)ethyl 4-amino-2-chlorobenzoate
+
+>  <JCHEM_LOGP>  (1) 
+2.4841019340000003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.96155163061007
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+55.56
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+75.10480000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chloroprocaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+270.755
+
+>  <PRODUCTS>  (1) 
+Chloroprocaine Hydrochloride; Clorotekal; Nesacaine; Nesacaine Ce 2% Inj 20mg/ml; Nesacaine Ce 3% Inj 30mg/ml; Nesacaine MPF
+
+>  <SALTS>  (1) 
+Chloroprocaine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00404
+
+>  <SMILES>  (1) 
+CCN(CC)CCOC(=O)C1=C(Cl)C=C(N)C=C1
+
+>  <SYNONYMS>  (1) 
+Chloroprocain; Chlorprocaine
+
+$$$$

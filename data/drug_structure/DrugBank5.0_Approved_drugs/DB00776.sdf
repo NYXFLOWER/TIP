@@ -1,0 +1,184 @@
+776
+     RDKit          2D
+
+ 31 33  0  0  0  0  0  0  0  0999 V2000
+    3.1279    2.0639    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1816   -1.5728    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8676   -0.3848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5535   -1.5728    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7574    0.7311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5812   -0.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2636    1.3503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1539   -0.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9777    0.7311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4715    1.3503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5419    0.9863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1772   -0.6115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5579   -0.6115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1932    0.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8676   -1.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1510    0.4298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674   -0.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7677   -0.3744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841    0.4299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2 15  2  0
+  3  6  1  0
+  3  8  1  0
+  3 15  1  0
+  4 15  1  0
+  5  6  2  0
+  5  7  1  0
+  5 11  1  0
+  6 12  1  0
+  7 10  1  0
+  8  9  2  0
+  8 13  1  0
+  9 10  1  0
+  9 14  1  0
+ 11 16  2  0
+ 12 17  2  0
+ 13 18  2  0
+ 14 19  2  0
+ 16 17  1  0
+ 18 19  1  0
+  4 20  1  0
+  4 21  1  0
+  7 22  1  0
+  7 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+ 19 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.76
+
+>  <ALOGPS_LOGS>  (1) 
+-3.20
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.60e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00776
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00776
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+252.089877638
+
+>  <FORMULA>  (1) 
+C15H12N2O2
+
+>  <GENERIC_NAME>  (1) 
+Oxcarbazepine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H12N2O2/c16-15(19)17-12-7-3-1-5-10(12)9-14(18)11-6-2-4-8-13(11)17/h1-8H,9H2,(H2,16,19)
+
+>  <INCHI_KEY>  (1) 
+CTRLABGOLIVAIY-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Actinium ; Barzepin; Carbox; Deprectal; Lonazet; Oxalepsy; Oxetol; Oxpin; Oxrate; Oxypine ; Pharozepine; Prolepsi; Timox ; Trexapin; Trileptin 
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.719636172454756
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+9-oxo-2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaene-2-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+1.8181766893333329
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.964849395589898
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.921004832249956
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.297000314867087
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.400000000000006
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.55790000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+oxcarbazepine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+252.268
+
+>  <PRODUCTS>  (1) 
+Apo-oxcarbazepine; Jamp-oxcarbazepine; Novo-oxcarbazepine; Oxcarbazepine; Oxtellar XR; Sandoz Oxcarbazepine; Trileptal; Trileptal 150 mg; Trileptal 300 mg; Trileptal 600 mg; Trileptal Oral Suspension
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01308
+
+>  <SMILES>  (1) 
+NC(=O)N1C2=CC=CC=C2CC(=O)C2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+OCBZ; Oxcarbamazepine
+
+$$$$

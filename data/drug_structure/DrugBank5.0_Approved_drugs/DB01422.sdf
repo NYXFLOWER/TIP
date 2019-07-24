@@ -1,0 +1,153 @@
+1422
+     RDKit          2D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    2.3641    1.7282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -1.9838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -1.9838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8160    0.9319    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641   -1.5714    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    0.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641   -0.7465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    0.9033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8160   -0.7752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    0.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5634   -0.3513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5634    0.5079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  5  1  0
+  3  5  2  0
+  4  7  2  0
+  4 14  1  0
+  5  8  1  0
+  6  7  1  0
+  6  8  1  0
+  6 11  2  0
+  7  9  1  0
+  8 10  2  0
+  9 12  2  0
+ 10 12  1  0
+ 11 13  1  0
+ 13 14  2  0
+  1 15  1  0
+ 10 16  1  0
+ 11 17  1  0
+ 12 18  1  0
+ 13 19  1  0
+ 14 20  1  0
+M  CHG  2   2  -1   5   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.90
+
+>  <ALOGPS_LOGS>  (1) 
+-1.84
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.73e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01422
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01422
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+190.037842068
+
+>  <FORMULA>  (1) 
+C9H6N2O3
+
+>  <GENERIC_NAME>  (1) 
+Nitroxoline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H6N2O3/c12-8-4-3-7(11(13)14)6-2-1-5-10-9(6)8/h1-5,12H
+
+>  <INCHI_KEY>  (1) 
+RJIWZDNTCBHXAL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Nitroxoline
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.163202295729285
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-nitroquinolin-8-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.767319339
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.8755887406986
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.08166459790019
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+78.94
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.284900000000015
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitroxoline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+190.1555
+
+>  <SMILES>  (1) 
+OC1=C2N=CC=CC2=C(C=C1)[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+Nitroxolina; Nitroxolinum
+
+$$$$

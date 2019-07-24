@@ -1,0 +1,175 @@
+870
+     RDKit          2D
+
+ 30 31  0  0  1  0  0  0  0  0999 V2000
+    3.8797    2.9274    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.8432    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.1069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.6056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.7806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.8694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.6944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5471    1.7713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992    2.3845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6867    3.0989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 18  1  0
+  2 13  1  0
+  3 13  2  0
+  4 14  2  0
+  5  6  1  0
+  5 10  1  0
+  5 13  1  0
+  6  7  2  0
+  6  8  1  0
+  7 11  1  0
+  8 12  2  0
+  9 11  2  0
+  9 12  1  0
+  9 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+  2 19  1  0
+  5 20  1  0
+  7 21  1  0
+  8 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.16
+
+>  <ALOGPS_LOGS>  (1) 
+-3.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.22e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00870
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00870
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <EXACT_MASS>  (1) 
+260.05071494
+
+>  <FORMULA>  (1) 
+C14H12O3S
+
+>  <GENERIC_NAME>  (1) 
+Suprofen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H12O3S/c1-9(14(16)17)10-4-6-11(7-5-10)13(15)12-3-2-8-18-12/h2-9H,1H3,(H,16,17)
+
+>  <INCHI_KEY>  (1) 
+MDKGKXOCJGEUJW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Profenal; Srendam; Sulprotin; Topalgic
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.838067657526643
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[4-(thiophene-2-carbonyl)phenyl]propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.526214794
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.011917248549982
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.805115519476987
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.37
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+69.40550000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+suprofen
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+260.308
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00230
+
+>  <SMILES>  (1) 
+CC(C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=CS1
+
+>  <SYNONYMS>  (1) 
+Suprofen; Suprofène; Suprofene; Suprofeno; Suprofenum
+
+$$$$

@@ -1,0 +1,250 @@
+ 
+     RDKit          2D
+
+ 65 68  0  0  1  0  0  0  0  0999 V2000
+   11.7122  -16.9826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7122  -17.7774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4233  -18.1957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0925  -17.7774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0925  -16.9826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4233  -16.5643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8036  -18.1957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5565  -17.7774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5565  -16.9826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8036  -16.5643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1840  -16.5643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1840  -15.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5565  -15.3513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8036  -15.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5643  -16.5643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5643  -15.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8533  -15.3513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0011  -18.1957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0925  -16.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8036  -17.3591    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0925  -15.3513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1840  -14.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6898  -14.8075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4009  -15.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8036  -19.0323    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8533  -14.5147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6062  -14.0964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1003  -14.0964    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3892  -14.5147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6781  -14.0964    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4009  -14.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1120  -14.8075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8231  -14.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4009  -13.5526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  1  6  2  0
+  4  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  5 10  1  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 10 14  1  0
+ 11 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 12 17  1  0
+  2 18  2  0
+  5 19  1  1
+ 10 20  1  6
+ 14 21  1  1
+ 12 22  1  1
+ 17 23  1  6
+ 16 24  1  6
+  7 25  1  1
+ 17 26  1  0
+ 26 27  2  0
+ 26 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 31 32  1  0
+ 31 23  1  0
+ 32 33  1  0
+ 31 34  2  0
+  1 35  1  0
+  3 36  1  0
+  6 37  1  0
+  7 38  1  0
+  8 39  1  0
+  8 40  1  0
+  9 41  1  1
+ 11 42  1  6
+ 13 43  1  0
+ 13 44  1  0
+ 14 45  1  0
+ 15 46  1  0
+ 15 47  1  0
+ 16 48  1  0
+ 19 49  1  0
+ 19 50  1  0
+ 19 51  1  0
+ 21 52  1  0
+ 22 53  1  0
+ 22 54  1  0
+ 22 55  1  0
+ 24 56  1  0
+ 24 57  1  0
+ 24 58  1  0
+ 29 59  1  0
+ 29 60  1  0
+ 32 61  1  0
+ 32 62  1  0
+ 33 63  1  0
+ 33 64  1  0
+ 33 65  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.69
+
+>  <ALOGPS_LOGS>  (1) 
+-4.64
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.14e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00588
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00588
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+500.184429407
+
+>  <FORMULA>  (1) 
+C25H31F3O5S
+
+>  <GENERIC_NAME>  (1) 
+Fluticasone propionate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C25H31F3O5S/c1-5-20(31)33-25(21(32)34-12-26)13(2)8-15-16-10-18(27)17-9-14(29)6-7-22(17,3)24(16,28)19(30)11-23(15,25)4/h6-7,9,13,15-16,18-19,30H,5,8,10-12H2,1-4H3/t13-,15+,16+,18+,19+,22+,23+,24+,25+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+WMWTYOKRWGGJOA-CENSZEJFSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ezicas; Flixonase; Flixotide; Flovent; FLOVENTHFA; Flunase; Nasofan; Pirinase; Seretide
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+49.26021838399893
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,2S,8S,10S,11S,13R,14R,15S,17S)-1,8-difluoro-14-{[(fluoromethyl)sulfanyl]carbonyl}-17-hydroxy-2,13,15-trimethyl-5-oxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-3,6-dien-14-yl propanoate
+
+>  <JCHEM_LOGP>  (1) 
+3.718004615666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+14.483973324710846
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.557201621074185
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.3935457180970356
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.67
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+121.65029999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fluticasone propionate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+500.571
+
+>  <PRODUCTS>  (1) 
+24 Hour Allergy Nasal; 24 Hour Allergy Relief Nasal; 24 Hour Allergy Relief nasal; 24hr Nasal Allergy Relief; Advair 100 Diskus; Advair 125; Advair 250; Advair 250 Diskus; Advair 500 Diskus; Advair Diskus; Advair HFA; Advairdiskus Diskus; Aermony Respiclick; AirDuo RespiClick; Airexar Spiromax; Allergy Nasal; Allergy Relief; Allergy Relief Nasal; Allergy Relief Nasal Spray; Apo-fluticasone; ArmonAir RespiClick; Berkley and Jensen Allergy Relief; CareOne Allergy Relief; Careone Fluticasone Propionate; Childrens 24 Hour Allergy Relief Nasal; Childrens 24 hour allergy nasal; Childrens Flonase Allergy Relief; ClariSpray Nasal Allergy; Core Values Allergy Relief; Cutivate; DG Health Allergy Relief; DG Health Allergy Relief Nasal; Dymista; Equaline Fluticasone Propionate; Equaline fluticasone propionate; Equate Allergy Relief; Exchange Select Allergy Relief; Family Wellness Allergy Relief Nasal; Flonase; Flonase - Aem-sus Nas 50mcg/md; Flonase Aem-sus 50mcg/aem; Flonase Allergy Relief; Flonaseallergy Relief Allergy Relief; Flovent Diskus; Flovent HFA; Flovent Inhalers - Aem Inh-orl 125mcg/aem; Flovent Inhalers - Aem Inh-orl 250mcg/aem; Flovent Inhalers - Aem Inh-orl 25mcg/aem; Flovent Inhalers - Aem Inh-orl 50mcg/aem; Flovent Inhalers-aem Inh-orl 25mcg/actuation; Flovent Inhalers-aem Inh-orl 50mcg/actuation; Flovent Inhalers-aem Inh-orl125mcg/actuation; Flovent Inhalers-aem Inh-orl250mcg/actuation; Fluticasone; Fluticasone Propionate; Fluticasone Propionate Nasal; Fluticasone Propionate and Salmeterol; Fluticasone propionate glucocorticoid; Good Neighbor Pharmacy Childrens Fluticasone Propionate; Good Neighbor Pharmacy Fluticasone Propionate; Good Sense 24 hour allergy nasal; Good Sense Nasoflow; Harris Teeter Allergy Relief Nasal; Health Mart Allergy Relief Nasal 24 Hr; Healthy Accents Allergy Relief; Healthy Accents Nasoflow; Kirkland Signature Aller Flo; Leader Allergy Relief Nasal; Nasal; Nasoflow; Nasopro 24; Nu-fluticasone; Ratio-fluticasone; ShopRite Allergy Relief Nasal; Signature Care Allergy Relief; Signature Care Childrens Allergy Relief; Smart Sense Allergy Relief; SunMark allergy relief nasal 24 hr; Teva-fluticasone; Ticalast; Ticanase; Ticaspray; TopCare Childrens Allergy Relief Nasal 24 Hour; TopCare Nasoflow Allergy Relief; Topcare Fluticasone Propionate Nasal; Up and Up Allergy Relief Nasal; Up and Up allergy relief nasal; Welby Allergy Relief; Xhance
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00065
+
+>  <SMILES>  (1) 
+[H][C@@]12C[C@@H](C)[C@](OC(=O)CC)(C(=O)SCF)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C
+
+$$$$

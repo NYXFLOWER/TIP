@@ -1,0 +1,105 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01345
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01345
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+38.96370649
+
+>  <FORMULA>  (1) 
+K
+
+>  <GENERIC_NAME>  (1) 
+Potassium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/K
+
+>  <INCHI_KEY>  (1) 
+ZLMJMSJWJFRBEC-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium
+
+>  <JCHEM_LOGP>  (1) 
+0.2
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+39.0983
+
+>  <PRODUCTS>  (1) 
+Alphaligo; Aminosyn; Aminosyn 3.5% M; Aqua-S Supplement; B 6 Plus; Bseltzer; Buffered Vitamin C Powder With Ca Mg and K; Buffered Vitamin C Pwr W Cal-mag-potassium; C-1000 Plus Zinc & Potassium; C.R.D.-force; Cal & Mag Hvp Chel Plus C Potass & Zinc Tab; Cal-mag (one To One) With Potass & Zinc; Cal-mag Plus K, Mn and Zn Caplets; Calcium & Magnesium Citrate Plus D With Manganese, Potassium & Zinc; Calcium & Magnesium Plus Potassium & Zinc; Calcium & Magnesium Plus Potassium, Zinc, & Manganese; Calcium & Magnesium With Potassium & Zinc; Calcium & Magnesium With Potassium, Zinc, Manganese & Vitamin D; Calcium Magnesium With Potassium Tab; Calcium and Mag-potass and Zinc Cap; Calcium and Magnesium 1:1 Plus Tablets; Calcium-magnesium With K & Zn and Vitamin D3; Chela Potassium Plus; Cmp Plex; Coenzyme Q10 Isotonix Vitamin and Mineral Supplement; ColPrep Kit; Complete Multivitamins and Minerals Tablets Timed Release; Complexed Potassium Tablets - 99mg; Dual Mix; Envive; Extra P.N. Vitamin-mineral Drink Mix; Flex Capsules; Formula BP; Formula Inf; Formula Js; Formula R Tab; Formula Wb; Formule No 204 Profil Tab; Hi Potency B Complex W Chelated Minerals; Hyperlyte (multi-electrolyte Concentrate); Hyperlyte CR; Hyperlyte CR Multi-electrolyte Concentrate; Hypo Vites Tab; Iode-potassium; Iodine-potassium Tablets; Isotonix Advanced B-complex Vitamins With Potassium and Magnesium; Isotonix Calcium Plus Formula; Isotonix Vitamin B-folic Acid-mineral Supple; K Lyte Cl Pwr; K Lyte Tab Lime & Orange Flav; Kanga Sport Vitamins B & C Plus Minerals; Kenwood Liquid Supplement; Kmg Plus; L.G.I.T.; Lypholyte; Lypholyte Multi-electrolyte Conc Inj; Lyteprep; Magnacal; Mgk; Mineralex; Multi Tabs; Multi Vitamins & Minerals; Multi-min Electro C Pow Plus B2; Multi-vitamins With Minerals; Multicaps; Multimineral Chelates; Multiple Vitamins and Minerals Capsules; Multitabs; N.U.T. Complex; Neutral C + Coenzyme Q10 Plus Vitamins & Minerals; Normosol-M & 5% Dextrose; Nrg Plus Liq; Nutrilite Double X; Nutrilyte; Nutrilyte II; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Multiple Vit W Minerals; One A Day Tab; Orange Flavored Crystal Chews Tab; Osteo Formula; Plasma-lyte 56 5% Dextrose Inj; Plasma-lyte 56 and Dextrose; Polycitra-K; Port A Mins Super Potassium 99; Potassium 250; Potassium 99 - Caplet; Potassium 99mg Tablets; Potassium Acetate; Potassium Acetate Inj 2meq/ml; Potassium Acetate Inj 392mg/ml USP; Potassium Acetate Injection; Potassium Acetate Injection USP; Potassium Gluconate Tab 550mg USP; Potassium Gluconate Tablets 99mg USP; Potassium Rougier; Potassium Tab 99mg; Potassium and Iodine Tab; Purigo; Q-10 Plus; Spectra 301 Vitamin and Mineral Supp; Spectrum 2 Cap; Suclear; Super C-M-K; Super Charged Energy; Super Daily No 2; Super-cell; Tar-end; Tri-mins - Cap; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; Vege 1 Daily Tab; Vimeral Tab; Vit C W Calc-mag and Potass Powder; Vitalife  -  Capsule; Women's Formula; Z-force Vitamin and Mineral Supplement; Z-mass PM Vitamin and Mineral Supplement
+
+>  <SALTS>  (1) 
+Potassium acetate; Potassium sulfate
+
+>  <SMILES>  (1) 
+[K]
+
+>  <SYNONYMS>  (1) 
+K; Kalium
+
+$$$$

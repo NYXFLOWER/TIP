@@ -1,0 +1,168 @@
+1364
+     RDKit          2D
+
+ 27 27  0  0  1  0  0  0  0  0999 V2000
+    1.6500    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  1
+  3  2  1  1
+  2  9  1  0
+  3  4  1  0
+  3  6  1  0
+  4  5  1  0
+  5  7  2  0
+  5  8  1  0
+  7 10  1  0
+  8 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+  1 13  1  0
+  2 14  1  0
+  3 15  1  0
+  4 16  1  0
+  6 17  1  0
+  6 18  1  0
+  6 19  1  0
+  7 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.00
+
+>  <ALOGPS_LOGS>  (1) 
+-1.30
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.26e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01364
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01364
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+165.115364107
+
+>  <FORMULA>  (1) 
+C10H15NO
+
+>  <GENERIC_NAME>  (1) 
+Ephedrine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H15NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,10-12H,1-2H3/t8-,10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+KWGRBVOPPLSCSI-WPRPVWTQSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.796313018057113
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,2S)-2-(methylamino)-1-phenylpropan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.3178347283333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.889531450472283
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.524908674853327
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.26
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.68730000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ephedrine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+165.2322
+
+>  <PRODUCTS>  (1) 
+Akovaz; Balminil Nasal Ointment; Bronch Eze; Bronchial Asthma Relief; Broncho Dilate; Bronkaid Dual Action Formula; Corphedra; Dymetadrine 25 - Tab; Ephed Asthma; Ephed Plus Liquid; Ephedrine; Ephedrine HCl; Ephedrine HCl - Tab 25mg; Ephedrine HCl 8 mg; Ephedrine Hydrochloride Tablets 25mg; Ephedrine Sulfate; Ephedrine Sulfate Injection USP; Ephedrine Sulfate Injection USP, 50mg/ml; Ephedrine Sulphate Injection, USP; Ephedrine Tab 15mg; Ephedrine Tab 30mg; Ephedrine V With Guaifenesin; Formula C34 Tab .13mg; Formule G8 Liq 1.5%; Grippalin; I.D.M. Solution; Madame Pearl's Cough Syrup; Nasal Jelly Thuna's; Primatene; Rhino-vaccin; Sinuplex - Tab; Spinal Anesthesia Tray; T-drene 1; Tedral Tab; Ultra T-M - Tablet; Vasopro Ephedrine; Vicks Cough Syrup New Improved
+
+>  <SALTS>  (1) 
+Ephedrine hydrochloride; Ephedrine sulfate
+
+>  <SMILES>  (1) 
+CN[C@@H](C)[C@H](O)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+(-)-Ephedrine; (1R,2S)-1-Phenyl-1-hydroxy-2-methylaminopropane; L-Ephedrine; L-erythro-2-(Methylamino)-1-phenylpropan-1-ol
+
+$$$$

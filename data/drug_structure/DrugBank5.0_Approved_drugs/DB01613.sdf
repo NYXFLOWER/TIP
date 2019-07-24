@@ -1,0 +1,160 @@
+
+     RDKit          2D
+
+ 26 25  0  0  1  0  0  0  0  0999 V2000
+    8.9041  -16.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1939  -17.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9041  -16.0347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1939  -18.1008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4836  -16.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6466  -17.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3568  -16.8418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7734  -17.2615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0308  -16.8418    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3394  -17.2581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0241  -16.0168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4836  -18.5205    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7734  -18.1008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4836  -19.3276    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6466  -15.6150    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3568  -16.0347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6466  -14.7756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0671  -17.2615    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8023  -16.8565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0421  -18.0861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  1
+  2  1  1  0
+  6  1  1  0
+  2  4  1  1
+  5  2  1  0
+ 15  3  1  0
+ 12  4  1  0
+  8  5  1  0
+  7  6  1  0
+ 18  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 11  9  2  0
+ 13 12  1  0
+ 14 12  2  0
+ 16 15  1  0
+ 17 15  2  0
+ 19 18  1  0
+ 20 18  2  0
+  1 21  1  0
+  2 22  1  0
+  5 23  1  0
+  5 24  1  0
+  6 25  1  0
+  6 26  1  0
+M  CHG  8   9   1  10  -1  12   1  13  -1  15   1  16  -1  18   1  19  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.68
+
+>  <ALOGPS_LOGS>  (1) 
+-3.19
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.95e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01613
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01613
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+301.998221676
+
+>  <FORMULA>  (1) 
+C4H6N4O12
+
+>  <GENERIC_NAME>  (1) 
+Erythrityl Tetranitrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6N4O12/c9-5(10)17-1-3(19-7(13)14)4(20-8(15)16)2-18-6(11)12/h3-4H,1-2H2/t3-,4+
+
+>  <INCHI_KEY>  (1) 
+SNFOERUNNSHUGP-ZXZARUISSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cardilate
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+12
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.27132447405115
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,3R)-1,3,4-tris(nitrooxy)butan-2-yl nitrate
+
+>  <JCHEM_LOGP>  (1) 
+1.2304572553333328
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.488791824752245
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+220.2
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+53.2546
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+11
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+erythrityl tetranitrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+302.11
+
+>  <SMILES>  (1) 
+[O-][N+](=O)OC[C@@H](O[N+]([O-])=O)[C@H](CO[N+]([O-])=O)O[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+1,2,3,4-Butanetetralyl tetranitrate; Eritrityl tetranitrate; Eritrityli tetranitras; Erythritol tetranitrate; Erythrol tetranitrate; Meso-erythritol tetranitrate; Tetranitrate d'eritrityle; Tetranitrato de eritritilo
+
+$$$$

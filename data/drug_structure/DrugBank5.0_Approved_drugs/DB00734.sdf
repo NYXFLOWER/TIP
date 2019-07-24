@@ -1,0 +1,232 @@
+734
+     RDKit          2D
+
+ 57 61  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.1193    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9340   -1.9522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8223   -0.5514    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9643    0.2736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5367    0.6861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7359   -1.7796    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8223    1.9236    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5353   -0.5514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5353    0.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498   -0.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498    0.6861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9643   -0.5514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6788    0.6861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8208   -0.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3932    0.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1078    0.6861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0719   -0.6297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2742    0.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0218    0.6689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5367    1.5111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0218    1.5283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2742    1.9522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8223    0.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1078    1.5111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5209   -1.2438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8156    0.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3932    1.9236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7136   -1.0736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0083    0.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4573   -0.2894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 30  1  0
+  2  6  1  0
+  2 25  1  0
+  3 23  2  0
+  4 11  1  0
+  4 12  1  0
+  4 13  1  0
+  5 18  1  0
+  5 20  1  0
+  5 23  1  0
+  6 14  2  0
+  7 20  2  0
+  7 24  1  0
+  8  9  1  0
+  8 10  1  0
+  8 14  1  0
+  9 11  1  0
+ 10 12  1  0
+ 13 15  1  0
+ 14 17  1  0
+ 15 16  1  0
+ 16 23  1  0
+ 16 24  2  0
+ 17 25  2  0
+ 17 26  1  0
+ 18 19  1  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 22  1  0
+ 24 27  1  0
+ 25 28  1  0
+ 26 29  2  0
+ 28 30  2  0
+ 29 30  1  0
+  8 31  1  0
+  9 32  1  0
+  9 33  1  0
+ 10 34  1  0
+ 10 35  1  0
+ 11 36  1  0
+ 11 37  1  0
+ 12 38  1  0
+ 12 39  1  0
+ 13 40  1  0
+ 13 41  1  0
+ 15 42  1  0
+ 15 43  1  0
+ 18 44  1  0
+ 18 45  1  0
+ 19 46  1  0
+ 19 47  1  0
+ 21 48  1  0
+ 21 49  1  0
+ 22 50  1  0
+ 22 51  1  0
+ 26 52  1  0
+ 27 53  1  0
+ 27 54  1  0
+ 27 55  1  0
+ 28 56  1  0
+ 29 57  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.27
+
+>  <ALOGPS_LOGS>  (1) 
+-3.38
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.71e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00734
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00734
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+410.211804333
+
+>  <FORMULA>  (1) 
+C23H27FN4O2
+
+>  <GENERIC_NAME>  (1) 
+Risperidone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C23H27FN4O2/c1-15-18(23(29)28-10-3-2-4-21(28)25-15)9-13-27-11-7-16(8-12-27)22-19-6-5-17(24)14-20(19)30-26-22/h5-6,14,16H,2-4,7-13H2,1H3
+
+>  <INCHI_KEY>  (1) 
+RAPZEAPATHNIPO-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Risperidal M-Tab; Risperin; Rispolept; Rispolin; Sequinan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+45.27482568051404
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-{2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl}-2-methyl-4H,6H,7H,8H,9H-pyrido[1,2-a]pyrimidin-4-one
+
+>  <JCHEM_LOGP>  (1) 
+2.6276210843333327
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.763167358458391
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+61.940000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+114.54920000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+risperidone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+410.4845
+
+>  <PRODUCTS>  (1) 
+Act Risperidone; Ag-risperidone; Apo-risperidone; Ava-risperidone; Dom-risperidone; Dom-risperidone ODT; Ipg-risperidone; Jamp-risperidone; Mar-risperidone; Mint-risperidon; Mylan-risperidone; Mylan-risperidone ODT; Nu-risperidone; PHL-risperidone; PHL-risperidone ODT; PMS-risperidone; PMS-risperidone ODT; Pro-risperidone; Q-risperidone; Ran-risperidone; Ratio-risperidone; Risperdal; Risperdal Consta; Risperdal M-tab; Risperdal Oral Solution; Risperidone; Risperidone - 0.25; Risperidone - 0.5; Risperidone - 1; Risperidone - 2; Risperidone - 3; Risperidone - 4; Risperidone M-TAB; Risperidone Tablets; Riva-risperidone; Sandoz Risperidone; Teva-risperidone
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00187
+
+>  <SMILES>  (1) 
+CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1
+
+>  <SYNONYMS>  (1) 
+Risperidona; Risperidonum
+
+$$$$

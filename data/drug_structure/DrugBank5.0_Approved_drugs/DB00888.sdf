@@ -1,0 +1,151 @@
+888
+     RDKit          2D
+
+ 19 18  0  0  0  0  0  0  0  0999 V2000
+    5.9370    0.6188    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6188    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  8  1  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  1  0
+  4  9  1  0
+  4 10  1  0
+  5 11  1  0
+  5 12  1  0
+  6 13  1  0
+  6 14  1  0
+  6 15  1  0
+  7 16  1  0
+  7 17  1  0
+  8 18  1  0
+  8 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.31
+
+>  <ALOGPS_LOGS>  (1) 
+-0.67
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.34e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00888
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00888
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+155.026854771
+
+>  <FORMULA>  (1) 
+C5H11Cl2N
+
+>  <GENERIC_NAME>  (1) 
+Mechlorethamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H11Cl2N/c1-8(4-2-6)5-3-7/h2-5H2,1H3
+
+>  <INCHI_KEY>  (1) 
+HAWPXGHAZFHHAD-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.841124230761807
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+bis(2-chloroethyl)(methyl)amine
+
+>  <JCHEM_LOGP>  (1) 
+1.5191491536666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.075351573449495
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+3.24
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.6747
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mechlorethamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+156.054
+
+>  <PRODUCTS>  (1) 
+Mustargen; Valchlor
+
+>  <SALTS>  (1) 
+Mechlorethamine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00249
+
+>  <SMILES>  (1) 
+CN(CCCl)CCCl
+
+>  <SYNONYMS>  (1) 
+2,2'-dichloro-N-methyldiethylamine; Chlormethine; Mustine; N-methyl-bis(2-chloroethyl)amine; Nitrogen mustard; β,β'-dichlorodiethyl-N-methylamine
+
+$$$$

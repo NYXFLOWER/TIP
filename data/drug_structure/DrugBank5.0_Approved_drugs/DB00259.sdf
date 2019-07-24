@@ -1,0 +1,155 @@
+259
+     RDKit          2D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+    2.4751    1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  4  1  0
+  1  6  1  0
+  5  9  1  0
+  6  7  2  0
+  6  8  1  0
+  7 10  1  0
+  8 11  2  0
+  9 10  2  0
+  9 11  1  0
+  4 12  1  0
+  4 13  1  0
+  5 14  1  0
+  5 15  1  0
+  7 16  1  0
+  8 17  1  0
+ 10 18  1  0
+ 11 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.16
+
+>  <ALOGPS_LOGS>  (1) 
+-1.22
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.04e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00259
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00259
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+172.0306482
+
+>  <FORMULA>  (1) 
+C6H8N2O2S
+
+>  <GENERIC_NAME>  (1) 
+Sulfanilamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8N2O2S/c7-5-1-3-6(4-2-5)11(8,9)10/h1-4H,7H2,(H2,8,9,10)
+
+>  <INCHI_KEY>  (1) 
+FDDDEECHVMSUSB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Streptocid
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.248819900649025
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-aminobenzene-1-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.24964936833333337
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.990054903867138
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.2653256426712796
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.17999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+42.91630000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfanilamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+172.205
+
+>  <PRODUCTS>  (1) 
+AVC Vaginal; Avc; Avc Cream - 15%
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00438
+
+>  <SMILES>  (1) 
+NC1=CC=C(C=C1)S(N)(=O)=O
+
+>  <SYNONYMS>  (1) 
+P-Aminobenzenesulfamide; P-Aminobenzenesulfonamide; Streptocide; Sulfamine; Sulphanilamide
+
+$$$$

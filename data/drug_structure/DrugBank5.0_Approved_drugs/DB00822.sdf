@@ -1,0 +1,182 @@
+822
+     RDKit          2D
+
+ 36 35  0  0  0  0  0  0  0  0999 V2000
+    5.2219    0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5076   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365   -1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932    1.0312    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3652   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3652    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0797    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 15  1  0
+  2 16  1  0
+  3 15  2  0
+  4 16  2  0
+  5  7  1  0
+  5  8  1  0
+  5 15  1  0
+  6  9  1  0
+  6 10  1  0
+  6 16  1  0
+  7 11  1  0
+  8 12  1  0
+  9 13  1  0
+ 10 14  1  0
+  7 17  1  0
+  7 18  1  0
+  8 19  1  0
+  8 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 14 36  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.88
+
+>  <ALOGPS_LOGS>  (1) 
+-4.37
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.26e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00822
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00822
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+296.05093141
+
+>  <FORMULA>  (1) 
+C10H20N2S4
+
+>  <GENERIC_NAME>  (1) 
+Disulfiram
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H20N2S4/c1-5-11(6-2)9(13)15-16-10(14)12(7-3)8-4/h5-8H2,1-4H3
+
+>  <INCHI_KEY>  (1) 
+AUZONCFQVSMFAP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Antabus; Antaethyl; Antalcol; Anticol; Antietanol; Chronol; Esperal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.59885939124253
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N,N-diethyl[(diethylcarbamothioyl)disulfanyl]carbothioamide
+
+>  <JCHEM_LOGP>  (1) 
+4.159758921999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+88.23520000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+disulfiram
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+296.539
+
+>  <PRODUCTS>  (1) 
+Antabuse; Antabuse Tab 0.25gm; Antabuse Tab 250mg; Antabuse Tab 500mg; Disulfiram
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00767
+
+>  <SMILES>  (1) 
+CCN(CC)C(=S)SSC(=S)N(CC)CC
+
+>  <SYNONYMS>  (1) 
+1,1'-dithiobis(N,N-diethylthioformamide); N,N,N',N'-tetraethylthiuram disulfide; Tetraethylthioperoxydicarbonic Diamide; Tetraethylthiuram Disulfide; Tetraethylthiuram Disulphide
+
+$$$$

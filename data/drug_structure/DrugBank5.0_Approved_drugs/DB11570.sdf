@@ -1,0 +1,205 @@
+
+     RDKit          2D
+
+ 47 47  0  0  0  0  0  0  0  0999 V2000
+   -2.8267    0.4126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8267   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1121   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3975   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3975    0.4126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1121    0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5412    0.8251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6719   -0.8315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0383   -0.4215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6721   -1.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2458    0.4183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5413    1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7351   -0.8239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4389   -0.4177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1390   -0.8220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8409   -0.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5420   -0.8214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4390    0.3962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1573    0.8109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2458   -0.4153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  1  6  1  0
+  1  7  1  0
+  4  8  1  0
+  8  9  1  0
+  8 10  2  0
+  7 11  1  0
+  7 12  1  0
+  9 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 14 18  1  0
+ 18 19  1  0
+ 17 20  1  0
+  2 21  1  0
+  3 22  1  0
+  5 23  1  0
+  6 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+ 18 41  1  0
+ 19 42  1  0
+ 19 43  1  0
+ 19 44  1  0
+ 20 45  1  0
+ 20 46  1  0
+ 20 47  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.11
+
+>  <ALOGPS_LOGS>  (1) 
+-3.89
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.55e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11570
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11570
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+277.204179113
+
+>  <FORMULA>  (1) 
+C17H27NO2
+
+>  <GENERIC_NAME>  (1) 
+Padimate O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H27NO2/c1-5-7-8-14(6-2)13-20-17(19)15-9-11-16(12-10-15)18(3)4/h9-12,14H,5-8,13H2,1-4H3
+
+>  <INCHI_KEY>  (1) 
+WYWZRNAHINYAEF-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+47
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.73097748413508
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-ethylhexyl 4-(dimethylamino)benzoate
+
+>  <JCHEM_LOGP>  (1) 
+5.107344474666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.9035016207766975
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.54
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+84.6601
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+padimate O
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+277.408
+
+>  <PRODUCTS>  (1) 
+Alba Botanica UN-petroleum Cherry SPF18 Lip Balm; Alba Botanica UN-petroleum Tangerine SPF18 Lip Balm; Alba Botanica UN-petroleum Vanilla SPF18 Lip Balm; Ariel Sun Smacker SPF 24 Strawberry Kiwi; Aruba Aloe Lip Sunscreen and Moisturizer; Aruba Aloe Very Water Resistant Sunscreen; Aruba Aloe Very Water Resistant Sunscreen - For Faces SPF 30; Aruba Aloe Very Water Resistant Sunscreen For Kids SPF 30; Baléa Face Lip Balm SPF 15; Banana Boat; Banana Boat Aloe Vera Lip Balm Spf30; Banana Boat Aloe Vera Lip Balm Sunbl. Spf21; Banana Boat Aloe Vera Lip Balm Sunblock SPF 30; Banana Boat Dark Tanning Lotion SPF 4; Banana Boat Dark Tanning Oil SPF 4; Banana Boat Dark Tanning Oil SPF 8; Banana Boat Funky Fruit - Lip Balm; Banana Boat Funky Fruit Lip Balm; Banana Boat Sport SPF 30 Lip Balm; Banana Boat Sunblock Lotion SPF 15; Banana Boat Sunscreen Lotion SPF 8; Banana Boat Sunscreen Oil Spray Huile Ecran Solaire En Vaporisateur SPF Fps 15; Banana Boat Sunscreen Oil Spray Huile écran Solaire En Vaporisateur SPF Fps 4; Banana Boat Vitamin E Lip Balm Spf30; Banana Boat Vitamin E Lip Balm Sunblock SPF 30; Banana Bt.aloe V.dry Sk.pR.B.lot W/ss.SPF 4; Blistex Lip Balm; Blistex Med Lip Conditioner Spf15 Ont; Blistex Medicated Berry Balm; Blistex Medicated Lip Balm; Blistex Medicated Mint Lip Balm; Blistex Sunblock Stk Spf15; Blue Green Algae With Grape Seed Extract Moisturizer SPF 10; Body Satin Lotion 4.85%; Buzz Away Lotion Spf15; Cap Soleil:  Lait Solaire Fps 4; Care One Cherry SPF 4 Lip Balm; Care One Original SPF 4 Lip Balm; Chanel Precision - Fluide Multi-protection; Chap-ice SPF 4 Cherry Lip Balm; Chap-ice SPF 4 Original Lip Balm; ChapIce Original SPF 4 Lip Balm; Chapstick Classics Cherry; Chapstick Classics Original; Chapstick Classics Spearmint; Chapstick Classics Strawberry; Chapstick Lip Balm 1.5%; Chapstick Petroleum Jelly Sunblock Spf15; Chapstick Sunblock 15 Lip Balm; Cherry Lipbalm; Creme Solaire Fps 15; Crusader Skin Lightening; Crusader Ultra Skin Lightening; Dermatone; Dermatone Lip Balm; Dermatone Moisturising Uva/uvb Creme; Dermatone SPF 23 Lips N Face Protector; Dermatone Skin Protector; Dermatone Skin Protector - Pommade; Dermisa Skin Fade; Disney Cars Lip Smacker SPF Lip Balm; Disney Classic Characters Lip Smacker SPF Lip Balm; Disney Frozen SPF Lip Smacker Lip Balm; Disney Little Mermaid SPF Lip Smacker Lip Balm; Donald Duck Sun Smacker SPF 24 Tropical Touchdown; Eight Hour Cream Lip Protectant SPF 15; Eight Hour Cream Lip Protectant Sheer Tint SPF 15 Berry; Eight Hour Cream Lip Protectant Sheer Tint SPF 15 Blush; Eight Hour Cream Lip Protectant Sheer Tint SPF 15 Chestnut; Eight Hour Cream Lip Protectant Sheer Tint SPF 15 Honey; Eight Hour Cream Lip Protectant Sheer Tint SPF 15 Melon; Eight Hour Cream Lip Protectant Sheer Tint SPF 15 Plum; Elizabeth Arden Lip Protectant Stick SPF 15; Esoterica Daytime with Moisturizers and Sunscreen; Esoterica Daytime with Sunscreen; Esoterica Facial Cream; Esoterica Scented-fortified With Sunscreen; Esoterica Sunscreen Fade Cream; Esoterica Unscented Fortified W.sun Screen; Exact Lip Balm Regular; Fin McMissie Sun Smacker SPF 24 Vroom Vroom Vanilla; Flounder Sun Smacker SPF 24 Watermelon Wave; Goofy Sun Smacker SPF 24 Berry Goal; Green Tea and Ginkgo Moisturizer SPF 10; Grooming Gear After Shave Treatment Lot 2.5%; Hand and Body Lotion SPF 15; Hawaiian Tropic Dark Tan.oil W.ext.sunscreen; Hydra Advance Solaire Lait SPF 15; Hydroquinone with sunscreens; Ice Lipbalm - Stk Top; Ice Lipbalm SPF 12- Stk Top; Kiss My Face Everyday Moisturizer SPF 15-lot; Kiss My Face SPF 18 Lip Balm; Kroger SPF 4 Tanning Oil; Leader Cherry SPF 4 Lip Balm; Leader Original SPF 4 Lip Balm; Lightning McQueen Sun Smacker SPF 24 Revved Up Raspberry; Lip Balm Sunscreen SPF 4 Cherry Flavor; Lip Balm Sunscreen SPF 4 Original; Lip Conditioner Lip Balm; Lip Healer; Lip Healer SPF 15; Lip Smacker SPF 24 Cool Strawberry Orange; Lip Smacker SPF 24 Kiwi Berry Crush; Lip Smacker SPF 24 Lemon Lime Rush; Lip Smacker SPF 24 Melon Extreme; Lip Smacker SPF 24 Power Punch; Lip Smacker SPF 24 Strawberry Scoop; Lip Smacker SPF 24 Vanilla Ice; Lip Smacker SPF 24 Watermelon Wave; Lip Smacker SPF Cherry Berry Ball; Lip Smacker Sport SPF Lip Balm; Lipbalm Regular; Lipbalm With Sunscreen; Lipshield Lipbalm SPF 21; Lipshield SPF 21 Lipbalm-stk Top; Lotion Solaire - 15; Lotion Solaire Haute Protection Fps 15; Lotion Solaire Hydratante Fps 4; Lotion Solaire Protectrice Fps 8; Medicated Blistex Dct Lip Balm; Medicated Lip Balm - Ont Top 8%; Meijer SPF 4 Tanning Oil; Mentholatum Natural Ice Lipbalm With Moisturizing Vitamin E & Aloe Vera; Metasol Skin Lightening; Mickey Sun Smacker SPF 24 Classic Sherbet; Mickey Sun Smacker SPF 24 Classic Strawberry; Mickey Sun Smacker SPF 24 Classic Vanilla; Mickey Sun Smacker SPF 24 Home Run Star Fruit; Moisturizing Lip Balm SPF 15; Movate Skin Lightening Lemon; Muskol Insect Repellent W Suscreen Lot Spf6; Native Tan Dark Tanning Lotion SPF 4; Native Tan Regular Tanning Oil SPF 4; Native Tan Sun Protection Lotion SPF 15; Native Tan Sun Protection Lotion SPF 8; Natural Ice Lipbalm SPF 14.7-stk Top; Natural Sun SPF 25/fps 25 Ideal for Active Lifestyles; Natural Sun SPF 25/fps 25 Ideal for Children; Neostrata Canada Hq Plus Cream; Neostrata Hq Plus Lightening Cream; Nuquin Hp; OraLabs ChapIce Cherry SPF 4 Lip Balm; Perrigo Hydroquinone with sunscreens; Phineas and Ferb Sun Smacker SPF 24 Berry Busted; Phineas and Ferb Sun Smacker SPF 24 Secret Agent Strawberry; Phineas and Ferb Sun Smacker SPF 24 Vanilla Vacation; Presun 15 Creamy Lot; Presun 15 Lotion; Presun 39 Sunscreen Crm Spf39; Presun 8 Creamy Lot; Pro-Tect Everyday Sunscreen SPF 15; Pro-tect Everyday Sunscreen SPF 15; RadiaBlock; Rayito de Sol Sunscreen SPF 18; Rosa Mosqueta Sun Protection Butter SPF 12; SPF 15 Fps Lip Balm; Savex Sunblock 15 Ont SPF 15; Savex With Paba; Saving Face Natural Sunscreen Protection Spray; Sebastian Sun Smacker SPF 24 Calypso Berry Beat; Shaklee Lip Protection Stick SPF 15; Shopko Cherry SPF 4 Lip Balm; Shopko Original SPF 4 Lip Balm; Simple Essentials Protect; Skin Pro-tec II SPF-15; Smartshield Sunscreen Lotion SPF 30; Smartshield Sunscreen SPF 30; Soft Lips SPF 17 Stk; Sun Lipcare SPF 18; Sun Pacer Protect Light Bronzing Gel Spf4 4%; Sun Pacer Protective Sun Block Crm Spf30; Sun Pacer Protective Sun Screen Lot Spf15; Sun Pacer Protective Sun Screen Lot Spf8; Sun Pacer Protective Sun Screen Stk Spf15; Sun Protector Lotion SPF 15; Sun Protector Lotion SPF 8; Sun Shade SPF 12; Sun Shade SPF 15; Sun Shade SPF 8; Sun Smackers - Stk Top; Sun Smackers Cool Face Coverup SPF 24; Sun and Ski Stick SPF 15; Sun-shades 9 Crm 5%; Sunscreen Gel SPF 30; Sunscreen Lip Balm; Sunscreen Lip Balm - Stk; Sunscreen Lotion SPF 30; Sunscreen Spray SPF 30; Tow Mater Sun Smacker SPF 24 Tow-Tally Orange; Translucent Broad Spectrum Foundation SPF 50 Vertra; Tropic Tanning Oil With Sunscreen; Trucco Identity Lipstick Sheer SPF 12; Ulta Tanning SPF 4; Ultimate Moist SPF 15; Ultra Glow Fade with Aloe Vera; Vaseline Brnd Intensv Care Sunblk Lot Spf35; Vertra SPF 50 Foundation Sunscreen Face Translucent; Vichy-lait Solaire SPF 10; Viquin Forte With Moisturizing Aha - Crm; Walgreens Chap Aid Cherry Lip Balm; Walgreens Chap Aid Lip Balm Strawberry; Walgreens Chap Aid Lip Balm Strawberry Banana; Walgreens Chap Aid Regular Lip Balm; Winco Cherry SPF 4 Lip Balm; Winco Original SPF 4 Lip Balm; Zarina Skin Lightening Cream With Sunscreening Filter
+
+>  <SMILES>  (1) 
+CCCCC(CC)COC(=O)C1=CC=C(C=C1)N(C)C
+
+>  <SYNONYMS>  (1) 
+Padimate-O
+
+$$$$

@@ -1,0 +1,246 @@
+
+     RDKit          2D
+
+ 60 63  0  0  1  0  0  0  0  0999 V2000
+    1.5767   -0.3873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0569    1.7186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0786    3.1300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2677    2.5711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2483    2.9732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8919    2.2807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4555    2.7164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2594    0.9486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0798    2.4259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3566    2.8616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9423    1.4116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4843    0.5338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6404    0.8741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2964    0.3886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5251    2.3493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3363    3.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1722    1.5048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2040    1.3097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7358    1.9404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6081    1.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8283    1.0193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5480    1.7952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8884    2.2309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7130    2.2041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2079    2.8122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2767    4.3127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9843    1.3596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6534    3.0269    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  9  6  1  0
+ 10  7  1  0
+ 11  8  1  0
+ 14  1  1  0
+ 14 12  2  0
+ 15  2  1  0
+ 16  3  1  0
+ 17  6  1  0
+ 17 13  1  0
+ 18 12  1  0
+ 19  7  1  0
+ 19 18  1  0
+ 20  8  1  0
+ 20 18  1  0
+ 21 13  2  0
+ 21 14  1  0
+ 22  4  1  6
+ 22  9  1  0
+ 22 19  1  0
+ 22 21  1  0
+ 23  5  1  6
+ 23 10  1  0
+ 23 20  1  0
+ 24 11  1  0
+ 24 15  1  6
+ 24 23  1  0
+ 25 15  2  0
+ 26 16  2  0
+ 27 17  2  0
+ 28 16  1  0
+ 24 28  1  0
+  1 29  1  0
+  1 30  1  0
+  1 31  1  0
+  2 32  1  0
+  2 33  1  0
+  2 34  1  0
+  3 35  1  0
+  3 36  1  0
+  3 37  1  0
+  4 38  1  0
+  4 39  1  0
+  4 40  1  0
+  5 41  1  0
+  5 42  1  0
+  5 43  1  0
+  6 44  1  0
+  6 45  1  0
+  7 46  1  0
+  7 47  1  0
+  8 48  1  0
+  8 49  1  0
+  9 50  1  0
+  9 51  1  0
+ 10 52  1  0
+ 10 53  1  0
+ 11 54  1  0
+ 11 55  1  0
+ 12 56  1  0
+ 13 57  1  0
+ 18 58  1  6
+ 19 59  1  1
+ 20 60  1  1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.71
+
+>  <ALOGPS_LOGS>  (1) 
+-5.06
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.36e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00351
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00351
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+384.23005951
+
+>  <FORMULA>  (1) 
+C24H32O4
+
+>  <GENERIC_NAME>  (1) 
+Megestrol acetate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C24H32O4/c1-14-12-18-19(22(4)9-6-17(27)13-21(14)22)7-10-23(5)20(18)8-11-24(23,15(2)25)28-16(3)26/h12-13,18-20H,6-11H2,1-5H3/t18-,19+,20+,22-,23+,24+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+RQZAXGRLVPAYTJ-GQFGMJRRSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Maygace; Megestil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+60
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+43.51415933548088
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,2R,10R,11S,14R,15S)-14-acetyl-2,8,15-trimethyl-5-oxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-6,8-dien-14-yl acetate
+
+>  <JCHEM_LOGP>  (1) 
+3.7237443029999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+19.92277853101958
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.826162097938024
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.860581975061152
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.44
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+108.65539999999994
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+DMAP
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+384.516
+
+>  <PRODUCTS>  (1) 
+Apo-megestrol; Linmegestrol - Tab 160mg; Linmegestrol - Tab 40mg; Megace; Megace ES; Megace Es; Megace Os; Megestol; Megestrol; Megestrol Acetate; Megestrol acetate; Megestrol-160 - Tab 160 mg; Megestrol-40 - Tab 40mg; Nu-megestrol - Tab 160mg; Nu-megestrol - Tab 40mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01092
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C=C(C)C2=CC(=O)CC[C@]12C
+
+>  <SYNONYMS>  (1) 
+17-Acetoxy-6-methylpregna-4,6-diene-3,20-dione; 17-Hydroxy-6-methylpregna-4,6-diene-3,20-dione 17-acetate; 17alpha-Acetoxy-6-dehydro-6-methylprogesterone; 17alpha-Hydroxy-6-methylpregna-4,6-diene-3,20-dione acetate; 17α-Acetoxy-6-dehydro-6-methylprogesterone; 17α-Hydroxy-6-methylpregna-4,6-diene-3,20-dione acetate; 6-Dehydro-6-methyl-17alpha-acetoxyprogesterone; 6-Dehydro-6-methyl-17α-acetoxyprogesterone; 6-Methyl-17alpha-acetoxypregna-4,6-diene-3,20-dione; 6-Methyl-17alpha-hydroxy-delta(sup 6)-progesterone acetate; 6-Methyl-17α-acetoxypregna-4,6-diene-3,20-dione; 6-Methyl-17α-hydroxy-delta(sup 6)-progesterone acetate; 6-Methyl-6-dehydro-17alpha-acetoxyprogesterone; 6-Methyl-6-dehydro-17α-acetoxyprogesterone; 6-Methyl-delta(sup 4,6)-pregnadien-17alpha-ol-3,20-dione acetate; 6-Methyl-delta(sup 4,6)-pregnadien-17α-ol-3,20-dione acetate; 6-Methyl-delta(sup 6)-dehydro-17alpha-acetoxyprogesterone; 6-Methyl-delta(sup 6)-dehydro-17α-acetoxyprogesterone; MGA
+
+$$$$

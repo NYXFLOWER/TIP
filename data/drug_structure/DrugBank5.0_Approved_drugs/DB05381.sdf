@@ -1,0 +1,151 @@
+
+     RDKit          2D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    4.6717  -11.9736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4159  -12.7649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0013  -11.4864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5832  -12.7649    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275  -11.9736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1273  -13.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8413  -12.7597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5553  -13.1689    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  3  5  1  0
+  4  5  2  0
+  2  6  1  0
+  1  2  2  0
+  6  7  1  0
+  1  3  1  0
+  7  8  1  0
+  1  9  1  0
+  3 10  1  0
+  5 11  1  0
+  6 12  1  0
+  6 13  1  0
+  7 14  1  0
+  7 15  1  0
+  8 16  1  0
+  8 17  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.69
+
+>  <ALOGPS_LOGS>  (1) 
+0.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.69e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB05381
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB05381
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+111.079647303
+
+>  <FORMULA>  (1) 
+C5H9N3
+
+>  <GENERIC_NAME>  (1) 
+Histamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H9N3/c6-2-1-5-3-7-4-8-5/h3-4H,1-2,6H2,(H,7,8)
+
+>  <INCHI_KEY>  (1) 
+NTYJJOPFIAHURM-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.084101987650204
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-(1H-imidazol-4-yl)ethan-1-amine
+
+>  <JCHEM_LOGP>  (1) 
+-0.7009711443333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.456615295256658
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.576453109401491
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.7
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.663399999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+histamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+111.1451
+
+>  <PRODUCTS>  (1) 
+Abee Med; ActivOn Ultra Strength Arthritis; Alo Therapeutic Massage; Alo Therapeutic Massage Pain Relieving; Arthritis Relief; Arthrocare Lotion; Australian Dream Back Pain; Australian Dream Carpal Tunnel Pain; Australian Dream Hand and Wrist Pain; Australian Dream Pain Relieving Arthritis; CVS Arthritis Pain Relief; Camphomex; Ceplene; Dr. Freds MIRACLE RUB; Glucosamine Cream EXTRA STRENGTH; Histamine Phosphate Injection USP Liq Sc; Histamine Phosphate Injection USP, 1mg/ml; Histamine Positive Skin Test Control; Histatrol; Mancore Muscle Mend Roll-ON Pain Reliever; Pain Relieving Arthritis; PainMD Max; Ponos Natural Pain Relief; Positive Skin Test Control - Histamine; Positive Skin Test Control-histamine; Raging Kakapo Pain Relieve; Rematex; Simanix; TerraFreeze Pain Relief
+
+>  <SALTS>  (1) 
+Histamine dihydrochloride; Histamine phosphate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01015; DB05891; DB11320; DB00667
+
+>  <SMILES>  (1) 
+NCCC1=CNC=N1
+
+>  <SYNONYMS>  (1) 
+1H-Imidazole-4-ethanamine; 2-(4-imidazolyl)ethylamine; 4-imidazoleethylamine; 5-imidazoleethylamine; beta-aminoethylglyoxaline; beta-aminoethylimidazole
+
+$$$$
