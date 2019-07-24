@@ -1,0 +1,117 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cu  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -2   2   2
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.30
+
+>  <ALOGPS_LOGS>  (1) 
+0.53
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.70e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11134
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11134
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+78.924513
+
+>  <FORMULA>  (1) 
+CuO
+
+>  <GENERIC_NAME>  (1) 
+Cupric oxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Cu.O/q+2;-2
+
+>  <INCHI_KEY>  (1) 
+KKCXRELNMOYFLS-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+0.9475908
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+copper(2+) ion oxidandiide
+
+>  <JCHEM_LOGP>  (1) 
+-0.6519999999999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.7
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.1149
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+copper(2+) ion oxidandiide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+79.545
+
+>  <PRODUCTS>  (1) 
+Active FE; Bacmin; Central-vite 18 Essential; Century Complete; Children's Chewable Multivitamin and Multimineral; CitraNatal 90 DHA; CitraNatal DHA; CitraNatal Rx; Complete Multivitamins and Minerals for Children; FeRiva FA; FeRivaFA; Floriva; Foltabs Prenatal; I-care Multivitamin and Multimineral Tablets; INATAL Ultra; Inatal Advance; Iron Polysaccharides Folic Acid DHA; Multivitamin and Mineral; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Niaacinamide Azelaic AC TURMER FA B6 Zinc Ox Copper; Nicomide; Ocuvite Vitamin and Mineral Supplement; Ocuvite Vitamin and Mineral Supplement Capsules; Onccor; Optivite Vitamin and Mineral Supplement Tablet; PNV Prenatal Plus Multivitamin; PNV-First; PNV-Select; Polymine Avec Zinc Et Cuivre; PrePLUS; PreQue 10; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenatal Plus; Prenatal Plus Iron; Prenate Elite; Prenate Star; Se-Care Chewable; Se-Natal One; Stress Complex 600 Avec Vit E Cuivre Zinc; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Supravite Stress Avec Vit E Cuivre Et Zinc; TriAdvance; Trinatal GT; Virt-Pn; Vitafol Ultra; Vitamin and Mineral Supplement Capsules; Vp-zel
+
+>  <SMILES>  (1) 
+[O--].[Cu++]
+
+>  <SYNONYMS>  (1) 
+Cuprum oxydatum nigrum
+
+$$$$

@@ -1,0 +1,163 @@
+797
+     RDKit          2D
+
+ 24 25  0  0  0  0  0  0  0  0999 V2000
+    3.1651    1.6828    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8324    0.5269    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.8623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9719    1.8543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643    0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3844    1.1398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -0.3751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -0.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -0.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -1.6126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -1.6126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -2.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  1  0
+  2  3  2  0
+  2  6  1  0
+  3  5  1  0
+  4  6  1  0
+  5  7  1  0
+  7  8  2  0
+  7  9  1  0
+  8 10  1  0
+  9 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+  1 13  1  0
+  4 14  1  0
+  4 15  1  0
+  5 16  1  0
+  5 17  1  0
+  6 18  1  0
+  6 19  1  0
+  8 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.05
+
+>  <ALOGPS_LOGS>  (1) 
+-2.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.36e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00797
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00797
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+160.100048394
+
+>  <FORMULA>  (1) 
+C10H12N2
+
+>  <GENERIC_NAME>  (1) 
+Tolazoline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12N2/c1-2-4-9(5-3-1)8-10-11-6-7-12-10/h1-5H,6-8H2,(H,11,12)
+
+>  <INCHI_KEY>  (1) 
+JIVZKJJQOZQXQB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Divascol; Imidalin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.938060793252507
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-benzyl-4,5-dihydro-1H-imidazole
+
+>  <JCHEM_LOGP>  (1) 
+1.2036401929999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.2476773435235
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+24.39
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.06930000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tolazoline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+160.2157
+
+>  <SALTS>  (1) 
+Benzazoline hydrochloride; Tolazoline Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00170
+
+>  <SMILES>  (1) 
+C(C1=NCCN1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Benzazolin; Tolazolin; Tolazolina; Tolazoline; Tolazolinum
+
+$$$$

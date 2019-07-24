@@ -1,0 +1,152 @@
+
+     RDKit          2D
+
+ 18 17  0  0  0  0  0  0  0  0999 V2000
+    6.2861   -7.7655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9920   -7.3579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6978   -7.7655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4037   -7.3579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1202   -7.7717    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.3967   -6.6390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5693   -6.6390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5724   -7.3469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8054   -5.9213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  3  2  0
+  4  5  1  0
+  2  6  1  0
+  2  7  1  0
+  1  8  1  0
+  6  9  3  0
+  1 10  1  0
+  1 11  1  0
+  3 12  1  0
+  4 13  1  0
+  7 14  1  0
+  8 15  1  0
+  8 16  1  0
+  8 17  1  0
+  9 18  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.45
+
+>  <ALOGPS_LOGS>  (1) 
+-3.00
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.43e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00189
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00189
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; withdrawn
+
+>  <EXACT_MASS>  (1) 
+144.034192617
+
+>  <FORMULA>  (1) 
+C7H9ClO
+
+>  <GENERIC_NAME>  (1) 
+Ethchlorvynol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H9ClO/c1-3-7(9,4-2)5-6-8/h1,5-6,9H,4H2,2H3
+
+>  <INCHI_KEY>  (1) 
+ZEHYJZXQEQOSON-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Arvynol; Nostel; Placidyl; Roeridorm; Serenesil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.766102172119936
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-chloro-3-ethylpent-1-en-4-yn-3-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.620819461
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.877910831568652
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.7270018022718725
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.6382
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+etclorvinol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+144.599
+
+>  <PRODUCTS>  (1) 
+Placidyl Cap 200mg; Placidyl Cap 500mg; Placidyl Cap 750mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00958
+
+>  <SMILES>  (1) 
+[H]C(Cl)=CC(O)(CC)C#C
+
+>  <SYNONYMS>  (1) 
+1-chloro-3-ethyl-1-penten-4-yn-3-ol; 1-Chloro-3-ethyl-pent-1-en-4-yn-3-ol; 3-(beta-chlorovinyl)-1-pentyn-3-ol; 3-(β-chlorovinyl)-1-pentyn-3-ol; ethyl β-chlorovinyl ethynyl carbinol; β-chlorovinyl ethyl ethynyl carbinol
+
+$$$$

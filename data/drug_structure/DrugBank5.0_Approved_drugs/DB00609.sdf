@@ -1,0 +1,159 @@
+609
+     RDKit          2D
+
+ 21 21  0  0  0  0  0  0  0  0999 V2000
+    2.3644    1.6005    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.6005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0
+  2  5  2  0
+  2 10  1  0
+  3 11  1  0
+  4  5  1  0
+  4  8  1  0
+  5  6  1  0
+  6  7  2  0
+  7  9  1  0
+  7 11  1  0
+  9 10  2  0
+  3 12  1  0
+  3 13  1  0
+  4 14  1  0
+  4 15  1  0
+  6 16  1  0
+  8 17  1  0
+  8 18  1  0
+  8 19  1  0
+  9 20  1  0
+ 10 21  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.88
+
+>  <ALOGPS_LOGS>  (1) 
+-2.30
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.39e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00609
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00609
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+166.05646902
+
+>  <FORMULA>  (1) 
+C8H10N2S
+
+>  <GENERIC_NAME>  (1) 
+Ethionamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H10N2S/c1-2-7-5-6(8(9)11)3-4-10-7/h3-5H,2H2,1H3,(H2,9,11)
+
+>  <INCHI_KEY>  (1) 
+AEOCXXJPGCBFJA-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ethatyl; Ethide; Ethiokox; Ethomid; Etionamida; Etomid; Eton; Etyomid; Myobid; Trecator-SC; Tubermin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.98666589320431
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-ethylpyridine-4-carbothioamide
+
+>  <JCHEM_LOGP>  (1) 
+1.3279892836666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.89396990677615
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.003405417249389
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.91
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+50.1888
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethionamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+166.243
+
+>  <PRODUCTS>  (1) 
+Trecator
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00961
+
+>  <SMILES>  (1) 
+CCC1=NC=CC(=C1)C(N)=S
+
+>  <SYNONYMS>  (1) 
+2-ethylthioisonicotinamide; Ethinamide; Ethionamidum; Ethioniamide; Ethylisothiamide; Ethyonomide; Etionamid; Etionamida; Etionamide; Etioniamid
+
+$$$$

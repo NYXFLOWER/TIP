@@ -1,0 +1,159 @@
+
+     RDKit          2D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+   -0.7500    1.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4645    0.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4645   -0.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355    0.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -0.5125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7500   -1.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0355   -0.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6789   -0.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3934   -0.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1079   -0.5125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  4  1  0
+  2  3  1  0
+  3  5  2  0
+  5  7  1  0
+  7  4  2  0
+  5  6  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+  1 11  1  0
+  2 12  1  0
+  3 13  1  0
+  4 14  1  0
+  6 15  1  0
+  6 16  1  0
+  6 17  1  0
+  8 18  1  0
+ 10 19  1  0
+M  CHG  1   5   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.04
+
+>  <ALOGPS_LOGS>  (1) 
+-3.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.49e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00733
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00733
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+137.07148792
+
+>  <FORMULA>  (1) 
+C7H9N2O
+
+>  <GENERIC_NAME>  (1) 
+Pralidoxime
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H8N2O/c1-9-5-3-2-4-7(9)6-8-10/h2-6H,1H3/p+1
+
+>  <INCHI_KEY>  (1) 
+JBKPUQTUERUYQE-UHFFFAOYSA-O
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Contrathion; Nispam; Pamcl; Pampara; Pamu; Pralidoxime Chloride; Protopam
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.440492749796206
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(1E)-(hydroxyimino)methyl]-1-methylpyridin-1-ium
+
+>  <JCHEM_LOGP>  (1) 
+-3.257118933138412
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.780617630287852
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.1289754210509502
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+36.47
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.326499999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pralidoximum
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+137.1592
+
+>  <PRODUCTS>  (1) 
+ATNAA atropine and pralidoxime chloride Auto-Injector; DuoDote; Pralidoxime Chloride; Protopam Chloride; Protopam Chloride  -  (pws 1g/vial); Protopam Chloride Inj 1gm
+
+>  <SALTS>  (1) 
+Pralidoxime Chloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01193
+
+>  <SMILES>  (1) 
+C[N+]1=C(\C=N\O)C=CC=C1
+
+>  <SYNONYMS>  (1) 
+2-PAM; Pralidoxim; Pralidoxima; Pralidoxime; Pralidoximum
+
+$$$$

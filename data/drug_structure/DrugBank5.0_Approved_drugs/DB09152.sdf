@@ -1,0 +1,99 @@
+947
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09152
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09152
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+28.00614801
+
+>  <FORMULA>  (1) 
+N2
+
+>  <GENERIC_NAME>  (1) 
+Nitrogen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/N2/c1-2
+
+>  <INCHI_KEY>  (1) 
+IJGRMHOSHXDMSA-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7660811281543802
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+diazyne
+
+>  <JCHEM_LOGP>  (1) 
+0.31153025599999995
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+47.58
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+26.2298
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitrogen
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+28.0134
+
+>  <PRODUCTS>  (1) 
+Air; Air USP; Carbon Dioxide Mixture; Carbon Monox, Helium, Oxygen, Nitrogen L.D.M.; Co-HE-O2-N2 Mixture; Co-NE-O2-N2 Mixture; Compressed Gas N.O.S.; Gaseous Nitrogen 99.0%; Helium Oxygen Nitrogen mixture; Hyperbaric Chamber Mix; Liquid Nitrogen; Liquid Nitrogen Nf; Lung Diffusion Test Mix No Ne Co; Lung Diffusion Test Mix Nohco; Lung Diffusion Test Mixture; Lung Diffusion Test Mixture Gas; Medical Air; Medical Air Compressed; Medical Air USP; Nitric Oxide Nitrogen Mix; Nitrogen; Nitrogen 100%; Nitrogen Compressed; Nitrogen Compressed, Nf; Nitrogen Gas 99%; Nitrogen Liquid 99%; Nitrogen Nf; Nitrogen Nf 99%; Nitrogen Oxygen Mix; Nitrogen c70f6047-a0cb-4f70-aa3a-78acd681efc3; Nitrogen, Refrigerated; Oxygen USP, Nitrogen Nf, Medical Gas Mixture; Oxygen W Nitrogen
+
+>  <SALTS>  (1) 
+Nitrogen trichloride
+
+>  <SMILES>  (1) 
+N#N
+
+$$$$

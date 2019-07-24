@@ -1,0 +1,143 @@
+
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  2  7  1  0
+  1  8  1  0
+  3  9  1  0
+  4 10  1  0
+  5 11  1  0
+  6 12  1  0
+  7 13  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.39
+
+>  <ALOGPS_LOGS>  (1) 
+-0.31
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.66e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB03255
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB03255
+
+>  <DRUG_GROUPS>  (1) 
+approved; experimental
+
+>  <EXACT_MASS>  (1) 
+94.041864814
+
+>  <FORMULA>  (1) 
+C6H6O
+
+>  <GENERIC_NAME>  (1) 
+Phenol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H
+
+>  <INCHI_KEY>  (1) 
+ISWSIDIOOBJBQZ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.812560861971928
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+phenol
+
+>  <JCHEM_LOGP>  (1) 
+1.6696804943333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.016150276173818
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.476712177992348
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+28.038899999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phenol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+94.1112
+
+>  <PRODUCTS>  (1) 
+Ambix First Aid; Anbesol Gel; Anbesol Liquid; Anbesol Maximum Strength Liquid; Aseptil Rojo; Au Kah Chuen Skin Lotion; Balzarol Ont; Banana Boat Medicated Lip Balm; Bite Relief; Blistex Dct; Blistex Lip; Blistex Lip Medex; Blistex Medicated; Budpak First Aid; CAMPHO-PHENIQUE ANTISEPTIC Gel; CAMPHOR (SYNTHETIC) and PHENOL; CVS Camphor Phenol Gel; CVS Health Maximum Strength Sore Throat Fast Relief; CVS Health Sore Throat Fast Relief Oral Anesthetic; Calamine Phenolated Topical Suspension; Campho Phenique Cold Sore Treatment; Campho-Phenique Antiseptic; Campho-Phenique Cold Sore Treatment; Campho-Phenique Pain Relieving Antiseptic Liquid; Care One Sore Throat; Carmex Lip Balm; Carmex Lip Ointment; Castellani Paint; Castellani Paint 1.5%; Cepastat Cherry; Cepastat Extra Strength; ChapIce Camphor Phenol Gel; Chapstick Medicated; Chapstick Medicated Lip Balm - Jar; Chapstick Medicated Lip Balm - Stk; Chapstick Medicated Lip Balm - Tube; Chigarid; Chloraseptic Sore Throat; Chloraseptic Sore Throat Cherry; Chloraseptic Sore Throat Citrus; Chloraseptic Sore Throat Max; Chloraseptic Sore Throat Menthol; Chloraseptic Warming Sore Throat; Coghlan s Sting Relief; DDM Instant Antiseptic Pain Relief; Dermaphy Ont; Dg Health Sore Throat; Diluent Sterile; Diluent for Allergenic Extract Sterile Normal Saline With Phenol (0.4%); Equaline Sore Throat; Equate Sore Throat; First Aid; Freds Antiseptic Instant Pain Relief; Glycerinated Phenol Saline; Good Neighbor Pharmacy Sore Throat; Good Sense Sore Throat; HEB Camphor Phenol; Healthy Accents Sore Throat; Instant Antiseptic Pain Relief; Leader Camphor Phenol Gel; Leader Sore Throat; Leader Sore throat; Lip Conditioner Lip Balm; Liver supplement; Major Camphor and Phenol; Makesense First Aid; Mecca Ointment; Medicated Blistex Dct Lip Balm; Medicated Lip Balm; Medicated Lipbalm; NICE SORE THROAT Cherry; NICE SORE THROAT Honey Lemon; NICE SORE THROAT Spearmint; Natur 911; OFF Bite and Itch Relief First Aid Antiseptic; Oral Relief; Ozonol Ont; Pain A Lay; Phen-oris - Ont Top; Phenol; Phenol 6%; Phenol Saline Inj; Phenoris Ont; Phylorinol; Poison Oak; Preferred Plus Medicated Lip Balm; Rx Act Sore Throat; Shopko Camphor Phenol Gel; Smart Sense Sore Throat; Sore Throat; Sore Throat Cherry; Sore Throat Menthol; Sore Throat ReadyInCase; Sore Throat Relief; Sore Throat Relief Cherry; Sore Throat Relief Cherry Flavor; Sore Throat Relief Menthol; Sore Throat Spray; Sore throat cherry; Sterile Diluent for Allergenic Extract; Sting Eze; Sting Kure - Liq; Sting-eze-liq; StingEze Insect Bite Relief; StingEze Max Insect Bite Relief; Sunmark Phenolated Calamine; Sunmark Sore Throat; Sunmark sore throat; Throat Relief; Topcare Sore Throat; Vaseline Brand Lip Therapy Medicated Tube; Vida Mia Instant Antiseptic Pain Relief; Walgreens Camphor Phenol Gel; Yat Tip Xiao; ZYCAZIN Antiseptic Liquid; eos Medicated Pain Relieving Lip Balm
+
+>  <SALTS>  (1) 
+Phenyl hydrogen sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01917
+
+>  <SMILES>  (1) 
+OC1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Benzenol; Carbolic acid; Hydroxybenzene; Monohydroxybenzene; Phenic Acid; Phenyl alcohol; Phenyl hydroxide; Phenylic Acid
+
+$$$$

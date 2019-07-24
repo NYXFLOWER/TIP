@@ -1,0 +1,163 @@
+916
+     RDKit          2D
+
+ 21 21  0  0  0  0  0  0  0  0999 V2000
+    2.3876   -1.5382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1674    1.3064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7258   -0.0526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022    0.5244    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6897    1.7939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5542    0.7543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1022   -0.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.7132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5147    1.7939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2  6  1  0
+  3  6  2  0
+  4  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5  8  2  0
+  5 11  1  0
+  6  9  1  0
+  7 10  1  0
+  8 12  1  0
+  9 11  2  0
+  1 13  1  0
+  7 14  1  0
+  7 15  1  0
+ 10 16  1  0
+ 10 17  1  0
+ 11 18  1  0
+ 12 19  1  0
+ 12 20  1  0
+ 12 21  1  0
+M  CHG  2   2  -1   6   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.15
+
+>  <ALOGPS_LOGS>  (1) 
+-1.46
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.92e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00916
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00916
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+171.064391169
+
+>  <FORMULA>  (1) 
+C6H9N3O3
+
+>  <GENERIC_NAME>  (1) 
+Metronidazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H9N3O3/c1-5-7-4-6(9(11)12)8(5)2-3-10/h4,10H,2-3H2,1H3
+
+>  <INCHI_KEY>  (1) 
+VAOCPAMSLUNLGC-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Anabact; Arilin; Clont; Deflamon; Efloran; Elyzol; Entizol; Fossyol; Klion; Klont; Metrolyl; Metrotop; Nalox; Nidagel; Novonidazol; Orvagil; Protostat; Takimetol; Trichazole; Trichex; Trichopol; Tricowas B; Trikacide; Trikozol; Vagilen; Vagimid; Vertisal; Zadstat
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.815703894499059
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-(2-methyl-5-nitro-1H-imidazol-1-yl)ethan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+-0.45931022466666654
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.43629692615242
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.087148088548432
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.87
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+41.2205
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+metronidazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+171.154
+
+>  <PRODUCTS>  (1) 
+Apo-metronidazole; Auro-metronidazole; Flagyl; Flagyl 500 500mg; Flagyl Cream 10%; Flagystatin; Flagystatin Cream; Flagystatin Vaginal Ovule; Florazole ER; MetroCream; MetroGel-Vaginal; MetroLotion; Metrocream - Crm 0.75%; Metrogel; Metrogel 0.75%; Metrogel 1%; Metronidazole; Metronidazole 250 mg; Metronidazole 500 mg; Metronidazole 5mg/ml Injection; Metronidazole Injection USP; Metronidazole Tab 250mg; Metronidazole Topical Cream, 0.75%; Metronidazole Topical Gel; Metronidazole250 mg 250 mg; Metronidazole500 mg 500 mg; Nidagel Vaginal Gel 0.75%; Noritate; Novo-nidazol Tab 250mg; Nuvessa; PMS-metronidazole; PMS-metronidazole 250mg/tab; Pylera; Rosaclear System; Rosadan; Rosasol; Vandazole
+
+>  <SALTS>  (1) 
+Metronidazole hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00631
+
+>  <SMILES>  (1) 
+CC1=NC=C(N1CCO)[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+1-(2-hydroxy-1-ethyl)-2-methyl-5-nitroimidazole; 1-(2-hydroxyethyl)-2-methyl-5-nitroimidazole; 1-(β-ethylol)-2-methyl-5-nitro-3-azapyrrole; 1-(β-hydroxyethyl)-2-methyl-5-nitroimidazole; 1-(β-oxyethyl)-2-methyl-5-nitroimidazole; 2-methyl-1-(2-hydroxyethyl)-5-nitroimidazole; 2-methyl-3-(2-hydroxyethyl)-4-nitroimidazole; 2-methyl-5-nitroimidazole-1-ethanol
+
+$$$$

@@ -1,0 +1,175 @@
+
+     RDKit          2D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    0.2719   -0.4742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2719    0.3624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9831    0.7805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7360    0.3624    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7360   -0.4742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9831   -0.8926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4473   -0.8926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9831    1.6172    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4391    0.7805    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4391   -0.8926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1504   -0.4742    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9035   -0.8089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4473   -0.2232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0707    0.4879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2341    0.3205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0691   -1.6172    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  1  6  1  0
+  5  7  2  0
+  3  8  2  0
+  2  9  1  0
+  1 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 11 15  1  0
+ 12 16  2  3
+  4 17  1  0
+  6 18  1  0
+ 10 19  1  0
+ 10 20  1  0
+ 13 21  1  0
+ 13 22  1  0
+ 14 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.21
+
+>  <ALOGPS_LOGS>  (1) 
+-2.52
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.31e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09343
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09343
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+242.057053323
+
+>  <FORMULA>  (1) 
+C9H11ClN4O2
+
+>  <GENERIC_NAME>  (1) 
+Tipiracil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H11ClN4O2/c10-7-5(12-9(16)13-8(7)15)4-14-3-1-2-6(14)11/h11H,1-4H2,(H2,12,13,15,16)
+
+>  <INCHI_KEY>  (1) 
+QQHMKNYGKVVGCZ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+27
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.48642495438671
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-chloro-6-[(2-iminopyrrolidin-1-yl)methyl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+-1.9810753469509712
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+12.694650414934149
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.277145223168521
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+11.55192395505324
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+85.28999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+69.88670000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+C9H11clN4O2
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+242.662
+
+>  <PRODUCTS>  (1) 
+Lonsurf
+
+>  <SALTS>  (1) 
+Tipiracil hydrochloride
+
+>  <SMILES>  (1) 
+ClC1=C(CN2CCCC2=N)NC(=O)NC1=O
+
+>  <SYNONYMS>  (1) 
+5-chloro-6-(2-iminopyrrolidin-1-yl)methyl-2,4(1H,3H)-pyrimidinedione; 5-chloro-6-[(2-iminopyrrolidin-1-yl)methyl]-1H-pyrimidine-2,4-dione
+
+$$$$

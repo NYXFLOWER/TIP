@@ -1,0 +1,129 @@
+
+     RDKit          2D
+
+ 11 10  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  4  6  1  0
+  1  2  1  0
+  3  7  1  0
+  3  4  1  0
+  2  8  1  0
+  2  9  1  0
+  4  5  1  0
+  3 10  1  0
+  2  3  1  0
+  4 11  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.96
+
+>  <ALOGPS_LOGS>  (1) 
+-3.11
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.46e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00556
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00556
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+187.98722564
+
+>  <FORMULA>  (1) 
+C3F8
+
+>  <GENERIC_NAME>  (1) 
+Perflutren
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3F8/c4-1(5,2(6,7)8)3(9,10)11
+
+>  <INCHI_KEY>  (1) 
+QYSGYZVSCZSLHT-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.095292017715581
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+octafluoropropane
+
+>  <JCHEM_LOGP>  (1) 
+2.7823601316666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+17.5372
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+definity
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+188.0193
+
+>  <PRODUCTS>  (1) 
+Definity; Luminity
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01177
+
+>  <SMILES>  (1) 
+FC(F)(F)C(F)(F)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+Octafluoropropane; Octafluorpropan; Perfluoropropane
+
+$$$$

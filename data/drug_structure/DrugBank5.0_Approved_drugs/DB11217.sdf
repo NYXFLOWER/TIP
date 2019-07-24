@@ -1,0 +1,185 @@
+
+     RDKit          2D
+
+ 35 36  0  0  0  0  0  0  0  0999 V2000
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.7750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  4  2  1  0
+  6  1  1  0
+  6  2  2  0
+  7  3  1  0
+  7  4  2  0
+  8  5  1  6
+  9  8  1  0
+ 10  9  1  0
+ 11 10  1  0
+ 12 11  1  0
+ 13  5  1  0
+ 14  6  1  0
+  9 15  1  6
+ 10 16  1  1
+ 11 17  1  6
+ 18  7  1  0
+ 12 18  1  1
+ 19  8  1  0
+ 19 12  1  0
+  1 20  1  0
+  2 21  1  0
+  3 22  1  0
+  4 23  1  0
+  5 24  1  0
+  5 25  1  0
+  8 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.36
+
+>  <ALOGPS_LOGS>  (1) 
+-0.84
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.91e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11217
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11217
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+272.089602866
+
+>  <FORMULA>  (1) 
+C12H16O7
+
+>  <GENERIC_NAME>  (1) 
+Arbutin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H16O7/c13-5-8-9(15)10(16)11(17)12(19-8)18-7-3-1-6(14)2-4-7/h1-4,8-17H,5H2/t8-,9-,10+,11-,12-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+BJRNKVDFDLYUGJ-RMPHRYRLSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.866174522101524
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-(4-hydroxyphenoxy)oxane-3,4,5-triol
+
+>  <JCHEM_LOGP>  (1) 
+-0.9019529206666663
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.201773728176159
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.820455894002922
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9810923436865826
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+119.61000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+62.164199999999994
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+β-arbutin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+272.2512
+
+>  <PRODUCTS>  (1) 
+AHC Phyto Complex Gel Ampoule; AHC Premium Intense Contour Balm; AHC Vital Complex C-15 Ampoule; Abalone Crystaldouble EX Ampoule; Absolute Total BB SPF37 PA 3Plus; Cellbn Damage Anti-aging Eye Reviver; Cellbn Damage Deep Moisture; Cellbn Damage Multi Action Toner; Cellbn Damage Overnight Recovery; Cellbn Damage Precious Serum; Cellbn Sp High Multi Serum; Cellbn Sp Lifting Concentrateampoul; Cellbn Sp Lifting Concentrateampoule; Cellxv Real Kelp Facial Mask; Conju Princess BB; D-one By Tamdoan Bb Light; D-one By Tamdoan Bb Medium; D-one By Tamdoan Sunscreen 50; DRH Whitening G2; Derma Blemish Balm blemish balm; Dr G Whitening FORTIFIER by EGF; Dr G Whitening REFORMER by EGF; Dr Young 2p Brightening UV Sun Block SPF50 PA; Elcure C White Serum; Hydro H; IASO White Science EX; IASO White Science EX Emulsion; Isaknox White Symphony Brightening Emulsion; OHUI Sun Science Sun Block EX plus Beige; OHUI White Extreme Illuminating Pact No.10; Obagi; Obagi Nu-Derm Clear Fx; Propolis 20 BB Cream; Skin-ion; Sooryehan Pure-Whitening Essential Starter; Super Plus Beblesh Balm Triple Functions SPF50 Plus PA 3Plus (40g); SuperPlus Beblesh Balm Gold SPF25 PA 2Plus; SuperPlus Beblesh Balm SPF25 PA 2Plus; SuperPlus Beblesh Balm Triple Functions SPF25 PA 2Plus; Suyan Chungsoo; Suyan Chungsyu; Suyan Jeongbaek; The Oriental Gold BB SPF25 PA 2Plus; The Prestige BB SPF25 PA 2Plus; Tosowoong Mens Booster Repair Skin; Vitabrid C12 FACE Pow der 3g; Wonder Intensive BBCream 21 (Light)
+
+>  <SMILES>  (1) 
+[H][C@]1(CO)O[C@@]([H])(OC2=CC=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+
+>  <SYNONYMS>  (1) 
+4-Hydroxyphenyl-beta-D-glucopyranoside
+
+$$$$

@@ -1,0 +1,204 @@
+255
+     RDKit          2D
+
+ 40 41  0  0  0  0  0  0  0  0999 V2000
+    3.7935    3.5063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.5063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 20  1  0
+  3  4  2  3
+  3  5  1  0
+  3  7  1  0
+  4  6  1  0
+  4  8  1  0
+  5  9  1  0
+  6 10  1  0
+  7 11  2  0
+  7 13  1  0
+  8 12  2  0
+  8 14  1  0
+ 11 15  1  0
+ 12 16  1  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 20  2  0
+ 17 19  1  0
+ 18 20  1  0
+  1 21  1  0
+  2 22  1  0
+  5 23  1  0
+  5 24  1  0
+  6 25  1  0
+  6 26  1  0
+  9 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 12 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.62
+
+>  <ALOGPS_LOGS>  (1) 
+-4.39
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.09e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00255
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00255
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+268.146329884
+
+>  <FORMULA>  (1) 
+C18H20O2
+
+>  <GENERIC_NAME>  (1) 
+Diethylstilbestrol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H20O2/c1-3-17(13-5-9-15(19)10-6-13)18(4-2)14-7-11-16(20)12-8-14/h5-12,19-20H,3-4H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+RGLYKWWBQGJZGM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Distilbene; Stilbestrol; Stilbetin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.68848392059201
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol
+
+>  <JCHEM_LOGP>  (1) 
+5.193882748
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.731491526289267
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.12919852418957
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.956792337140983
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.24060000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+Stil
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+268.3502
+
+>  <PRODUCTS>  (1) 
+Honvol Ampoules 250mg; Honvol Tablets 100mg; Stilbestrol 0.5mg Tablet; Stilbestrol 1.0mg Tablet; Stilbestrol Tab 1mg; Stilbestrol Tablets 0.1 mg; Stilbestrol Tablets 0.5 mg; Stilbestrol Tablets 1.0 mg; Stilboestrol Tab 0.1mg; Stilboestrol Tab 0.5mg
+
+>  <SALTS>  (1) 
+Diethylstilbestrol diphosphate; Diethylstilbestrol diphosphate sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00920; EXPT01164
+
+>  <SMILES>  (1) 
+CCC(=C(CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+(E)-3,4-bis(4-hydroxyphenyl)-3-hexene; 4,4'-dihydroxy-α,β-diethylstilbene; DES; Stilboestrol; trans-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol; trans-Diethylstilbesterol; trans-Diethylstilbestrol; trans-Diethylstilboesterol; α,α'-diethyl-(E)-4,4'-stilbenediol
+
+$$$$

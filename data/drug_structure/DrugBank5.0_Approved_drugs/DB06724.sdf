@@ -1,0 +1,120 @@
+
+     RDKit          2D
+
+  5  3  0  0  0  0  0  0  0  0999 V2000
+   -1.3621   -0.9905    0.0000 Ca  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0409    0.9905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3621    0.9905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6189    0.5777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6189   -0.2473    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  3  4  1  0
+  4  5  2  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.47
+
+>  <ALOGPS_LOGS>  (1) 
+-0.08
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.28e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06724
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06724
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+99.947335021
+
+>  <FORMULA>  (1) 
+CCaO3
+
+>  <GENERIC_NAME>  (1) 
+Calcium Carbonate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH2O3.Ca/c2-1(3)4;/h(H2,2,3,4);/q;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+VTYYLEPIZMXCLO-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+3.515525686064488
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium carbonate
+
+>  <JCHEM_LOGP>  (1) 
+0.25005136566666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.638414228618219
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.052541895520343
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.19
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.172400000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+calcium carbonate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+100.087
+
+>  <PRODUCTS>  (1) 
+7 Select Antacid; Acid Controller Complete; Acid Controller Complete dual action; Acid Reducer Complete; Acid Reducer Plus Antacid; After Dinner Antacid; Alka Seltzer; Alka-Seltzer Extra Strength Heartburn ReliefChews; Alka-Seltzer Fruit Chews; Alka-Seltzer Heartburn Plus Gas ReliefChews Tropical Punch; Alka-Seltzer Heartburn ReliefChews; Alka-Seltzer Heartburn ReliefChews Cool Mint; Alka-Seltzer Heartburn ReliefChews Strawberry; Alka-Seltzer Heartburn ReliefChews Strawberry and Orange; Alkums antacid; Antacid; Antacid - Tab; Antacid 2 Tablets; Antacid Assorted Berry Flavor Extra Strength; Antacid Childrens; Antacid Extra Strength; Antacid Extra Strength Assorted Berries; Antacid Extra Strength Assorted Berry; Antacid Extra Strength Assorted Fruit; Antacid Extra Strength Wintergreen; Antacid Flavor Chew; Antacid Flavor Chews; Antacid Fruit Chew; Antacid Fruit Chews; Antacid Fruit Flavor; Antacid Maximum Strength Ultra; Antacid Peppermint Flavour Regular Strength; Antacid Relief; Antacid Relief Extra Strength; Antacid Relief Extra Strength Assorted Fruit; Antacid Relief Extra Strength Tropical Fruit; Antacid Soft Chew; Antacid Ultra Strength; Antacid Ultra Strength Assorted Berries; Antacid and Anti-Gas Chew; Antacidextra Strength Extra Strength; Apatite Professional; Apcal; Aspirin Plus Stomach Guard Ext.stgth.caplet; Aspirin Plus Stomach Guard Extra Strength; Aspirin Plus Stomach Guard Tab; Aspirin With Stomach Guard; Aspirin With Stomach Guard Extra Strength - Tab; Assort Fruit Panned; Assorted Fruit; Assorted Fruit Antacid Chews; Assorted Fruit Antacid Flavor Chews; Assorted Fruit Flavor Chews; Assorted Fruit Panned; Assorted Fruit Panned Chew; Basic Care Antacid; Bayer Womens; Being Well Antacid; Berkley and Jensen Acid Controller Complete; Bicaruvas; Bismed Chewable Tablets; Bismuth + Antacid (chewable Tablets); Bismuth Chewable Tablets; Bismuth Tablets With Calcium Carbonate; CVS Health Extra Strength Sugar Free Antacid; CVS Health Maximum Strength; CVS Health Ultra Strength Natural Antacid Peppermint Flavor; Calc Carb 500 Plus Vitamin D Tab; Calcid Antacid Calcium Supplement Regular Strength; Calcium - Magnesium - Zinc Tab; Calcium 250mg W Vit D; Calcium 500mg With Vit D; Calcium 600 Tab 600mg; Calcium 600 W Vitamin D Tab; Calcium 600 With Vitamin D; Calcium Antacid; Calcium Antacid Extra Strength; Calcium Antacidextra Strength Extra Strength; Calcium Carbonate; Calcium Carbonate (Antacid); Calcium Carbonate 500 mg; Calcium Carbonate Chewable Antacid; Calcium Carbonate Extra Strength Antacid; Calcium Carbonate Tab 1500mg; Calcium Carbonate Tab 1500mg USP; Calcium Folic Acid Plus D Chewable; Calcium Magnesium Tab; Calcium Supplement Tab; Calcium Tab 250mg; Calcium Tab 500mg; Calcium Tab 600mg; Calcium Vitamin D Iron Mag; Calcium and Magnesium Tab; Calcium antacid; Calcium carbonate; Calgest; Calmicid; Calsium Carbonate 10 gr; Care One Acid Reducer and Antacid Dual Action; Care One Acid Reducer plus Antacid Dual Action; Care One Calcium Antacid; CareOne Acid Reducer Complete; CareOne Calcium Antacid; Cherry Antacid; Cherry Antacid Soft Chew; Cherry Antacid Soft Chews; Cherry Antacid Softchew; Cherry Flavour Pepto-bismol Tab; Cherry antacid soft chew; Cherry antacid soft chews; Chewable Bismuth Tablets With Calcium Carbonate; Childrens Antacid Extra Strength; Childrens Chewable Antacid; Childrens Pepto; Chooz; Complete; Complete Dual Action; D-Cal Kids; D-cal; DG Health Antacid; DG Health Antacid Calcium Supplement; DG Health Dual Action Complete; DG health calcium antacid extra strength; DUO Fusion; Dg Health Antacid Calcium Supplement Regular Strength; Dg Health Calcium Antacid; Diovol Plus AF; Diovol Plus AF-suspension; Dual Action; Dual Action Complete; EQUALINE extra strength antacid; EQUALINE regular strength antacid; Equaline Antacid; Equaline Antacid Regular Strength; Equaline Complete Dual Action; Equaline antacid; Equate Acid Reducer Complete; Equate Antacid; Equate antacid regular strength; Estomarol; Exchange Select Antacid; Exchange Select Calcium Antacid; Exchange Select antacid; Extra Strength; Extra Strength Antacid; Extra Strength Antacid Calcium Supplement; Extra Strength Calcium Carbonate 1000 mg; Extra Strength Smooth Antacid; Extra Strength Smooth Antacid Assorted Fruit; Extra-Virt Plus DHA; Family Wellness Acid Controller Complete; Femitab Tab; First Aid Shot Therapy Heartburn Relief; First Aid Shot Therapy Upset Stomach Relief; Flavor Chews; Folcaps Care One; Formu Care Calcium Antacid; GOOD NEIGHBOR PHARMACY Antacid Regular Strength; Gaviscon Acid Relief Fmla Plus Gas Rel. Tab; Gaviscon Acid Relief Fmla Plus Gas Rel.liq.; Gaviscon Acid Relief Formula Extra Strength; Gaviscon Acid Relief Formula Liquid; Gaviscon Acid Relief Formula Tablets; Geri-lanta Supreme Cherry; Gesticare DHA; Good Neighbor Pharmacy Antacid; Good Neighbor Pharmacy Antacid Extra Strength; Good Neighbor Pharmacy Antacid Regular Strength; Good Neighbor Pharmacy Antacid and Anti Gas Maximum Strength; Good Neighbor Pharmacy Complete; Good Neighbor Pharmacy Dual Action Complete; Good Neighbor Pharmcy Antacid; Good Sense Antacid; Good Sense Complete; Good Sense Dual Action Complete; Green Guard Stomach Relief; Harris Teeter Acid Reducer Complete; Health Mart Calcium Antacid; Health Mart Calcium antacid Assorted Fruit; Health Mart Complete; Health Mart Dual Action Complete; Health Mart calcium antacid; Healthmart Calcium Antacid; Healthy Accents Antacid; Healthy Accents Antacid Extra Strength; Healthy Accents Famotidine Calcium Carbonate Magnesium Hydroxide; Healthy Mama Tame The Flame; Heartburn Relief to Go; Heartburn and Gas Antacid Chews; Heartburn and gas fruit chews; His Ulc Mint Blue; Inatal Advance; Insan Bamboosalt toothpaste; Kirkland Signature Antacid; Leader Acid Reducer Complete; Leader Antacid; Leader Antacid Regular Strength; Maalox Advanced Extra Strength Antacid & Antigas Chewable Tablets; Maalox Antacid Caplets; Magnacal; MagneBind 400 Rx; Major Regular Strength Assorted Flavors; Major Regular StrengthAssorted Flavors Assorted Flavors; Maximum Strength; Medi First Antacid; Medi First Plus Antacid; Medi-First Antacid; Medi-First Plus Antacid; Medique Alcalak; Medique Ban-acid Maximum Strength 750; Meijer Softchews; Mi Acid; Mint Antacid; Mint Flavored Antacid; Miralac; Miralac Antacid; Mixed Berry Antacid and Anti-Gas Chews; Moore Medical Antacid; Mylanta New Tonight Soothing Honey Chamomile; NAVI Black and C-Clinic; Nutralox; O-Cal FA multivitamin; Obeo The Mee Dental Care; Ohta's Isan Stomach Powder; Ohtas Isan Antacid; Orange Antacid Soft Chew; Orange Antacid Softchew; Os Cal D 500; Os Cal Tab 250mg; Os Cal Tab 500mg; PMS-oscalvit; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV-Select; PRENATE Enhance; PRENATE Restore; Pepcid Complete; Pepto-bismol Chewables; Pepto-bismol Tab; Pepto-bismol Tablets; Phazyme; PhysiciansCare Antacid; Pink Bismuth Plus Antacid Relief Tablets; Plus Pharma Calcium Antacid; Plus PharmaCalcium Antacid Calcium Antacid; Polaris Mint Antacid; PreNatal 19; PrePLUS; PreTAB; Preferred Plus Complete; Premier Value Chewable Antacid Assorted Fruit; Premier Value Chewable Antacid Extra Strength Assorted Fruit; Premier Value Chewable Antacid Extra Strength Tropical Fruit; Premier Value Chewable Antacid Ultra Strength Assorted Fruit; Premier Value Extra Strength Chewable Antacid Assorted Berry; Premier Value Regular Strength Chewable Antacid Peppermint Assorted Fruit; Premier Value Smooth Antacid Extra Strength Assorted Fruit; Prenatal Chelated Mineral; Prenatal Plus; Prenatal Plus Iron; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Prenate AM; Prenate Elite; Prenavite Forte; Prenavite Tablets; Purigo; Quality Choice Chewable Antacid Assorted Fruit; R90 Anti-acide Tab; Razzmatazz Antacid; Regular Strength; Regular Strength Antacid; Regular Strength Antacid Calcium Supplement; Relief OTC antacid; Rexall Antacid; Rolaids; Rolaids Advanced Antacid Anti-gas Mixed Berry; Rolaids Extra Strength Fruit; Rolaids Extra Strength Mint; Rolaids Regular Strength Mint; Rolaids Regular Strength- Cherry; Rolaids Regular Strength- Mint; Rolaids Ultra Strength Antacid Orange; Rolaids Ultra Strength Antacid Strawberry; Rolaids Ultra Strength Fruit; Rolaids Ultra Strength Mint; Rolaids Ultra Strength Plus Gas; Rolaids Ultra Strength- Cherry; Rolaids Ultra Strength- Mint; Rugby; Rugby Cal-Gest Antacid Assorted Flavors; Rugby Calcium Carbonate 10 gr; Rugby Extra Strength Assorted Berries; Rx Act Antacid Extra Strength; SUNMARK Calcium Antacid; Se-Care Chewable; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Select Brand Antacid Assorted Berries; Sels Mexicain; ShopRite Antacid; ShopRite Complete; ShopRite Dual Action Complete; Signature Care Acid Controller Complete; Signature Care Acid Reducer Complete; Signature Care Antacid; Simply Right Famotidine Complete; Smart Sense Complete; Smart Sense Dual Action Complete; Smooth Antacid; Solmeet; Solmeet denti doctor; Soothe childrens; Sound Body Calcium Antacid; Sour Stomach Relief; Stomach Relief Chewable Flavoured Tablets; Stomach Relief Chewable Tablets; Stomach Relief Childrens; Sunmark Assorted Berries; Sunmark Assorted fruit; Sunmark Calcium Antacid; Sunmark Calcium Antacid Regular Strength; Sunmark Calcium antacid extra strength; Sunmark Dual Action Complete; Sunmark Tropical fruit; Sunmark calcium antacid; Sunmark calcium antacid regular strength; Sunmark complete; Sunmark smooth antacid; Supreme Antacid; Titralac; Titralac Plus; Titralac Tab 420mg; TopCare Antacid Calcium Regular Strength; TopCare Complete acid reducer plus antacid; Topcare Antacid Calcium; Topcare Antacid Calcium Extra Strength; Topcare Complete; Topcare Dual Action Complete; Topcare antacid calcium; Tri-buffered Asa Tab; TriAdvance; Trial Antacid; Tricare Prenatal; Trinatal GT; Tropical Panned; Tums; Tums Anti-gas Assorted Flavours Tab; Tums Assorted Fruit; Tums Assorted Mint Tab; Tums Cherry Tab 500mg; Tums Chewy Bites; Tums Chewy Delights; Tums Dual Action; Tums EX; Tums Extra Strength Assorted Fruit; Tums Extra Strength Assorted Mint; Tums Extra Strength Cool Relief - Cool Mint and Rainbow Sherbert; Tums Extra Strength-wintergreen; Tums Regular Strength; Tums Smoothies; Tums Ultra; Tums freshers; Ultra Strength Antacid; Ultra Strength Antacid Assorted Berries; Ultra Strength Antacid Relief Assorted Berry; Ultra Strength Antacid Relief Assorted fruit; Ultra Strength Antacid Tropical fruit; Ultrastrength; Up and Up Acid Controller Complete Dual Action; Up and Up Extra Strength Smooth Dissolving Antacid Assorted Berry; Up and Up Famotidine Complete; Up and Up dual action acid controller complete; Usana Active Calcium; Virt-PN Plus; Virt-Pn; Virt-Pn DHA; Welby Health Antacid; equate Extra Strength Antacid Assorted Fruit Flavors; equate Extra Strength Smooth Antacid Assorted Berries; equate Sugar Free Extra Strength Antacid Orange Cream Flavor; equate Ultra Strength Antacid Calcium Carbonate Assorted Fruit; equate Ultra Strength Antacid Peppermint Flavor; healthy mamaBE WELL ROUNDED BE WELL ROUNDED; smart sense Complete; topcare Antacid Calcium Ultra Strength; up and up extra strength antacid Assorted Berry; up and up extra strength smooth dissolving antacid Assorted Fruit; up and up ultra strength antacid Assorted Fruit
+
+>  <SMILES>  (1) 
+[Ca++].[O-]C([O-])=O
+
+>  <SYNONYMS>  (1) 
+Chalk
+
+$$$$

@@ -1,0 +1,185 @@
+121
+     RDKit          2D
+
+ 32 33  0  0  1  0  0  0  0  0999 V2000
+    5.0072   -1.4297    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -1.4297    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7167    2.0975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3583    2.5414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9603   -0.7622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9603   -2.0972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7448   -1.0172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7448   -1.8423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5257   -0.7658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5257   -2.0937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7819    0.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5893    0.1887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4752   -1.4297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8456    0.9729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6530    1.1431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9093    1.9273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2 13  2  0
+  3 16  1  0
+  4 16  2  0
+  5  7  1  0
+  5 13  1  0
+  6  8  1  0
+  6 13  1  0
+  7  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 11  1  6
+ 11 12  1  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+  3 17  1  0
+  5 18  1  0
+  6 19  1  0
+  7 20  1  1
+  8 21  1  1
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 12 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 15 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.17
+
+>  <ALOGPS_LOGS>  (1) 
+-2.30
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.22e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00121
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00121
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+244.088163078
+
+>  <FORMULA>  (1) 
+C10H16N2O3S
+
+>  <GENERIC_NAME>  (1) 
+Biotin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H16N2O3S/c13-8(14)4-2-1-3-7-9-6(5-16-7)11-10(15)12-9/h6-7,9H,1-5H2,(H,13,14)(H2,11,12,15)/t6-,7-,9-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+YBJHBAHKTGYVGT-ZKWXMUAHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Appearex; Biodermatin; Meribin; Nail-ex
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.919241783202757
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-[(3aS,4S,6aR)-2-oxo-hexahydro-1H-thieno[3,4-d]imidazolidin-4-yl]pentanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.31942364800000006
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+13.546990539562877
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.4043165776835425
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.863639696129737
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+78.42999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+60.0509
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+244.311
+
+>  <PRODUCTS>  (1) 
+Acti-biotin 300 Caplet 300mcg; Adult Infuvite Multiple Vitamins; Am Caps; B 50 Capsules; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Complex W Vit C W Non-med Yeast&liver Tab; B Compound 50mg Tab; B-100 Caps; B-100 Complex Tablets; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Complex Tab; B-50 Hi Potency B Vitamins Tab; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex Tablets; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B-plus - Tab; B50 B Complex Tab; B50 Complex; Bacmin; Balanced B 125 Srt; Balanced B-100 Timed Release; Balanced B-50 B-complex Vitamins Tab; Balanced B-50 B-complex Vitamins, Timed Rele; Balanced B-50 Complex; Balanced B100; Balanced B50 Complex; Bev 29 Tab; Bev B-150; Biona-vit Controls and Prevents Hair Loss; Biotin  300mcg; Biotin 300 Mcg  -  Tablet; Biotin 300 Mcg Tablet; Biotin 500mcg; Biotin Cap 500mcg; Biotin Ctr Srt 1000mcg; Biotin Tab 250mcg; Biotin Tab 300mcg; Bonnoir Hair Medi; Bonogen Activator hair loss treatment; C-B Complex; Carbassist Tablets; Carione Rg; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Central-vite 18 Essential; Century Complete; Chela-chromium 200; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Complex-75; Complexe B 75mg; Complexe B Compose 75; Complexe B-75; Concept DHA; Concept OB; D-biotin Tab 5mcg A Croquer; Derma-force; Dia-vite; Diaplex; Distilpure Msm; Divista; Doll Lash; Dong Sung Monelyn; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Multivitamins and Minerals; Enrich Core Pack - Children Vitamin and Mineral Supplement; Enviroflex - Tab; Escavite; Essential B Tablets; Extra P.N. Vitamin-mineral Drink Mix; Extra-Virt Plus DHA; FeRiva; FeRiva FA; FeRivaFA; Floriva; Floriva Plus; Folcaps Care One; Formula O-care Vitamin and Mineral Supplement; Formula Pro-B; Forty Plus Vitamin Supplement; Gentle Therapy; HairQ-Plus; Harvest Of Values All B Complex Tab; HemeNatal OB; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Balanced B-100 Complex - Tab; Hi Potency Stress B Tension With C; Hill.vite; Hypo Vites Tab; Infuvite Adult Multiple Vitamins; Insur-all Vitamin Supplement; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Kanga Sport Vitamins B & C Plus Minerals; Kanga-B Vitamin B Group + C; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kindervites; Lancell hair loss prevention hair grower clean formula; Leritone Junior; Lipo-B-C Tab; Liqui B Complex; Liqui B Complex Plus; Liqui Vita; Liquid B Complex 50; Low Potency B Complex Tab; M.V.I. 12; M.V.I. Paediatric; M.V.I. Pediatric; MaxFe; Medi Msm (methyl Sulfonyl Methane); Mega 13 Multivitamin Formula; Mini-B Tab; MoReturn Hair; MoReturn Hair Tonic; MoRreturn Hair Care; Multi #2; Multi - N.T.O.x Formula - Tab; Multi 12 Injection; Multi B; Multi Nt-OX; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamin Infusion; Multi Vitamins & Minerals; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-vitamins With Minerals; Multicaps; Multiple Vitamins and Minerals Capsules; Multitabs; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Myhephron Dialysis and Stress Supplement; Mynephrocaps Dialysis/stress Vitamin Supplement; Nata Komplete; Ndm Scalp; Nephrocaps; Nexa Plus; Nioxin Recharging Complex; Nrg Plus Liq; Nutrilite Double X; Nutrol-B-complex; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Multiple Vit W Minerals; One A Day Tab; Original Bioscal Forte Multi-vitamin Supplement Capsules; Orti B; P.N.P. Vitamin Drink; PM Caps; PNV-Select; PRENATE Enhance; PRENATE Restore; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Phytopecia Hair Tonic; Polymine Avec Zinc Et Cuivre; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Prenatal Mega Antioxidant; Prenate Elite; Prenate Essential; Prenate Pixie; Prenate Star; Q.T. Vitamin and Mineral Drink Mix; Reno Caps; Replavite; Revitex Ampoules Et Comprimes; Right Choice A.M. Multi Formula - Caplet; Scalp Scaling; Se-Natal One; Shen Min Vitamin Supplement; Silica-calcium With Biotin Capsules; Sincera - Tablets; Spai-sons Procapell; Spai-sons Prolac-vit; Spectrum 2 Cap; Stom #2; Stress B & C  Caplet; Stress B Capsules With Vitamin C; Stress B Complex With C, E & Iron; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Ctr Srt; Stress Formula; Stress Formula + Iron; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Multivitamin Tablets USP; Stress Formula Tab; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Vitamin B With C Complex Tablets; Stressmates; Strovite Forte Caplet; Strovite One Caplets; Super B Compound W 500mg Vit C; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Pantoplex; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super-pote Vitamin Supplement; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; T.R.I. B-plex Src; Therapytion Nokmosu Neutral and oily Hair; Therapytion Nokmosu Sensitive and Dry Hair; Time Release B 100 Compound  -  Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Tk-nax; Tl-hem 150; Trinatal GT; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; UltimateCare ONE NF; Ultra Hr; Usana Megavitamin Tablets - Tab; VP-HEME One; VP-heme OB; Vege 1 Daily Tab; Vimeral Tab; Virt-Caps; Virt-PN Plus; Virt-Pn; Virt-Vite Plus; Vit B Complex Ctr; Vit-HA Multi Vitamin and Zinc Supplement; Vita B Complex Tab; Vita-B; Vita-B-75 Cap; Vita-worth B-complex Tablets; Vitaflex Dietary Suplement; Vital Be-100; Vitalife  -  Capsule; Vitamin B + C Cap; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Complex W C Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Tablets; Vitaplex; Vtb Vitamin and Mineral Supplement; Women's Formula; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00019
+
+>  <SMILES>  (1) 
+[H][C@]12CS[C@@H](CCCCC(O)=O)[C@@]1([H])NC(=O)N2
+
+>  <SYNONYMS>  (1) 
+(+)-cis-Hexahydro-2-oxo-1H-thieno[3,4]imidazole-4-valeric acid; cis-(+)-Tetrahydro-2-oxothieno[3,4]imidazoline-4-valeric acid; Coenzyme R; D-Biotin; D(+)-Biotin; Vitamin B7; Vitamin H
+
+$$$$

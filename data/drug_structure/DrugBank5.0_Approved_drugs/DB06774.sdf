@@ -1,0 +1,215 @@
+
+     RDKit          2D
+
+ 49 49  0  0  0  0  0  0  0  0999 V2000
+    6.3799    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    4.1251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089   -4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5234   -4.5376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -4.5376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    4.5376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0
+  2 19  1  0
+  2 22  1  0
+  3 21  1  0
+  4 11  1  0
+  4 13  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7 10  1  0
+  8 11  1  0
+  9 12  1  0
+  9 15  1  0
+  9 16  1  0
+ 10 12  2  0
+ 13 14  1  0
+ 14 17  2  0
+ 14 18  1  0
+ 17 19  1  0
+ 18 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  3 23  1  0
+  4 24  1  0
+  5 25  1  0
+  5 26  1  0
+  6 27  1  0
+  6 28  1  0
+  7 29  1  0
+  7 30  1  0
+  8 31  1  0
+  8 32  1  0
+  9 33  1  0
+ 10 34  1  0
+ 12 35  1  0
+ 13 36  1  0
+ 13 37  1  0
+ 15 38  1  0
+ 15 39  1  0
+ 15 40  1  0
+ 16 41  1  0
+ 16 42  1  0
+ 16 43  1  0
+ 17 44  1  0
+ 18 45  1  0
+ 20 46  1  0
+ 22 47  1  0
+ 22 48  1  0
+ 22 49  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.80
+
+>  <ALOGPS_LOGS>  (1) 
+-4.56
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.41e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06774
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06774
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+305.199093735
+
+>  <FORMULA>  (1) 
+C18H27NO3
+
+>  <GENERIC_NAME>  (1) 
+Capsaicin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H27NO3/c1-14(2)8-6-4-5-7-9-18(21)19-13-15-10-11-16(20)17(12-15)22-3/h6,8,10-12,14,20H,4-5,7,9,13H2,1-3H3,(H,19,21)/b8-6+
+
+>  <INCHI_KEY>  (1) 
+YKPUWZUDDOIDPM-SOFGYWHQSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.32071362065211
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(6E)-N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide
+
+>  <JCHEM_LOGP>  (1) 
+3.7496695443333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.950140339612052
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.928691716239767
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.5195533412013454
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.56
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.31740000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+capsaicin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+305.4119
+
+>  <PRODUCTS>  (1) 
+2-Count HEAT PATCHES; Adazin; Aflexeryl-MC; Alegenix Biofrequency Chip; Alivio; Alivio Medicated Pain; Allevess; Ameri Patch; AmeriPatch; AnodyneRx; Antiphlogistine Rub A-535 Capsaicin Gel; Antiphlogistine Rub A-535 Capsaicin Liquid; Apanol Linimento Obrero; Arth Arrest; Arth RX Topical Analgesic; Arthricare for Women Extra Moisturizing; Arthricare for Women Multi-action; Arthricare for Women Quick Drying; Arthricare for Women Ultra Strength; Arthritazin Pain Relieving; Arthritazin Pain Relieving EZ; Arthritic Pain Relief; Arthritis Extra Strength Roll-ON Lotion; Arthritis Pain Relief; Arthritis Pain Reliever; Arthur Itis Cream; Assured Pain Relief Hot Menthol; Assured Pain Relief Hot Patch; Astrapharm Chilli Brand External Medicated; Atomic Balm; Benejoint; Bio-mega Heat Therapy; BioMega; BioMega Heat Pain Therapy; Bioaches; Blue Ice Pain Relieving; Born Again Super Pain Relieving Lotion; CMX Topical Pain; CVS Capsaicin; CVS Medicated Heat 1 ct; Cajun Hot Ice Muscle and Joint Pain Rub; Capment; Capsaicin; Capsaicin Arthritis Pain Relief Cream; Capsaicin Cream 0.025%; Capsaicin Forte Cream; Capsaicin Heat; Capsaicin Mild Cream; Capsaicin No-Fuss Applicator; Capsaicin Pain Relief; Capsaicin Regular Cream; Capsiderm; Capsodan Cream; Capxib; Capzasin HP Arthritis Pain Relief; Capzasin No Mess Applicator; Capzasin P Arthritis Pain Relief; Capzasin Quick Relief; Capzasin-P Creme - 0.025%; CareOne Arthritis Pain Relief; Castiva Warming; CopperFixx; Coralite Medicated Heat; Coralite Muscle and Joint Pain Relief; Coralite Pain Relief; Coralite Topical Analgesic Capsaicin Heat; Corisin Arthritis Pain Relief; Cvs Capsaicin; DINGTAI PHARMATopical Analgesic; Dendracin Neurodendraxcin; Dolor-parche With Lidocaine-RX; Doloracin Rx; Doloracin/l Rx With Lidocaine; Dr. Harveys Herbal Motion Pain Formula; Dr. OH BALM; Dr.'s Cream; Dusel Warm Arthritis Dead Sea Salt Therapy; Eagle; Earths Care Arthritis Cream; Emu Essentials Brand Pain Relieving; Exoten-C; External Analgesic; Extra Strength Pain Reliever; FYZICAL SPORTS Pain Relief; FYZICAL SPORTS Pain Relief 1-COOL; FYZICAL SPORTS Pain Relief 2 MILD; Family Care Arthritis Pain Relief; Family Care Thera Flex Pain; Fast Arthritis Aid Pain Relieving; Fesi; Flanax; Flex-OL; Flexin; FlexxSonic Pain Relief; Frankie Avalons Zero Pain Roll On; Gellert Joint Care; Genorthix Pain Relieving Roll On; Glacierix; Good Neighbor Pharmacy Arthritis Pain Relief; Good Neighbor Pharmacy Capsaicin; Guardania Pain; Heet Liniment Liq; Hot Pain Relief; Hot Pain Relieving; Hot Spot Point Relief; Hurt Blocker Pro; Hurt Blocker Pro Pain Relief; Invisible Pain; Joint Maintenance Compliance Kit; Kerasal NeuroCream; Kool Heat Pain Therapy; LBri Super Aloe Stop The Pain; LCDO. ORLANDO RIVERA ARTHRITIS Topical Analgesic; LaBella Linimento Obrero; Leader Capsaicin; Levatio Patch; LexiCaps; Lido-RX 4.1; LidoPro; LivRelief Pain Relief; MaC Patch; Medi-derm / L With Lidocaine; Medi-derm / L With Lidocaine Rx; Medi-derm Rx; Medi-derm Topical Pain Relief; Medi-patch With Lidocaine; Medi-patch With Lidocaine Rx; Medi-sulting Topical Pain Relief; Medicated Heat; Medicated Pain Relief Hot; Medrox; Medrox-Rx; Megrix; Megrix OTC; Meijer Capsaicin; MenCaps; Mendex; Menthacin - Cream; Menthacin Lotion; Menthocin Patch with Lidocaine - Strong; Menthol, Capsaicin; Miracle Plus Neck and Shoulder Pain Relief; Miracle Plus Overnight Pain Relieving; Moisturizing Glucosamine Brand; Moor Balm - Crm; Muscular Balm; My Omega Heat Therapy; New Terocin; Nopiate Topical Pain Relief; NuDroxicin; NuDroxicin pain relief Roll-On; Omega 3; Omega 3 Heat Therapy; Outdoor Hands; Overtime; Overtime-X; Pain Relief Hot Patch; Pain Relief Patch; Pain Relieving; Pain Relieving Roll-On; PainBloc24; PainKoolers; PainKoolers Topical Analgesic; PainKoolers Topical Analgesic Patch; PainMD Max; Painazin CP; Pallerix; Pallerix OTC BIOfrequency Chip; Paraid Hot Capsicum; Parche Leon Milagroso; Parche Leon Milagroso Dual Action; Perform Atomic Heat; Preferred Plus Arthritis Cream; Pure Pain Relief; Pure Relief; Pure Relief Penetrating Pain Relief; Qutenza; Raging Kakapo Pain Relieve; Red Hot; Releevia; Releevia MC; Reliaderm; Reliever; Relyyt Patch; Rematex; Remaxazon External Patch; Reme D; Renovo; Renovo Lido5; Retadolor Pain Relief; Rezil; Rite Aid Capsicum Hot; Rock Sauce; Rocksauce Fire; Rocksauce Ice; Rotex; Rub A535 Capsaicin; Rugby Arthritis Pain Relieving Topical Analgesic; Rugby Capsaicin External Analgesic; Satogesic Hot; Screamin Hot Toast; Sherman and Clark Pain Relieving; Silvera Pain Relief Patch; Simanix; SmartRx Gaba-V Kit; Soothanol X2; Soothee Patch; Super Arthritis Pain Relief; Sure Relief SR Relief; Sure Result SR Relief; Synovium Pain Relieving Gel; Terocin; Therapatch Warm; Therapy Pain; Tianhe Gutong Tiegao; Tianhe Gutong Tiegao (in Polyisobutylene Carrier); Tianhe Zhuifeng Gao; Topical Pain Relief; Topical Pain Relief Rx; Trans-D; Transanosil; Triple Action Arthritis; True Pain Relief Plus; Ultimate Topical Pain Relief Patch; Ultra Strength Pain Relief; Ultra Therapy Pain Relief; Ultracin; Vantelin Hot Pain Relieving Gel Patch; Vantelin Hot Pain Relieving Gel Patch Large; VitaCin; Walgreens Capsaicin Hot; Weh-Weh Natural Pain relief oil; WellPatch Capsaicin Pain Relief; WellPatch Warming Pain Relief; Wellness Products J-FLEX; Wellness Products VictoRx; Xoten-C; Xyphex Biofrequency Chip; Yunnan Baiyao Arthritis Pain Relief; Ziks Arthritis Pain Relief; Zostrix Foot Pain Relief; Zostrix High Potency Foot Pain Relief; Zostrix Hot and Cold Therapy System; Zostrix Hp; Zostrix Joint and Arthritis Pain Relief; Zostrix Original Strength; bB Medicated Pain Relieving Oil
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB05318
+
+>  <SMILES>  (1) 
+COC1=C(O)C=CC(CNC(=O)CCCC\C=C\C(C)C)=C1
+
+>  <SYNONYMS>  (1) 
+(E)-8-Methyl-N-vanillyl-6-nonenamide; Isodecenoic acid vanillylamide; trans-8-Methyl-N-vanillyl-6-nonenamide
+
+$$$$

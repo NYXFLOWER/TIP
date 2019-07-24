@@ -1,0 +1,172 @@
+600
+     RDKit          2D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    2.3644    0.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.9659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    3.2216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  2 15  1  0
+  3  4  1  0
+  3  6  2  0
+  3  7  1  0
+  5  8  2  0
+  5  9  1  0
+  6 10  1  0
+  7 11  2  0
+  8 13  1  0
+  9 14  2  0
+ 10 12  2  0
+ 11 12  1  0
+ 13 15  2  0
+ 14 15  1  0
+  2 16  1  0
+  4 17  1  0
+  4 18  1  0
+  6 19  1  0
+  7 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.08
+
+>  <ALOGPS_LOGS>  (1) 
+-3.71
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.92e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00600
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00600
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+200.083729628
+
+>  <FORMULA>  (1) 
+C13H12O2
+
+>  <GENERIC_NAME>  (1) 
+Monobenzone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H12O2/c14-12-6-8-13(9-7-12)15-10-11-4-2-1-3-5-11/h1-9,14H,10H2
+
+>  <INCHI_KEY>  (1) 
+VYQNWZOUAUKGHI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Benoquin; Monobenzone
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.9104443930156
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-(benzyloxy)phenol
+
+>  <JCHEM_LOGP>  (1) 
+3.236482346
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.914679353242907
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.848361687075011
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.11470000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+superlite
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+200.2332
+
+>  <PRODUCTS>  (1) 
+Benoquin Crm 20%
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01121
+
+>  <SMILES>  (1) 
+OC1=CC=C(OCC2=CC=CC=C2)C=C1
+
+>  <SYNONYMS>  (1) 
+4-(Benzyloxy)phenol; Benzyl p-hydroxyphenyl ether; Hydrochinon monobenzylether; Hydroquinone benzyl ether; Hydroquinone monobenzyl ether; Monobenzona; Monobenzone; Monobenzonum; Monobenzyl hydroquinone; p-(Benzyloxy)phenol; p-Hydroxyphenyl benzyl ether
+
+$$$$

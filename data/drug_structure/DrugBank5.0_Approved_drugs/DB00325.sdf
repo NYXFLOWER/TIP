@@ -1,0 +1,128 @@
+
+     RDKit          2D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  3  0
+  2  7  1  0
+  2  5  3  0
+  7  3  1  0
+  7  4  1  0
+  4  6  3  0
+  7 12  1  0
+  7  8  1  0
+  7 10  1  0
+  8  9  3  0
+ 10 11  3  0
+ 12 13  2  0
+M  CHG  1   7  -2
+M  END
+>  <DATABASE_ID>  (1) 
+DB00325
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00325
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+215.948300785
+
+>  <FORMULA>  (1) 
+C5FeN6O
+
+>  <GENERIC_NAME>  (1) 
+Nitroprusside
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/5CN.Fe.NO/c5*1-2;;1-2/q;;;;;2*-1
+
+>  <INCHI_KEY>  (1) 
+ASPOIVQEUUCDQT-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.522119235660675
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+pentacyano(nitroso)irondiuide
+
+>  <JCHEM_LOGP>  (1) 
+0.07120000000000004
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.287197304660514
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+148.38
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+39.4351
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitroprusside
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+215.938
+
+>  <PRODUCTS>  (1) 
+Nipride; Nipride Rtu; Nitropress; Sodium Nitroprusside; Sodium Nitroprusside for Injection; Sodium nitroprusside
+
+>  <SALTS>  (1) 
+Sodium nitroprusside
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01143
+
+>  <SMILES>  (1) 
+O=N[Fe--](C#N)(C#N)(C#N)(C#N)C#N
+
+$$$$

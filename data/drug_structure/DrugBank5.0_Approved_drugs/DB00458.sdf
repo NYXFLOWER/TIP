@@ -1,0 +1,209 @@
+458
+     RDKit          2D
+
+ 45 47  0  0  0  0  0  0  0  0999 V2000
+    3.8680    0.7167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -1.6597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8680   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5817    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1542    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2641    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4719    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7580    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9780    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1820   -0.4715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1819   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1777    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5581    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5425    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1934    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9680    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7678    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1516    1.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5843    1.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8099   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  1  0
+  1  5  1  0
+  2 11  1  0
+  2 20  1  0
+  2 21  1  0
+  3 10  1  0
+  4  8  2  0
+  4 12  1  0
+  5  9  2  0
+  5 13  1  0
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 14  1  0
+  9 15  1  0
+ 10 11  1  0
+ 12 16  2  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 18  1  0
+ 17 19  1  0
+  3 22  1  0
+  3 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 11 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+ 20 42  1  0
+ 21 43  1  0
+ 21 44  1  0
+ 21 45  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.53
+
+>  <ALOGPS_LOGS>  (1) 
+-3.63
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.64e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00458
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00458
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+280.193948778
+
+>  <FORMULA>  (1) 
+C19H24N2
+
+>  <GENERIC_NAME>  (1) 
+Imipramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H24N2/c1-20(2)14-7-15-21-18-10-5-3-8-16(18)12-13-17-9-4-6-11-19(17)21/h3-6,8-11H,7,12-15H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+BCGWQEUPMDMJNV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Antidep; Depsonil; Depsonil-PM; Elamin; Fronil; Imidol; Imipramin Dak; Imiprex; Pramin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.39166384709877
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3-{2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-yl}propyl)dimethylamine
+
+>  <JCHEM_LOGP>  (1) 
+4.278568794333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.196977071904843
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.60560000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+imipramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+280.4073
+
+>  <PRODUCTS>  (1) 
+Apo-imipramine; Imipramine; Imipramine 10tab; Imipramine 25tab; Imipramine 50 Tab 50mg; Imipramine Hydrochloride; Imipramine Hydrochloride Tablets 25mg; Imipramine Hydrochloride Tablets 50mg; Imipramine Pamoate; Imipramine Tab 25mg; Impril; Novo-pramine Tab 10mg; Novo-pramine Tab 25mg; Novo-pramine Tab 50mg; PMS Imipramine Tab 10mg; PMS Imipramine Tab 25mg; PMS Imipramine Tab 50mg; Tofranil; Tofranil 10mg; Tofranil 25mg; Tofranil 50mg; Tofranil 75mg; Tofranil-PM
+
+>  <SALTS>  (1) 
+Imipramine Hydrochloride; Imipramine Pamoate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00672; DB08002
+
+>  <SMILES>  (1) 
+CN(C)CCCN1C2=CC=CC=C2CCC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+Imipramin; Imizine; N-(γ-dimethylaminopropyl)iminodibenzyl
+
+$$$$

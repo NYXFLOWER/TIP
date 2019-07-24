@@ -1,0 +1,123 @@
+
+     RDKit          2D
+
+  8  6  0  0  0  0  0  0  0  0999 V2000
+    1.7321   -2.2688    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9071    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9071    1.4438    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9071    2.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7321    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0829    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  5  7  1  0
+  6  8  1  0
+M  CHG  2   1   1   4  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09449
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09449
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+119.958839739
+
+>  <FORMULA>  (1) 
+H2NaO4P
+
+>  <GENERIC_NAME>  (1) 
+Sodium phosphate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Na.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+1;/p-1
+
+>  <INCHI_KEY>  (1) 
+AJPJDKMHJJGVTQ-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.527164552344063
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium dihydrogen phosphate
+
+>  <JCHEM_LOGP>  (1) 
+-1.0201038226666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.951626889535468
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.7961261340181292
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.59
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.5302
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium dihydrogen phosphate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+119.977
+
+>  <PRODUCTS>  (1) 
+Additive Solution Formula 3 As-3; Alphaligo; Aminosyn; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II with Electrolytes; Amo Endosol Extra; Anticoagulant Cit Phos Dex Adenine Sol USP; Anticoagulant Citrate Phosphate Dextrose (CPD) Blood-Pack Units in PL 146 Plastic; Anticoagulant Solution Citrate Phosphate Dextrose (cpd); As 3; Azuphen Mb; Blood Pack Unit Cpd; Bss Plus; CPDA-1 Blood Collection System; CVS Pharmacy; Care One Enema; Cpd; Cpd Adenine Cpda 1; Cpd Solution; Cpda-1; Curad Oral Saline Laxative; Curad Saline Laxative; Dibasic Sodium Phosphate, Monobasic Potassium Phosphate and Monobasic Sodium Phosphate; Discount Drug Mart Enema; E-Z Cups; Enema; Enema Saline; Equaline Enema; Equate Enema; Eyesaline Eyewash; Fleet; Fresh Prep Laxative; Fucidin Leo Injection Kit; Gadavyt Enema; Gent-L-tip Phosphate Enema; Glycerolyte 57 Solution; Good Neighbor Pharmacy; Good Neighbor Pharmacy Enema; Good Neighbor Pharmacy Single Saline Laxative Laxative; Good Sense Enema; Haemonetics Additive Solution Formula 3 (AS-3); Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (CP2D); Health Mart Enema; HealthMart Saline Single Laxative; Healthy Accents Enema; Heparin Sodium 1000units In 0.9% Sodium Chloride Injection USP; Heparin Sodium In 5% Dextrose Injection, 25000unit/500ml; Hyolev Mb; Indiomin Mb; Instillation Medium for Immucyst; InterSol; Ionosol and Dextrose; Isolyte S Ph 7.4 (multi-electrolyte Injection); Isoplate; K Phos Neutral; K-Phos No. 2; Leader Enema; Leader Ready to Use Saline Laxative; Leukotrap WB System; Me NaPhos MB Hyo 1; Medline Enema; Medline Saline Laxative For Children; Meijer Enema; Moi-stir Oral Swabsticks; Moi-stir Spray; NATUREPLEX Enema; Navstel; Neutralite Liq; Normo Gastryl; Nutricel Additive System - CP2D; Oral Saline Laxative; Oral Saline Laxative Cherry; Oral Saline Laxative Cherry Laxative; Oral Saline Laxative Ginger Lemon; Oral Saline Laxative Lemon Ginger; OroMin; OsmoPrep; PMS-phosphates Solution; Pedia-Lax; Pediatric Saline Laxative; Phosphasal; Phosphate; Phospho-soda Buffered Saline Laxative; Phoxillum Bk4/2.5; Pro-Enema Single Saline Laxative; Pure and Gentle Laxative; Quality Choice Single Saline Laxative; Ready-to-Use; Ready-to-Use Enema; Rejuvesol; Relief; Rexall Enema; Riga Purgative Lemon Flav Liq; Saline Enema; Saline Laxative; Saline Laxative Cherry Laxative; Saline enema; Smart Sense Enema; Sodium Phosphates; Sodium Phosphates Injection USP; Solution Saline Sterile Aux Phosphates; Sterile Cord Blood Collection Unit; Sterile Cord Blood Collection Unit (MSC1207DD); Sunmark; Sunmark Enema; Sunmark Saline Single Laxative; Super Charged Energy; TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1); Tis-U-sol; Tis-U-sol Solution; Topcare Enema; UR N-C Urinary Antiseptic; Up and Up Ready To Use Enema; Uramit Mb; Urelle; Uribel; Urimar-T; Urin D/S; Uro-458; Uro-L; Uro-MP; UroAv-81; UroAv-B; Urogesic Blue; Urolet Mb; Ustell; Uta; Utira-C; Vilamit MB; Vilevev MB; Visicol; Western Family; gent-L-tip
+
+>  <SALTS>  (1) 
+Sodium phosphate, dibasic; Sodium phosphate, dibasic dihydrate; Sodium phosphate, dibasic dodecahydrate; Sodium phosphate, dibasic, anhydrous; Sodium phosphate, dibasic, heptahydrate; Sodium phosphate, monobasic, anhydrous; Sodium phosphate, monobasic, dihydrate; Sodium phosphate, monobasic, monohydrate; Sodium phosphate, monobasic, unspecified form
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09127; DB11083; DB09524; DB09542; DB09468; DB11084; DB09482; DB09469; DB09525
+
+>  <SMILES>  (1) 
+[Na+].OP(O)([O-])=O
+
+>  <SYNONYMS>  (1) 
+Sodium orthophosphate; Sodium phosphate monobasic; Sodium phosphate monobasic (anhydrate); Sodium phosphate, unspecified; Sodium phosphates
+
+$$$$

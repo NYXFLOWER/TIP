@@ -1,0 +1,178 @@
+1197
+     RDKit          2D
+
+ 29 29  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -1.6166    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1443    1.6406    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7026    0.2815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8585    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465    1.3435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    2.1281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6666    2.1281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4115    1.3435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5311    1.0885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.2040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0
+  2 10  2  0
+  3 12  1  0
+  4 12  2  0
+  5  6  1  0
+  5  9  1  0
+  5 10  1  0
+  6  7  1  0
+  6 12  1  6
+  7  8  1  0
+  8  9  1  0
+ 11 10  1  6
+ 11 13  1  0
+ 11 14  1  0
+  1 15  1  0
+  3 16  1  0
+  6 17  1  0
+  7 18  1  0
+  7 19  1  0
+  8 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 11 24  1  0
+ 13 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 14 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.02
+
+>  <ALOGPS_LOGS>  (1) 
+-1.68
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.52e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01197
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01197
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+217.077264041
+
+>  <FORMULA>  (1) 
+C9H15NO3S
+
+>  <GENERIC_NAME>  (1) 
+Captopril
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H15NO3S/c1-6(5-14)8(11)10-4-2-3-7(10)9(12)13/h6-7,14H,2-5H2,1H3,(H,12,13)/t6-,7+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+FAKRSMQSSFJEIM-RQJHMYQMSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acepress; Acepril; Apopril; Capoten; Captolane; Captoril; Cesplon; Dilabar; Garranil; Hipertil; Hypertil; Lopirin; Lopril; Tenosbon; Tensoprel
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.720078468093135
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.7269212306666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.09607365334312
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.018634760841246
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.187420826167036
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.61
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.63490000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+captopril
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+217.285
+
+>  <PRODUCTS>  (1) 
+Apo-capto Tab 100mg; Apo-capto Tab 12.5mg; Apo-capto Tab 25mg; Apo-capto Tab 50mg; Apo-capto Tab 6.25mg; Bci Captopril Tablets; Bupropion Hydrochloride; Capoten Tab 100mg; Capoten Tab 12.5mg; Capoten Tab 25mg; Capoten Tab 50mg; Captopril; Captopril Tablets; Captopril and Hydrochlorothiazide; Captopril-100 Tab 100mg; Captopril-12.5 Tab 12.5mg; Captopril-25 Tab 25mg; Captopril-50 Tab 50mg; Captril; Dom-captopril; Ftp-captopril; Med Captopril - Tab  12.5mg; Med Captopril - Tab 100mg; Med Captopril - Tab 25mg; Med Captopril - Tab 50mg; Mylan-captopril; Novo-captoril; Nu-capto Tab 100mg; Nu-capto Tab 12.5mg; Nu-capto Tab 25mg; Nu-capto Tab 50mg; Orb-captopril; PMS-captopril - Tab 100mg; PMS-captopril - Tab 12.5mg; PMS-captopril - Tab 25mg; PMS-captopril - Tab 50mg; Penta-captopril Tablets; Ratio-captopril Tab 100mg; Ratio-captopril Tab 12.5mg; Ratio-captopril Tab 25mg; Ratio-captopril Tab 50mg; Teva-captopril; Tria-captopril 100mg Tablet; Tria-captopril 12.5mg Tablet; Tria-captopril 25mg Tablet; Tria-captopril 50mg Tablet
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00164
+
+>  <SMILES>  (1) 
+C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O
+
+>  <SYNONYMS>  (1) 
+Captoprilum; Captopryl; L-Captopril
+
+$$$$

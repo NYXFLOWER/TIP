@@ -1,0 +1,224 @@
+704
+     RDKit          2D
+
+ 48 53  0  0  1  0  0  0  0  0999 V2000
+    1.9356   -0.2231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4727   -1.7584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349   -2.3527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    1.8149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3440   -1.0939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -0.6814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296   -0.6814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6773   -0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    0.1436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8506   -0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296    0.1436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    0.5561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350   -1.7290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -2.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7804   -1.5349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    0.5561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6097   -1.7894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4155   -0.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    1.3811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    1.3811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    1.7936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 20  1  0
+  7  2  1  1
+  3 19  2  0
+  4 24  1  0
+  5  8  1  0
+  5 13  1  0
+  5 16  1  0
+  6  7  1  0
+  6  9  1  0
+  6 10  1  1
+  6 11  1  0
+  7  8  1  0
+  7 12  1  0
+  8 14  1  0
+  9 19  1  0
+ 10 13  1  0
+ 11 15  2  0
+ 11 20  1  0
+ 12 17  1  0
+ 14 15  1  0
+ 15 23  1  0
+ 16 18  1  0
+ 17 19  1  0
+ 18 21  1  0
+ 18 22  1  0
+ 20 24  2  0
+ 21 22  1  0
+ 23 25  2  0
+ 24 25  1  0
+  2 26  1  0
+  4 27  1  0
+  8 28  1  6
+  9 29  1  1
+ 10 30  1  0
+ 10 31  1  0
+ 12 32  1  0
+ 12 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 14 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  0
+ 17 41  1  0
+ 18 42  1  0
+ 21 43  1  0
+ 21 44  1  0
+ 22 45  1  0
+ 22 46  1  0
+ 23 47  1  0
+ 25 48  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.07
+
+>  <ALOGPS_LOGS>  (1) 
+-2.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.07e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00704
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00704
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+341.162708229
+
+>  <FORMULA>  (1) 
+C20H23NO4
+
+>  <GENERIC_NAME>  (1) 
+Naltrexone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H23NO4/c22-13-4-3-12-9-15-20(24)6-5-14(23)18-19(20,16(12)17(13)25-18)7-8-21(15)10-11-1-2-11/h3-4,11,15,18,22,24H,1-2,5-10H2/t15-,18+,19+,20-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+DQCKKXVULJGBQN-XFWGSAIBSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Abernil; Adepend; Antaxon; Antaxone; Arrop; Depade; Dependex; Nalerona; Nalorex; Naltax; Naltrekson; Narcoral; Neksi; Nemexin; Opizone; Revez; Trexan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.967038914412
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,5R,13R,17S)-4-(cyclopropylmethyl)-10,17-dihydroxy-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7(18),8,10-trien-14-one
+
+>  <JCHEM_LOGP>  (1) 
+1.3626752317227506
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+6
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+13.580740243335221
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.391927458087206
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+11.537658099298126
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+70
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+91.50150000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+naltrexone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+341.4009
+
+>  <PRODUCTS>  (1) 
+Apo-naltrexone; Contrave; Contrave Extended-Release; Embeda; Naltrexone Hydrochloride; Naltrexone Hydrochloride Tablets USP; Revia; Revia - Tab 50mg; Troxyca ER; Vivitrol
+
+>  <SALTS>  (1) 
+Naltrexone hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00005; DB05067
+
+>  <SMILES>  (1) 
+[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(CC3CC3)[C@]([H])(C4)[C@]1(O)CCC2=O
+
+>  <SYNONYMS>  (1) 
+17-(Cyclopropylmethyl)-4,5-epoxy-3,14-dihydroxymorphinan-6-one; 17-(Cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one; N-Cyclopropylmethyl-14-hydroxydihydromorphinone; N-Cyclopropylmethylnoroxymorphone; Naltrexon; Naltrexona; Naltrexone; Naltrexonum
+
+$$$$

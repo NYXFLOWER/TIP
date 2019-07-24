@@ -1,0 +1,97 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Ag  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB12965
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB12965
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+106.90509302
+
+>  <FORMULA>  (1) 
+Ag
+
+>  <GENERIC_NAME>  (1) 
+Silver
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Ag
+
+>  <INCHI_KEY>  (1) 
+BQCADISMDOOEFD-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+silver
+
+>  <JCHEM_LOGP>  (1) 
+-0.73
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+silver
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+107.8682
+
+>  <PRODUCTS>  (1) 
+Advance Acne Care; Noble S Plus
+
+>  <SMILES>  (1) 
+[Ag]
+
+>  <SYNONYMS>  (1) 
+Argentum metallicum; Colloidal silver; Nanosilver; Silver colloidal; Silver nanoparticles; Silver, colloidal
+
+$$$$

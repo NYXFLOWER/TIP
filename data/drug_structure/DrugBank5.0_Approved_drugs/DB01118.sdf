@@ -1,0 +1,239 @@
+1118
+     RDKit          2D
+
+ 60 62  0  0  0  0  0  0  0  0999 V2000
+    6.2432    1.7958    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8325   -1.0007    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -2.2249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3451    0.5677    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5650    0.5012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6650    2.3062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662   -1.5610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -1.5610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.8970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -2.2755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.9735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4087    1.5220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662   -2.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -0.1129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4723    2.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1140    2.9202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6014    1.3519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.7360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232    0.0573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.3860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -3.7044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7286    3.2606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3703    3.7044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5379    0.3975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    0.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4742   -0.5568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868    1.0116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2815   -0.3867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 30  1  0
+  2 31  1  0
+  3  8  1  0
+  3 12  1  0
+  4 18  1  0
+  4 25  1  0
+  5 15  2  0
+  6 13  1  0
+  6 16  1  0
+  6 17  1  0
+  7  8  1  0
+  7 10  1  0
+  8  9  2  0
+  9 11  1  0
+  9 15  1  0
+ 10 14  1  0
+ 11 12  2  0
+ 11 19  1  0
+ 12 21  1  0
+ 13 18  1  0
+ 14 22  1  0
+ 15 20  1  0
+ 16 23  1  0
+ 17 24  1  0
+ 19 26  2  0
+ 20 28  2  0
+ 20 29  1  0
+ 21 27  2  0
+ 25 30  2  0
+ 25 31  1  0
+ 26 27  1  0
+ 28 30  1  0
+ 29 31  2  0
+  7 32  1  0
+  7 33  1  0
+ 10 34  1  0
+ 10 35  1  0
+ 13 36  1  0
+ 13 37  1  0
+ 14 38  1  0
+ 14 39  1  0
+ 16 40  1  0
+ 16 41  1  0
+ 17 42  1  0
+ 17 43  1  0
+ 18 44  1  0
+ 18 45  1  0
+ 19 46  1  0
+ 21 47  1  0
+ 22 48  1  0
+ 22 49  1  0
+ 22 50  1  0
+ 23 51  1  0
+ 23 52  1  0
+ 23 53  1  0
+ 24 54  1  0
+ 24 55  1  0
+ 24 56  1  0
+ 26 57  1  0
+ 27 58  1  0
+ 28 59  1  0
+ 29 60  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+7.24
+
+>  <ALOGPS_LOGS>  (1) 
+-5.13
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.76e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01118
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01118
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+645.023680639
+
+>  <FORMULA>  (1) 
+C25H29I2NO3
+
+>  <GENERIC_NAME>  (1) 
+Amiodarone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C25H29I2NO3/c1-4-7-11-22-23(18-10-8-9-12-21(18)31-22)24(29)17-15-19(26)25(20(27)16-17)30-14-13-28(5-2)6-3/h8-10,12,15-16H,4-7,11,13-14H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+IYIKLHRQXLHMJQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Amio-Aqueous IV; Aratac; Arycor; Atlansil; Tachyra
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+56.78106575686748
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+{2-[4-(2-butyl-1-benzofuran-3-carbonyl)-2,6-diiodophenoxy]ethyl}diethylamine
+
+>  <JCHEM_LOGP>  (1) 
+7.635421424666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.466812373080668
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+42.68
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+145.05479999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+11
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+amiodarone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+645.3116
+
+>  <PRODUCTS>  (1) 
+Amiodarone; Amiodarone HCl; Amiodarone Hydrochloride; Amiodarone Hydrochloride Injection; Amiodarone Hydrochloride for Injection; Amiodarone Omega; Amiodarone Syringe; Amiodarone for Injection 50mg/ml; Amiodarone hydrochloride; Apo-amiodarone Tablets; Ava-amiodarone; Cordarone; Cordarone Intravenous - Liq IV 50mg/ml; Cordarone Tab 200mg; Dom-amiodarone; Jamp-amiodarone; Mylan-amiodarone; Nexterone; Ntp-amiodarone; Nu-amiodarone; PHL-amiodarone; PMS-amiodarone; Pacerone; Pendo-amiodarone; Pro-amiodarone - 200; Ratio-amiodarone; Ratio-amiodarone I.V.; Riva-amiodarone; Sandoz Amiodarone; Teva-amiodarone
+
+>  <SALTS>  (1) 
+Amiodarone Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00288
+
+>  <SMILES>  (1) 
+CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=CC=CC=C2O1
+
+>  <SYNONYMS>  (1) 
+Amiodarona; Amiodaronum
+
+$$$$

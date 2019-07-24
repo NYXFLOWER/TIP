@@ -1,0 +1,97 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 He  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09155
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09155
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+4.00260325
+
+>  <FORMULA>  (1) 
+He
+
+>  <GENERIC_NAME>  (1) 
+Helium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/He
+
+>  <INCHI_KEY>  (1) 
+SWQJXJOGLNCZEY-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+helium
+
+>  <JCHEM_LOGP>  (1) 
+0
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+helium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+4.0026
+
+>  <PRODUCTS>  (1) 
+Carbon Monox, Helium, Oxygen, Nitrogen L.D.M.; Co-HE-O2-N2 Mixture; Compressed Gas Oxidizing, N.O.S.; Compressed Gas, N.O.S.; Compressed, N.O.S.; Gaseous Inh Mixture 20% Oxygen 80% Helium; Heliox; Heliox 70/30; Helium; Helium 100%; Helium Compressed USP; Helium Oxygen; Helium Oxygen Mix; Helium Oxygen Mix 70/30; Helium Oxygen Mix 80/20; Helium Oxygen Mixture; Helium Oxygen Nitrogen mixture; Helium Oxygen mixture; Helium USP; Helium USP 99%; Helium-Oxygen-Nitrogen Mixture; Helium-oxygen Mix Gas; Helium-oxygen Mixture; Helium/Oxygen Mixture 70/30; Helium/Oxygen Mixture 80/20; Lung Diffusion Test Mix Nohco; Lung Diffusion Test Mixture; Lung Diffusion Test Mixture Gas; Oxygen Helium Mixture; Oxygen Helium Mixture 20/80; Oxygen Helium Mixture 30/70; Oxygen Helium Mixture 40/60; Oxygen In Helium Mix; Oxygen In Helium Mixture; Oxygen USP, Helium USP, Medical Gas Mixture
+
+>  <SMILES>  (1) 
+[He]
+
+>  <SYNONYMS>  (1) 
+[He]; atomic helium
+
+$$$$

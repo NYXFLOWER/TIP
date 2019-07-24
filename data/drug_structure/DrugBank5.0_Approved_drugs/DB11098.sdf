@@ -1,0 +1,122 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+   -1.1959    0.6180    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1959    0.6180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4534   -0.6180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4534    0.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2059    0.6180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+M  CHG  2   1   1   3  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.08
+
+>  <ALOGPS_LOGS>  (1) 
+0.83
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.81e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11098
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11098
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+99.956275759
+
+>  <FORMULA>  (1) 
+CHKO3
+
+>  <GENERIC_NAME>  (1) 
+Potassium bicarbonate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH2O3.K/c2-1(3)4;/h(H2,2,3,4);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+TYJJADVDDVDEDZ-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+3.8611350289528854
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium hydrogen carbonate
+
+>  <JCHEM_LOGP>  (1) 
+0.25005136566666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.638414228618222
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.052541895520343
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+20.3353
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium bicarbonate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+100.1151
+
+>  <PRODUCTS>  (1) 
+Alka-Seltzer Gold; Betacol; Calcor; Effer-K 10 mEq Cherry Vanilla; Effer-K 10 mEq Unflavored; Effer-K 20 mEq Orange Cream; Effer-K 20 mEq Unflavored; Effer-K Cherry Berry; Effer-K Lemon Citrus; Effer-K Orange; Effer-K Unflavored; Effervescent Potassium Chloride; K-Vescent Efffervescent; K-effervescent; Klor-con/ef; Neo K; Pleo Alkala Antacid; Potassium Bicarbonate; Potassium-novartis; Relief OTC antacid; Solution Carda; TowerX Effervescent Potassium
+
+>  <SMILES>  (1) 
+[K+].OC([O-])=O
+
+>  <SYNONYMS>  (1) 
+Carbonic acid, monopotassium salt; Potassium hydrogen carbonate
+
+$$$$

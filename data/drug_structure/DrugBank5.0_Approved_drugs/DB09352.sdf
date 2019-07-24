@@ -1,0 +1,162 @@
+
+     RDKit          2D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  2  0
+  5  3  1  0
+  7  1  1  0
+  7  6  1  0
+  8  2  1  0
+  8  3  2  0
+  8  6  1  0
+  9  4  1  0
+  9  5  2  0
+ 10  7  1  0
+ 11  9  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  2 15  1  0
+  3 16  1  0
+  4 17  1  0
+  5 18  1  0
+  6 19  1  0
+  6 20  1  0
+  7 21  1  0
+ 10 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.58
+
+>  <ALOGPS_LOGS>  (1) 
+-1.68
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.13e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09352
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09352
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+151.099714043
+
+>  <FORMULA>  (1) 
+C9H13NO
+
+>  <GENERIC_NAME>  (1) 
+Hydroxyamphetamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H13NO/c1-7(10)6-8-2-4-9(11)5-3-8/h2-5,7,11H,6,10H2,1H3
+
+>  <INCHI_KEY>  (1) 
+GIKNHHRFLCDOEU-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.174183578813278
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-(2-aminopropyl)phenol
+
+>  <JCHEM_LOGP>  (1) 
+0.9999057544542304
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.483153849232233
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.800952802472459
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.25
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+45.686099999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+p-hydroxyamphetamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+151.2056
+
+>  <PRODUCTS>  (1) 
+Paremyd
+
+>  <SALTS>  (1) 
+Hydroxyamfetamine hydrobromide
+
+>  <SMILES>  (1) 
+CC(N)CC1=CC=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+4-(2-aminopropyl)phenol; 4-hydroxyamphetamine; dl-4-hydroxyamphetamine; dl-p-hydroxyamphetamine; Hydroxyamphetamine; p-hydroxyamphetamine
+
+$$$$

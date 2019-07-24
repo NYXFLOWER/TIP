@@ -1,0 +1,185 @@
+651
+     RDKit          2D
+
+ 32 33  0  0  1  0  0  0  0  0999 V2000
+    6.1888    0.2998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9456    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7013    1.8682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -1.5294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5742   -0.0404    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.5294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2919    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5742   -1.3683    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8305    0.7438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6378    0.9139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0557   -0.7044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8941    1.6981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.3545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.1206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  2 13  2  0
+  3 16  1  0
+  4 15  2  0
+  5  9  1  0
+  5 10  1  0
+  5 14  1  0
+  6 11  1  0
+  6 15  1  0
+  6 17  1  0
+  7 13  1  0
+  7 15  1  0
+  7 18  1  0
+  8 11  1  0
+  8 14  2  0
+  9 11  2  0
+  9 13  1  0
+ 10 12  1  0
+ 12 16  1  0
+  1 19  1  0
+  3 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 12 23  1  0
+ 14 24  1  0
+ 16 25  1  0
+ 16 26  1  0
+ 17 27  1  0
+ 17 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+ 18 31  1  0
+ 18 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.98
+
+>  <ALOGPS_LOGS>  (1) 
+-1.25
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.43e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00651
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00651
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+254.101504956
+
+>  <FORMULA>  (1) 
+C10H14N4O4
+
+>  <GENERIC_NAME>  (1) 
+Dyphylline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H14N4O4/c1-12-8-7(9(17)13(2)10(12)18)14(5-11-8)3-6(16)4-15/h5-6,15-16H,3-4H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+KSCFJBIXMNOVSH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Corphyllin; Dilor
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.651239767243045
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+7-(2,3-dihydroxypropyl)-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+>  <JCHEM_LOGP>  (1) 
+-1.8660825456666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.629258284029333
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.909130036369692
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.9737219913339484
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+98.89999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+62.086
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dyphylline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+254.2426
+
+>  <PRODUCTS>  (1) 
+Jay-Phyl; Lufyllin; Protophylline Elixir 100mg; Protophylline Inj 500mg/2ml; Protophylline Solution 100mg; Protophylline Sup 500mg Adultes; Protophylline Tab 200mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00769
+
+>  <SMILES>  (1) 
+CN1C2=C(N(CC(O)CO)C=N2)C(=O)N(C)C1=O
+
+>  <SYNONYMS>  (1) 
+(±)-diprophylline; (±)-dyphylline; 7-(β,γ-dihydroxypropyl)theophylline; Dihydroxypropyl theopylin; Diprophylline
+
+$$$$

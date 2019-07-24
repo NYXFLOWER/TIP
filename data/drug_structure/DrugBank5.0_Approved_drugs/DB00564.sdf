@@ -1,0 +1,179 @@
+564
+     RDKit          2D
+
+ 30 32  0  0  0  0  0  0  0  0999 V2000
+    4.5536   -1.2161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8677   -0.0280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1818   -1.2161    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5814    0.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1540    0.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7576    1.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9778    1.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2637    1.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4717    1.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1774   -0.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5580   -0.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5421    1.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1933    1.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8677   -0.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9676   -0.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7678   -0.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1512    0.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841    0.7868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0
+  2  4  1  0
+  2  5  1  0
+  2 14  1  0
+  3 14  1  0
+  4  6  2  0
+  4 10  1  0
+  5  7  2  0
+  5 11  1  0
+  6  8  1  0
+  6 12  1  0
+  7  9  1  0
+  7 13  1  0
+  8  9  2  0
+ 10 15  2  0
+ 11 16  2  0
+ 12 17  2  0
+ 13 18  2  0
+ 15 17  1  0
+ 16 18  1  0
+  3 19  1  0
+  3 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 15 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.10
+
+>  <ALOGPS_LOGS>  (1) 
+-3.19
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.52e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00564
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00564
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+236.094963016
+
+>  <FORMULA>  (1) 
+C15H12N2O
+
+>  <GENERIC_NAME>  (1) 
+Carbamazepine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H12N2O/c16-15(18)17-13-7-3-1-5-11(13)9-10-12-6-2-4-8-14(12)17/h1-10H,(H2,16,18)
+
+>  <INCHI_KEY>  (1) 
+FFGPTBGBLSHEPO-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Actebral; Anleptic; Biston; Carbamat; Neurotop; TEGretol Chewtabs; TEGretol-CR; TEGretol-XR; Teril; Timonil; Versitol; Versizur
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.00249084101828
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,9,11,13-heptaene-2-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+2.7660303863333335
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.958359453242029
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.7540181335527305
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.33
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.88800000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+carbamazepine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+236.2686
+
+>  <PRODUCTS>  (1) 
+Apo Carbamazepine Tab 200mg; Apo-carbamazepine CR; Bio-carbamazepine; Carbamazepine; Carbamazepine 200 Tab 200mg; Carbamazepine 200mg Tablets; Carbamazepine CR; Carbamazepine ER; Carbamazepine-CR   -(200mg); Carbamazepine-CR   -(400mg); CarbamazepineER ER; Carbatrol; Carnexiv; Dom-carbamazepine; Dom-carbamazepine CR; Epitol; Equetro; Mazepine; Mylan-carbamazepine CR; Nu-carbamazepine Tab 200mg; PHL-carbamazepine CR; PMS-carbamazepine; PMS-carbamazepine CR; PMS-carbamazepine-CR; Sandoz-carbamazepine CR; Sandoz-carbamazepine Chewtabs; Taro-carbamazepine; Taro-carbamazepine CR 200 mg; Taro-carbamazepine CR 400 mg; Taro-carbamazepine Chewable Tablets 100mg; Taro-carbamazepine Chewable Tablets 200mg; Taro-carbamazepine Tab 200mg; Tegretol; Tegretol - Sus 100mg/5ml; Tegretol 200mg; Tegretol CR Tab 200mg; Tegretol CR Tab 400mg; Tegretol Chewtabs 100 mg; Tegretol Chewtabs 200 mg; Tegretol XR; TegretolXR XR; Teva-carbamazepine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00337
+
+>  <SMILES>  (1) 
+NC(=O)N1C2=CC=CC=C2C=CC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+5-Carbamoyl-5H-dibenz(b,f)azepine; Carbamazepin; Carbamazepina; Carbamazépine; Carbamazepinum; CBZ
+
+$$$$

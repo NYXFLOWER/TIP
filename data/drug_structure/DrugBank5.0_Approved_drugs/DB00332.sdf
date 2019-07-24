@@ -1,0 +1,232 @@
+
+     RDKit          2D
+
+ 55 56  0  0  1  0  0  0  0  0999 V2000
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433    1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3019   -3.0448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1269   -3.0448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4577   -1.5955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0288   -1.5954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6413   -2.3998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2124   -2.3998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1831   -1.7334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4686   -1.3209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4687   -0.4959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7542   -1.7333    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7542   -2.5583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6668   -2.5833    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 15  1  1  6
+  1  2  1  0
+  2  3  1  0
+  3  7  1  0
+  3  9  1  0
+  2  4  2  0
+  6  5  2  0
+  5  7  1  0
+  6  8  1  0
+  7 23  2  0
+ 23 24  1  0
+ 24  8  2  0
+  9 10  1  0
+ 17 11  1  0
+ 11 12  1  0
+ 12 16  1  0
+ 15 13  1  0
+ 13 16  1  0
+ 15 14  1  0
+ 14 17  1  0
+ 16 21  1  0
+ 21 17  1  0
+ 19 18  1  0
+ 21 19  1  1
+ 19 20  1  0
+ 21 22  1  0
+  3 26  1  0
+  5 27  1  0
+  6 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+ 15 41  1  0
+ 16 42  1  1
+ 17 43  1  1
+ 18 44  1  0
+ 18 45  1  0
+ 18 46  1  0
+ 19 47  1  0
+ 20 48  1  0
+ 20 49  1  0
+ 20 50  1  0
+ 22 51  1  0
+ 22 52  1  0
+ 22 53  1  0
+ 23 54  1  0
+ 24 55  1  0
+M  CHG  2  21   1  25  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.21
+
+>  <ALOGPS_LOGS>  (1) 
+-5.77
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.01e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00332
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00332
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+411.140906478
+
+>  <FORMULA>  (1) 
+C20H30BrNO3
+
+>  <GENERIC_NAME>  (1) 
+Ipratropium bromide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H30NO3.BrH/c1-14(2)21(3)16-9-10-17(21)12-18(11-16)24-20(23)19(13-22)15-7-5-4-6-8-15;/h4-8,14,16-19,22H,9-13H2,1-3H3;1H/q+1;/p-1/t16-,17+,18+,19?,21+;
+
+>  <INCHI_KEY>  (1) 
+LHLMOSXCXGLMMN-VVQPYUEFSA-M
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aerovent; Apovent; Atronase; Ipraxa; Ipvent; Rhinovent; Rinatec; Rinovagos
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+37.42511300785574
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,3R,5S,8R)-3-[(3-hydroxy-2-phenylpropanoyl)oxy]-8-methyl-8-(propan-2-yl)-8-azabicyclo[3.2.1]octan-8-ium bromide
+
+>  <JCHEM_LOGP>  (1) 
+-1.8177126204717458
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.14573979457521
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.7350534138528033
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+105.8974
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(1R,3R,5S,8R)-3-[(3-hydroxy-2-phenylpropanoyl)oxy]-8-isopropyl-8-methyl-8-azabicyclo[3.2.1]octan-8-ium bromide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+412.361
+
+>  <PRODUCTS>  (1) 
+Apo-ipravent Solution - Inh 250mcg/ml; Apo-ipravent Sterules; Apo-salvent-ipravent Sterules; Atrovent; Atrovent HFA; Atrovent Nasal Aerosol 20mcg/aem; Atrovent Nasal Spray; Atrovent UDV 125mcg/ml; Atrovent Udv Sol Inh 250mcg/ml; AtroventHFA; Combivent Inhalation Aerosol; Combivent Respimat; Combivent Udv; Dom-ipratropium; Dom-ipratropium 125 Mcg/ml; Dom-ipratropium 250 Mcg/ml (1 Ml); Dom-ipratropium 250 Mcg/ml (2 Ml); Dom-ipratropium 250 Mcg/ml (20 Ml); DuoNeb; Duovent Udv; Ipramol; Ipratropium; Ipratropium Bromide; Ipratropium Bromide and Albuterol Sulfate; Ipratropium bromide; Ipravent; Mylan-ipratropium Solution; Novo-ipramide - Liq 0.25mg/ml; Nu-ipratropium Plastic Ampules 250 Mcg/ml; PHL-ipratropium; PHL-ipratropium - 1ml Polyneb; PHL-ipratropium - 20ml; PHL-ipratropium - 2ml Polyneb; PMS-ipratropium; Penta-ipratropium Bromide; Ratio-ipra Sal Udv; Ratio-ipratropium; Ratio-ipratropium Inhalation Solution; Ratio-ipratropium Udv; Teva-combo Sterinebs; Teva-ipratropium Sterinebs
+
+>  <SALTS>  (1) 
+Ipratropium bromide hydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00537
+
+>  <SMILES>  (1) 
+[Br-].[H][C@]12CC[C@]([H])(C[C@@H](C1)OC(=O)C(CO)C1=CC=CC=C1)[N@+]2(C)C(C)C
+
+>  <SYNONYMS>  (1) 
+(endo,syn)-(±)-3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1-methylethyl)-8-azoniabicyclo[3.2.1]octane bromide; 3α-hydroxy-8-isopropyl-1αH,5αH-tropanium bromide (±)-tropate; 8-Isopropylnoratropine methobromide; Bromure d'ipratropium; Bromuro de ipratropio; Ipratropii bromidum; Ipratropium bromide (anhydrous); Ipratropium bromide anhydrous; Ipratropiumbromid; N-Isopropylnoratropinium bromomethylate
+
+$$$$

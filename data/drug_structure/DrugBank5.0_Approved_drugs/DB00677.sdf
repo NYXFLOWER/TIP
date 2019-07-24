@@ -1,0 +1,160 @@
+677
+     RDKit          2D
+
+ 25 24  0  0  0  0  0  0  0  0999 V2000
+    3.7935    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2060   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+  1  5  2  0
+  3  6  1  0
+  4  7  1  0
+  6  8  1  0
+  6  9  1  0
+  7 10  1  0
+  7 11  1  0
+  6 12  1  0
+  7 13  1  0
+  8 14  1  0
+  8 15  1  0
+  8 16  1  0
+  9 17  1  0
+  9 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 11 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.10
+
+>  <ALOGPS_LOGS>  (1) 
+-1.43
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.78e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00677
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00677
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <EXACT_MASS>  (1) 
+184.066459031
+
+>  <FORMULA>  (1) 
+C6H14FO3P
+
+>  <GENERIC_NAME>  (1) 
+Isoflurophate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H14FO3P/c1-5(2)9-11(7,8)10-6(3)4/h5-6H,1-4H3
+
+>  <INCHI_KEY>  (1) 
+MUCZHBLJLSDCSD-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Diflupyl; Floropryl; Fluopryl
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.75087214906687
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+bis(propan-2-yl) fluorophosphonate
+
+>  <JCHEM_LOGP>  (1) 
+1.7603906453333336
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-9.64521439025244
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+35.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.888000000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+isoflurophate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+184.1457
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00763
+
+>  <SMILES>  (1) 
+CC(C)OP(F)(=O)OC(C)C
+
+>  <SYNONYMS>  (1) 
+DFP; Diisopropoxyphosphoryl Fluoride; Diisopropyl Fluorophosphonate; Diisopropyl Phosphofluoridate; Diisopropyl Phosphorofluoridate; Diisopropylfluorophosphate; Diisopropylphosphofluoridate; Fluorodiisopropyl Phosphate; Fluorostigmine; Isoflurophosphate; Isopropyl Phosphorofluoridate
+
+$$$$

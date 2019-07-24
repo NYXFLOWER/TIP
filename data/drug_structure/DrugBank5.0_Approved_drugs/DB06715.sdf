@@ -1,0 +1,96 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8839    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB06715
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06715
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+165.868175281
+
+>  <FORMULA>  (1) 
+IK
+
+>  <GENERIC_NAME>  (1) 
+Potassium Iodide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/HI.K/h1H;/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+NLKNQRATVPKPDG-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium iodide
+
+>  <JCHEM_LOGP>  (1) 
+0.2
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium iodide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+166.0028
+
+>  <PRODUCTS>  (1) 
+Central-vite 18 Essential; Century Complete; Children's Chewable Multivitamin and Multimineral; CitraNatal 90 DHA; CitraNatal DHA; CitraNatal Rx; Complete Multivitamins and Minerals Tablets Timed Release; Diodine; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Enrich Core Pack - Children Vitamin and Mineral Supplement; Foltabs Prenatal; Formula Fe-vitamin and Mineral Tab; Fusion Activator Formula Tab; Gesticare DHA; HUMCO Strong Iodine; Hemarexin Tab; HemeNatal OB; Humco Strong Iodine Tincture; Hypo Vites Tab; I D M Expectorant Tab; I.D.M. Solution; INATAL Ultra; Idm Tab; Iodine; Iodine Ctr Srt 300mg; Iodine Tct 2.5% BP; Iodine Tct 5% CF; Iodine Tincture 21/2%; Iosat; Iron Polysaccharides Folic Acid DHA; Kanga-V Multivitamins & Minerals; Leep RediKit; Lugols Strong Iodine; M.T.E.-6 Concentrated; Mathieu Cough Syrup; Metrate; Mor-vites Tab; Multi #2; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamin-mineral Formula; Multicaps; Multiple Vitamin Plus Minerals Tab; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multitabs; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Nrg Plus Liq; Nutrilite Double X; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Multiple Vit W Minerals; PNV-First; PNV-Select; PRENATE Enhance; Phytopure; Potassium Iodide; Potassium Plus Vit B Complex; PreTAB; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenatal Chelated Mineral; Prenatal, DHA; Prenate Elite; Prenate Essential; Prenate Pixie; Prenate Star; Q.T. Vitamin and Mineral Drink Mix; QKit Procedure Tray; Ratio-theo-bronc; Revival 1 Tab; Sels Mexicain; Spectrum 2 Cap; Sski; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); ThyroSafe; ThyroShield; Thyroblock Tab 130mg; Tincture Of Iodine; Tincture Of Iodine 2.5%; Tincture Of Iodine 5%; VP-HEME One; VP-heme OB; Virt-PN Plus; Virt-Pn; Vitafol Ultra; Vitalife  -  Capsule; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitaplex; Vito Bronches Sirop; Women's Formula
+
+>  <SMILES>  (1) 
+[K+].[I-]
+
+$$$$

@@ -1,0 +1,175 @@
+1158
+     RDKit          2D
+
+ 30 30  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.4125    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2060    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  4  8  1  0
+  7  9  2  0
+  7 10  1  0
+  9 11  1  0
+ 10 12  2  0
+ 11 13  2  0
+ 12 13  1  0
+  3 14  1  0
+  3 15  1  0
+  4 16  1  0
+  4 17  1  0
+  5 18  1  0
+  5 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  6 23  1  0
+  8 24  1  0
+  8 25  1  0
+  8 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+M  CHG  1   2   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.36
+
+>  <ALOGPS_LOGS>  (1) 
+-6.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.54e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01158
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01158
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+242.054437196
+
+>  <FORMULA>  (1) 
+C11H17BrN
+
+>  <GENERIC_NAME>  (1) 
+Bretylium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H17BrN/c1-4-13(2,3)9-10-7-5-6-8-11(10)12/h5-8H,4,9H2,1-3H3/q+1
+
+>  <INCHI_KEY>  (1) 
+AAQOQKQBGPPFNS-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Anxyrex; Bretylol; Bromidem; Creosedin; Darenthin; Lexotan; Xionil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.240558368171648
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+[(2-bromophenyl)methyl](ethyl)dimethylazanium
+
+>  <JCHEM_LOGP>  (1) 
+-1.122133453471745
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.58236914184091
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.88570000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+bretylium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+243.163
+
+>  <PRODUCTS>  (1) 
+Bretylate Inj 50mg/ml; Bretylium Tosylate 0.2% and Dextrose 5% Inj; Bretylium Tosylate 0.4% and Dextrose 5% Inj; Bretylium Tosylate Inj 50mg/ml; Bretylium Tosylate Injection USP
+
+>  <SALTS>  (1) 
+Bretylium tosylate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00830
+
+>  <SMILES>  (1) 
+CC[N+](C)(C)CC1=CC=CC=C1Br
+
+$$$$

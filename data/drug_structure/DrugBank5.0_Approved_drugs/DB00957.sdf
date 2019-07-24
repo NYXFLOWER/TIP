@@ -1,0 +1,233 @@
+957
+     RDKit          2D
+
+ 58 61  0  0  1  0  0  0  0  0999 V2000
+    8.7053    0.8591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5431   -0.2985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0940   -1.9791    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8069   -2.3944    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2563    0.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2563   -0.7012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5418   -1.1137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8274   -0.7012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0369    0.3753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5418    0.5363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0369   -0.9526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8274    0.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5184   -0.2887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0766   -1.1193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5550   -1.9729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2563    0.9489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8142   -2.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0699   -1.9786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3119   -0.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7834    1.1604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5418    1.3614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5298   -1.0895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2982   -2.4322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5230   -1.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4583    0.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5298    1.9454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1266    1.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  9  1  1  1
+  1 25  1  0
+  2 25  2  0
+  3  4  1  0
+  4 24  2  0
+  5  6  1  0
+  5  9  1  0
+  5 10  1  0
+  5 16  1  1
+  6  7  1  0
+  6 11  1  0
+  7  8  1  0
+  7 15  1  0
+  8 12  1  0
+  8 14  1  0
+  9 13  1  0
+  9 20  1  0
+ 10 12  1  0
+ 11 13  1  0
+ 14 18  1  0
+ 14 19  1  0
+ 15 17  1  0
+ 16 21  1  0
+ 17 18  1  0
+ 18 23  2  0
+ 19 22  1  0
+ 20 26  3  0
+ 22 24  1  0
+ 23 24  1  0
+ 25 27  1  0
+  3 28  1  0
+  6 29  1  6
+  7 30  1  1
+  8 31  1  6
+ 10 32  1  0
+ 10 33  1  0
+ 11 34  1  0
+ 11 35  1  0
+ 12 36  1  0
+ 12 37  1  0
+ 13 38  1  0
+ 13 39  1  0
+ 14 40  1  1
+ 15 41  1  0
+ 15 42  1  0
+ 16 43  1  0
+ 16 44  1  0
+ 17 45  1  0
+ 17 46  1  0
+ 19 47  1  0
+ 19 48  1  0
+ 21 49  1  0
+ 21 50  1  0
+ 21 51  1  0
+ 22 52  1  0
+ 22 53  1  0
+ 23 54  1  0
+ 26 55  1  0
+ 27 56  1  0
+ 27 57  1  0
+ 27 58  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.80
+
+>  <ALOGPS_LOGS>  (1) 
+-4.84
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.31e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00957
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00957
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+369.230393863
+
+>  <FORMULA>  (1) 
+C23H31NO3
+
+>  <GENERIC_NAME>  (1) 
+Norgestimate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C23H31NO3/c1-4-22-12-10-19-18-9-7-17(24-26)14-16(18)6-8-20(19)21(22)11-13-23(22,5-2)27-15(3)25/h2,14,18-21,26H,4,6-13H2,1,3H3/b24-17+/t18-,19+,20+,21-,22-,23-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+KIQQMECNKUGGKA-NMYWJIRASA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.82406406020445
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,2R,5E,10R,11S,14R,15S)-15-ethyl-14-ethynyl-5-(hydroxyimino)tetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-14-yl acetate
+
+>  <JCHEM_LOGP>  (1) 
+4.112401798666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.46612800448324
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.1146409641686694
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.89
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+104.9987
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+norgestimate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+369.4971
+
+>  <PRODUCTS>  (1) 
+Centrisa 21; Centrisa 28; Centrisa Lo 21; Centrisa Lo 28; Cyclen Tablets (21 Day); Cyclen Tablets (28 Day); Estarylla; Femynor; Mili; Mono-Linyah; MonoNessa; Norgestimate and Ethinyl Estradiol; Norgestimate and ethinyl estradiol; ORTHO TRI CYCLEN Lo; Ortho Cyclen; Ortho Tri Cyclen; Prefesta; Previfem; Previfem   (21day); Previfem   (28day); Sarensis 21; Sarensis 28; Sprintec; Tri Femynor; Tri Previfem; Tri-Estarylla; Tri-LO-marzia; Tri-Linyah; Tri-Lo- Estarylla; Tri-Lo-Mili; Tri-Lo-Sprintec; Tri-Mili; Tri-Sprintec; Tri-cyclen Lo        (-21 Day); Tri-cyclen Lo        (28 Day); Tri-cyclen Tablets - 21-day; Tri-cyclen Tablets - 28-day; Tri-lena 21; Tri-lena 28; Tri-lena Lo 21; Tri-lena Lo 28; Tri-previfem   (21 Day); Tri-previfem   (28 Day); TriNessa; TriNessa Lo; Tricira Lo
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00569
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@@](OC(C)=O)(C#C)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CC\C(C=C3CC[C@@]21[H])=N/O
+
+>  <SYNONYMS>  (1) 
+Dexnorgestrel Acetime; Norgestimato; Norgestimatum
+
+$$$$

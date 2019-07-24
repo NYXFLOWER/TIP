@@ -1,0 +1,108 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB00761
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00761
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <EXACT_MASS>  (1) 
+73.932559568
+
+>  <FORMULA>  (1) 
+ClK
+
+>  <GENERIC_NAME>  (1) 
+Potassium Chloride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/ClH.K/h1H;/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+WCUXLLCKKVVCTQ-UHFFFAOYSA-M
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Kaon Cl; Klotrix; Micro-K; Sando-K; Slow-K
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium chloride
+
+>  <JCHEM_LOGP>  (1) 
+0.2
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-7.000000000000001
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium chloride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+74.551
+
+>  <PRODUCTS>  (1) 
+(20 Mmol/l) Potassium Chloride In 3.3% Dextrose and 0.3% Sodium Chloride Injection USP; (20 Mmol/l) Potassium Chloride In 5% Dextrose Injection USP; (20 Mmol/l) Potassium Chloride In 5% Dextrose and 0.9% Sodium Chloride Injection USP; (20mmol/l) Potassium Chloride In 0.9% Sodium Chloride Injection USP; (20mmol/l) Potassium Chloride In 5% Dextrose and 0.2% Sodium Chloride Injection USP; (20mmol/l) Potassium Chloride In 5% Dextrose and 0.45% Sodium Chloride Injection USP; (40 Mmol/l) Potassium Chloride In 0.9% Sodium Chloride Injection USP; (40 Mmol/l) Potassium Chloride In 5% Dextrose Injection USP; (40 Mmols/l) Potassium Chloride In Lactated Ringer's Injection USP; (40mmol/l) Potassium Chloride In 3.3% Dextrose and 0.3% Sodium Chloride Injection USP; (40mmol/l)potassium Chloride In 5% Dextrose and 0.45% Sodium Chloride Injection USP; 0.15% Potassium Chloride In 3.3% Dextrose and 0.30% Sodium Chloride Injection; 0.15% Potassium Chloride In 5% Dextrose Injection USP; 0.15% Potassium Chloride In 5% Dextrose and 0.20% Sodium Chloride Injection USP; 0.15% Potassium Chloride In 5% Dextrose and 0.33% Sodium Chloride Injection USP; 0.15% Potassium Chloride In 5% Dextrose and 0.45% Sodium Chloride Injection; 0.15% Potassium Chloride In 5% Dextrose and 0.9% Sodium Chloride Injection; 0.30% Potassium Chloride In 5% Dextrose; 0.30% Potassium Chloride In 5% Dextrose and 0.45% Sodium Chloride Injection; 20 (meq)mmol/l Potassium Chloride In/et 0.9% Chlorure De Sodium/sodium Chloride Injection USP; 20(meq)mmol/l Potassium Chloride Plus 5% Dextrose & 0.9% Chlorure De Sodium/sodium Chloride Injection USP; 40 (meq)mmol/l Potassium Chloride Plus 5% Dextrose & 0.9% Chlorure De Sodium/sodium Chloride Injection USP; 40(meq)mmol/l Potassium Chloride In/et 0.9% Chlorure De Sodium/sodium Chloride Injection USP; 5% Dextrose In Lactated Ringer's Injection; Accusol 35 K2; Accusol 35 K4; Acetate Concentrate R07376; Acid Concentrate  D12028; Acid Concentrate  D12054; Acid Concentrate  D12092; Acid Concentrate  D12093; Acid Concentrate  D12095; Acid Concentrate  D12119; Acid Concentrate  D12132; Acid Concentrate  D12150; Acid Concentrate  D12247; Acid Concentrate  D12250; Acid Concentrate  D12261; Acid Concentrate  D12268; Acid Concentrate (r04938); Acid Concentrate (r04968); Acid Concentrate (r04969); Acid Concentrate (r04974); Acid Concentrate (r04975); Acid Concentrate (r04976); Acid Concentrate (r04981); Acid Concentrate (r04984); Acid Concentrate (ro4147); Acid Concentrate (ro4148); Acid Concentrate (ro9503); Acid Concentrate (rz262c); Acid Concentrate (rz271c); Acid Concentrate (rz272c); Acid Concentrate (rz274c); Acid Concentrate (rz275c); Acid Concentrate 2101; Acid Concentrate 2102; Acid Concentrate 2105; Acid Concentrate 2106; Acid Concentrate 2109; Acid Concentrate 2112; Acid Concentrate 2113; Acid Concentrate 2117; Acid Concentrate 2120; Acid Concentrate 2122; Acid Concentrate 2123; Acid Concentrate 2125; Acid Concentrate 2126; Acid Concentrate 2129; Acid Concentrate 2131; Acid Concentrate 2132; Acid Concentrate 2135; Acid Concentrate 2139; Acid Concentrate 2147; Acid Concentrate 2148; Acid Concentrate 2151; Acid Concentrate 2152; Acid Concentrate 2155; Acid Concentrate 2156; Acid Concentrate 2161; Acid Concentrate 2162; Acid Concentrate 2163; Acid Concentrate 2166; Acid Concentrate 2168; Acid Concentrate 2171; Acid Concentrate 2175; Acid Concentrate 2182; Acid Concentrate 2185; Acid Concentrate 2189; Acid Concentrate 2190; Acid Concentrate 2196; Acid Concentrate 2198; Acid Concentrate 3186; Acid Concentrate 3187; Acid Concentrate A1221; Acid Concentrate A1222; Acid Concentrate A1223; Acid Concentrate A1224; Acid Concentrate A1225; Acid Concentrate A1226; Acid Concentrate A1227; Acid Concentrate A1228; Acid Concentrate A1229; Acid Concentrate A1231; Acid Concentrate A1241; Acid Concentrate A1242; Acid Concentrate A1243; Acid Concentrate A1245; Acid Concentrate A1246; Acid Concentrate A1251; Acid Concentrate A1252; Acid Concentrate A1253; Acid Concentrate A1255; Acid Concentrate A1261; Acid Concentrate A1262; Acid Concentrate A1263; Acid Concentrate A1265; Acid Concentrate A1266; Acid Concentrate A1267; Acid Concentrate A1268; Acid Concentrate A1269; Acid Concentrate A1274; Acid Concentrate A1275; Acid Concentrate A1276; Acid Concentrate A1277; Acid Concentrate A1278; Acid Concentrate A1279; Acid Concentrate A1280; Acid Concentrate A1294; Acid Concentrate A1295; Acid Concentrate A1296; Acid Concentrate A1297; Acid Concentrate A1298; Acid Concentrate Bp Ro4151; Acid Concentrate Bp Ro9505; Acid Concentrate Bp Ro9506; Acid Concentrate Bp Ro9507; Acid Concentrate Bp Rz267c; Acid Concentrate Bp Rz278c; Acid Concentrate Bp Rz279c; Acid Concentrate D 12219 Liq; Acid Concentrate D-12287; Acid Concentrate D-18003; Acid Concentrate D-18006; Acid Concentrate D12067; Acid Concentrate D12094; Acid Concentrate D12112; Acid Concentrate D12117; Acid Concentrate D12135; Acid Concentrate D12143; Acid Concentrate D12167; Acid Concentrate D12184; Acid Concentrate D12185; Acid Concentrate D12188; Acid Concentrate D12196; Acid Concentrate D12197; Acid Concentrate D12200; Acid Concentrate D12201; Acid Concentrate D12204; Acid Concentrate D12205; Acid Concentrate D12207; Acid Concentrate D12209; Acid Concentrate D12220; Acid Concentrate D12221; Acid Concentrate D12236; Acid Concentrate D12248; Acid Concentrate D12252; Acid Concentrate D12255; Acid Concentrate D12259; Acid Concentrate D12262; Acid Concentrate D12264; Acid Concentrate D12265; Acid Concentrate D12267; Acid Concentrate D12269; Acid Concentrate D12272; Acid Concentrate D12275; Acid Concentrate D12282; Acid Concentrate D12284; Acid Concentrate D12285; Acid Concentrate D12286; Acid Concentrate D12290; Acid Concentrate D12291; Acid Concentrate D12292; Acid Concentrate D12293; Acid Concentrate D12294; Acid Concentrate D12299; Acid Concentrate D12300; Acid Concentrate D12301; Acid Concentrate D12302; Acid Concentrate D12303; Acid Concentrate D12305; Acid Concentrate D12308; Acid Concentrate D12309; Acid Concentrate D12310; Acid Concentrate D12311; Acid Concentrate D12315; Acid Concentrate D12316; Acid Concentrate D12318; Acid Concentrate D13001; Acid Concentrate D18001; Acid Concentrate D18009; Acid Concentrate Ro4137; Acid Concentrate Ro4138; Acid Concentrate Ro4144; Acid Concentrate Ro4145; Acid Concentrate Ro4947; Acid Concentrate Ro4979; Acid Concentrate Ro4983; Acid Concentrate Ro9500; Acid Concentrate Ro9501; Acid Concentrate Ro9502; Acid Concentrate Rx252c; Acid Concentrate Rx253c; Acid Concentrate Rz110c; Acid Concentrate Rz111c; Acid Concentrate Rz119c; Acid Concentrate Rz127c; Acid Concentrate Rz144c; Acid Concentrate Rz153c; Acid Concentrate Rz164c; Acid Concentrate Rz167c; Acid Concentrate Rz171c; Acid Concentrate Rz183c; Acid Concentrate Rz185c; Acid Concentrate Rz194c; Acid Concentrate Rz195c; Acid Concentrate Rz196c; Acid Concentrate Rz202c; Acid Concentrate Rz203c; Acid Concentrate Rz207c; Acid Concentrate Rz208c; Acid Concentrate Rz209c; Acid Concentrate Rz210c; Acid Concentrate Rz211c; Acid Concentrate Rz212c; Acid Concentrate Rz213c; Acid Concentrate Rz247c; Acid Concentrate Rz248c; Acid Concentrate Rz249c; Acid Concentrate Rz254c; Acid Concentrate Rz264c; Acid Concentrate Rz265c; Acid Concentrate(36.83x) R04900; Acid Concentrate(36.83x) R04906; Acid Concentrate-r04948 Liq; Acid Hemodialysis Conc Sb 1003; Adrenogist Tab; Aminosyn; Aminosyn II 10% With Electrolytes; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II with Electrolytes; Amo Endosol Extra; Amo Endosol Solution; Artisial; Balanced Salt; Balanced Salt Solution; Bi-peglyte; Bicarb Hemodial Conc 36.83; Bicarbolyte Bicar Hemodialsis Conc; Bicarbolyte Bicar Hemodialysis Conc; Bss; Bss Plus; Bss Sterile Irrigating Solution; Cardioplegic; Citrasate C10125; Citrasate C1125; Citrasate C1150; Citrasate C2125; Citrasate C2150; Citrasate C3125; Citrasate C3150; Citrasate C4125; Colyte; Colyte with flavor packs; Concentrated Haemodialysis Solution Bp-rz266c; Concentrated Haemodialysis Solution Bp-rz270c; D-12043 Sol Conc Electrolyt Pour Dialy; D12006; D12046 Conc Electrolyte Renal Dialysis; D12230 Liq; Dextrose 2.5% In Half Strength Lactated Ringer's Injection, USP; Dextrose 5% In Lactated Ringers; Dextrose 5% and Electrolyte No75 Inj; Dextrose 50% Inj W Electrolytes PF Abbovac; Dialyte; Effervescent Potassium Chloride; Electropeg Solution; Elliott's Solution A; Eye Stream; GaviLyte - C TM; GaviLyte - N; GaviLyte G TM; Glycerolyte 57 Solution; GoLYTELY; Golytely Gi Lavage Solution; H-706; H-710; H.E.L.P.bicel; HUMCO Potassium Chloride Oral Solution 10%; Haemosol H-200; Haemosol H-201; Haemosol H-206; Haemosol H-208; Haemosol H-223; Haemosol H-224; Haemosol H-225; Haemosol H-226; Haemosol H-227; Haemosol H-229; Haemosol H-230; Haemosol H-232; Haemosol H-250; Haemosol H-251; Haemosol H-252; Haemosol H-253; Haemosol H-254; Haemosol H-260; Haemosol H-320; Haemosol H-330; Haemosol H-331; Haemosol H-332; Haemosol H-401; Haemosol H-402; Haemosol H-404; Haemosol H-407; Haemosol H-408; Haemosol H-410; Haemosol H-602; Haemosol H-608; Haemosol H-615; Haemosol H-616; Haemosol H-617; Haemosol H-623; Haemosol H-624; Haemosol H-625; Haemosol H-630; Haemosol H-631; Haemosol H-661; Haemosol H-690; Hemasate Ultra Hs1125; Hemasate Ultra Hs1150; Hemasate Ultra Hs2125; Hemasate Ultra Hs2150; Hemasate Ultra Hs3125; Hemasate Ultra Hs3150; Hemasate Ultra Hs4125; Hemosate Ultra Hs1125; Hemosate Ultra Hs1150; Hemosate Ultra Hs2125; Hemosate Ultra Hs2150; Hemosate Ultra Hs3125; Hemosate Ultra Hs3150; Hemosate Ultra Hs4125; Hemosol Lg2; Hemosol Lg4; Hi Potency Potassium Chloride; Hyperlyte (multi-electrolyte Concentrate); Iocare Balanced Salt Solution; Ionosol and Dextrose; Isolyte H With Dextrose 5% Inj; Isolyte M In 5% Dextrose; Isolyte R In 5% Dextrose; Isolyte S; Isolyte S (multi-electrolyte Injection); Isolyte S Ph 7.4 (multi-electrolyte Injection); Isolyte S With 5% Dextrose Inj; Isolyte S in Dextrose; Isoplate; Jamp-electropeg; Jamp-electropeg With Flavour Packet; Jamplyte; Jamplyte 280; K + 45; K C1-rougier; K Lor Granules 20meq; K+36.8; K-Sol; K-Tab; K-dur; K-lyte Cl; K-med; K-med 900 Tab 900mg; K-tab; K1 Liq R04911; K1 Liq R04978; K2 Liq R04902; K2 With Glucose Liq R04977; Kalium Durules Srt 750mg; Kaochlor-10; Kaochlor-20; Kato Pws 1.5gm; Kcl Solution A 20%; Klean-prep; Klor Con M; Klor-Con; Klor-Con Extended-release; Klor-Con M; Klor-Con M10; Klor-Con M20; Klor-Con Sprinkle; Klor-con; Klor-con M; Klor-con/25; Lactated Ringer's Injection; Lactated Ringer's Injection USP; Lactated Ringer's Irrigation; Lactated Ringer's Irrigation Sol; Lactated Ringers; Lactated Ringers Inj USP; Lactated Ringers Inj W 5% Dextrose; Lactated Ringers Irrigation; Lypholyte; Lypholyte Multi-electrolyte Conc Inj; Lyteprep; Micro K Extencaps Src 600mg; Micro-K 10 Extencaps; Micro-K Extencaps; Micro-K-10 Extencaps Src 750mg; Moi-stir Oral Swabsticks; Moi-stir Spray; MoviPrep; Moviprep; Multiple Electrolyte Additive Inj; Multiple Electrolyte Additive Liq Formula 1; Naturalyte H-200; Naturalyte H-201; Naturalyte H-206; Naturalyte H-208; Naturalyte H-223; Naturalyte H-224; Naturalyte H-225; Naturalyte H-226; Naturalyte H-227; Naturalyte H-229; Naturalyte H-230; Naturalyte H-232; Naturalyte H-251; Naturalyte H-252; Naturalyte H-260; Naturalyte H-320; Naturalyte H-330; Naturalyte H-331; Naturalyte H-332; Naturalyte H-401; Naturalyte H-402; Naturalyte H-407; Naturalyte H-408; Naturalyte H-410; Naturalyte H-602; Naturalyte H-608; Naturalyte H-615; Naturalyte H-616; Naturalyte H-617; Naturalyte H-623; Naturalyte H-624; Naturalyte H-625; Naturalyte H-630; Naturalyte H-631; Naturalyte H-661; Naturalyte H-690; Naturalyte H-706; Navstel; Neo K; Normosol-R; Normosol-R & 5% Dextrose; Normosol-R and Dextrose; Novo-lente K Tab 600mg; NuLYTELY; Nutrilyte; Nxstage Pureflow Dialysate Concentrate (sak 303); Nxstage Pureflow Dialysate Concentrate (sak 304); Nxstage Pureflow Dialysate Concentrate (sak 305); Nxstage Pureflow Dialysate Concentrate (sak-301); Nxstage Pureflow Dialysate Concentrate (sak-302); Nxstage Pureflow Solution Rfp-204-can; Nxstage Pureflow Solution Rfp-207-can; Nxstage Pureflow Solution Rfp-209-can; Ocl Solution; Odan Balanced Salt Solution; Olimel 3.3% E; Olimel 4.4% E; Olimel 5.7% E; One A Day Advance Adults; One A Day Advance Adults 50+; PEG-3350 and Electrolytes; PEG-3350, sodium chloride, sodium bicarbonate and potassium chloride; Peglyte Powder; Peglyte Solution; Periolimel 2.5% E; Phoxillum Bk4/2.5; Physiolyte; Physiosol; Plasma-Lyte 148; Plasma-Lyte A; Plasma-lyte A Injection; Plasmalyte 148 In 5% Dextrose Inj; Plasmalyte 148 In Water; Plegisol; Polyethylene Glycol 3350 and Electrolytes; Polyethylene Glycol 3350, Sodium Chloride, Sodium Bicarbonate and Potassium Chloride - Unflavored; Polyethylene Glycol 3350, Sodium Chloride, Sodium Bicarbonate and Potassium Chloride with Lemon Flavor; Polyethylene Glycol 3350, Sodium Chloride, Sodium Bicarbonate and Potassium Chloride with Orange Flavor; Polyethylene Glycol-3350 and Electrolytes; Polyethylene Glycol-3350 and Electrolytes with Flavor Pack; Polyethylene Glycol-3350, Sodium Chloride, Potassium Chloride and Sodium Bicarbonate; Potas Chlor 20meq 5% Dex and Lactate Ringer; Potas Chlor 30meq 5% Dex and 0.2% Sod Chlor; Potass Chlor 10meq 5% Dex and 0.2% Sod Chlor; Potass Chlor 30meq 5% Dex and 0.33% Sod Chlor; Potass Chlor 30meq 5% Dex and 0.45% Sod Chlor; Potass Chlor 40meq 5% Dex and 0.2% Sod Chlor; Potass Chlor 40meq 5% Dex and 0.33% Sod Chlor; Potass Chlor 40meq 5% Dex and 0.9% Sod Chlor; Potass Chloride 10meq In 5% Dextrose Inj USP; Potass Chloride 30meq In 5% Dextrose Inj USP; Potass Chloride 5% Dextr 0.45% Sod Chlor Inj; Potassium 20meq 5% Dextrose and 0.33% Sodium Chloride; Potassium Chlor 40meq 5% Dex & Lac Ring; Potassium Chloride; Potassium Chloride 20 Meq In 3.3% Dextrose With 0.3% Sodium Chloride; Potassium Chloride 20 Meq In 5% Dextrose; Potassium Chloride 20 Meq In 5% Dextrose With 0.225% Sodium Chloride; Potassium Chloride 20 Meq In 5% Dextrose With 0.45% Sodium Chloride; Potassium Chloride 40 Meq In 3.3% Dextrose With 0.3% Sodium Chloride; Potassium Chloride 40 Meq In 5% Dextrose; Potassium Chloride 40 Meq In 5% Dextrose and 0.45% Sodium Chloride; Potassium Chloride Bp - Additive for Concentrated Haemodialysis Solutions; Potassium Chloride ER; Potassium Chloride Extended Release; Potassium Chloride Extended-Release; Potassium Chloride In Dextrose; Potassium Chloride In Lactated Ringer's Injection; Potassium Chloride In Sodium Chloride; Potassium Chloride In Sodium Chloride Injection USP; Potassium Chloride Inj; Potassium Chloride Inj 149mg/ml USP; Potassium Chloride Inj 2meq/ml; Potassium Chloride Inj 30meq; Potassium Chloride Inj 40meq; Potassium Chloride Inj USP Liq 149mg/ml; Potassium Chloride Injection; Potassium Chloride Injection 2meq/ml; Potassium Chloride for Injection Concentrate USP; Potassium Chloride for Injection Concentrate, USP (2 Meq/ml); Potassium Chloride for Oral Solution; Potassium Chloride in Dextrose and Sodium Chloride; Potassium Chloride in Sodium Chloride; Potassium SR 600mg Tablets; Potassium chloride extended release; Potassium-36.8  0.5-4.5 (code:k-30) - Powder; Potassium-novartis; Potrassium Chloride; Prismasol 2; Prismasol 4; Pro-600k Srt 600mg; Proception Sperm Nutrient Douche; Prolax - Pws; R04903 Liq; R04909 Liq; R04919 Liq; R04922 Liq; R04931 Liq; R04936 Liq; R04946 Liq; R04972 Liq; R04973 Liq; Ringer's Inj; Ringer's Injection USP; Ringers; Roychlor - 10% - Liq Orl; Rs-274; Salivart Aer; Salivart Oral Moisturizer; Sb 1000; Sb 1004; Sb-110; Sb-111; Sb-119; Sb-127; Sb-131; Sb-132; Selectbag One (ax125g); Selectbag One (ax150g); Selectbag One (ax200g); Selectbag One (ax225g); Selectbag One (ax250g); Selectbag One (ax2525g); Selectbag One (ax2550g); Selectbag One (ax275g); Selectbag One (ax325g); Selectbag One (ax350g); Selectbag One (ax450g); Slo-pot; Slow K; Strong Potass Chloride Inj 0.15gm/ml; Suclear; Super Charged Energy; TPN Electrolytes; Tis-U-sol; Tis-U-sol Solution; Tqm Acid Concentrate A1280; TriLyte with Flavor Packs; Trilyte With Flavor Packs; Vamin N; Vivia Acid
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01322
+
+>  <SMILES>  (1) 
+[Cl-].[K+]
+
+>  <SYNONYMS>  (1) 
+Chlorid draselny; Chloride of potash; Kaliumchlorid; Monopotassium chloride; Muriate of potash; Sylvite
+
+$$$$

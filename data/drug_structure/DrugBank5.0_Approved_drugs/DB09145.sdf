@@ -1,0 +1,107 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   25.6983  -15.0132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09145
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09145
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+18.010564686
+
+>  <FORMULA>  (1) 
+H2O
+
+>  <GENERIC_NAME>  (1) 
+Water
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/H2O/h1H2
+
+>  <INCHI_KEY>  (1) 
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.5082203897359623
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+water
+
+>  <JCHEM_LOGP>  (1) 
+-0.6519999999999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.7
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+25.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+3.7
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+water
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+18.0153
+
+>  <PRODUCTS>  (1) 
+10 Person ANSI; 25 Person ANSI; 37.4; 50 Person ANSI; A-Med brand First Aid Eye and Skin-Rinse; A.P.L. - Pws-liq; ACME FIRST AID Contains 404 PIECES; ARC Emergency Preparedness FIRST AID Contains 202 PIECES; ARC FIRST AID Contains 1000 PIECES; ARC FIRST AID Contains 101 PIECES; ARC FIRST AID Contains 101 PIECES Hardcase; ARC FIRST AID Contains 404 PIECES; Activase RT-PA; Aerowash Eyewash and Skin-Rinse; Airlife Sterile Water for Inhalation USP; Antithrombin III Immuno; Antithrombin III Nf; Avonex; Bacteriostatic Water; Bacteriostatic Water for Injection USP; Bacteriostatic Water for Injection USP-pre-filled Syringe; Benefix - (250iu); Benefix - (500iu); Benefix -(1000iu); Boraqua Eye Wash; Bouton Eye Wash; Buffered Eye-Lert; CEDERROTH Emergency Eye Wash; CVS Eyewash; Caverject Sterile Powder - Kit 11.9mcg /vial; Caverject Sterile Powder - Kit 23.2mcg/vial; Coachs First Aid Contains 102 Pieces; Collyrium for Fresh Eyes - Eye Wash; Diluting Medium for Insulin Zinc Injectable Suspension; Diluting Medium for Isophane Insulin Injection; Diluting Medium for Soluble Insulin Injection; Dorama-Neo; ECOLAB Eye Wash; Emergency Eye Wash, PW, Sterile Ster-Aide; Emergency First Aid Eyewash Purified Water; Enbrel; EyS Eye Wash; Eye Clean; Eye Irrigating; Eye Stream; Eye Wash; Eye Wash Saline; Eyes Alive Eye Wash; Eyesaline Concentrate; Eyewash; Eyewash Flushing Solution; FIRST AID Contains 101 PIECES; FIRST AID Contains 101 PIECES HARDCASE; FIRST AID Contains 303 PIECES; Family Care Eye Wash; Feiba NF; First Aid Direct Buffered Eyewash Sterile Isotonic; First Aid Eye Wash; GENUINE FIRST AID Emergency Preparedness Contains 167 PIECES HARDCASE; GOOD NEIGHBOR PHARMACY FIRST AID Contains 202 PIECES; Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces; Green Guard First Aid Eye Wash; Haws Eyewash Additive; Haws Personal Emergency Eyewash - DUO Saline; Haws Personal Emergency Eyewash - DUO pH Neutral; Industrial Neutral-eyes; Instillation Medium for Immucyst; Intron A; Intron A - Kit (pws+diluent) 3000000iu/vial; Intron A - Kit (pws+diluent) 5000000iu/vial; Iveegam Immuno 5000mg  (iv); K-Mart SmartSense First Aid Contains 101 Pieces; Kcentra; Large ANSI First Aid Kit; Lysatec RT - Pa; Major Eye Wash; Medi-First Eyewash; Medi-First First Aid Eye Wash; Medi-First Plus First Aid Eye Wash; Medium Cuts and Scratches; Methylprednisolone Sodium Succinate for Injection, USP; North Safety First Aid Kit 685533T13; Nutropin - Kit  Pws(10mg) & Liq(10ml) Im Sc; Nutropin - Kit  Pws(5mg) & Liq(10ml) Im Sc; Nuwiq; Ocufresh; Omnitrope; Ph 12 Sterile Diluent for Flolan; Physicians Care Eye Wash Sterile Buffered Isotonic; PhysiciansCare Eye Wash; PhysiciansCare Ophthalmic Solution Eyewash; PhysiciansCare Ophthalmic Solution Eyewash Purified Water, 98.3%; Plum Duo Emergency Eyewash; Plum Duo Emergency Eyewash pH Neutralizing; Plum Emergency Eyewash; Plum Emergency Eyewash pH Neutralizing; Plum Emergency Eyewash/Eyewash DUO/Eyewash Shower ISS USA; Plum pH Neutral Emergency Eyewash/Emergency Eyewash DUO/Emergency Eyewash Shower ISS USA; Pregnyl; Profasi Hp 10000; Protropin - Kit Im Sc 10mg/vial; Protropin - Kit Im Sc 5mg/vial; Protropin Inj Pws 10mg/vial; Protropin Pws 5mg/vial; Pur-Wash; Pur-wash; Purified Water; Redicare Emergency First Aid Eyewash; Refill 6; Rugby Eye Irrigating; SL Eye Wash with Preservative; Salinaax Eye Wash; Salinaax Eye Wash and Skin Flush; Scienceware Eyewash; Serostim; Sperian Eyesaline Emergency Eyewash; Sperian Eyesaline Eyewash; Standard ANSI First Aid; Stemgen; Sterile Diluent; Sterile Diluent for Flolan Injection; Sterile Diluent for Merck Sharp & Dohme Corp. Live Attenuated Virus Vaccines; Sterile Isotonic Buffered Genuine Eyewash; Sterile Saline Eyewash; Sterile Water; Sterile Water Inj; Sterile Water for Inhalation U.S.P.; Sterile Water for Inhalation USP; Sterile Water for Inhalation USP 3ml; Sterile Water for Injection; Sterile Water for Injection 100% USP; Sterile Water for Injection USP; Sterile Water for Injection, U.S.P.; Sterile Water for Injection, USP; Sterile Water for Irrigation; Sterile Water for Irrigation USP; Sterilized Water for Injections Ph. Eur.; Walgreens Sterile Soothing Eye Wash; Water Additive; Water for Injection; Water for Injection BP; Xpect Buffered Eyewash Sterile Isotonic; Xpect First aid Buffered Eye and Skin; Xpect First aid Buffered Eyewash; fad first aid direct Buffered Eye and Skin; fad first aid direct Eyewash; theSafetyDirector aquapreserv
+
+>  <SMILES>  (1) 
+O
+
+>  <SYNONYMS>  (1) 
+Dihydrogen oxide; Purified water; Sterile water; Water purified
+
+$$$$

@@ -1,0 +1,202 @@
+808
+     RDKit          2D
+
+ 40 42  0  0  1  0  0  0  0  0999 V2000
+    5.9484    2.7900    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.0504    1.5619    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4742   -0.9608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8802    2.3692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2205    0.7546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -1.3010    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -0.5169    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8576    1.7320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -1.9650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -2.6289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.5525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1661   -1.9650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.7900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.5525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232   -0.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    0.4374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868    0.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2431    1.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6285    1.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6921    2.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8848    1.8356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0
+  2  4  2  0
+  2  5  2  0
+  2  8  1  0
+  2 21  1  0
+  3 18  2  0
+  6  7  1  0
+  6  9  1  0
+  6 12  1  0
+  7 18  1  0
+  9 10  1  0
+  9 13  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 14  1  0
+ 12 15  1  0
+ 14 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 19 22  1  0
+ 20 21  1  0
+ 21 23  2  0
+ 22 24  2  0
+ 23 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 20 38  1  0
+ 22 39  1  0
+ 24 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.52
+
+>  <ALOGPS_LOGS>  (1) 
+-4.03
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.42e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00808
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00808
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+365.06008979
+
+>  <FORMULA>  (1) 
+C16H16ClN3O3S
+
+>  <GENERIC_NAME>  (1) 
+Indapamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H16ClN3O3S/c1-10-8-11-4-2-3-5-14(11)20(10)19-16(21)12-6-7-13(17)15(9-12)24(18,22)23/h2-7,9-10H,8H2,1H3,(H,19,21)(H2,18,22,23)
+
+>  <INCHI_KEY>  (1) 
+NDDAHWYSQHTHNT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Arifon; Bajaten; Fludex; Indamol; Ipamix; Lozide; Lozol; Natrilix; Natrix; Noranat; Tandix; Tertensif; Veroxil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.335191247745485
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-chloro-N-(2-methyl-2,3-dihydro-1H-indol-1-yl)-3-sulfamoylbenzamide
+
+>  <JCHEM_LOGP>  (1) 
+2.6395443223333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.687086536864834
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.852269320760028
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.09715835173557508
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+92.5
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+103.3134
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+indapamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+365.835
+
+>  <PRODUCTS>  (1) 
+Apo-indapamide 1.25 Mg Tablets; Apo-indapamide 2.5mg Tablets; Arcosyl Plus; Arcosyl Plus Ld; Coversyl Plus; Coversyl Plus Hd; Coversyl Plus Ld; Dom-indapamide Tablets 1.25mg; Dom-indapamide Tablets 2.5mg; Indapamide; Indapamide Hemihydrate 1.25mg - Tab; Indapamide Hemihydrate Tab 2.5mg; Indapamide-2.5; Jamp-indapamide; Lozide; Mylan-indapamide; Ntp-indapamide; Nu-indapamide; Nu-indapamide - Tab 2.5mg; PHL-indapamide; PMS-indapamide; Pro-indapamide; Riva-indapamide 1.25; Riva-indapamide 2.5 mg; Teva-indapamide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01031
+
+>  <SMILES>  (1) 
+CC1CC2=CC=CC=C2N1NC(=O)C1=CC(=C(Cl)C=C1)S(N)(=O)=O
+
+>  <SYNONYMS>  (1) 
+Indapamid; Indapamida; Indapamide; Indapamidum; Metindamide
+
+$$$$

@@ -1,0 +1,145 @@
+
+     RDKit          2D
+
+ 22 16  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250   -0.0000    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250    1.6500    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1250   -1.6500    0.0000 Al  0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 Al  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  7  8  1  0
+  8  9  1  0
+  8 10  1  0
+  8 11  1  0
+  1 15  1  0
+  1 16  1  0
+ 13 17  1  0
+ 13 18  1  0
+ 13 19  1  0
+ 14 20  1  0
+ 14 21  1  0
+ 14 22  1  0
+M  CHG  8   2  -1   4  -1   5  -1   6  -1   7  -1   9  -1  10  -1  11  -1
+M  CHG  3  12   2  13   3  14   3
+M  END
+>  <DATABASE_ID>  (1) 
+DB13595
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13595
+
+>  <DRUG_GROUPS>  (1) 
+approved; experimental
+
+>  <EXACT_MASS>  (1) 
+279.8718534
+
+>  <FORMULA>  (1) 
+Al2H2MgO9Si2
+
+>  <GENERIC_NAME>  (1) 
+Almasilate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2Al.Mg.2O4Si.H2O/c;;;2*1-5(2,3)4;/h;;;;;1H2/q2*+3;+2;2*-4;
+
+>  <INCHI_KEY>  (1) 
+XFKLULFTFNRQOX-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+16
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.139216210398294
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dialuminium(3+) ion magnesium(2+) ion hydrate disilicate
+
+>  <JCHEM_LOGP>  (1) 
+-2.6008
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.358981612572368
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.822075785408108
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.800283011255641
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+92.24
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.7716
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dialuminium(3+) ion magnesium(2+) ion hydrate diorthosilicate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+280.445
+
+>  <PRODUCTS>  (1) 
+Ohtas Isan Antacid
+
+>  <SMILES>  (1) 
+O.[Mg++].[Al+3].[Al+3].[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-]
+
+$$$$

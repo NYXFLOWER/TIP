@@ -1,0 +1,199 @@
+
+     RDKit          2D
+
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+    1.5326   -0.3143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0998    0.0219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7431   -0.4897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7431    1.3669    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8982    0.4312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0998    0.8553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5326    1.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0493   -0.9576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6165   -0.3874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3095   -1.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6165    1.2646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0493    1.8641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3329    0.0073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3329    0.8698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0493   -0.4312    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5238   -1.1769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7042   -1.9080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7276    2.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9527   -1.8933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2753   -2.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5433   -2.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  1  2  0
+  4  7  2  0
+  5  1  1  0
+  6  2  2  0
+  7  5  1  0
+  8  1  1  0
+  9  2  1  0
+ 10  3  1  0
+ 11  6  1  0
+ 12  7  1  0
+ 13  9  2  0
+ 14 13  1  0
+ 15 13  1  0
+ 16 10  2  0
+ 17 10  1  0
+ 18 12  1  0
+ 19 16  1  0
+ 20 17  2  0
+ 21 19  2  0
+  6  4  1  0
+ 20 21  1  0
+ 11 14  2  0
+  5 22  1  0
+  5 23  1  0
+  9 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 14 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+ 18 31  1  0
+ 18 32  1  0
+ 19 33  1  0
+ 20 34  1  0
+ 21 35  1  0
+M  CHG  2   1   1   8  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.01
+
+>  <ALOGPS_LOGS>  (1) 
+-4.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.99e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00475
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00475
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <EXACT_MASS>  (1) 
+299.082539792
+
+>  <FORMULA>  (1) 
+C16H14ClN3O
+
+>  <GENERIC_NAME>  (1) 
+Chlordiazepoxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H14ClN3O/c1-18-15-10-20(21)16(11-5-3-2-4-6-11)13-9-12(17)7-8-14(13)19-15/h2-9H,10H2,1H3,(H,18,19)
+
+>  <INCHI_KEY>  (1) 
+ANTSCNMPPGJYLG-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Angirex; Elenium; Helogaphen; Klopoxid; Librium; Multum; Napoton; Radepur; Risolid; Silibrin; Sonimen
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+35
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.220681309216832
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-chloro-2-(methylamino)-5-phenyl-3H-1,4-benzodiazepin-4-ium-4-olate
+
+>  <JCHEM_LOGP>  (1) 
+0.18956609050315829
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+16.431798916705144
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-2.687983529116578
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.061261704810951
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+50.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+87.3403
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chlordiazepoxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+299.755
+
+>  <PRODUCTS>  (1) 
+Chlorax; Chlordiazepoxide; Chlordiazepoxide Cap 10mg; Chlordiazepoxide Cap 5mg; Chlordiazepoxide Hydrochloride; Chlordiazepoxide Hydrochloride And Clidinium Bromide; Chlordiazepoxide Hydrochloride and Clidinium Bromide; Chlordiazepoxide Hydrochloride/Clidinium Bromide; Chlordiazepoxide and Amitriptyline HCl; Chlordiazepoxide and Amitriptyline Hydrochloride; Chlordiazepoxyde 25 Cap; Chlordiazepoxyde Cap 10mg; Chlordiazepoxyde HCl Cap 25mg; Corax Cap 10mg; Corax Cap 25mg; Corax Cap 5mg; Corium Cap; Librax; Medilium Cap 10 10mg; Medilium Cap 5mg; Novo-poxide 10mg; Novo-poxide 25mg; Novo-poxide 5mg; Nu-chlorax Capsules USP; Pro Chlorax
+
+>  <SALTS>  (1) 
+Chlordiazepoxide hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00682
+
+>  <SMILES>  (1) 
+CNC1=NC2=C(C=C(Cl)C=C2)C(C2=CC=CC=C2)=[N+]([O-])C1
+
+>  <SYNONYMS>  (1) 
+7-chloro-2-methylamino-5-phenyl-3H-1,4-benzodiazepin-4-oxide; CDP; Chloradiazepoxide; Chlordiazepoxidum; Clopoxide; Methaminodiazepoxide
+
+$$$$

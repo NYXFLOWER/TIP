@@ -1,0 +1,206 @@
+
+     RDKit          2D
+
+ 42 44  0  0  1  0  0  0  0  0999 V2000
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9840    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4991   -0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7540   -1.4521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8159   -2.4081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2639   -3.0212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6229   -2.5796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5610   -1.6235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4991    0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8108   -0.8974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4783   -0.4126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2233    0.3720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2629   -0.6675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3983    0.3720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  2  9  1  0
+  1  4  1  0
+  4  7  1  0
+  4  5  2  0
+  3  5  1  0
+  6  3  2  0
+  2  6  1  0
+  6 15  1  0
+ 16  7  1  6
+  9  8  2  0
+ 15  8  1  0
+  9 10  1  0
+ 10 14  1  0
+ 14 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 16 17  1  0
+ 16 21  1  0
+ 17 18  1  0
+ 18 20  2  0
+ 18 19  1  0
+ 21 19  1  0
+  1 22  1  0
+  3 23  1  0
+  5 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 14 37  1  0
+ 15 38  1  0
+ 16 39  1  0
+ 17 40  1  0
+ 21 41  1  0
+ 21 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.25
+
+>  <ALOGPS_LOGS>  (1) 
+-3.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.90e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00315
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00315
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+287.163376931
+
+>  <FORMULA>  (1) 
+C16H21N3O2
+
+>  <GENERIC_NAME>  (1) 
+Zolmitriptan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H21N3O2/c1-19(2)6-5-12-9-17-15-4-3-11(8-14(12)15)7-13-10-21-16(20)18-13/h3-4,8-9,13,17H,5-7,10H2,1-2H3,(H,18,20)/t13-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+ULSDMUVEXKOYBU-ZDUSSCGKSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+AscoTop; Nomi; Zolmiles; Zolmit; Zomigon; Zomigoro; Zomitan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.650538842164593
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(4S)-4-({3-[2-(dimethylamino)ethyl]-1H-indol-5-yl}methyl)-1,3-oxazolidin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+2.042875287666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+17.145764761034485
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.002183280026472
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.545965837796587
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.36000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.43920000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zomig
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+287.3568
+
+>  <PRODUCTS>  (1) 
+Ag-zolmitriptan ODT; Apo-zolmitriptan; Apo-zolmitriptan Rapid; Ccp-zolmitriptan; Dom-zolmitriptan; Dom-zolmitriptan ODT; Ipg-zolmitriptan; Jamp-zolmitriptan; Jamp-zolmitriptan ODT; Mar-zolmitriptan; Mint-zolmitriptan; Mint-zolmitriptan ODT; Mylan-zolmitriptan; Mylan-zolmitriptan ODT; Nat-zolmitriptan; PMS-zolmitriptan; PMS-zolmitriptan ODT; Ratio-zolmitriptan Ir; Ratio-zolmitriptan ODT; Riva-zolmitriptan; Sandoz Zolmitriptan; Sandoz Zolmitriptan ODT; Septa-zolmitriptan-odt; Teva-zolmitriptan; Teva-zolmitriptan OD; Van-zolmitriptan; Van-zolmitriptan ODT; Zolmiptriptan; Zolmitriptan; Zolmitriptan OD; Zolmitriptan ODT; Zolmitriptan Orally Disintegrating; Zolmitriptan-odt; Zomig; Zomig Nasal Spray; Zomig Rapimelt; Zomig Tab 2.5 mg; Zomig Zmt
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00376
+
+>  <SMILES>  (1) 
+CN(C)CCC1=CNC2=CC=C(C[C@H]3COC(=O)N3)C=C12
+
+>  <SYNONYMS>  (1) 
+(S)-4-({3-[2-(dimethylamino)ethyl]-1H-indol-5-yl}methyl)-1,3-oxazolidin-2-one; Zolmitriptan; Zolmitriptanum
+
+$$$$

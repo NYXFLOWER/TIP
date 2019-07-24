@@ -1,0 +1,196 @@
+454
+     RDKit          2D
+
+ 39 40  0  0  0  0  0  0  0  0999 V2000
+    2.8876    1.0154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8558    1.8279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -1.3491    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    0.3010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396   -0.1115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4106   -0.1115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396   -0.9366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4106   -0.9366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7571    0.8313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126    1.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -2.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6138    1.6438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5323    0.5491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2458    2.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1644    1.0795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0211    1.8919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.7300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.7300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 17  1  0
+  2 10  2  0
+  3  7  1  0
+  3  8  1  0
+  3 11  1  0
+  4  5  1  0
+  4  6  1  0
+  4  9  1  0
+  4 10  1  0
+  5  7  1  0
+  6  8  1  0
+  9 12  2  0
+  9 13  1  0
+ 12 14  1  0
+ 13 15  2  0
+ 14 16  2  0
+ 15 16  1  0
+ 17 18  1  0
+  5 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  7 24  1  0
+  8 25  1  0
+  8 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 18 39  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.90
+
+>  <ALOGPS_LOGS>  (1) 
+-2.35
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.11e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00454
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00454
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+247.157228921
+
+>  <FORMULA>  (1) 
+C15H21NO2
+
+>  <GENERIC_NAME>  (1) 
+Pethidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H21NO2/c1-3-18-14(17)15(9-11-16(2)12-10-15)13-7-5-4-6-8-13/h4-8H,3,9-12H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+XADCESSVHJOZHK-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dolantin; Dolcontral; Dolosal; Dolsin; Lydol; Mialgin; Petidin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.088457270759086
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl 1-methyl-4-phenylpiperidine-4-carboxylate
+
+>  <JCHEM_LOGP>  (1) 
+2.455800395999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.159623182152663
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.54
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.4837
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+meperidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+247.3327
+
+>  <PRODUCTS>  (1) 
+Demerol; Demerol  50mg  - Liq Im IV Sc 50mg/ml; Demerol  50mg - Liq Im Sc    50mg/ml; Demerol 10%-liq Im IV Sc; Demerol 10%-liq Im Sc 100mg/ml; Demerol 100 mg/ml; Demerol 50 mg/ml   (multiple Dose With Metacresol As Preservative); Demerol 50 mg/ml (single Use, Preservative Free); Demerol 75 mg/ml; Demerol 75mg - Liq Im IV Sc 75mg/ml; Meperidine HCl; Meperidine HCl Injection 100mg/ml; Meperidine HCl Injection 10mg/ml; Meperidine HCl Injection 25mg/ml; Meperidine HCl Injection 50mg/ml; Meperidine HCl Injection 75mg/ml; Meperidine Hydrochloride; Meperidine Hydrochloride Injection USP; Meperidine Hydrochloride and Promethazine Hydrochloride; Pethidine Injection B.P.
+
+>  <SALTS>  (1) 
+Meperidine hydrochloride; Pethidine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00074
+
+>  <SMILES>  (1) 
+CCOC(=O)C1(CCN(C)CC1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Isonipecaïne; Meperidine; Pethidin; Péthidine; Pethidinum; Petidina; Petydyna; Sauteralgyl; Spasmedal; Spasmodolin
+
+$$$$

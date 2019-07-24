@@ -1,0 +1,112 @@
+
+     RDKit          2D
+
+  7  6  0  0  0  0  0  0  0  0999 V2000
+   -0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  0
+  7  2  1  0
+  7  3  1  0
+  7  4  1  0
+  7  5  1  0
+  7  6  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11104
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11104
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+145.962490152
+
+>  <FORMULA>  (1) 
+F6S
+
+>  <GENERIC_NAME>  (1) 
+Sulfur hexafluoride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/F6S/c1-7(2,3,4,5)6
+
+>  <INCHI_KEY>  (1) 
+SFZCNBIFKDRMGX-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.111278349049226
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+hexafluoro-λ⁶-sulfane
+
+>  <JCHEM_LOGP>  (1) 
+2.276488861333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+18.4416
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfur hexafluoride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+146.05
+
+>  <PRODUCTS>  (1) 
+LumaSon; Sonovue
+
+>  <SMILES>  (1) 
+FS(F)(F)(F)(F)F
+
+>  <SYNONYMS>  (1) 
+hexafluoridosulfur; Sulfur fluoride; sulfur(6+) fluoride; sulfur(VI) fluoride; Sulphur hexafluoride
+
+$$$$

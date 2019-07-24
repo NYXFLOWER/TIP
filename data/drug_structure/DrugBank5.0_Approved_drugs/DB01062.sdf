@@ -1,0 +1,235 @@
+1062
+     RDKit          2D
+
+ 57 58  0  0  1  0  0  0  0  0999 V2000
+    1.9058    0.5487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9683   -0.1658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9683    1.2632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8559   -2.3092    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    1.3737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    0.5487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163    2.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    2.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    3.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -0.2763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5558    0.5487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -0.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -0.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -1.5138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -1.5138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -1.9263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934   -0.1658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2059   -0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0309   -2.3092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2684   -1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2684   -3.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6184   -1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0934   -1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0934   -3.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2 13  1  0
+  2 19  1  0
+  3 13  2  0
+  4 21  1  0
+  4 22  1  0
+  4 23  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  6  9  1  0
+  7 10  1  0
+  8 12  1  0
+  8 13  1  0
+  9 11  1  0
+ 10 11  1  0
+ 12 14  2  0
+ 12 15  1  0
+ 14 16  1  0
+ 15 17  2  0
+ 16 18  2  0
+ 17 18  1  0
+ 19 20  1  0
+ 20 24  3  0
+ 21 24  1  0
+ 22 25  1  0
+ 23 26  1  0
+  1 27  1  0
+  5 28  1  0
+  6 29  1  0
+  6 30  1  0
+  7 31  1  0
+  7 32  1  0
+  9 33  1  0
+  9 34  1  0
+ 10 35  1  0
+ 10 36  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 14 39  1  0
+ 15 40  1  0
+ 16 41  1  0
+ 17 42  1  0
+ 18 43  1  0
+ 19 44  1  0
+ 19 45  1  0
+ 21 46  1  0
+ 21 47  1  0
+ 22 48  1  0
+ 22 49  1  0
+ 23 50  1  0
+ 23 51  1  0
+ 25 52  1  0
+ 25 53  1  0
+ 25 54  1  0
+ 26 55  1  0
+ 26 56  1  0
+ 26 57  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.36
+
+>  <ALOGPS_LOGS>  (1) 
+-4.55
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.00e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01062
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01062
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+357.230393863
+
+>  <FORMULA>  (1) 
+C22H31NO3
+
+>  <GENERIC_NAME>  (1) 
+Oxybutynin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H31NO3/c1-3-23(4-2)17-11-12-18-26-21(24)22(25,19-13-7-5-8-14-19)20-15-9-6-10-16-20/h5,7-8,13-14,20,25H,3-4,6,9-10,15-18H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+XIQVNETUBQGFHX-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ditropan; Lenditro; Lyrinel XL
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+41.25337570674593
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-(diethylamino)but-2-yn-1-yl 2-cyclohexyl-2-hydroxy-2-phenylacetate
+
+>  <JCHEM_LOGP>  (1) 
+4.438075326666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.532723093750468
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.766932159788546
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+49.77
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+105.26230000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+oxybutynin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+357.4864
+
+>  <PRODUCTS>  (1) 
+Albert Oxybutynin; Apo-oxybutynin; Apo-oxybutynin - Tab 5mg; Ava-oxybutynin; Ditropan Syrup 1mg/ml; Ditropan Tablets 5mg; Ditropan XL; Ditropan XL  -(10mg); Ditropan XL  -(5mg); Dom-oxybutynin 5 Mg Tablets; Gelnique; Kentera; Mylan-oxybutynin; Ntp-oxybutynin; Nu-oxybutyn; Nu-oxybutyn - Tab 5mg; Oxybutyn - 5mg; Oxybutynin; Oxybutynin Chloride; Oxybutynin Chloride Extended Release; Oxybutynin ChlorideExtended Release Extended Release; Oxybutynine-5  -  Tab 5mg; Oxytrol; Oxytrol For Women; PHL-oxybutynin; PMS-oxybutynin; Pat-oxybutynin Chloride ER; Penta-oxybutynin Chloride Tablets; Riva-oxybutynin; Teva-oxybutynin; Uromax
+
+>  <SALTS>  (1) 
+Oxybutynin Chloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00427
+
+>  <SMILES>  (1) 
+CCN(CC)CC#CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Oxibutinina; Oxybutynine; Oxybutyninum
+
+$$$$

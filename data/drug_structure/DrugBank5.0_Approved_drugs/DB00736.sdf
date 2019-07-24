@@ -1,0 +1,214 @@
+
+     RDKit          2D
+
+ 43 45  0  0  0  0  0  0  0  0999 V2000
+   -2.4657   -0.7618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6407   -0.7614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2278   -1.4757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4029   -1.4754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1058   -0.0776    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6400   -2.1903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4650   -2.1908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8771   -2.9055    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7021   -2.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1492   -0.8623    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0341   -0.8605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5257   -1.5228    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5120   -0.1881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -0.4350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3078   -1.2598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0095   -0.0151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0263   -1.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7281   -0.4204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7366   -1.2454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4753   -1.6123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2573   -1.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2272   -2.9047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8779   -1.4764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7005   -1.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  2  0
+  1  2  1  0
+ 23  7  1  0
+  7  6  2  0
+  6  3  1  0
+  3  2  2  0
+  3  4  1  0
+ 10  5  2  0
+  6 22  1  0
+  7  8  1  0
+  8  9  1  0
+ 10 11  1  0
+ 13 11  1  0
+ 11 12  2  0
+ 13 14  1  0
+ 12 15  1  0
+ 16 14  1  0
+ 14 15  2  0
+ 15 17  1  0
+ 16 18  2  0
+ 17 19  2  0
+ 19 18  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 23 24  1  0
+ 10  4  1  0
+  1 25  1  0
+  4 26  1  0
+  4 27  1  0
+  9 28  1  0
+  9 29  1  0
+  9 30  1  0
+ 13 31  1  0
+ 16 32  1  0
+ 17 33  1  0
+ 18 34  1  0
+ 21 35  1  0
+ 21 36  1  0
+ 21 37  1  0
+ 22 38  1  0
+ 22 39  1  0
+ 22 40  1  0
+ 24 41  1  0
+ 24 42  1  0
+ 24 43  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.66
+
+>  <ALOGPS_LOGS>  (1) 
+-2.99
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.53e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00736
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00736
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+345.114712179
+
+>  <FORMULA>  (1) 
+C17H19N3O3S
+
+>  <GENERIC_NAME>  (1) 
+Esomeprazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H19N3O3S/c1-10-8-18-15(11(2)16(10)23-4)9-24(21)17-19-13-6-5-12(22-3)7-14(13)20-17/h5-8H,9H2,1-4H3,(H,19,20)/t24-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+SUBDBMMJDZJVOS-DEOSSOPVSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alenia; Awa-Block; Axagon; Cor; Cronopep; Emanera; Emep; Emozul; ES-OD; Esmep; Eso; Esofag; Esolok; Esomarfan; Esomenta; Esomep; Esomeprazol Genfar; Esopral; Esorest; Lucen; Nexiam
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+43
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.81235576087156
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-methoxy-2-[(S)-(4-methoxy-3,5-dimethylpyridin-2-yl)methanesulfinyl]-1H-1,3-benzodiazole
+
+>  <JCHEM_LOGP>  (1) 
+2.433509123333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+18.31481098320049
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.677577423566118
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.772863671565965
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+77.10000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.6623
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+5-methoxy-2-[(S)-(4-methoxy-3,5-dimethylpyridin-2-yl)methanesulfinyl]-1H-1,3-benzodiazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+345.416
+
+>  <PRODUCTS>  (1) 
+Act Esomeprazole; Apo-esomeprazole; Berkley and Jensen Heartburn Treatment; Careone Esomeprazole Magnesium; DG Health Esomeprazole Magnesium; Equaline Esomeprazole Magnesium; Equate Esomeprazole Magnesium; Esomeprazole; Esomeprazole Dr; Esomeprazole Magnesium; Esomeprazole Magnesium D/r; Esomeprazole Sodium; Esomeprazole Strontium; Esomeprazole magnesium; Esomeprazole sodium; Esomeprazole strontium; Family Wellness Esomeprazole Magnesium; Good Neighbor Pharmacy Esomeprazole Magnesium; Good Sense Esomeprazole Magnesium; Health Mart Esomeprazole Magnesium; Healthy Accents Esomeprazole Magnesium; Kirkland Signature Esomeprazole Magnesium; Leader Heartburn Treatment; Mylan-esomeprazole; Mylan-naproxen/esomeprazole Mr; Nexium; Nexium - 20mg; Nexium - 40mg; Nexium 24HR; Nexium 24HR ClearMinis; Nexium Control; Nexium I.V.; PMS-esomeprazole Dr; PharmapureRx ESOMEP-EZS; Ran-esomeprazole; Riva-esomeprazole Dr; Rugby Esomeprazole Magnesium; Sandoz Esomeprazole; Shoprite Esomeprazole Magnesium; Signature Care Esomeprazole Magnesium; Smart Sense Esomeprazole Magnesium; Sunmark Esomeprazole Magnesium; Topcare Esomeprazole Magnesium; Up and Up Esomeprazole Magnesium; Vimovo
+
+>  <SALTS>  (1) 
+Esomeprazole magnesium; Esomeprazole magnesium dihydrate; Esomeprazole magnesium trihydrate; Esomeprazole sodium; Esomeprazole strontium; Esomeprazole strontium hydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00363
+
+>  <SMILES>  (1) 
+COC1=CC2=C(NC(=N2)[S@@](=O)CC2=NC=C(C)C(OC)=C2C)C=C1
+
+>  <SYNONYMS>  (1) 
+(−)-omeprazole; (S)-(−)-omeprazole; (S)-omeprazole; Esomeprazol; Ésoméprazole; Esomeprazolum; Omeprazole S-form; Perprazole
+
+$$$$

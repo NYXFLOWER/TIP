@@ -1,0 +1,114 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+   16.2523   -9.8275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6648  -10.5419    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9504  -10.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0773  -11.2564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3793  -10.1294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  2  1  0
+  4  2  1  0
+  5  2  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09394
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09394
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+97.976895096
+
+>  <FORMULA>  (1) 
+H3O4P
+
+>  <GENERIC_NAME>  (1) 
+Phosphoric acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)
+
+>  <INCHI_KEY>  (1) 
+NBIIXXVUZAFLBC-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.807259281547982
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+phosphoric acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.0201038226666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.951626889535468
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.7961261340181292
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+77.76
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+14.651900000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phosphoric acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+97.9952
+
+>  <PRODUCTS>  (1) 
+Aminosyn; Anti Nausea; Childrens Emetrol Dye Free Grape; Denti-care Acidulated Phosphate Fluoride; Emetrol Cherry; Equate Anti Nausea; FreAmine III; Good Neighbor Pharmacy Anti Nausea; Good Sense Anti Nausea; HepatAmine; Leader Anti Nausea; Leader Nausea Relief; Nupro Apf Topical Gel; Orthocheck; Select Brand Anti-Nausea; Ziroxide Coarse Grit 1.23% Fluoride; Ziroxide Coarse Paste 1.23% Fluoride; Ziroxide Medium Fine Grit 1.23% Fluoride; Ziroxide Medium Fine Paste 1.23% Fluoride
+
+>  <SMILES>  (1) 
+OP(O)(O)=O
+
+$$$$

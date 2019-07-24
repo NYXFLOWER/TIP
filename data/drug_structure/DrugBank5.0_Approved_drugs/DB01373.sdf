@@ -1,0 +1,107 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+   -0.4241    0.0669    0.0000 Ca  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.31
+
+>  <ALOGPS_LOGS>  (1) 
+1.08
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+0.00e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01373
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01373
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+39.962591155
+
+>  <FORMULA>  (1) 
+Ca
+
+>  <GENERIC_NAME>  (1) 
+Calcium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Ca.2H
+
+>  <INCHI_KEY>  (1) 
+FAQLAUHZSGTTLN-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium
+
+>  <JCHEM_LOGP>  (1) 
+-0.57
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+calcium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+40.078
+
+>  <PRODUCTS>  (1) 
+7030 Calcium Gold; 7030 Calcium Premium; A D Calcium Tab; A-D Calcium Cap; A.R.T.H. Away Formula; Act Etidrocal; Acti-cal/mag 2:1 + Zinc and D Caplet; Acti-megascorb Crystals Pwr; Actical Plus Calcium-magnesium-vitamin D3-silicon Chewable; Active Calcium Plus Magnesium, Vitamin D and Silicon; Actonel Plus Calcium; Actonel Sachet Kit; Ad & Calcium Cap; Ad Calcium Cap; Alsimine W Vitamins A D; Astral C Tab; Avon Nutrivance Soft Calcium Chews With Vitamin D; B & J Formula Dietary Supplement; B-Nexa; Baisix; Bakanasan Calcium Citrate Powder; Biocalth Calcium Powder; Biocalth Calcium Supplement; Bodysmarts With Calcium; Bseltzer; Buffered Vitamin C Powder With Ca Mg and K; Buffered Vitamin C Pwr W Cal-mag-potassium; C-crystals With Calcium; C.H.V. Formula; Cal & Mag Hvp Chel Plus C Potass & Zinc Tab; Cal 500 Tab 500mg; Cal Gel Cap 45mg; Cal M Tab; Cal Mag Drink With Vitamin C; Cal Mag Plus - Tab; Cal Mag Tab; Cal Supp 500; Cal Supp 500 - Tab; Cal-citrus; Cal-mag (one To One) With Potass & Zinc; Cal-mag Citrate Zinc & Vitamin D Tablets; Cal-mag Complete With Zinc, C and D; Cal-mag Plus K, Mn and Zn Caplets; Cal-mag Tablet; Cal-mag Vitamin C and Zinc Tab; Cal-mag With Vitamin D; Cal-mag With Zinc & Vitamin D; Cal/mag 1:1 With Zinc and Vitamin D - Tablet; Cal/mag 2:1 With D; Cal/mag+d; Calburst Calcium 500mg With Vitamin D; Calci-yum Plus Magnesium + D3; Calcimag Tab; Calcitol; Calcium; Calcium  Mg and Zn Capsules With Vitamin D; Calcium & Magnesium Citrate Plus D With Manganese, Potassium & Zinc; Calcium & Magnesium Plus Potassium & Zinc; Calcium & Magnesium Plus Potassium, Zinc, & Manganese; Calcium & Magnesium Tab; Calcium & Magnesium Tablets; Calcium & Magnesium With Potassium & Zinc; Calcium & Magnesium With Potassium, Zinc, Manganese & Vitamin D; Calcium & Magnesium With Vitamin D; Calcium & Vitamin D; Calcium 250 Mg With Vitamin D; Calcium 350 Mg (calcium Citrate)  -  Caplet; Calcium 350 Mg (calcium Citrate) Caplet; Calcium 350mg; Calcium 400 With Magnesium - Pwr; Calcium 500 With Vitamin D Tab; Calcium 500 mg; Calcium 500mg With Vitamin D; Calcium 600; Calcium 600 + D; Calcium 600 + D Comprimes; Calcium 600mg + Vit D3 125unit Tab; Calcium 600mg Dietary Supplement; Calcium 650mg; Calcium 650mg Tab; Calcium 650mg With Vitamin D; Calcium A D; Calcium Ascorbate 1000 Mg  -  Tablet; Calcium Ascorbate Cap 850mg; Calcium Ascorbate Powder; Calcium Ascorbate Tab 550mg; Calcium Caps 400mg; Calcium Caps Plus Magnesium; Calcium Capsules With Magnesium and Vitamin D; Calcium Carbonate; Calcium Carbonate + Vitamin D; Calcium Carbonate 1500mg; Calcium Carbonate Tab; Calcium Carbonate Tablets With Vitamin D; Calcium Chelate Plus Vit D; Calcium Citramate; Calcium Citrate; Calcium Citrate 300mg; Calcium Citrate With Vitamin D; Calcium Citrate and Vitamin D 200mg/160iu; Calcium Complex High Grade; Calcium Et Magnesium Plus Vitamin D; Calcium Et Magnesium Plus Vitamine D/fe/zn; Calcium Et Magnesium Tab; Calcium Gluconate Tablets USP 650 mg; Calcium Lactate 650mg; Calcium Lactate Caps; Calcium Lactate Powder; Calcium Lactate Tab 84.5mg; Calcium Lactate Tablets USP 650 mg; Calcium Liquid; Calcium Liquid Syrup; Calcium Magnesium 1000/500 - Tab; Calcium Magnesium 2:1 Tablets With Vitamin D; Calcium Magnesium Avec Vitamine C; Calcium Magnesium Avec Vitamine D Et Zinc; Calcium Magnesium Sulfur Silicon - Tab; Calcium Magnesium Tab; Calcium Magnesium Tablets Nu Life; Calcium Magnesium With Potassium Tab; Calcium Plus; Calcium Sandoz Syr 110mg/5ml; Calcium Syrup 110mg/5ml; Calcium Tab W Vit D; Calcium With Magnesium and Vitamin D; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium With Vitamin D 200 Mg/160 Iu; Calcium With Vitamin D2; Calcium With Vitamins C and D Tab; Calcium and Mag-potass and Zinc Cap; Calcium and Magnesium 1:1 Plus Tablets; Calcium and Magnesium Citrate With Vitamin D; Calcium and Magnesium Citrate and Vitamin D 250mg/125mg/200iu; Calcium and Magnesium Tab; Calcium and Magnesium Tablets; Calcium and Magnesium W Zinc Tab; Calcium and Magnesium With Vitamin D; Calcium and Magnesium With Zinc; Calcium and Vitamin D - Soft Chew; Calcium, Magnesium, Zinc and D; Calcium-magnesium Cap 1:1 W Vitamin D; Calcium-magnesium With K & Zn and Vitamin D3; Calcium/magnesium Drink; Calcium/magnesium Supplement Tablets; Calcium/magnesium/vitamin D - Capsule; Calcor; Calma-D; Calmax; Calplus; Calsan Chewable Tab 500mg; Caltrate 600 Plus D - Tablet; Cell-wise; Cell-wise Natural Source; Central-vite 18 Essential; Century Complete; Chela Calmag-100 Plus Zinc D3; Chela Calmag-300 Plus Zinc D3; Chelated Cal-mag(2:1)with Zn Vit.c and D; Chelated Cal/mag/zn With Vitamins; Chelated Calcium Supplement - 150mg Tab; Chelated Calcium and Magnesium Tab; Chelazome Calcium 125mg; Chewable Cal-mag Chocolate Flavour; Chewable Calcium & Magnesium 2:1 Tablet; Chewable Calcium 500 Mg With Vitamin D 200 Iu; Chewable Calcium Plus Magnesium and Minerals; Children's Chewable Calcium (chewable Tablets); Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Chromium Gtf + Calcium; Citrate De Calcium Plus Vitamine D Et Zinc; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Coral Calcium; Coral Calcium Plus Vitamin D; Coral Calcium Plus Vitamin D 210mg/100iu; Derma-force; Dia Cal Cap 500mg; Didrocal; Dol Mite Tab; Dolomite 1280mg; ENA Actimineral A; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Eden With Calcium and Vitamin D; Efferlife Calcium 500mg + Vitamin D3 440 Iu + Vitamin C 125mg; Effervescent Vitamin C Powder With Ca and mg; Enviroflex - Tab; Ester C 500 Tab; Ester C Calcium Ascorbate Cap; Ester C Capsule; Ester C Powder; Ester C Tab Chewable; Ester C Vitamin C and Calcium Pws; Ester-C; Ester-C 500 mg; Ester-C 600 mg; Ester-C 787mg; Ester-C Calcium Ascor Tab; Ester-C Calcium Ascorbate Capsules; Ester-C Calcium Ascorbate Tab; Ester-C Calcium Ascorbate Tablets; Ester-C Powder; Ester-C Tablet; Ester-C Vitamin C With Calcium; Etidrocal; Extra Strength Calcium Antacid Chewable; Fb Formula; Femidause; Feminex 300 Tab; Feminique W Iron and Calcium Tab; Ferrous Sulfate; Flex Capsules; Folcaps Omega-3; Formula 2025 Tab; Formula 9 Tab; Formula A.R.-th Dietary Supplement; Formula EC; Formula Inf; Formula Int; Formula O-care Vitamin and Mineral Supplement; Formula Osg; Fusion Activator Formula Tab; Fusion PM Formula Tab; G.A.S. Complex; Gellucal Cap 45mg; Gestamine Comprimes; Good Night/pm Formula Tab; HANTAI 8030 Ca-D3 GOLD; HANTAI 8030 Ca-D3 Premium; Hemarexin Tab; Hi Potency Cal Tab 650mg; Hormodausse Plus Calc Et D Tab; Hvp Chelated Cal/mag With Zinc and Vitamins C and D; Hypo Vites Tab; Iprical; Isotonix Calcium Plus Formula; J.T. Formula; Kanga-V Multivitamins & Minerals; L.G.I.T.; Lactate De Calcium 648 mg; Lactate De Calcium Tab 42.1mg; Leucovorin Ca Inj (pharm. Bulk Vial) 10mg/ml; Liqui Cal-D; Liquical; Liquid Cal-mag; Liquid Cal/mag Plus D; Liquid Calcium With Vitamin D; Liquid Calcium and Magnesium With Vit.d; Lysamine Diet Supp Amp-tab; Mag/cal 1:1 Capsules W Vitamin D; Magnacal; Menocal Tab; Mid-life Magnacal 2; Milk Calcium With Vitamins C, D, and Phosphorous; Min-tran Tab; Mnps Formula Supplement; Mor-cal Tab 500mg; Mor-vites Tab; Multi #2; Multi Rol; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin-mineral Formula; Multi Vitamins & Minerals; Multi-min Electro C Pow Plus B2; Multi-vitamins With Minerals; Multicaps; Multimineral Chelates; Multiple Vitamin Plus Minerals Tab; Multiple Vitamins & Minerals Tablets; Multiple Vitamins W Minerals Tab; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals Tab; Multitabs; Multivitamines Et Mineraux; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Mylan-eti-cal Carepac; Nata Komplete; Natavite; Natelle One; Nexa Plus; Nexa Select Rx Prenatal Vitamin with Plant-Based DHA; Novo-etidronatecal; Ntp-etidronate Calcium; Nutravite Calcium Magnesium and Zinc Caps; Nutri-chem Cal Mag; Nutri-chem Calcium Magnesium With D and Zinc; Nutrifer Plus Tablets; Nutrilite Double X; Nutrol-cal Tab 875mg; O Calcium 500mg Plus D Tab; O-Cal Prenatal Vitamin; O-calcium 250mg Plus D; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Bone Builder; One A Day Multiple Vit W Minerals; One A Day Tab; Opti-cal Chewable +d Caplet; Orange Flavored Crystal Chews Tab; Orifer F; Os-cal 250 mg; Os-cal 500; Os-cal 500 Chewable Tab 500mg; Os-cal-D 500; Osteo Formula; Osteo Formula Tab; Osteo Tablets; Osteo-life; Osteo-plus; Osteocit-D; Osteoligo; Oyster Shell Calcium with Vitamin D; PMS-risedronate Plus Calcium; Pharmacal 500 Tab 500mg; Phytofortis + Calcium A-D; Pnv-dha; Port A Mins Super Cal-mag 300/150 With Vitamin D3; Port A Mins Super Cal-mag 600/300; Port A Mins Super Calcium 375 With Vitamin D3; Port A Mins Super Calcium 750 With Vitamin D3; Pour Ma Santé; PreNatal Vitamins Plus; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Premel; Prenavite Forte Tablets; Prenavite Tablets; Prevencal + D A Croquer 600mg; Prevencal 300 + D A Croquer; Prevencal 500 +d; Prevencal 600 + D Et Fer; Prevencal 600 + D Et Magnesium; Prevencal Tab 500mg; Pure Calcium calcium; Redoxon-cal; Reebok; Regular Strength Calcium Antacid Chew. Tabs; Revitex Ampoules Et Comprimes; Revival 1 Tab; Rolaids Extra Strength Multi-symptom Tablets; Rolaids Extra Strength Tab; Silica-calcium With Biotin Capsules; Soluble Calcium Citrate 1200mg; Somarexin and C 1000; Spd Tab; Spectrum 2 Cap; Stom #2; Super C Crystals W Calcium; Super C-M-K; Super Cal Mag Plus; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Supplement De Vitamines Et Mineraux; Supplements De Vitamines Et Mineraux; Swical D-M - Tab; Swical-multi; T-PA Cap; Tianshi Calcium With Natural Source Vitamin D Tablets; Tianshi Calcium With Natural Source Vitamin E Softgel Capsules; Tianshi Calcium and Vitamin D Chewable Tablets (melon Flavour); Tianshi Calcium and Vitamin D Chewable Tablets (peach Flavour); Tianshi Calcium and Vitamin D Chewable Tablets (strawberry Flavour); Tianshi Vital Powder I; Tianshi Vital Powder II; Tianshi Vital Powder III; Timed Release Ester-C 1000mg; Timed Release and Esterified Vitamin C-500; Tri-mins - Cap; Tropicana Calcium & Vitamin C Supplement; Tropicana Calcium Supplement 344 mg; Tropicana Calcium Supplement 393 mg; Tropicana Calcium Supplement 604 mg; Tropicana Calcium and Vitamin C Supplement; Tums 500 Tab; Tums Extra Strength Assorted Tropical Fruit; Tums Ultra Strength Assorted Mint Flavours; Tums Ultra Strength Assorted Tropical Fruit; Tums Ultra Strength Liquid; Tums Ultra Strength Liquid Plus Anti-gas; UltimateCare ONE NF; Usana Calmag Plus Tablets - Tab; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; Usana Optimizer Actical Plus Calcium-magnesium-vitamin D3-silicon Tablets; Vege 1 Daily Tab; Viamon Ampoules Et Comprimes; Vimeral Tab; Vit C W Calc-mag and Potass Powder; Vita - Gl Capsules; Vitaflex Dietary Suplement; Vitafol Caplet; Vitafol OB Caplet; Vitalife  -  Capsule; Vitality Brand Calcium Plus Tab; Vitamin C Calcium Pwr; Vitamin C and Calcium Tab; Vitamin D + Calcium Dietary Supplement; Vitamine C Cap 600mg; Vitamines A - D Calcium; Vitaplex; Webber Calcium Tab 500mg; Women's Change Formula; Women's Formula; Women's Support Tablets; Zingiber
+
+>  <SMILES>  (1) 
+[Ca]
+
+$$$$

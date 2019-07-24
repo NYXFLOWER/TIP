@@ -1,0 +1,142 @@
+
+     RDKit          2D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+   23.7719  -10.7753    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9153  -10.3628    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0574  -11.1878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3594  -10.0608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1844  -11.4898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4864  -10.3628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2009  -10.7753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  2  0
+  1  5  2  0
+  1  6  1  0
+  2  7  1  0
+  6  7  1  0
+  2  8  1  0
+  3  9  1  0
+  6 10  1  0
+  6 11  1  0
+  7 12  1  0
+  7 13  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.53
+
+>  <ALOGPS_LOGS>  (1) 
+-1.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.27e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09110
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09110
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+141.975835438
+
+>  <FORMULA>  (1) 
+C2H6O3S2
+
+>  <GENERIC_NAME>  (1) 
+Coenzyme M
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H6O3S2/c3-7(4,5)2-1-6/h6H,1-2H2,(H,3,4,5)
+
+>  <INCHI_KEY>  (1) 
+ZNEWHQLOPFWXOF-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.536652175043326
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-sulfanylethane-1-sulfonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.40282442733333357
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.11818943963675
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-1.1570374648504043
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-9.606739922099255
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.37
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+29.130200000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+HS-CoM
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+142.197
+
+>  <PRODUCTS>  (1) 
+Mesna; Mesna for Injection; Mesnex; Uromitexan; Uromitexan Inj 100mg/ml
+
+>  <SALTS>  (1) 
+Mesna
+
+>  <SMILES>  (1) 
+OS(=O)(=O)CCS
+
+>  <SYNONYMS>  (1) 
+2-Mercaptoethane; 2-Mercaptoethanesulfonate; 2-mercaptoethanesulfonic acid; 2-mercaptoethanesulphonic acid; 2-mercaptoethylsulfonate; 2-sulfanylethylsulfonate; Coenzima M; Coenzym M; CoM; HS-CoM; reduced coenzyme M; reduced CoM; β-mercaptoethanesulfonic acid
+
+$$$$

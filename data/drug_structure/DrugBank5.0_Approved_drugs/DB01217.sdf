@@ -1,0 +1,194 @@
+1217
+     RDKit          2D
+
+ 41 42  0  0  0  0  0  0  0  0999 V2000
+    5.9370   -1.8403    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2695   -2.3252    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.8403    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.1098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3495   -3.1098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -1.7297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665   -0.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6830    1.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330    1.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6044   -2.3252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5245   -3.1098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1 14  1  0
+  1 21  1  0
+  2 22  2  0
+  3 19  3  0
+  4 20  3  0
+  5 21  2  0
+  5 22  1  0
+  6  8  1  0
+  6 15  1  0
+  6 16  1  0
+  6 19  1  0
+  7  9  1  0
+  7 17  1  0
+  7 18  1  0
+  7 20  1  0
+  8 10  2  0
+  8 12  1  0
+  9 10  1  0
+  9 13  2  0
+ 11 12  2  0
+ 11 13  1  0
+ 11 14  1  0
+ 10 23  1  0
+ 12 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+ 14 27  1  0
+ 15 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 16 31  1  0
+ 16 32  1  0
+ 16 33  1  0
+ 17 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 18 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.31
+
+>  <ALOGPS_LOGS>  (1) 
+-3.65
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.61e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01217
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01217
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+293.164045633
+
+>  <FORMULA>  (1) 
+C17H19N5
+
+>  <GENERIC_NAME>  (1) 
+Anastrozole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H19N5/c1-16(2,9-18)14-5-13(8-22-12-20-11-21-22)6-15(7-14)17(3,4)10-19/h5-7,11-12H,8H2,1-4H3
+
+>  <INCHI_KEY>  (1) 
+YBBLVLTVTVSKRW-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.96544035444727
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[3-(1-cyano-1-methylethyl)-5-(1H-1,2,4-triazol-1-ylmethyl)phenyl]-2-methylpropanenitrile
+
+>  <JCHEM_LOGP>  (1) 
+3.0284548219999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.2471925510820268
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+78.29
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+97.4729
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+anastrozole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+293.3663
+
+>  <PRODUCTS>  (1) 
+Accel-anastrozole Tablets; Ach-anastrozole; Act Anastrozole; Anastrozole; Apo-anastrozole; Arimidex; Arimidex Tab 1mg; Auro-anastrozole; Bio-anastrozole; Ccp-anastrozole; Dom-anastrozole; Ipg-anastrozole; Jamp-anastrozole; Mar-anastrozole; Med-anastrozole; Mint-anastrozole; Mylan-anastrozole; Nat-anastrozole; PMS-anastrozole; Ran-anastrozole; Riva-anastrozole; Sandoz Anastrozole; Taro-anastrozole; Teva-anastrozole; Van-anastrozole; Zinda-anastrozole
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00016
+
+>  <SMILES>  (1) 
+CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N
+
+>  <SYNONYMS>  (1) 
+Anastrozol
+
+$$$$

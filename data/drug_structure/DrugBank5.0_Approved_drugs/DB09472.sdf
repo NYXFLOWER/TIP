@@ -1,0 +1,120 @@
+
+     RDKit          2D
+
+  7  4  0  0  0  0  0  0  0  0999 V2000
+    1.1139   -2.0218    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0314    0.3718    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8567    1.1964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0314    2.0218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0314    1.1964    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2067    1.1964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8567   -0.5361    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  2  0
+  3  5  1  0
+  4  5  2  0
+  5  6  1  0
+M  CHG  4   1   1   3  -1   6  -1   7   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09472
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09472
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+141.931268528
+
+>  <FORMULA>  (1) 
+Na2O4S
+
+>  <GENERIC_NAME>  (1) 
+Sodium sulfate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2Na.H2O4S/c;;1-5(2,3)4/h;;(H2,1,2,3,4)/q2*+1;/p-2
+
+>  <INCHI_KEY>  (1) 
+PMZURENOXWZQFD-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.805258041379874
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+disodium sulfate
+
+>  <JCHEM_LOGP>  (1) 
+-0.8415520233333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+1.8964254257138693
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-3.034349054191991
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.25999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+11.5274
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+disodium sulfate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+142.042
+
+>  <PRODUCTS>  (1) 
+Bi-peglyte; ColPrep Kit; Colyte; Colyte with flavor packs; Eau Purgative Riga; Electropeg Solution; GaviLyte - C TM; GaviLyte G TM; GoLYTELY; Golytely Gi Lavage Solution; Jamp-electropeg; Jamp-electropeg With Flavour Packet; Jamplyte; Jamplyte 280; Klean-prep; Lyteprep; MoviPrep; Moviprep; Normo Gastryl; Ocl Solution; PEG-3350 and Electrolytes; Peglyte Powder; Peglyte Solution; Polyethylene Glycol 3350 and Electrolytes; Polyethylene Glycol-3350 and Electrolytes; Polyethylene Glycol-3350 and Electrolytes with Flavor Pack; Prolax - Pws; Sodium Polysulthionate, 5-mthf; Sodium polysulthionate and folic acid; Sodium polysulthionate, 5-methyltetrahydrofolate; Suclear; Xizflus
+
+>  <SALTS>  (1) 
+Sodium sulfate decahydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09476
+
+>  <SMILES>  (1) 
+[Na+].[Na+].[O-]S([O-])(=O)=O
+
+>  <SYNONYMS>  (1) 
+Anhydrous sodium sulfate; Sodium sulfate anhydrous; Sodium sulfate, anhydrous; Sodium sulphate anhydrous; Sodium sulphate, anhydrous; Sulfuric acid disodium salt, anhydrous
+
+$$$$

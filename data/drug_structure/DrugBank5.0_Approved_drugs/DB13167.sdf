@@ -1,0 +1,163 @@
+
+     RDKit          2D
+
+ 26 26  0  0  0  0  0  0  0  0999 V2000
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  3
+  4  3  2  0
+  5  2  1  0
+  8  3  1  0
+  8  6  2  0
+  8  7  1  0
+  9  6  1  0
+ 10  4  1  0
+ 10  9  2  0
+ 11  7  1  0
+ 12  9  1  0
+ 13 11  2  0
+ 14 11  1  0
+ 15  5  1  0
+ 15 10  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  3 19  1  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  7 24  1  0
+  7 25  1  0
+ 14 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.01
+
+>  <ALOGPS_LOGS>  (1) 
+-2.90
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.88e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13167
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13167
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <EXACT_MASS>  (1) 
+226.0396719
+
+>  <FORMULA>  (1) 
+C11H11ClO3
+
+>  <GENERIC_NAME>  (1) 
+Alclofenac
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H11ClO3/c1-2-5-15-10-4-3-8(6-9(10)12)7-11(13)14/h2-4,6H,1,5,7H2,(H,13,14)
+
+>  <INCHI_KEY>  (1) 
+ARHWPKZXBHOEEE-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+26
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.284825813457417
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[3-chloro-4-(prop-2-en-1-yloxy)phenyl]acetic acid
+
+>  <JCHEM_LOGP>  (1) 
+2.788617339333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.705692735266783
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.913613057291896
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+57.79630000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mervan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+226.66
+
+>  <SMILES>  (1) 
+OC(=O)CC1=CC(Cl)=C(OCC=C)C=C1
+
+>  <SYNONYMS>  (1) 
+(4-Allyloxy-3-chlorphenyl)essigsäure; [4-(allyloxy)-3-chlorophenyl]acetic acid; 3-Chloro-4-(2-propenyloxy)benzeneacetic acid; Alclofénac; Alclofenaco; Alclofenacum; Alclophenac
+
+$$$$

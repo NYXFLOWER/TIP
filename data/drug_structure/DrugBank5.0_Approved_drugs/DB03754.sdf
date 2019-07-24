@@ -1,0 +1,154 @@
+Structure #1
+     RDKit          2D
+
+ 19 18  0  0  0  0  0  0  0  0999 V2000
+    2.2539    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    1.1270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2539    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  6  1  0
+  2  4  1  0
+  2  7  1  0
+  3  4  1  0
+  3  8  1  0
+  4  5  1  0
+  1  9  1  0
+  1 10  1  0
+  2 11  1  0
+  2 12  1  0
+  3 13  1  0
+  3 14  1  0
+  5 15  1  0
+  5 16  1  0
+  6 17  1  0
+  7 18  1  0
+  8 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.08
+
+>  <ALOGPS_LOGS>  (1) 
+0.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.95e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB03754
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB03754
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+121.073893223
+
+>  <FORMULA>  (1) 
+C4H11NO3
+
+>  <GENERIC_NAME>  (1) 
+Tromethamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H11NO3/c5-4(1-6,2-7)3-8/h6-8H,1-3,5H2
+
+>  <INCHI_KEY>  (1) 
+LENZDBCJOHFCAS-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.02050315198315
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-2-(hydroxymethyl)propane-1,3-diol
+
+>  <JCHEM_LOGP>  (1) 
+-2.7122291176666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.735411337524845
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.16415600582405
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.953961646231539
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.71000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+28.3555
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tris buffer
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+121.135
+
+>  <PRODUCTS>  (1) 
+Sooryehan Hyo Fermented Sun Block; Tham; Tham Solution 36mg/ml
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT03072
+
+>  <SMILES>  (1) 
+NC(CO)(CO)CO
+
+>  <SYNONYMS>  (1) 
+1,1,1-tris(hydroxymethyl)methanamine; 2-Amino-2-(hydroxymethyl)-1,3-propanediol; aminotris(hydroxymethyl)methane; THAM; Tris; Tris(hydroxymethyl)aminomethane; Trometamol
+
+$$$$

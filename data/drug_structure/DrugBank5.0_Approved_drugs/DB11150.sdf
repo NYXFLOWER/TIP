@@ -1,0 +1,110 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Ba  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6536    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  3  6  2  0
+M  CHG  3   1   2   2  -1   4  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB11150
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11150
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+233.856970451
+
+>  <FORMULA>  (1) 
+BaO4S
+
+>  <GENERIC_NAME>  (1) 
+Barium sulfate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Ba.H2O4S/c;1-5(2,3)4/h;(H2,1,2,3,4)/q+2;/p-2
+
+>  <INCHI_KEY>  (1) 
+TZCXTZWJZNENPQ-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.805291890677037
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+barium(2+) ion sulfate
+
+>  <JCHEM_LOGP>  (1) 
+-0.8415520233333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+1.8964254257138706
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-3.034349054191991
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.25999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+11.5274
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+barium(2+) ion sulfate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+233.39
+
+>  <PRODUCTS>  (1) 
+Anatrast Pst 55%; Baricon for Suspension; Baro Bag Enema 98%; Barocat Susp 1.5%; Barosperse Disposable Enema Units 95%; Barosperse for Susp 95%; Cheetah; E-Z-Cat Dry; E-Z-Disk; E-Z-Dose with Liquid Polibar Plus; E-Z-HD; E-Z-Paque; E-Z-Paste; E-Z-jug; E-Z-paque 95%; E-Z-paque Powder for Suspension 95%; ENTERO Vu 24%; Enhancer; Enterovu - Powder for Suspension 81%; Entrobar Suspension 50%; Entroease; Esobar Crm 65%; Evacu Paste 45%; Flo-coat Susp 100%; Hd 85 Barium Sulfate Susp 51%; Hd200 Plus Barium Sulfate for Susp 98%; Intropaste - Pst Orl 44%w/w; Liqui-coat Hd - Sus Orl 210%w/v 81%w/w; Liquid Barosperse- Sus Orl RT 60%w/v 40%w/w; Liquid Polibar Plus; Maxibar Liquid 210gm/100ml; Medebar Plus - Sus Orl RT 56%w/w 100%w/v; Polibar ACB; Polibar Rapid 57% (p/p); Prepcat 1.5%; Readi-Cat 2; Readi-Cat 2 Banana Smoothie; Readi-Cat 2 Berry Smoothie; Readi-Cat 2 Creamy Vanilla Smoothie; Readi-Cat 2 Mochaccino Smoothie; Readi-Cat2; Readi-Cat2 Banana Smoothie; Readi-Cat2 Berry Smoothie; Readi-Cat2 Mochaccino Smoothie; Readi-Cat2 Vanilla Smoothie; Tagitol V; Tomo Cat Barium Sulfate Susp 5%; Tonopaque for Suspension 95%; Vanilla SilQ; Vanilla SilQ HD; Vanilla SilQ MD; Varibar Honey; Varibar Nectar; Varibar Thin Honey; Varibar Thin Liquid; VoLumen
+
+>  <SMILES>  (1) 
+[Ba++].[O-]S([O-])(=O)=O
+
+$$$$

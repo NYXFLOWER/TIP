@@ -1,0 +1,107 @@
+
+     RDKit          2D
+
+  3  1  0  0  0  0  0  0  0  0999 V2000
+    0.0000  -68.9429    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   68.9429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB11151
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11151
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+39.992509329
+
+>  <FORMULA>  (1) 
+HNaO
+
+>  <GENERIC_NAME>  (1) 
+Sodium hydroxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Na.H2O/h;1H2/q+1;/p-1
+
+>  <INCHI_KEY>  (1) 
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium hydroxide
+
+>  <JCHEM_LOGP>  (1) 
+-0.77
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.7
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium hydroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+39.9971
+
+>  <PRODUCTS>  (1) 
+Sodium Hydroxide; Vamin N
+
+>  <SMILES>  (1) 
+[OH-].[Na+]
+
+>  <SYNONYMS>  (1) 
+caustic soda; lye; soda lye; sodium hydrate; white caustic
+
+$$$$

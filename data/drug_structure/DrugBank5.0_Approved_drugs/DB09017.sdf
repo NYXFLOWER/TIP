@@ -1,0 +1,178 @@
+
+     RDKit          2D
+
+ 32 35  0  0  0  0  0  0  0  0999 V2000
+    1.7099   -2.4055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0883    1.2320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9654    2.0478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4433    0.7176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1974    2.3492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9863   -0.5894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5437    0.5047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4200   -1.6331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6753    1.0190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2139   -0.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5524    1.8348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9493   -1.4136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3602   -0.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0303    0.5047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6995   -0.9446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5943   -1.9280    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7844    2.1362    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2870    0.8626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6248   -1.4136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5878   -0.5894    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8745   -0.9446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1540   -1.6331    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  2  1  0
+  5  3  1  0
+  8  1  1  0
+  9  4  2  0
+ 10  6  1  0
+ 11  5  2  0
+ 11  9  1  0
+ 12  6  2  0
+ 13  7  1  0
+ 14  9  1  0
+ 14 10  1  0
+ 15 10  2  0
+ 16 12  1  0
+ 17 11  1  0
+ 18  7  1  0
+ 18 14  2  0
+ 19  8  2  0
+ 20 13  2  0
+ 20 19  1  0
+ 21  8  1  0
+ 21 13  1  0
+ 21 15  1  0
+ 22 12  1  0
+ 22 15  1  0
+  1 23  1  0
+  1 24  1  0
+  1 25  1  0
+  2 26  1  0
+  3 27  1  0
+  4 28  1  0
+  5 29  1  0
+  6 30  1  0
+  7 31  1  0
+  7 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.28
+
+>  <ALOGPS_LOGS>  (1) 
+-3.83
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.80e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09017
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09017
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <EXACT_MASS>  (1) 
+391.949807384
+
+>  <FORMULA>  (1) 
+C15H10BrClN4S
+
+>  <GENERIC_NAME>  (1) 
+Brotizolam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H10BrClN4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)17)10-6-12(16)22-15(10)21(8)13/h2-6H,7H2,1H3
+
+>  <INCHI_KEY>  (1) 
+UMSGKTJDUHERQW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Amnezon; Bondormin; Brometon; Brotizolam M; Dormex; Eurimolan; Goodmin; Lendorm; Lendormin; Lindormin; Nestrom; Noctilan; Noxtal; Ronfleman; Sintonal; Sorentmin; Zestromin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.98556181117153
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-bromo-7-(2-chlorophenyl)-13-methyl-3-thia-1,8,11,12-tetraazatricyclo[8.3.0.0²,⁶]trideca-2(6),4,7,10,12-pentaene
+
+>  <JCHEM_LOGP>  (1) 
+2.6843000000000004
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.492390851771827
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.8993857084013577
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+43.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+101.92739999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+brotizolam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+393.689
+
+>  <SMILES>  (1) 
+CC1=NN=C2CN=C(C3=C(SC(Br)=C3)N12)C1=CC=CC=C1Cl
+
+>  <SYNONYMS>  (1) 
+Brotizolam; Brotizolamum
+
+$$$$

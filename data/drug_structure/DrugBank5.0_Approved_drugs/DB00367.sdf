@@ -1,0 +1,225 @@
+367
+     RDKit          2D
+
+ 51 54  0  0  1  0  0  0  0  0999 V2000
+    6.6263    1.5550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    0.5186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993   -0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849   -0.7189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703   -0.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799    0.7700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849    0.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799   -0.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703    0.5186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9196   -0.7246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3614    0.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -1.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    1.3436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9130   -1.5839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550   -0.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849    1.7561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5482    1.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3729   -0.6948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1413   -2.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.5899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2165    1.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1
+  2 22  2  0
+  3  4  1  0
+  3  7  1  0
+  3  8  1  0
+  3 14  1  1
+  4  5  1  0
+  4  9  1  0
+  5  6  1  0
+  5 13  1  0
+  6 10  1  0
+  6 11  1  0
+  7 12  1  0
+  7 19  1  0
+  8 10  1  0
+  9 12  1  0
+ 11 16  1  0
+ 11 17  1  0
+ 13 15  1  0
+ 14 18  1  0
+ 15 16  1  0
+ 16 21  2  0
+ 17 20  1  0
+ 19 23  3  0
+ 20 22  1  0
+ 21 22  1  0
+  1 24  1  0
+  4 25  1  6
+  5 26  1  1
+  6 27  1  6
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 10 33  1  0
+ 11 34  1  1
+ 12 35  1  0
+ 12 36  1  0
+ 13 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+ 15 41  1  0
+ 15 42  1  0
+ 17 43  1  0
+ 17 44  1  0
+ 18 45  1  0
+ 18 46  1  0
+ 18 47  1  0
+ 20 48  1  0
+ 20 49  1  0
+ 21 50  1  0
+ 23 51  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.25
+
+>  <ALOGPS_LOGS>  (1) 
+-4.73
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.83e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00367
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00367
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+312.20893014
+
+>  <FORMULA>  (1) 
+C21H28O2
+
+>  <GENERIC_NAME>  (1) 
+Levonorgestrel
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H28O2/c1-3-20-11-9-17-16-8-6-15(22)13-14(16)5-7-18(17)19(20)10-12-21(20,23)4-2/h2,13,16-19,23H,3,5-12H2,1H3/t16-,17+,18+,19-,20-,21-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WWYNJERNGUHSAO-XUDSTZEESA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Jadelle; Levonelle; Medonor; Microlut; Microval; Neogest; Norgeston; Norplant; Postinor
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.72791797824078
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,2R,10R,11S,14R,15S)-15-ethyl-14-ethynyl-14-hydroxytetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-5-one
+
+>  <JCHEM_LOGP>  (1) 
+3.6617966023333337
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+19.27817248474075
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.909290746374918
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.5260034647442402
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+37.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+92.0255
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+plan b
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+312.4458
+
+>  <PRODUCTS>  (1) 
+Afirmelle; AfterPill; Aftera; Alesse 21; Alesse 28; Altavera; Alysena 21; Alysena 28; Amethia; Amethyst; Ashlyna; Athentia Next; Aubra; Aviane; Aviane 21; Aviane 28; Aviane 28 Day; Ayuna; Backup Plan; Backup Plan Onestep; Camrese; Chateal; Climara Pro; Contingency; Contingency One; Daysee; Delyla; Econtra Ez; Enpresse; Esme 21; Esme 28; Falessa; Fallback Solo; Falmina; Her style; Indayo; Introvale; Jaydess; Jolessa; Kurvelo; Kyleena; Larissia; Lessina; Levonest; Levonorgestrel; Levonorgestrel Emergency Contraceptive; Levonorgestrel Tablets, 0.75mg; Levonorgestrel and Ethinyl Estradiol; Levonorgestrel and Ethinyl Estradiol Tablets, 0.1 Mg/0.02 mg; Levonorgestrel and Ethinyl Estradiol and Ethinyl Estradiol; Levora; Liletta; Lillow; Lo Simpesse; Lutera; Lutera 21; Lutera 28; Marlissa; Min-ovral 21; Min-ovral 21 Tab; Min-ovral 28; Min-ovral 28 Tab; Mirena; Morning After; My Choice TM; My Way; Myzilra; Next Choice; Next Choice One Dose; Norlevo; Norplant System Kit 36mg/implant; Opcicon One-Step; Option 2; Orsythia; Ovima 21; Ovima 28; Plan B; Plan B One-Step; Portia; Portia 21; Portia 28; Preven Emergency Contraceptive; Preven Tablets; Quasense; React; Seasonale; Seasonique; Setlakin; Simpesse; Skyla; Sronyx; Take Action; Teva-levonorgestrel; Triphasil 21; Triphasil 21 Tab; Triphasil 28; Triphasil 28 Tab; Triquilar 21; Triquilar 28; Trivora; Vienva TM; camrese Lo
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00754; DB00506; APRD00106
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
+
+>  <SYNONYMS>  (1) 
+(8R,9S,10R,13S,14S,17R)-13-ethyl-17-ethynyl-17-hydroxy- 1,2,6,7,8,9,10,11,12,13,14,15,16, 17- tetradecahydrocyclopenta[a] phenanthren-3-one; 18-Methylnorethisterone; d(-)-Norgestrel; Levonorgestrel; Lévonorgestrel; Levonorgestrelum
+
+$$$$

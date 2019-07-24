@@ -1,0 +1,165 @@
+
+     RDKit          2D
+
+ 27 26  0  0  0  0  0  0  0  0999 V2000
+    0.8574   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8574   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8574    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1720   -1.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -1.4667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431   -1.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431   -0.2292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576    0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1720   -0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576    1.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431    1.4208    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1720    1.4208    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2860    1.6500    0.0000 Zn  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  1  6  1  0
+  5  7  1  0
+  7  8  2  0
+  7  9  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 10 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+  1 20  1  0
+  2 21  1  0
+  3 22  1  0
+  6 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 15 27  1  0
+M  CHG  3   9  -1  18  -1  19   2
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.55
+
+>  <ALOGPS_LOGS>  (1) 
+-1.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.22e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11175
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11175
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+307.977549
+
+>  <FORMULA>  (1) 
+C12H8N2O4Zn
+
+>  <GENERIC_NAME>  (1) 
+Zinc picolinate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C6H5NO2.Zn/c2*8-6(9)5-3-1-2-4-7-5;/h2*1-4H,(H,8,9);/q;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+NHVUUBRKFZWXRN-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+27
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.936497092369365
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+zinc(2+) ion bis(pyridine-2-carboxylate)
+
+>  <JCHEM_LOGP>  (1) 
+-0.6513314798278669
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.9979485822657974
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.517960982029459
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+53.019999999999996
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+41.622400000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zinc(2+) ion dipicolinate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+309.59
+
+>  <PRODUCTS>  (1) 
+Tozal
+
+>  <SMILES>  (1) 
+[Zn++].[O-]C(=O)C1=CC=CC=N1.[O-]C(=O)C1=CC=CC=N1
+
+$$$$

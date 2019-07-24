@@ -1,0 +1,222 @@
+679
+     RDKit          2D
+
+ 51 54  0  0  1  0  0  0  0  0999 V2000
+    3.8495   -2.6670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7619   -0.9970    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4206    1.4580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -1.0170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495    1.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495    2.2830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4206    2.2830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7061    1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5640   -2.2545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350   -2.2545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -0.9884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -0.9884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3015   -2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -2.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -1.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0490   -2.2716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4779   -1.4068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 16  1  0
+  2 21  1  0
+  2 25  1  0
+  3  5  1  0
+  3  9  1  0
+  3 12  1  0
+  4 11  1  0
+  4 13  1  0
+  4 14  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7 11  1  0
+  8 10  1  0
+  9 10  1  0
+ 13 15  2  0
+ 13 17  1  0
+ 14 16  2  0
+ 14 18  1  0
+ 15 19  1  0
+ 16 20  1  0
+ 17 21  2  0
+ 18 22  2  0
+ 19 23  2  0
+ 20 24  2  0
+ 21 23  1  0
+ 22 24  1  0
+  5 26  1  0
+  6 27  1  0
+  6 28  1  0
+  7 29  1  0
+  7 30  1  0
+  8 31  1  0
+  8 32  1  0
+  9 33  1  0
+  9 34  1  0
+ 10 35  1  0
+ 10 36  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 12 39  1  0
+ 12 40  1  0
+ 12 41  1  0
+ 17 42  1  0
+ 18 43  1  0
+ 19 44  1  0
+ 20 45  1  0
+ 22 46  1  0
+ 23 47  1  0
+ 24 48  1  0
+ 25 49  1  0
+ 25 50  1  0
+ 25 51  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.93
+
+>  <ALOGPS_LOGS>  (1) 
+-5.64
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.55e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00679
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00679
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <EXACT_MASS>  (1) 
+370.153740222
+
+>  <FORMULA>  (1) 
+C21H26N2S2
+
+>  <GENERIC_NAME>  (1) 
+Thioridazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H26N2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(24-2)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+KLBQZWRITKRQQV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aldazine; Mallorol; Malloryl; Meleril; Mellaril-S; Mellerets; Mellerette; Melleretten; Melleril; Novoridazine; Orsanil; Ridazin; Ridazine; Sonapax; Thioril
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+43.2570033792346
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+10-[2-(1-methylpiperidin-2-yl)ethyl]-2-(methylsulfanyl)-10H-phenothiazine
+
+>  <JCHEM_LOGP>  (1) 
+5.469305906000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.927985751271668
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+113.52260000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+thioridazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+370.575
+
+>  <PRODUCTS>  (1) 
+Mellaril; Mellaril Tab 100mg; Mellaril Tab 10mg; Mellaril Tab 200mg; Mellaril Tab 25mg; Mellaril Tab 50mg; Novo-ridazine (thioridazine Oral Suspension) - 2 mg/ml; Novo-ridazine 100mg; Novo-ridazine 10mg; Novo-ridazine 25mg; Novo-ridazine 50mg; Novo-ridazine Tab 200mg; PMS Thioridazine Tab 50mg; PMS-thioridazine 100mg/tab USP; PMS-thioridazine 10mg/tab USP; PMS-thioridazine Solution 30mg/ml; PMS-thioridazine Solution 5mg/ml; PMS-thioridazine Tab 25mg; Thioridazine Hydrochloride; Thioridazine Oral Sus 2mg/ml; Thioridazine Tab 10mg; Thioridazine Tab 25mg; Thioridazine Tab 50mg
+
+>  <SALTS>  (1) 
+Thioridazine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00596
+
+>  <SMILES>  (1) 
+CSC1=CC2=C(SC3=CC=CC=C3N2CCC2CCCCN2C)C=C1
+
+>  <SYNONYMS>  (1) 
+10-[2-(1-methyl-2-piperidyl)ethyl]-2-methylsulfanyl-phenothiazine; 2-Methylmercapto-10-(2-(N-methyl-2-piperidyl)ethyl)phenothiazine; 3-Methylmercapto-N-(2'-(N-methyl-2-piperidyl)ethyl)phenothiazine; Thioridazin; Thioridazinum; Tioridazina
+
+$$$$

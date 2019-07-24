@@ -1,0 +1,97 @@
+1593
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    2.0000    0.0000    0.0000 Zn  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01593
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01593
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+63.929146578
+
+>  <FORMULA>  (1) 
+Zn
+
+>  <GENERIC_NAME>  (1) 
+Zinc
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Zn
+
+>  <INCHI_KEY>  (1) 
+HCHKCACWOHOZIP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+zinc
+
+>  <JCHEM_LOGP>  (1) 
+0.156
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zinc
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+65.409
+
+>  <PRODUCTS>  (1) 
+A + Zinc; A.B.C. Formula #1; A.R.T.H. Away Formula; Acetabolan III Vitamin and Mineral Supplement; Acetabolan-II Vitamin and Mineral Supplement; Acti-ZN 25 Caplet; Acti-cal/mag 2:1 + Zinc and D Caplet; Acti-carotene + Zn Caplet; Acti-retinol & Zn Caplet; Action Cream; Actyform; Adrenergy Tablets; Advanced Jellyfish Sting Kit; Allergic Itch Relief; Allergy Cream; Amd; Anti Itch; Anti Itch Cream; Anti Itch Spray; Anti Itch and Skin Protectant; Anti itch Topical Analgesic; Anti-Itch; Anti-Itch Cream; Anti-Itch Extra Strength; Anti-Itch Maximum Strength; Anti-Itch Wal-Dryl; Anti-itch Plus Cream; Armax; Atopalm Itch Relief; Avapta; B & J Formula Dietary Supplement; BENADRYL Extra Strength Itch Cooling; BabyB BabySaver; Banophen; Benadryl Bug Bite Relief; Benadryl Extra Strength Itch Relief; Benadryl Extra Strength Itch Stopping; Benadryl Original Strength Itch Stopping; Benadryl ReadyMist Itch Stopping; Benadryl Spray; Benzocaine, Menthol, Zinc Chloride; Beta Carotene Plus; Beta-carotene 25000 Plus Zinc Caplet; Beta-retinol + Zinc Caplet; Bio-b12; Blistex Ivarest Poison Ivy Itch; Bodysaver; Bseltzer; C 106 Tab; C-1000 Plus Zinc & Potassium; C-force; C-plus - Tab; C.A.G. Tab; CVS Extra Strength Itch Relief; CVS Itch Relief; CVS Pharmacy Mouth Sore; CVS Pharmacy Mouth Sore Gel; Cal & Mag Hvp Chel Plus C Potass & Zinc Tab; Cal Mag Plus - Tab; Cal-mag (one To One) With Potass & Zinc; Cal-mag Citrate Zinc & Vitamin D Tablets; Cal-mag Complete With Zinc, C and D; Cal-mag Plus K, Mn and Zn Caplets; Cal-mag Vitamin C and Zinc Tab; Cal-mag With Zinc & Vitamin D; Cal/mag 1:1 With Zinc and Vitamin D - Tablet; Caladryl Clear; Calcium  Mg and Zn Capsules With Vitamin D; Calcium & Magnesium Citrate Plus D With Manganese, Potassium & Zinc; Calcium & Magnesium Plus Potassium & Zinc; Calcium & Magnesium Plus Potassium, Zinc, & Manganese; Calcium & Magnesium With Potassium & Zinc; Calcium & Magnesium With Potassium, Zinc, Manganese & Vitamin D; Calcium Complex High Grade; Calcium Et Magnesium Plus Vitamine D/fe/zn; Calcium Plus; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium and Mag-potass and Zinc Cap; Calcium and Magnesium 1:1 Plus Tablets; Calcium and Magnesium W Zinc Tab; Calcium and Magnesium With Zinc; Calcium, Magnesium, Zinc and D; Calcium-magnesium With K & Zn and Vitamin D3; Caldyphen Clear; Calplus; Careone Allergy; Carti-aide Tab; Cell-wise; Cell-wise Natural Source; Cellular Formula; Chela Calmag-100 Plus Zinc D3; Chela Calmag-300 Plus Zinc D3; Chela Zinc Plus; Chelated Cal-mag(2:1)with Zn Vit.c and D; Chelated Cal/mag/zn With Vitamins; Chelated Mega Zinc Tab 75mg; Chelated Zinc Hvp Chelate 50mg - Tab; Chelated Zinc Tab 10mg; Chelated Zinc Tab 25mg; Chelated Zinc Tablets; Chewable Calcium Plus Magnesium and Minerals; Chewable Zinc Wafers 10mg; Chromagen; Chromease Tab; Citrate De Calcium Plus Vitamine D Et Zinc; Clear Anti Itch; Clear Anti-Itch; Clear Anti-itch Lotion; Complete Multivitamins and Minerals Tablets Timed Release; Copper 3mg Plus Iron & Zinc Tab; Cvs Extra Strength Itch Relief; DG Anti-Itch; Derma Gran; Derma-force; Dermadrox; Dermagran II Moisturiz.spray-liq Top 1mg/ml; Dermagran II Moisturizing Spray 1mg/ml; Dermagran II Moisturizing Spray-1mg/ml; Dermagran Moisturizing Spray; Dermamine Extra Strength Itch Stopping; Dg Health Anti Itch; Diabetic Skin Care Formula; Diaplex; Dinosaurs Im-rap; Diphenhydramine; Diphenhydramine D; Diphenhydramine HCl and Zinc Acetate; Diphenhydramine HCl, Zinc Acetate; Diphenhydramine Hydrochloride and Zinc Acetate; Dr. Sheffield Anti Itch Cream; E & I Formulae; E.S.T. Complex; E.V.C. Vitamins Tab; EC + Complex; Efferlife Multivitamins and Minerals; Eky Efferlife Vitamin C 1000mg With Zinc; Enviroflex - Tab; Equaline Anti Itch; Equaline Anti-itch; Equate Anti Itch; Escavite; Evc - Liq; Evc Liquid Vitamins A,c,b6 With Beta Caro&zn; Extra Strength Wal-dryl Itch Relief; Family Care Anti-Itch; Family Care Anti-itch; Family Wellness; Female Advantage; Fisherman's Friend Zinc Lozenges; Folcaps Care One; Folet One; Food Nutrition Inc. Men's Vitamin and Mineral Supplement; Formula 14 Dietary Supplement; Formula A.R.-th Dietary Supplement; Formula B; Formula Cn; Formula Csp With Vitamins A C and Zinc Loz; Formula EC; Formula Est'ro Tab Support; Formula Im-vitamins and Minerals Tab; Formula Imgrd - Tab; Formula Inf; Formula Int; Formula Ma-vitamin E & Zinc Tab; Formula O; Formula O-care Vitamin and Mineral Supplement; Formula R Mineral Supplement; Formula-4 Sx; Fortifi-plus; Freezone Liq; G-bucal-C; Galzin; Glyco-aide Tab; Golf Vitamin and Mineral Supplement; Good Neighbor Pharmacy Itch Relief Extra Strength; Good Sense Itch Relief; Guardyn Tab; Gumsol; Halls Zinc Defense; Harris Teeter Anti-Itch; Healthy Accents Anti Itch; Herbon Zinc Lozenges; Hi Potency B Complex W Chelated Minerals; Humco Calaclear; Hvp Chelated Cal/mag With Zinc and Vitamins C and D; Hypo Vites Tab; I-care Multivitamin and Multimineral Tablets; IV-8 Formula; Icaps; Icaps Time Release; Imedeen; Imm Formula; Imm Formula Cap; Instant Itch Relief CVS; Iron W Zinc Chelated W Liver Tab; Itabs Plus; Itch Rel Spr Cvs; Itch Relief; Itch Relief Clear Skin Protectant CVS; Itch Relief Cream; Itch Relief Extra Strength; Itch Relief Lotion; Itch Relief Medicated Pads CVS; Itch Relief Spray; Itch Relief Stick; Itch Relief extra strength; Itch Stopping; IvyMed; J.T. Formula; KDS Lab Liquid Styptic; Kama Caze Syrup; Kanga-V Multivitamins & Minerals; Kanka Softbrush; Kc Vitamin and Mineral Supplement; L.G.I.T.; LEADER Caldyphen Clear; Leader Anti Itch Maximum Strength; Live Better Anti-Itch; Lucky Itch Stopping; M T E 4 Concentrate Inj; M.T.E.-4; M.T.E.-4 Concentrated; M.T.E.-6 Concentrated; Magnacal; Magnesium and Zinc; Male Advantage; MaxFe; Meijer Anti-itch; Menocal Tab; Meth-X Vitamin and Mineral Supplement; Mhb; Micro Plus 4 Concentrate; Micro Plus 4 Regular Strength; Micro Plus 5 Concentrate; Micro Plus 6    (concentrate); Micro Plus 6   (pediatric); Micro Plus 6 (regular); Micro Zn; Mineralex; Mte 4 Inj; Multi #2; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamin-mineral Formula; Multi Vitamins & Minerals; Multi-vitamins With Minerals; Multicaps; Multimineral Chelates; Multiple Trace Metal Additive Solution; Multiple Vitamins and Minerals Capsules; Multitabs; Multivitamin and Mineral; Munit-E Tablet; N.U.T. Complex; Nata Komplete; Nbe; Neo-vites & Minerals Tab; Niferex; Nioxin Recharging Complex; Nutra Zinc; Nutravite Calcium Magnesium and Zinc Caps; Nutri-chem Calcium Magnesium With D and Zinc; Nutrilite Double X; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Ocuvite Vitamin and Mineral Supplement; Ocuvite Vitamin and Mineral Supplement Capsules; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; One A Day With Non-medicinal Echinacea; Opti-zinc 25 Caplet; Optivite Vitamin and Mineral Supplement Tablet; Orajel Denture Pain Relief; Orajel Instant Pain Relief Maximum Strength; Orajel Mouth-aid; Orajel Toothache Rinse; Orifer F; Osteo Formula; Osteo-plus; Otozin; P & Sp Special Formula; P.R.O. Complex; Perioselect Zinc Chloride Solution 1%; Polymine Avec Zinc Et Cuivre; Polysporin Itch Relief; Port A Mins Super Zinc 15; Port A Mins Super Zinc 30; Powertech Vitamin and Mineral Supplement; PreNatal Vitamins Plus; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Premier Value Allergy; Prenatal Vitamins Plus Low Iron; Prolynium Vitamin and Mineral Supplement; Pros-gard Zinc and Vitamin B6 - Capsule; Proscare; Prosgard; Prosol Astringent Irrigating Medicament Liq; Prostana Cap 2.5mg; Publix allergy; Q.T. Vitamin and Mineral Drink Mix; QBx (formerly known as PHI-5, K041059); Quality Choice Extra Strength Anti Itch; Reaphirm Plant Source DHA; Rite Aid Maximum Strength; Rite Aid Maximum Strength Itch Relief; S.H. Drink Mix; SPF Rx - SPF 50 Spearmint Lip Balm; Samson; Select Brand Itch Relief; Senior B; ShopRite Anti Itch; Shopko Anti-Itch; Signature Care Itch Relief; Sincera - Tablets; Smart Sense Anti Itch Extra Strength; Smart Sense Itch Stopping; Smart Sense Topical Analgesic Skin Protectant; Solaray; Somavit Brand Vitamins and Minerals Complex; Spectra 301 Vitamin and Mineral Supp; Spectralsine Tab 10mg; Spectrum 2 Cap; StaphWash Plus; StingMed; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Tab With Zinc, Copper and Vitamin E; Strovite Forte Caplet; Sunmark Anti-itch; Super 7 Vitamin and Mineral Supplement; Super Cal Mag Plus; Super Daily No 2; Supplements De Vitamines Et Mineraux; Supravite Stress Avec Vit E Cuivre Et Zinc; Surbex-500 With Zinc; T-PA Cap; Tar-end; Tecnu Calagel; Thymunase Tab; Tianshi Vital Powder I; Tianshi Vital Powder II; TopCare Anti-Itch; Trace Elements Injection USP; Trace Elements Solution Inj; Trace Elements for Injection - Liq IV; Trace Minerals Et/and B12 Tab; Ultra Hr; Up and Up itch relief; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; V-V Dietary Supplement; Vege 1 Daily Tab; VenomX; Vimeral Tab; Vit-HA Multi Vitamin and Zinc Supplement; Vita Day Tab; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitalife  -  Capsule; Vitality Brand Calcium Plus Tab; Vitamin C & Zinc Tab; Vitamin C + Zinc Tab; Vitamin C and Zinc Lozenges; Vitamin E + 3 Extra Strength With Zinc; Vitamin E With Selenium and Zinc; Vitamin and Mineral Supplement Capsules; Vitamune; Vitogen B Stress C Vit E Zinc & Cop; Vp-zel; Vtb Vitamin and Mineral Supplement; Wal-dryl; Wal-dryl Itch Relief; Walgreens Anti Itch; Walgreens Original Strength Anti Itch; Weeks and Leo Extra Strength Itch Stopping; Western Family Itch Relief; WinCo Original Strength Anti-Itch; Women's Formula; Z-force Vitamin and Mineral Supplement; Z-mass PM Vitamin and Mineral Supplement; Zigg-eeze; Zin Pro Tab 90mg; Zinc; Zinc (gluconate) 10 Mg Tablets; Zinc - 25mg Tab; Zinc 10mg; Zinc 25mg Tab; Zinc 50 Caplet; Zinc 50 Mg - Tab; Zinc 50 mg; Zinc 50mg; Zinc 50mg Tab; Zinc 50mg W Vitamin C; Zinc Amino Acid Chelate Tab; Zinc Caps 50mg; Zinc Chelate 20mg With Copper Chelate; Zinc Chelated 50mg Tab; Zinc Citrate - Cap 30mg; Zinc Citrate Chelate Tab 50mg; Zinc Citrate Tab 15mg; Zinc Complex 30mg Tab; Zinc Dietary Supplement; Zinc Formula; Zinc Gluconate 380mg; Zinc Gluconate Tab 10mg; Zinc Gluconate Tab 50mg; Zinc Liquid- 15mg/5ml; Zinc Lozenge 9.9mg; Zinc Lozenge With Vitamin C; Zinc Lozenges; Zinc Lozenges With Non-medicinal Echinacea; Zinc Lozenges With Vitamin C; Zinc Lozenges With Vitamin C In A Nonmedicinal Base With Echinacea Lozenge; Zinc Lozenges With Vitamin C and Non-medicinal Echinacea; Zinc Oral Spray; Zinc Plus Extra C; Zinc Plus Lozenges; Zinc Plus Vitamin B6 Tab; Zinc Plus Vitamins C & B6 Lozenges; Zinc Tab 10mg; Zinc Tab 15mg; Zinc Tab 20mg; Zinc Tab 25mg Hvp Chelated; Zinc Tab 50mg; Zinc Tab 50mg Chelated; Zinc Tablets 25mg; Zinc Tablets 50mg; Zinc With B-carotene Tab; Zinc With C - Loz; Zinc With C Lozenge; Zinc With Vitamin C Lozenges; Zinc and Algin Tab Nu Life; Zinc and Vitamin C Lozenges; Zinc-C Lozenges; Zinc-C-lozenges; Zincitrate Cap 30mg; Zymain Tab
+
+>  <SALTS>  (1) 
+Zinc acetate; Zinc chloride
+
+>  <SMILES>  (1) 
+[Zn]
+
+$$$$

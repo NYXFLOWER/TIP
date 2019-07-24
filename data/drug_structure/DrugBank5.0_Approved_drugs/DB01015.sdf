@@ -1,0 +1,174 @@
+1015
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    2.4751    0.6631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0828    2.8927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.4882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2758    2.7212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.6369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.1619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.9007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9433    1.5651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4953    2.1782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158    2.0920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  4  2  0
+  1  5  1  0
+  1  8  1  0
+  2  6  1  0
+  2 16  1  0
+  5 11  1  0
+  6 11  2  0
+  7 12  1  0
+  8  9  2  0
+  8 10  1  0
+  9 13  1  0
+ 10 14  2  0
+ 11 15  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 15 16  2  0
+ 16 17  1  0
+  5 18  1  0
+  7 19  1  0
+  7 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 17 26  1  0
+ 17 27  1  0
+ 17 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.79
+
+>  <ALOGPS_LOGS>  (1) 
+-2.74
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.59e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01015
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01015
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+253.052111923
+
+>  <FORMULA>  (1) 
+C10H11N3O3S
+
+>  <GENERIC_NAME>  (1) 
+Sulfamethoxazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H11N3O3S/c1-7-6-10(12-16-7)13-17(14,15)9-4-2-8(11)3-5-9/h2-6H,11H2,1H3,(H,12,13)
+
+>  <INCHI_KEY>  (1) 
+JLKIGFTWXXRPMT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Gantanol; Sinomin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.986434544882528
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzene-1-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+0.7905493986666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.160732172136757
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+1.9717778683222775
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+98.22
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.4958
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfamethoxazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+253.278
+
+>  <PRODUCTS>  (1) 
+Apo Sulfamethoxazole Tab 500mg; Apo Sulfatrim DS Tab; Apo Sulfatrim Pediatric; Apo Sulfatrim Tab; Apo-sulfatrim Oral Suspension; Bactrim; Bactrim DS; Bactrim DS Roche Tab; Bactrim Roche Inj; Bactrim Roche Suspension Paediatric; Bactrim Roche Tab; Nu-cotrimox Sus 40/8mg/ml; Nu-cotrimox Tab 400/80mg; Nu-cotrimox-DS Tab 800/160mg; Protrin Df Tab; Protrin Tab; Riva-sep DS; Roubac Tab 160/800; Roubac Tab 80/400; SULFAMETHOXAZOLE and TRIMETHOPRIM; Septra; Septra DS Tablets; Septra Injection; Septra Pediatric Suspension; Sulfamethoxazole Tab 500mg; Sulfamethoxazole and Trimethoprim; Sulfamethoxazole and Trimethoprim (Double Strength); Sulfamethoxazole and Trimethoprim DS; Sulfamethoxazole and Trimethoprim Double Strength; Sulfamethoxazole and Trimethoprim Tablets; Sulfatrim; Teva-trimel; Teva-trimel DS; Trisulfa DS Tab; Trisulfa S Suspension; Trisulfa Tab
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00076
+
+>  <SMILES>  (1) 
+CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+
+>  <SYNONYMS>  (1) 
+3-(p-Aminophenylsulfonamido)-5-methylisoxazole; 3-Sulfanilamido-5-methylisoxazole; 4-Amino-N-(5-methyl-3-isoxazolyl)benzenesulfonamide; SMX
+
+$$$$

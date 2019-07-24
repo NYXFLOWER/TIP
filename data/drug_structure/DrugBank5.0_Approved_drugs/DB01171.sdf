@@ -1,0 +1,185 @@
+1171
+     RDKit          2D
+
+ 35 36  0  0  0  0  0  0  0  0999 V2000
+    2.3645   -3.7126    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    3.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0
+  2  9  1  0
+  2 10  1  0
+  3 12  2  0
+  4  6  1  0
+  4  7  1  0
+  4  8  1  0
+  5 11  1  0
+  5 12  1  0
+  6  9  1  0
+  7 10  1  0
+  8 11  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 14 16  1  0
+ 15 17  2  0
+ 16 18  2  0
+ 17 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 11 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.56
+
+>  <ALOGPS_LOGS>  (1) 
+-2.38
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.12e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01171
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01171
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+268.097855505
+
+>  <FORMULA>  (1) 
+C13H17ClN2O2
+
+>  <GENERIC_NAME>  (1) 
+Moclobemide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H17ClN2O2/c14-12-3-1-11(2-4-12)13(17)15-5-6-16-7-9-18-10-8-16/h1-4H,5-10H2,(H,15,17)
+
+>  <INCHI_KEY>  (1) 
+YHXISWVBGDMDLQ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.278195476519702
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-chloro-N-[2-(morpholin-4-yl)ethyl]benzamide
+
+>  <JCHEM_LOGP>  (1) 
+1.4517509229999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.732517018798415
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.017500313258561
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.57
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.93150000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+arima
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+268.739
+
+>  <PRODUCTS>  (1) 
+Dom-moclobemide Tablets 150mg; Dom-moclobemide Tablets 300mg; Manerix; Manerix Tab 100mg; Moclobemide; Moclobemide-100; Moclobemide-150; Nu-moclobemide; PMS-moclobemide; Ratio-moclobemide - Tab 150mg; Ratio-moclobemide - Tab 300mg; Riva-moclobemide 150mg Tablets; Riva-moclobemide 300mg Tablets; Teva-moclobemide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00603
+
+>  <SMILES>  (1) 
+ClC1=CC=C(C=C1)C(=O)NCCN1CCOCC1
+
+>  <SYNONYMS>  (1) 
+Moclobemida; Moclobemide; Moclobemidum
+
+$$$$

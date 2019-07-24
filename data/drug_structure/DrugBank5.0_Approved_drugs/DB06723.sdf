@@ -1,0 +1,128 @@
+
+     RDKit          2D
+
+ 10  6  0  0  0  0  0  0  0  0999 V2000
+   -0.0145    0.7666    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9853   -0.7041    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9854   -0.7666    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0770   -0.1416    0.0000 Al  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2  6  1  0
+  3  7  1  0
+  4  8  1  0
+  4  9  1  0
+  4 10  1  0
+M  CHG  4   1  -1   2  -1   3  -1   4   3
+M  END
+>  <DATABASE_ID>  (1) 
+DB06723
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06723
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+77.989757403
+
+>  <FORMULA>  (1) 
+AlH3O3
+
+>  <GENERIC_NAME>  (1) 
+Aluminum hydroxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Al.3H2O/h;3*1H2/q+3;;;/p-3
+
+>  <INCHI_KEY>  (1) 
+WNROFYMDJYEPJX-UHFFFAOYSA-K
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+AlternaGel; Alu-Cap; Amphojel
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+aluminium(3+) trihydroxide
+
+>  <JCHEM_LOGP>  (1) 
+1.4499999999999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+3
+
+>  <JCHEM_PKA>  (1) 
+4.49
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.07
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+aluminum hydroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+78.0036
+
+>  <PRODUCTS>  (1) 
+AHC Premium Intense Contour Balm; Acid Gone Antacid; Acid Gone Antacid Extra Strength; Acidex Tc Oral Suspension; Advanced Antacid Cherry; Advanced Antacid Regular Strength; Advanced Regular Strength Antacid; Alka Phenyl Tab; Alka Phenylbutazone Tab; Almacone; Almacone Antacid Antigas; Almacone Double Strength; Almagel Plus Sus; Alu-tab Tab 600mg; Aluminum Hydroxide; Aluminum Hydroxide, Magnesium Hydroxide, Simethicone; Aluminum hydroxide and Magnesium carbonate; Alumox; Amphojel 500 Suspension; Amphojel Plus Suspension; Antacid; Antacid & Antigas; Antacid - Alumina and Magnesia Oral Suspension USP; Antacid Anti-Gas; Antacid Antigas; Antacid Antigas Maximum Strength; Antacid Antigas Maximum Strength Mint; Antacid Antigas Nta; Antacid Cherry Flavored; Antacid Chewable Tab; Antacid Double Strength; Antacid Extra Strength; Antacid Liquid Max Strength Cherry; Antacid Liquid Mint; Antacid Liquid Susp; Antacid Magnesia and Alumina; Antacid Maximum Strength; Antacid Mint; Antacid Mint Flavored; Antacid Plus - Sus; Antacid Plus Antiflatuent; Antacid Plus Antiflatulent; Antacid Plus Antiflatulent - Alumina, Magnesia & Simethicone Oral Suspension; Antacid Plus Extra Strength; Antacid Plus Gas Relief; Antacid Plus Gas Relief Regular Strength; Antacid Regular Strength; Antacid Regular With Anti-gas; Antacid Supreme; Antacid Supreme Cherry; Antacid Sus; Antacid With Alumina, Magnesia Plus Simethicone Oral Suspension USP; Antacid With Anti-gas Liquid Extra Strength Mint Flavour; Antacid and Antigas; Antacid regular strength; Antiacide Avec Antiflatulent Sus; Antiacide Sus; C2 Buffered Tab; C2 Buffered With Codeine Tab; CVS Health Extra Strength Heartburn Relief Antacid Original Flavor; CareOne Antacid; Careone Antacid Regular Strength; Careone Liquid Antacid; Careone antacid; Centra Acid Plus-sus; Centra Acid-sus; ConRx AR; Derma Gran; DermaMed; Dermadrox; Dermagran Ointment; Dg Health Antacid; Diovol EX Tab; Diovol Plus Suspension; Eno; Equaline Antacid; Equaline Antacid regular strength; Equate Antacid regular strength; Equate antacid extra strength; Equate antacid maximum strength; Equate antacid regular strength; Estomarol; Exchange Select Antacid Regular Strength; Extra Strength Heartburn Relief; Extra Strength Heartburn Relief Antacid; FLANAX Antacid Anti-gas; Flanax Antacid; Foamcoat Antacid; GOOD NEIGHBOR PHARMACY Antacid Extra Strength; Gasulsol Tab; Gasva; Gavis-care Antacid; Gaviscon; Gaviscon Butterscotch Flavour Tablets; Gaviscon Extra Strength; Gaviscon Extra Strength Butterscotch Flavoured Tablets; Gaviscon Extra Strength Strawberry Fl.tabs; Gaviscon Extra Strength Tablets; Gaviscon Regular Strength; Gaviscon Tablets; Gaviscon Tablets - Butterscotch and Fr.fl.; Gaviscon Tabs Extra Strength; Gelusil; Gelusil Antacid & Anti-gas; Gelusil Extra Strength Liq; Gelusil Extra Strength Tablets; Gelusil Liquid Sus; Gelusil Maximum Strength; Geri-lanta Antacid Antigas; Geri-lanta Maximum Strength; Geri-mox Antacid Antigas; Geri-mox Max Cherry; Good Neighbor Pharmacy Antacid; Good Sense Antacid; Good Sense Antacid Maximum Strength; Good Sense Antacid Regular Strength; Good Sense antacid; Harris Teeter Antacid; Harris Teeter Antacid Maximum Strength; Harris Teeter Antacid Regular Strength; Health Mart Antacid; Healthy Accents Antacid; Healthy Accents Maldroxal; Heartburn Relief; Heartburn Relief - Tab; Indigel Plus Liquid; Inon; Isa Knox Ageless Serum Makeup Base 10; Isaknox Ageless Serum Blemish Balm; Isaknox Ageless Serum Moist Pearl Base; Leader Antacid Maximum Strength; Leader Antacid Regular Strength; Leader AntacidRegular Strength Regular Strength; Maalox Advanced Antacid & Antigas; Maalox Advanced Extra Strength Antacid & Antigas; Maalox Advanced Maximum Strength Cherry; Maalox Advanced Maximum Strength Mint; Maalox Advanced Maximum Strength Wild Berry; Maalox Advanced Regular Strength Mint; Maalox Antacid; Maalox Plus Extra Strength (cherry); Maalox Plus Extra Strength Tablets; Maalox Plus Suspension Extra Strength; Maalox Plus Suspension Flavour; Maalox Plus Tab; Maalox Plus Tablets; Maalox Plus Tablets Lemon Flavour; Maalox Plus Tablets Mint Flavour; Maalox Suspension; Maalox Tablet; Maalox Tablets; Maalox Tablets Cherry Flavour; Maalox Tablets Mint Flavour; Maalox Tc Suspension; Maalox Tc Tablet; Mag-AL Liquid; Mag-AL Plus; Mag-AL Plus XS; Mag-Al; Mag-Al Plus; Mag-Al Plus XS; Magsil; Magsil Antacid (lemon Mint); Maximum Strength Antacid; Maximum Strength Antacid Anti Gas; Maximum Strength Antacid Mint; Maximum Strength Antacid and Antigas; Maximum Strength Antacid and Antigas Cherry; Maximum Strength Comfort Gel; Medi Hydro DP BB Cream; Medique Alamag Plus; Mi-Acid Regular Strength; Mi-acid Maximum Strength; Mi-acid Regular Strength; Mintox; Mintox Maximum Strength; Mintox Plus Tabs; Mucaine - Sus; Mylanta Liquid Extra Strength Sus; Mylanta Liquid Regular Strength Sus; Mylanta Maximum Strength Classic Flavor; Mylanta Maximum Strength Vanilla Caramel Flavor; Mylanta Plain Liq Double Strength; Mylanta Plain Liq Double Strength Sus; Mylanta Tablets Double Strength; Mylanta Tablets Regular Strength; Neutralca S Sus; Neutralca S Tab; PMS-alumina Mag and Simethicone Sus; Phenylone Plus Tab; Rafton Tablets - Fruit Flavour; Regular Strength Antacid; Regular Strength Antacid Antigas; Regular Strength Antacid Mint; Regular Strength Comfort Gel; Regular Strength antacid anti gas; Rexall Antacid Advanced; Ri Mox; Riginic Antacid Liquid; Rulox Regular; Rx Act Antacid Extra Strength; Rx Act Antacid regular strength; Shoprite Antacid; Signature Care Antacid Plus Gas Relief; Smart Sense Antacid; SohMed Acid Reducer; Sooryehan Onbit Essence Foundation 21; Spasmo Nil Tab; Stomaax; Stomaax Plus; Stratuscare Antacid And Antigas; Stratuscare Antacid and Antigas; Stratuscare Antacid and Antigas Regular Strength; Sunmark Antacid; Sunmark Antacid Maximum Strength; Sunmark Antacid Maximum Strength Cherry; Sunmark antacid extra strength; Topcare Antacid; Topcare Antacid Maximum Strength; Topcare Antacid Plus Anti Gas; Topcare Antacid Regular Strength; Univol Suspension; Up and Up Antacid Anti Gas; Up and Up Antacid Anti Gas Regular Strength; leader Antacid Extra Strength
+
+>  <SALTS>  (1) 
+Algeldrate; Almagate
+
+>  <SMILES>  (1) 
+[OH-].[OH-].[OH-].[Al+3]
+
+>  <SYNONYMS>  (1) 
+Aluminium hydroxide; Aluminium hydroxide gel, dried; Aluminium hydroxide, dried; Aluminum hydroxide gel, dried; Aluminum hydroxide, dried; Dried aluminium hydroxide; Dried aluminum hydroxide gel
+
+$$$$

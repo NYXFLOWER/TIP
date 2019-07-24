@@ -1,0 +1,185 @@
+1221
+     RDKit          2D
+
+ 32 33  0  0  1  0  0  0  0  0999 V2000
+    4.6295   -0.6759    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    0.6029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.1115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.5240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.3491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7110    0.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4863    0.1366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5677    1.2312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    0.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1182    0.6669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1997    1.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9750    1.4794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2  8  2  0
+  3  4  1  0
+  3 13  1  0
+  4  5  1  0
+  4  8  1  0
+  4 10  1  0
+  5  6  1  0
+  6  7  1  0
+  7  9  1  0
+  8  9  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 14 16  2  0
+ 15 16  1  0
+  3 17  1  0
+  5 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  7 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 16 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.69
+
+>  <ALOGPS_LOGS>  (1) 
+-3.71
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.64e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01221
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01221
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+237.092041846
+
+>  <FORMULA>  (1) 
+C13H16ClNO
+
+>  <GENERIC_NAME>  (1) 
+Ketamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H16ClNO/c1-15-13(9-5-4-8-12(13)16)10-6-2-3-7-11(10)14/h2-3,6-7,15H,4-5,8-9H2,1H3
+
+>  <INCHI_KEY>  (1) 
+YQEZLKZALYSWHR-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ketaject; Ketanest
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.969862915889696
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one
+
+>  <JCHEM_LOGP>  (1) 
+3.347302666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.78330470645551
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.454261321661874
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.1
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+65.55380000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ketamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+237.725
+
+>  <PRODUCTS>  (1) 
+Ketalar; Ketamine Hydrochloride; Ketamine Hydrochloride Injection Sdz; Ketamine Hydrochloride Injection USP; Topical Nerve Pain
+
+>  <SALTS>  (1) 
+Ketamine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00493
+
+>  <SMILES>  (1) 
+CNC1(CCCCC1=O)C1=CC=CC=C1Cl
+
+>  <SYNONYMS>  (1) 
+(+-)-Ketamine; (±)-ketamine; 2-(2-Chloro-phenyl)-2-methylamino-cyclohexanone; 2-(methylamino)-2-(2-chlorophenyl)cyclohexanone; 2-(o-chlorophenyl)-2-(methylamino)-cyclohexanone; DL-ketamine; Ketamina; Kétamine; Ketaminum; NMDA; Special K
+
+$$$$

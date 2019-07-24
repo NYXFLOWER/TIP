@@ -1,0 +1,167 @@
+555
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    4.9509    0.9529    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.6029    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2846    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.1279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.3472    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2 13  1  0
+  3  6  2  0
+  3  9  1  0
+  4 12  1  0
+  4 16  2  0
+  5 12  1  0
+  6 16  1  0
+  7 16  1  0
+  8  9  1  0
+  8 10  2  0
+  8 11  1  0
+  9 12  2  0
+ 10 13  1  0
+ 11 14  2  0
+ 13 15  2  0
+ 14 15  1  0
+  5 17  1  0
+  5 18  1  0
+  7 19  1  0
+  7 20  1  0
+ 11 21  1  0
+ 14 22  1  0
+ 15 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.87
+
+>  <ALOGPS_LOGS>  (1) 
+-2.72
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.88e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00555
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00555
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+255.007850663
+
+>  <FORMULA>  (1) 
+C9H7Cl2N5
+
+>  <GENERIC_NAME>  (1) 
+Lamotrigine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H7Cl2N5/c10-5-3-1-2-4(6(5)11)7-8(12)14-9(13)16-15-7/h1-3H,(H4,12,13,14,16)
+
+>  <INCHI_KEY>  (1) 
+PYZRQGJRPPTADH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Convulsan; Crisomet; Dafex; Daksol; Danoptin; Dezepil; Elmendos; Epilepax; Epimil; Epiral; Epitec; Epitrigine; Labileno; Lambipol; Lamect; Lameptil; Lameptil S; Lametec; Lamez; Lamictal CD; Lamictin; Lamotrix; Larig; Medotrigin; Mogine; Trimolep; Trogine; Xebarin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.10429797036266
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-(2,3-dichlorophenyl)-1,2,4-triazine-3,5-diamine
+
+>  <JCHEM_LOGP>  (1) 
+1.9265221886666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+19.21539181005468
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.97924095981977
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.874296269611684
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+90.71
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+66.61970000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lamotrigine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+256.091
+
+>  <PRODUCTS>  (1) 
+Apo-lamotrigine; Auro-lamotrigine; Dom-lamotrigine; LAMOTRIGINE Kit; Lamictal; Lamictal - Tab 200mg; Lamictal ODT; Lamictal XR; Lamotrigine; Lamotrigine Extended Release; Lamotrigine-100; Lamotrigine-150; Lamotrigine-25; Mylan-lamotrigine; Nu-lamotrigine; PHL-lamotrigine; PMS-lamotrigine; Ratio-lamotrigine; Teva-lamotrigine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00570
+
+>  <SMILES>  (1) 
+NC1=NC(N)=C(N=N1)C1=C(Cl)C(Cl)=CC=C1
+
+>  <SYNONYMS>  (1) 
+Lamotrigina; Lamotrigine; Lamotriginum
+
+$$$$

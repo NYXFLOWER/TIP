@@ -1,0 +1,206 @@
+669
+     RDKit          2D
+
+ 41 42  0  0  0  0  0  0  0  0999 V2000
+    3.0791   -0.5207    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -1.2351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    0.1938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7176   -1.5972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0375    1.4693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9332    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7176   -0.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9739    0.5149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.3457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7812    0.6851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.1082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1991   -0.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.7582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.3457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8448    1.6394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4865    2.0833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  6  1  0
+  1 15  1  0
+  4 10  1  0
+  4 14  1  0
+  5 12  1  0
+  5 18  1  0
+  5 19  1  0
+  6 20  1  0
+  7  8  1  0
+  7  9  1  0
+  7 14  2  0
+  8 10  2  0
+  8 13  1  0
+  9 12  1  0
+ 10 16  1  0
+ 11 13  2  0
+ 11 15  1  0
+ 11 17  1  0
+ 16 17  2  0
+  4 21  1  0
+  6 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 12 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 16 31  1  0
+ 17 32  1  0
+ 18 33  1  0
+ 18 34  1  0
+ 18 35  1  0
+ 19 36  1  0
+ 19 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.17
+
+>  <ALOGPS_LOGS>  (1) 
+-3.37
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.27e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00669
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00669
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+295.135447621
+
+>  <FORMULA>  (1) 
+C14H21N3O2S
+
+>  <GENERIC_NAME>  (1) 
+Sumatriptan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H21N3O2S/c1-15-20(18,19)10-11-4-5-14-13(8-11)12(9-16-14)6-7-17(2)3/h4-5,8-9,15-16H,6-7,10H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+KQKPFRSPSRPDEB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adracon; Altaxa; Apigrane; Boots Pharmacy Migraine Relief; Cinie; Frimig; Illument; Imigen; Imigran; Imigran mite; Imigran Radis; Imigrane; Imitrex Oral; Migralgin; Migraneitor; Nazdav; Sapphirex; Sumatran; Sumax; Suminat; Youshu
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.30534147835603
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-{3-[2-(dimethylamino)ethyl]-1H-indol-5-yl}-N-methylmethanesulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+0.7419288613400098
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+17.140195724720275
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.244987975521886
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.536988551879368
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+65.2
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.08419999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sumatriptan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+295.4
+
+>  <PRODUCTS>  (1) 
+Act Sumatriptan; Alsuma; Apo-sumatriptan; Ava-sumatriptan; Dom-sumatriptan; Imitrex; Imitrex - Tab 50mg; Imitrex Df - Tab 100mg; Imitrex Df - Tab 25mg; Imitrex Df - Tab 50mg; Imitrex Inj 12mg/ml; Imitrex Nasal Spray; Imitrex Tab 100mg; Migranow; Mylan-sumatriptan; Ntp-sumatriptan DF; Nu-sumatriptan; Onzetra; PHL-sumatriptan; PMS-sumatriptan; Q-sumatriptan; Ratio-sumatriptan; Riva-sumatriptan; Sandoz Sumatriptan; Sdz-sumatriptan; Sumatriptan; Sumatriptan DF; Sumatriptan Injection; Sumatriptan Injection, USP; Sumatriptan Succinate; Sumavel DosePro; Taro-sumatriptan; Teva-sumatriptan; Teva-sumatriptan DF; Treximet; ZEMBRACE SymTouch; Zecuity
+
+>  <SALTS>  (1) 
+Sumatriptan Succinate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00379
+
+>  <SMILES>  (1) 
+CNS(=O)(=O)CC1=CC2=C(NC=C2CCN(C)C)C=C1
+
+>  <SYNONYMS>  (1) 
+Sumatriptan; Sumatriptán; Sumatriptanum
+
+$$$$

@@ -1,0 +1,111 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1  -1
+M  ISO  1   1 131
+M  END
+>  <DATABASE_ID>  (1) 
+DB09293
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09293
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+130.906672748
+
+>  <FORMULA>  (1) 
+I
+
+>  <GENERIC_NAME>  (1) 
+Iodide I-131
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/HI/h1H/p-1/i1+4
+
+>  <INCHI_KEY>  (1) 
+XMBWDFGMSWQBCA-RNFDNDRNSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.07487188
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(131I)iodide
+
+>  <JCHEM_LOGP>  (1) 
+1.02055578
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-8.999999999999996
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.9462
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(131I)iodide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+130.9067
+
+>  <PRODUCTS>  (1) 
+Hicon; I 131 Mini; I3odine MAXTM; Sodium Iodide I 131; Sodium Iodide I 131 Diagnostic; Sodium Iodide I-131; Sodium Iodide I-131 Therapeutic
+
+>  <SALTS>  (1) 
+Sodium iodide I-131
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB12217
+
+>  <SMILES>  (1) 
+[131I-]
+
+>  <SYNONYMS>  (1) 
+Iodide I-131; Iodide I-131 ion; Iodide ion I 131; Iodide ion, I-131; Iodide-131; iodine I-131; Radioiodine
+
+$$$$

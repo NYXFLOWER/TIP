@@ -1,0 +1,207 @@
+567
+     RDKit          2D
+
+ 41 43  0  0  1  0  0  0  0  0999 V2000
+    3.0790   -0.8460    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2074    0.9795    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2199   -0.0131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.0415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.0415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.3915    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2074   -1.0214    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3717   -2.1906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.4335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6253   -0.4369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6253    0.3949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.4335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.3915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0048   -0.8096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.6290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5869   -1.3942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3842   -1.1822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5994   -0.3858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9664   -1.7668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3967   -0.1739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7637   -1.5550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9789   -0.7585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 13  1  0
+  2 11  2  0
+  3 15  2  0
+  4 17  1  0
+  5 17  2  0
+  6  9  1  0
+  6 11  1  0
+  6 12  1  0
+ 10  7  1  6
+  7 15  1  0
+ 18  8  1  1
+  9 10  1  0
+ 10 11  1  0
+ 12 14  2  0
+ 12 17  1  0
+ 13 14  1  0
+ 14 16  1  0
+ 15 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  2  0
+ 22 24  2  0
+ 23 24  1  0
+  4 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+  9 29  1  6
+ 10 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 16 33  1  0
+ 16 34  1  0
+ 16 35  1  0
+ 18 36  1  0
+ 20 37  1  0
+ 21 38  1  0
+ 22 39  1  0
+ 23 40  1  0
+ 24 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.55
+
+>  <ALOGPS_LOGS>  (1) 
+-3.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.97e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00567
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00567
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+347.093976737
+
+>  <FORMULA>  (1) 
+C16H17N3O4S
+
+>  <GENERIC_NAME>  (1) 
+Cephalexin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H17N3O4S/c1-8-7-24-15-11(14(21)19(15)12(8)16(22)23)18-13(20)10(17)9-5-3-2-4-6-9/h2-6,10-11,15H,7,17H2,1H3,(H,18,20)(H,22,23)/t10-,11-,15-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+ZAIPMKNFIOOWCQ-UEKVPHQBSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alcephin; Alexin; Alsporin; Cefadin; Cefalin; Ceforal; Cefovit; Celexin; Cephin; Ceporexin; Felexin; Ibilex; Keforal; L-Keflex; Larixin; Lonflex; Madlexin; Nufex; Oriphex; Ospexin; Palitrex; Pyassan; Sanaxin; Sencephalin; Sepexin; Servispor; Sialexin; Sporicef; Sporidex; Syncl; Tepaxin; Uphalexin; Voxxim; Winlex
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.517372137229785
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(6R,7R)-7-[(2R)-2-amino-2-phenylacetamido]-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.145040938549694
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.912251938144717
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.4520106778278037
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.438374274238598
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+112.72999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+88.97360000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cephalexin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+347.389
+
+>  <PRODUCTS>  (1) 
+Apo-cephalex; Cephalexin; Cephalexin Tab 250mg; Cephalexin Tab 500mg; Cephalexin USP; Daxbia; Dom-cephalexin - Tab 250mg; Dom-cephalexin - Tab 500mg; Dom-cephalexin 125 - Sus 125mg/5ml; Dom-cephalexin 250 - Sus 250mg/5ml; Keflex; Lupin-cephalexin; Nu-cephalex Tab 250mg; Nu-cephalex Tab 500mg; PMS-cephalexin - Tab 250mg; PMS-cephalexin - Tab 500mg; PMS-cephalexin 125 - Sus 125mg/5ml; PMS-cephalexin 250 - Sus 250mg/5ml; Penta-cephalexin - 250mg; Penta-cephalexin - 500mg; Stcc-cephalexin -tab 250mg; Stcc-cephalexin -tab 500mg; Stcc-cephalexin 125 - Orl Sus 125mg/5ml; Stcc-cephalexin 250 - Sus Orl 250mg/5ml; Teva-cephalexin; Teva-cephalexin 125; Teva-cephalexin 250
+
+>  <SALTS>  (1) 
+Cefalexin hydrochloride; Cefalexin monohydrate; Cefalexin sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00250
+
+>  <SMILES>  (1) 
+[H][C@]12SCC(C)=C(N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(6R,7R)-7-{[(2R)-2-amino-2-phenylacetyl]amino}-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid; 7-(D-alpha-Aminophenylacetamido)desacetoxycephalosporanic acid; 7-beta-(D-alpha-Amino-alpha-phenylacetylamino)-3-methyl-3-cephem-4-carboxylic acid; Anhydrous cefalexin; Anhydrous cephalexin; Cefalexin; Cefalexin anhydrous; Cefalexina; Céfalexine; Cefalexinum; Cephalexin anhydrous
+
+$$$$

@@ -1,0 +1,200 @@
+
+     RDKit          2D
+
+ 44 45  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4445   -2.4659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1564   -2.0489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1511   -1.2239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4341   -0.8159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7222   -1.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7274   -2.0579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0052   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7118    0.4170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7171    0.4080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4393    1.6409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1511    1.2239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1459    0.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1408    0.4260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1355    1.2510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    0.0181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8734   -2.4569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5853   -2.0399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.0090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7222    1.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  0
+  1  9  1  0
+  1 11  1  0
+  2  3  2  0
+  2  7  1  0
+  3  4  1  0
+  3 18  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  9 10  1  0
+ 10 15  1  0
+ 11 21  1  0
+ 11 20  2  0
+ 21 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 20  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 18 19  1  0
+  2 22  1  0
+  4 23  1  0
+  5 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 17 40  1  0
+ 19 41  1  0
+ 19 42  1  0
+ 19 43  1  0
+ 21 44  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.89
+
+>  <ALOGPS_LOGS>  (1) 
+-2.56
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.81e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06691
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06691
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+285.184112373
+
+>  <FORMULA>  (1) 
+C17H23N3O
+
+>  <GENERIC_NAME>  (1) 
+Mepyramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H23N3O/c1-19(2)12-13-20(17-6-4-5-11-18-17)14-15-7-9-16(21-3)10-8-15/h4-11H,12-14H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+YECBIJXISLIIDS-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.89269379092978
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-[2-(dimethylamino)ethyl]-N-[(4-methoxyphenyl)methyl]pyridin-2-amine
+
+>  <JCHEM_LOGP>  (1) 
+3.043521151666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.76397449417684
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+28.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+87.73810000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mepyramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+285.384
+
+>  <PRODUCTS>  (1) 
+Antitussive Decong Antihistamine Syr; Ara Menstrual Complete; Babys Own Cough Syr; Bronchodex Fort-DM Syr; Bronchosirum Pour Enfants; Caldomine Dh Adulte; Caldomine Dh Enfant; Capron DM; Capron DMT; Centracol DM - Syr; Codituss DM; Comfort-Time; Complete Menstrual Relief; Extra Strength Menstrual Complete; Extra Strength Multi-symptom Pms Relief; Extra Strength Tylenol Menstrual Caplets; Glen PE; HistaFlex; Hycomine; Hycomine-S; I D M Expectorant Tab; I.D.M. Solution; Idm Tab; Jack & Jill Cough Syrup; Kroger Allergy Relief; Leader Premenstrual; Lemon Time; Maximum Strength Menstrual Complete; Menstrual Complete; Menstrual Complete Maximum Strength; Menstrual Midol Complete; Menstrual Pain Relief; Menstrual Pain Relief Maximum Strength; Menstrual Pain Relief Maximum Strength / Multi Symptom; Menstrual Pain Relief Maximum Strength, Multi-Symptom; Menstrual Relief; Menstrual Relief Extra Strength; Menstrual Relief Maximum Strength; Menstrual Relief Maximum Strength Multi Symptom; Menstrual Relief Multi-Symptom; Menstrual relief maximum strength; Midol; Midol Complete; Midol Complete Gelcaps; Midol Extra Strength Gelcaps; Midol Extra Strength Menstrual; Midol Extra Strength Pms; Midol Multi-symptom Caplets Extra Strength; Midol Multi-symptom Gelcap Extra Strength; Midol One; Midol Pms; Midol Pms Extra Strength Tab; Multi-Symptom Menstrual Pain Relief; Multi-symptom Pms Relief; Multi-symptom Pms Relief Caplets; Neo AC; Ninjacof; Ninjacof-A; Ninjacof-D; PMS Formula Maximum Strength; PMS Midol Complete; PMS Relief Extra Strength; PMS Relief Maximum Strength; Pamprin Extra Strength Caplets; Pamprin Multisymptom Menstrual Pain Relief; Pamprin Pms Caplets; Pamprin Tab; Pharmacol DM Syr; Pharminicol DM Syrup; Poly Hist Dhc; Poly Hist Pd; Pre Menstrual relief maximum strength; Prefrin A Liq; Premsyn pms Premenstrual Pain Relief; Premsyn pms Premenstrual Syndrome Relief; Pro-chlo; Pro-clear Ac; Pyrilamine Maleate and Phenylephrine Hydrochloride; Pyrilamine-Phenylephrine; Ratio-theo-bronc; Relievol Pms Extra Strength Caplets; Relievol Pms Regular Strength Tablets; Ru-hist Plus; Ru-hist-D; Syncol; Tantacol DM Syr; Teen Midol Complete; Teen Pms Relief Complete Caplets; TexaClear; TexaClear Kids Allergy; Texaclear Fast Acting Allergy Relief; Trendar Pms Caplet; Trendar Pms Tablets; Triaminic Expectorant Dh Syrup; Triaminic Time Release Tab; Triaminicin Colds & Flu Caplets; Trisulfaminic Sus; Trisulfaminic Tab; Tussaminic C Forte Syrup; Tussaminic C Pediatric Syrup; Tussaminic Dh Forte Syrup; Tussaminic Dh Pediatric Syrup; VanaCof AC; VanaTab AC; Vanacof-8; Zotex-C
+
+>  <SALTS>  (1) 
+Pyrilamine maleate
+
+>  <SMILES>  (1) 
+COC1=CC=C(CN(CCN(C)C)C2=NC=CC=C2)C=C1
+
+>  <SYNONYMS>  (1) 
+pyrilamine
+
+$$$$

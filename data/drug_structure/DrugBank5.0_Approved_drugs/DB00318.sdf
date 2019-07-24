@@ -1,0 +1,210 @@
+318
+     RDKit          2D
+
+ 43 47  0  0  1  0  0  0  0  0999 V2000
+    1.9356   -0.1190    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349   -2.2486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    1.9190    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3440   -0.9899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -0.5773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -0.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296   -0.5773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -0.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6773    0.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    0.2477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296    0.2477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8506    0.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    0.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.8149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.8149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    0.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -2.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350   -1.6249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    1.4852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    1.4852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    1.8977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    2.7864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 16  1  0
+ 14  2  1  6
+  3 20  1  0
+  3 22  1  0
+  4  7  1  0
+  4 12  1  0
+  4 18  1  0
+  5  6  1  0
+  5  8  1  0
+  5  9  1  1
+  5 10  1  0
+  6  7  1  0
+  6 15  1  0
+  7 11  1  0
+  8 14  1  0
+  9 12  1  0
+ 10 13  2  0
+ 10 16  1  0
+ 11 13  1  0
+ 13 19  1  0
+ 14 17  1  0
+ 15 17  2  0
+ 16 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  2 23  1  0
+  6 24  1  1
+  7 25  1  6
+  8 26  1  1
+  9 27  1  0
+  9 28  1  0
+ 11 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 17 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+ 22 42  1  0
+ 22 43  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.20
+
+>  <ALOGPS_LOGS>  (1) 
+-2.72
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.77e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00318
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00318
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <EXACT_MASS>  (1) 
+299.152143543
+
+>  <FORMULA>  (1) 
+C18H21NO3
+
+>  <GENERIC_NAME>  (1) 
+Codeine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H21NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3-6,11-13,17,20H,7-9H2,1-2H3/t11-,12+,13-,17-,18-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+OROGSEYTTFOCAN-DNJOTXNNSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Actacode; Bisoltus; Bromophar; Bronchicum; Bronchodine; Codant; Codedrill; Codein; Codeisan; Coderpina; Codicalm; Codinex; Cougel; Coutan; Dinco; Farmacod; Galcodine; Pectoral; Tussoret
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.952388126939802
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,5R,13R,14S,17R)-10-methoxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7(18),8,10,15-tetraen-14-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.3429512830000006
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.782739294723573
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.192784965995466
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.93
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+84.60470000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(-)-codeine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+299.3642
+
+>  <PRODUCTS>  (1) 
+(extra Strength) Acetaminophen, Caffeine & 8mg Codeine Phosphate Caplets; 222 Tablets; 282 Mep Tab; 282 Tab; 282 Tablets; 292 Tab; 292 Tablets; A & C Tablets With Codeine 15mg; A & C Tablets With Codeine 30mg; A.C. & C. 8 mg; A.C. & C. 8mg; A.C.& C Tablets; ACETAMINOPHEN AND CODEINe; ACETAMINOPHEN with CODEINE; Ac and C Tab 1/8gr; Ac&c Tablets; Acet 2; Acet 3; Acet Codeine 30; Acet Codeine 60; Acetaminophen 300 Mg With 15 Mg Caffeine and 8 Mg Codeine Phosphate; Acetaminophen 300mg, Caffeine & Codeine; Acetaminophen 325 C & C; Acetaminophen 325 Mg Caffeine and Codeine; Acetaminophen 325 Mg With 15 Mg Caffeine and 8 Mg Codeine Phosphate; Acetaminophen 500 Mg Compound Tablets With Codeine; Acetaminophen 500 Mg With 15 Mg Caffeine and 8 Mg Codeine Phosphate; Acetaminophen 500mg, Caffeine and 8mg Codeine Phosphate; Acetaminophen And Codeine; Acetaminophen And Codeine Phosphate; Acetaminophen Caffeine & 8mg Cod Phos Tab; Acetaminophen Caffeine & 8mg Cod. Phos. Tab; Acetaminophen Compound Tablets With Codeine 8mg; Acetaminophen Elixir With 8mg Codeine Phosphate Syrup; Acetaminophen W Codeine Tab; Acetaminophen With Codeine - Caplet; Acetaminophen and Codeine; Acetaminophen and Codeine Phosphate; Acetaminophen, Caffeine & 8mg Codeine Phosphate; Acetaminophen, Caffeine & 8mg Codeine Phosphate Tablets; Acetaminophen, Caffeine & Codeine; Acetaminophen, Caffeine & Codeine Tablets; Acetaminophen, Caffeine and 8 Mg Of Codeine Phosphate Tablets; Acetaminophen, Caffeine, and 8mg Of Codeine Phosphate Tablets; Acetaminophen-caffeine-codeine; Acetaminophene Codeine Et Cafeine Caplets; Acetaminophene Codeine Et Cafeine Fort; Acetazone Forte C8; Acetylsalicylic Acid Caffeine & 8mg Cod Phos; Acetylsalicylic Acid, Caffeine & 8 Mg Codeine Phosphate Tablets; Acetylsalicylic Acid, Caffeine and 8mg Codeine Phosphate; Airacof; Ala-hist Ac; Anacin With Codeine Tab; Apo-acetaco #1; Asa, Caffeine & 8mg Codeine Phosphate; Asa-caffeine-codeine; Ascomp with Codeine; Atasol 15; Atasol 30; Atasol 8; Axacet-C1/8; Axisal-C1/8; Balminil Codeine + Decongestant + Expectorant; Balminil Codeine Night Time + Expectorant; Benylin 2 Cold and Flu With Codeine; Benylin Codeine 3.3mg De Syr; Butalbital, Acetaminophen and Caffeine with Codeine Phosphate; Butalbital, Acetaminophen, Caffeine and Codeine Phosphate; Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate; Butalbital, Aspirin, Caffeine and Codeine Phosphate; Butalbital, Aspirin, Caffeine, and Codeine Phosphate; C T Acetylsalicylic Acid Codeine and Caf Tab; C-2 Buffered With Codeine; C2 Buffered With Codeine Tab; C2 Tab With Codeine; Calmylin; Calmylin Ace; Calmylin Codeine D-E Syr; Calmylin Pse With Codeine; CapCof; Capital and Codeine; Carisoprodol, Aspirin and Codeine Phosphate; Cheracol Cough Syrup; Cheratussin AC; Cheratussin DAC; Coactifed; Codar AR; Codar D; Codar GF; Codeine 15; Codeine 30; Codeine Contin 100mg Controlled Release Tab; Codeine Contin 150mg Controlled Release Tab; Codeine Contin 200mg Controlled Release Tab; Codeine Contin 50mg Controlled Release Tab; Codeine Phosphate Inj 30mg/ml; Codeine Phosphate Inj 60mg/ml; Codeine Phosphate Injection USP; Codeine Phosphate Syrup; Codeine Phosphate Tab 15mg; Codeine Phosphate Tab 30mg; Codeine Phosphate Tab 60mg; Codeine Phosphate and Guaifenesin; Codeine Sulfate; Codeine Tab 15mg; Codeine Tab 30mg; Codeine and Chlorpheniramine Maleate ER; Codeine sulfate; Codeine-Guaifenesin; Coditussin AC; Coditussin DAC; Coryphen 325 Codeine 30 Tab; Coryphen 650 Codeine 30 Tab; Cotabs; Cotrifed; Cough Syr W Codeine Diphenhyd HCl & Ammon Cl; Cough Syr W.cod. Pseudoephed.hcl Guaifenesin; Cough Syrup; Cough Syrup With Codeine; Covan Syrup; Damylin Avec Codeine Sirop; Damylin With Codeine Syrup; Dimetane Expectorant C; Dimetane Expectorant-C Syr; Dimetapp-C; Dimetapp-C Syr; Empracet-30; Empracet-60; EndaCof C; Exdol 15tab; Exdol 30tab; Exdol 8 Tab; Exdol-15; Exdol-30; Exdol-8; ExeClear C; Fioricet with Codeine; Fiorinal C1/2; Fiorinal C1/4; Fiorinal with Codeine; G Tussin AC; Guaiatussin AC; Guaifenesin AC; Guaifenesin DAC; Guaifenesin and Codeine Phosphate; Guaifenesin and Codeine Phosphate SF; Histex Ac; Iophen C NR; Lexuss 210; Linctus Codeine Blanc; Lortuss EX; M-clear Wc; M-end Max D; M-end PE; M-end Wc; Mar-cof BP; Mar-cof Cg Expectorant; Mersyndol With Codeine; Methoxacet-C 1/8; Methoxisal-C 1/2; Methoxisal-C 1/4; Methoxisal-C 1/8; Muscle & Back Pain Relief - 8; Muscle & Back Pain Relief-8; Muscle and Back Pain Relief - 8 Tablets; Muscle and Back Pain Relief Caplets; Muscle and Back Pain Relief-8; Neo AC; Ninjacof-XG; Notuss PE; Notuss-NX; Notuss-NXD; Novahistex C; Novo Ac and C 8mg Tab; Novo-gesic C15; Novo-gesic C30; Novo-gesic-C8; Nu-acetaco #1; Oradrine Tablets; PHL-acet-codeine 30; PHL-acet-codeine 60; PMS-acetaminophen W Codeine Elixir; PMS-codeine; PMS-pharnal-C 1/4 Capsules; PMS-pharnal-C1/2 Capsules; Painex Tab 0.25gr; Painex Tab 0.5gr; Parafon Forte C8 W Codeine Tab; Paveral Liq 10mg/ml; Pentuss Srs; Phenaphen No 2 Cap; Phenaphen No 3 Cap; Phenaphen No 4 Cap; Phenaphen No.2 Cap; Phenaphen No.3 Cap; Phenaphen No.4 Cap; Phenylhistine DH; Pluratuss; Poly Hist NC; Poly-Tussin AC; Poly-tussin; Poly-tussin D; Pracet 30; Pro-clear Ac; Pro-red Ac; Procet-30; Prometh with Codeine; Promethazine HCl, Phenylephrine HCl, Codeine Phosphate; Promethazine Hydrochloride Phenylephrine Hydrochloride and Codeine Phosphate; Promethazine Hydrochloride and Codeine Phosphate; Promethazine Hydrochloride, Phenylephrine Hydrochloride and Codeine Phosphate; Promethazine VC With Codeine; Promethazine VC with Codeine; Promethazine Vc With Codeine; Promethazine With Codeine; Promethazine with Codeine; Promethazine with Codeine Cough; Pronal - C1/2 Capsules; Pronal C1/4 Capsules; Ratio-codeine; Ratio-cotridin; Ratio-cotridin Expectorant; Ratio-lenoltec No 1; Ratio-lenoltec No 2; Ratio-lenoltec No 3; Ratio-lenoltec No 4; RelCof-C; Robafen AC; Robaxacet-8; Robaxisal C 1/2; Robaxisal C 1/4; Robaxisal C-1/8 Tablets; Robitussin Ac; Robitussin Syrup With Codeine; Rounox Avec Codeine 15tab; Rounox Codeine 30 Tab; Rounox Codeine 60 Tab; Routec and Codeine 30 - Tab; Rydex; Sinutab With Codeine Tablets; Spasmhalt-8; Spasmhalt-asa-8; Stanley Syrup W Codeine Phosphate; Statuss Green; Suppress Cough Syr W.cod.diphen.hcl Amm.chl.; TYLENOL with Codeine; Tamicode Tablets; Terpin Hydrate Codeine Elx CF; Teva-codeine; Teva-emtec-30; Teva-tecnal C 1/2; Teva-tecnal C 1/4; Theracodeine-300; Triacin-C; Trianal C¼; Trianal C½; Triatec-30; Triatec-8; Triatec-8 Fort; Tricode AR; Tricode GF; Tusnel C; Tussaminic C Forte Syrup; Tussaminic C Pediatric Syrup; Tuzistra XR; Tylenol No 1 Tab; Tylenol No.1 Caplets; Tylenol No.1 Forte Caplets; Tylenol No1 Forte Tablets With Codeine; Tylenol W Codeine No2 Tab; Tylenol W Codeine No3 Tab; Tylenol W Codeine No4 Tab; Tylenol With Codeine Elixir; Tylenol With Codeine No. 2 - Tab; Tylenol With Codeine No. 3 - Tab; Tylenol With Codeine No. 4; Virtussin A/C; Virtussin AC; Virtussin DAC; Wampole-acetaminophen/codeine/caffeine; Z-tuss Ac; Z-tuss E; Zodryl AC 25; Zodryl AC 30; Zodryl AC 40; Zodryl AC 50; Zodryl AC 60; Zodryl AC 80; Zodryl DEC 25; Zodryl DEC 30; Zodryl DEC 40; Zodryl DEC 50; Zodryl DEC 60; Zodryl DEC 80; Zotex-C
+
+>  <SALTS>  (1) 
+Codeine hydrochloride; Codeine monohydrate; Codeine phosphate; Codeine phosphate hemihydrate; Codeine sulfate; Codeine sulfate trihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00120; DB09471
+
+>  <SMILES>  (1) 
+[H][C@@]12OC3=C(OC)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O
+
+>  <SYNONYMS>  (1) 
+(−)-Codeine; (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol; (5α,6α)-7,8-didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol; 3-Methylmorphin; 3-methylmorphine; 7,8-didehydro-4,5alpha-epoxy-3-methoxy-17-methylmorphinan-6alpha-ol; 7,8-didehydro-4,5α-epoxy-3-methoxy-17-methylmorphinan-6α-ol; Codein; Codeína; Codéine; Codeine anhydrous; Codeine polistirex; Codeinum; L-Codeine; Methylmorphine; morphine 3-methyl ether; Morphine monomethyl ether; morphine monomethyl ether; morphine-3-methyl ether; O(3)-methylmorphine
+
+$$$$

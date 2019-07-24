@@ -1,0 +1,192 @@
+
+     RDKit          2D
+
+ 39 39  0  0  0  0  0  0  0  0999 V2000
+    3.1406   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6150    0.7685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9984   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4648   -1.4493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8550   -0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5695   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0351    0.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2281    0.2165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9984   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1418   -0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8955   -0.9394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7129   -0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0671   -1.7464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2840   -0.6039    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4274   -1.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7129    0.2210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4540   -2.2985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8517   -2.0014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4476   -0.3264    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0
+  6  5  1  0
+  8  2  1  0
+  8  7  2  0
+  9  3  1  0
+ 10  8  1  0
+ 11 10  2  0
+ 12  9  1  0
+ 13 11  1  0
+ 14  6  1  0
+ 14  9  1  0
+ 15 10  1  0
+ 15 12  2  3
+ 16 12  1  0
+ 17 13  2  0
+ 18  4  1  0
+ 18 13  1  0
+ 19  7  1  0
+ 19 11  1  0
+  1 20  1  0
+  1 21  1  0
+  1 22  1  0
+  2 23  1  0
+  2 24  1  0
+  2 25  1  0
+  3 26  1  0
+  3 27  1  0
+  3 28  1  0
+  4 29  1  0
+  4 30  1  0
+  4 31  1  0
+  5 32  1  0
+  5 33  1  0
+  6 34  1  0
+  6 35  1  0
+  7 36  1  0
+  9 37  1  0
+ 14 38  1  0
+ 16 39  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.90
+
+>  <ALOGPS_LOGS>  (1) 
+-3.89
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.66e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09009
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09009
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+284.119463206
+
+>  <FORMULA>  (1) 
+C13H20N2O3S
+
+>  <GENERIC_NAME>  (1) 
+Articaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H20N2O3S/c1-5-6-14-9(3)12(16)15-10-8(2)7-19-11(10)13(17)18-4/h7,9,14H,5-6H2,1-4H3,(H,15,16)
+
+>  <INCHI_KEY>  (1) 
+QTGIAADRBBLJGA-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Septocaine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.800813059088995
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-[2-(methoxycarbonyl)-4-methylthiophen-3-yl]-2-(propylamino)propanimidic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.9551475814068912
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.420687824194913
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.91146087608256
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+70.92
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+77.5333
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+carticaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+284.374
+
+>  <PRODUCTS>  (1) 
+4% Astracaine Dental With Epinephrine 1:200,000 (0.005mg/ml); 4% Astracaine Dental With Epinephrine Forte 1:100,000 (0.01mg/ml); Articadent; Articaine; Articaine HCl and Epinephrine; Articaine Hydrochloride and Epinephrine; Karticaine; Karticaine Forte; Orabloc; Orabloc 1:100,000; Orabloc 1:200,000; Posicaine N; Posicaine Sp; Septanest N; Septanest Sp; Septocaine and Epinephrine; Ultacan; Ultacan Forte; Ultracaine D-S Forte Injection; Ultracaine D-S Injection; Ultracaine DS Forte Inj; Ultracaine DS Inj; Zorcaine
+
+>  <SALTS>  (1) 
+Articaine hydrochloride
+
+>  <SMILES>  (1) 
+CCCNC(C)C(O)=NC1=C(SC=C1C)C(=O)OC
+
+$$$$

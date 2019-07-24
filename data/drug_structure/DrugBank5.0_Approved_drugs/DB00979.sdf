@@ -1,0 +1,213 @@
+979
+     RDKit          2D
+
+ 46 47  0  0  1  0  0  0  0  0999 V2000
+    6.0383    1.4696    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.5051    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.7426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.9176    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    0.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2035    1.5307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0640    0.2031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9572    1.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8709    0.3746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.5575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.5575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.9700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.7426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2 12  1  0
+  2 15  1  0
+  3 12  2  0
+  4 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5  6  1  0
+  5  7  1  0
+  5 10  1  0
+  6  8  1  0
+  7  9  1  0
+  8  9  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 11 13  2  0
+ 11 14  1  0
+ 13 16  1  0
+ 14 17  2  0
+ 15 19  1  0
+ 16 18  2  0
+ 17 18  1  0
+  1 22  1  0
+  6 23  1  0
+  6 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+  9 29  1  0
+  9 30  1  0
+ 10 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 19 40  1  0
+ 20 41  1  0
+ 20 42  1  0
+ 20 43  1  0
+ 21 44  1  0
+ 21 45  1  0
+ 21 46  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.09
+
+>  <ALOGPS_LOGS>  (1) 
+-2.29
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.50e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00979
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00979
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+291.183443671
+
+>  <FORMULA>  (1) 
+C17H25NO3
+
+>  <GENERIC_NAME>  (1) 
+Cyclopentolate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H25NO3/c1-18(2)12-13-21-16(19)15(14-8-4-3-5-9-14)17(20)10-6-7-11-17/h3-5,8-9,15,20H,6-7,10-13H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+SKYSRIRYMSLOIN-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Bell Pentolate; Cylate; Mydrilate; Ocu-Pentolate; Pentolair
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.505860790618726
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(dimethylamino)ethyl 2-(1-hydroxycyclopentyl)-2-phenylacetate
+
+>  <JCHEM_LOGP>  (1) 
+2.316218385666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.186929918180127
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.418048758319856
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+49.77
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.8058
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cyclopentolate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+291.3853
+
+>  <PRODUCTS>  (1) 
+Ak-pentolate; Cyclogyl; Cyclomydril; Cyclopentolate; Cyclopentolate Hydrochloride; Dom-cyclopentolate HCl Ophthalmic Solution-1%; Minims Cyclopentolate Hydrochloride 0.5%; Minims Cyclopentolate Hydrochloride 1%; Odan-cyclopentolate; PMS-cyclopentolate HCl Oph Solution 1%
+
+>  <SALTS>  (1) 
+Cyclopentolate Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00893
+
+>  <SMILES>  (1) 
+CN(C)CCOC(=O)C(C1=CC=CC=C1)C1(O)CCCC1
+
+>  <SYNONYMS>  (1) 
+(±)-cyclopentolate; Ciclopentolato; Cyclopentolatum; α-(1-hydroxycyclopentyl)benzeneacetic acid 2-(dimethylamino)ethyl ester; β-dimethylaminoethyl (1-hydroxycyclopentyl)phenylacetate
+
+$$$$

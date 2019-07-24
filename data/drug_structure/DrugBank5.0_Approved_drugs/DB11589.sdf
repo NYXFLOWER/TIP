@@ -1,0 +1,100 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Ne  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11589
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11589
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+19.99244018
+
+>  <FORMULA>  (1) 
+Ne
+
+>  <GENERIC_NAME>  (1) 
+Neon
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Ne
+
+>  <INCHI_KEY>  (1) 
+GKAOGPIIYCISHV-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+neon
+
+>  <JCHEM_LOGP>  (1) 
+0.0
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+neon
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+20.1797
+
+>  <PRODUCTS>  (1) 
+Co-NE-O2-N2 Mixture; Lung Diffusion Test Mix No Ne Co
+
+>  <SMILES>  (1) 
+[Ne]
+
+>  <SYNONYMS>  (1) 
+Ne; neón; néon; Neon
+
+$$$$

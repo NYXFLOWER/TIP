@@ -1,0 +1,199 @@
+3162
+     RDKit          2D
+
+ 42 43  0  0  1  0  0  0  0  0999 V2000
+    3.3001    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9501   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -2.1435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  8  1  0
+  2  9  1  0
+  2 17  1  0
+  2 18  1  0
+  3  6  2  0
+  3 19  1  0
+  4  5  1  0
+  4  6  1  0
+  4  7  1  0
+  5 10  2  0
+  5 11  1  0
+  6 12  1  0
+  8  9  1  0
+ 10 13  1  0
+ 11 14  2  0
+ 12 15  2  0
+ 13 16  2  0
+ 14 16  1  0
+ 15 20  1  0
+ 19 20  2  0
+  7 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 18 39  1  0
+ 18 40  1  0
+ 19 41  1  0
+ 20 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.90
+
+>  <ALOGPS_LOGS>  (1) 
+-2.70
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.41e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00366
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00366
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+270.173213336
+
+>  <FORMULA>  (1) 
+C17H22N2O
+
+>  <GENERIC_NAME>  (1) 
+Doxylamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H22N2O/c1-17(20-14-13-19(2)3,15-9-5-4-6-10-15)16-11-7-8-12-18-16/h4-12H,13-14H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+HCFDWZZGGLSKEP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.090987574833864
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl({2-[1-phenyl-1-(pyridin-2-yl)ethoxy]ethyl})amine
+
+>  <JCHEM_LOGP>  (1) 
+2.9619422236666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.866417098578472
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+25.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.23730000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+doxylamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+270.3694
+
+>  <PRODUCTS>  (1) 
+7 Select Night Time Relief; 7 Select Sleep Aid; ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE and DOXYLAMINE SUCCINATE; ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, and DOXYLAMINE SUCCINATE; Acetaminophen Dextromethorphan HBr Doxylamine succinate Phenylephrine HCl; Acetaminophen Dextromethorphan Hydrobromide Doxylamine Succinate Phenylephrine Hydrochloride; Acetaminophen,Dextromethorphan,Doxylamine; Acetaminophen/pseudoephedrine/dextromethorphan/doxylamine; Alka-Seltzer Plus Day and Night Cold and Flu Formula; Alka-Seltzer Plus Day and Night Multi-Symptom Cold and Flu Formula; Alka-Seltzer Plus Day and Night Severe Cold and Flu; Alka-Seltzer Plus Maximum Strength Day and Night Cold and Flu; Alka-Seltzer Plus Maximum Strength Night Cold and Flu; Alka-Seltzer Plus Maximum Strength Severe Sinus Congestion and Cough Day and Night; Alka-Seltzer Plus Maximum Strength Severe Sinus, Allergy and Cough; Alka-Seltzer Plus Multi-Smptom Cold and Flu Night; Alka-Seltzer Plus Multi-Symptom Cold Night; Alka-Seltzer Plus Multi-Symptom Cold and Flu Day and Night Liquid Gels; Alka-Seltzer Plus Night Cold Formula (Lemon); Alka-Seltzer Plus Night Cold Medicine; Alka-Seltzer Plus Night Cold and Flu Formula; Alka-Seltzer Plus Night Severe Cold and Flu; Alka-Seltzer Plus Severe Allergy Sinus Congestion And Headache Formula; Alka-Seltzer Plus Severe Cold and Cough Night; Alka-Seltzer Plus Severe Cough Mucus and Congestion Day and Night; Alka-Seltzer Plus Severe Sinus Congestion and Cough Day and Night; Alka-Seltzer Plus Severe Sinus Congestion and Cough Liquid Gels Night; Alka-Seltzer Plus Severe Sinus Congestion, Allergy and Cough; All Nite; All-Nite Cold and Flu; Allergy and Cough; Apo-doxylamine/b6; AuroQuil COLD and FLU Nighttime Relief; AuroQuil Cold and Flu Nighttime Relief; AuroQuil Cough Nighttime Cough Relief; AuroQuil Severe Cold and Flu Nighttime Relief; Aurophen Cold Multi Symptom; Aurotussin Maximum Strength Daytime and Nighttime Cough Relief; Basic Care Nighttime; Being Well Cold Flu Relief PM Multi Symptom; Being Well Cold and Flu Relief PM; Being Well Night Time Cold and Flu; Buckley's Cold & Sinus Night; Buckley's Complete Nighttime Softgels; Buckley's Nighttime Cold and Sinus; COLD and FLU Nighttime Relief; COUGH Nighttime Cough Relief; CVS Daytime COLD and FLU RELIEF and Nighttime COLD and FLU RELIEF; CVS Health Nighttime Cold and Flu Relief Single Serve Cups Cold and Flu Nighttime Relief; CVS Nighttime Cold/Flu Relief; Care One Cold Mutli Symptom; Care One Sleep Aid; CareOne Cold and Cough; CareOne Daytime Nighttime Cold Flu Relief; CareOne Daytime Nighttime Cold and Flu; CareOne Night TIme Cold and Flu; CareOne NightTime Cough; CareOne Nighttime Cold and Flu; CareOne Nighttime Severe Cold and Flu; CareOne Nighttime Sleep Aid; CareOne Nitetime Cold Flu Relief; CareOne Nitetime Severe Cold Flu Relief; CareOne Tussin DM Nighttime Cough; Careone Allergy and Cough Severe Sinus Congestion; Careone Cold Max; Careone Day Severe Cold Night Cold and Flu; Careone Severe Sinus Congestion; Circle K Nighttime Cold and Flu; ClearTime; Cold & Flu; Cold & Flu Nighttime; Cold & Flu Relief Nighttime; Cold & Sinus Liquid Capsules; Cold Flu Relief; Cold Max Nighttime; Cold Multi Symptom; Cold Relief Multi Symptom Nighttime; Cold and Cough; Cold and Cough Nighttime; Cold and Cough Nighttime Cool Blast; Cold and Flu; Cold and Flu Day Night; Cold and Flu DayTime, NightTime Severe; Cold and Flu Daytime Nighttime; Cold and Flu Daytime, Nighttime, Maximum Strength; Cold and Flu Daytime, Nighttime, Multi-Symptom; Cold and Flu Medicine - Night Time Formula; Cold and Flu Multi-Symptom Daytime Nighttime; Cold and Flu Nighttime; Cold and Flu Nighttime D; Cold and Flu Nighttime Multi Symptom; Cold and Flu Nighttime Multi-symptom; Cold and Flu Nighttime Relief; Cold and Flu Nighttime/Multi-Symptom; Cold and Flu Plus; Cold and Flu Relief; Cold and Flu Relief Daytime Nighttime; Cold and Flu Relief Multi Symptom Nighttime; Cold and Flu Relief Multi symptom; Cold and Flu Relief Multi-Symptom; Cold and Flu Relief Multi-Symptom, Day, Night; Cold and Flu Relief Multi-Symptom, Nighttime; Cold and Flu Relief NightTime, Multi-symptom; Cold and Flu Relief Nighttime; Cold and Flu Relief Nighttime Multi Symptom; Cold and Flu Relief Nighttime, Multi-Symptom; Cold and Flu Relief Non-Drowsy / Daytime Severe / Nighttime Severe; Cold and Flu Severe, Nighttime, Maximum Strength; Cold and Sinus Nighttime Relief; Cold and Sinus Relief Combo; Cold/flu Medicine; Complete Liquid Capsules; Complete Liquid Capsules Nighttime Relief; ConRx NightTime; Contac Cold and Flu Cooling Relief; Core Values Night Time Relief; Coricidin HBP Nighttime Multi-Symptom Cold; Cough; Cough Day Night; Cough Multi Symptom; Cough Relief Daytime Nighttime; Cough Relief Nighttime; Cough and Sore Throat Multi Symptom; Cough and Sore Throat Nighttime; Cough and Sore Throat Pain Relief; DAY Cold and Flu Plus and NIGHTTIME Cold and Flu Plus; DAY TIME and NIGHT TIME COLD and FLU FORMULA; DDM Day time and Nite time cold and flu; DG Day Time Cold and Flu Formula and Night Time Cold and Flu Formula; DG Health Cold Max; DG Health Cold and Flu Relief; DG Health Pain Relief Cold Night Time; DG Health Tussin; DG Health cold and flu relief; Dalmacol; Day Night Cold and Flu; Day Relief Night Relief Free; Day Relief Night Relief Sinus PE; Day Severe Cold Night Cold and Flu; Day Severe Cold and Night Cold and Flu Maximum Strength; Day Time Night Time; Day Time Night Time Cold and Flu; Day Time Night Time Sinus Relief; Day Time Nighttime Cough; Day Time Nitetime Cough; Day Time and Night Time Sinus and Congestion; Day and Night Cold and Flu Formula; Day-Time Night-Time; DayTime Cold and Flu Severe and NightTime Cold and Flu Severe; DayTime NightTime Cold and Flu; DayTime NightTime Cold/Flu; DayTime NightTime Sinus Relief; DayTime Nighttime; DayTime Nighttime multi symptom cold and flu relief; DayTime Nite Time; DayTime NiteTime Cold Flu Relief; DayTime NiteTime Cold and Flu; DayTime Nitetime Sinus Relief; DayTime Nitetime cold and flu relief; DayTime and NiteTime; DayTime/NiteTime Severe Cold and Flu Maximum Strength; Daytime Cold and Flu and Nighttime Cold and Flu; Daytime Cough Nighttime Cough; Daytime Fast Severe Cold Relief Nitetime Fast Cold and Flu Relief; Daytime Nighttime; Daytime Nighttime ClearTime; Daytime Nighttime Cold Flu Relief; Daytime Nighttime Cold and Flu; Daytime Nighttime Cold and Flu Relief; Daytime Nighttime Cold and Flu Relief Multi-Symptom; Daytime Nighttime Cold/Flu; Daytime Nighttime Cold/flu; Daytime Nighttime Multi Symptom Cold Flu Relief; Daytime Nighttime Multi Symptom Cold and Flu Relief; Daytime Nighttime Severe Cold and Flu; Daytime Nighttime Severe Cold and Flu Relief; Daytime Nighttime Sinus Relief; Daytime Nighttime cold and flu relief; Daytime NiteTime; Daytime Nitetime; Daytime Nitetime Cold and Flu; Daytime Nitetime Sinus; Daytime PE Nitetime; Daytime Sinus Relief and Nighttime Sinus Relief; Daytime and Nighttime Cold and Flu; Daytime and Nighttime Cold and Flu Relief; Daytime and Nighttime Cold and Flu Relief Plus; Daytime and Nighttime Cough Relief; Daytime/Nighttime Cold and Flu Multi-Symptom Relief; Delsym Night Time Multi-Symptom; Dg Health Cold and Flu Relief; Dg Health Cold and Flu Relief Night Time; Dg Health Cold and Flu Relief Nite Time; Dg Health Cough Night Time; Dg Health Cough and Sore Throat Nite Time; Dg Health Night Time Cold and Flu Relief; Diclectin; Diclegis; Equaline Cold and Flu Relief; Equaline Daytime Nighttime Cold and Flu Relief; Equaline Daytime Severe Cold Fast Relief Nighttime Cold and Flu Fast Relief; Equaline Daytime and Nighttime Cold and Flu Relief; Equaline Nighttime; Equaline Nighttime Cold and Flu Relief; Equaline Nighttime Cough Relief; Equaline Nighttime Severe Cold and Flu; Equaline Sleep Aid; Equaline night time cough; Equaline nighttime cold and flu relief; Equate Adult Tussin DM Max Daytime Nighttime; Equate DayTime NiteTime; Equate DayTime NiteTime Severe; Equate Daytime Nitetime; Equate Nighttime Liquid Capsules; Equate Nite Time Cold Flu Relief; Equate Nite Time Cough; Equate NiteTime; Equate NiteTime DayTime; Equate Nitetime; Equate Nitetime Cold and Flu; Equate Nitetime Severe; Equate Sinus Night Time; Extra Strength Tylenol Cold and Flu Nighttime; Family Care Cold and Flu Multi Symptom; Family Care Cold and Flu Nighttime; Family Care Cough Nighttime; Fulton Street Market Night Time Cold and Flu; Fulton Street Market cold and flu; Glentuss; Good Neighbor Pharmacy Cold Multi Symptom; Good Neighbor Pharmacy Cough and Sore Throat; Good Neighbor Pharmacy Multi Symptom; Good Neighbor Pharmacy Night Time; Good Neighbor Pharmacy Night Time Cold and Flu; Good Neighbor Pharmacy Night Time D; Good Neighbor Pharmacy Night Time Severe; Good Neighbor Pharmacy Severe Night Time; Good Neighbor Pharmacy Severe Sinus Congestion; Good Neighbor Pharmacy Sleep Aid; Good Neighbor Pharmacy night time cough; Good Neighbor pharmacy severe night time; Good Neoghbor Pharmacy Tussin DM MAX Nighttime Cough; Good Sense Cough and Sore Throat Night Time; Good Sense Night Time; Good Sense Night Time Cold and Flu; Good Sense NightTime DayTime Cold and Flu; Good Sense Nighttime; Good Sense Nighttime Cough; Good Sense Severe NightTime; Good Sense Severe NightTime Cold and Flu; Good Sense Severe Sinus Congestion; Good Sense night time cold and flu; Good sense sleep aid; HEB Day Time Night Time Severe Cold and Flu; Harmon Face Values Night Time Relief; Harris Teeter DayTime NightTime; Harris Teeter NightTime; Harris Teeter NightTime Cold and Flu; Harris Teeter Sleep Aid; Health Mart Multi-Symptom Cold and Flu Night Time; Health Mart Night Time Cold and Flu; Health Mart Sleep Aid; Healthy Accents Cold and Cough; Healthy Accents Cough and Sore Throat Night Time; Healthy Accents Daytime Nighttime Cold and Flu; Healthy Accents Night Time Cough; Healthy Accents Nighttime Cold and Flu; Healthy Accents Nighttime Daytime Cold and Flu; Healthy Accents Sleep Aid; Healthy Accents nighttime cold and flu; Kirkland Signature Sleep Aid; Leader Nighttime Cold and Flu; Leader Nighttime Cough; Leader Nighttime Severe Cold and Flu; Leader Nite Time; Leader Nite Time Cold Flu Relief Multi Symptom; Leader Nite Time Cough; Leader Nite Time Multi Symptom Cold and Flu Relief; Leader Nite Time Severe Cold and Flu; Leader Severe Sinus Congestion; Leader nite time multi symptom cold flu relief; Leader sleep aid; Lil Drug Store NyQuil Severe Cold and Flu, Max Strength; Lortuss DM; Lortuss Lq; Major Night Time Multi Symptom cold and flu relief; Maximum Strength Night Time Cold and Flu Relief; Maximum Strength Nighttime Cold/Flu Relief; McKesson Nite Time; Mercodol With Decapryn; Mersyndol With Codeine; Mucinex Fast-Max Day Severe Cold and Night Cold and Flu; Mucinex Fast-Max Night Time Cold and Flu; Mucinex Sinus - Max Day / Night; Multi Symptom Cold and Flu Relief Nighttime; Multi Symptom Nitetime; Multi symptom Nighttime cold and flu relief; Multi-Symptom Daytime and Nighttime Cold and Flu Relief Plus; Multi-Symptom Nighttime Sinus Relief; Multi-Symptom Nitetime; Multi-symptom Nitetime; N - Time; N - Time Sinus; NEXT COLD and FLU NIGHTTIME; NIGHT TIME COLD and FLU CHERRY; NIGHT TIME COLD and FLU FORMULA; NIGHTTIME COLD and FLU; Neocitran Cold & Flu Syrup; Next Night Severe Cold, Flu and Sore Throat; Next Night Time Cold and Flu Relief; Nicold Medicine for Adults; Night Cold Flu Cough and Allergy; Night Relief; Night Relief Cold and Flu Liquid Capsules; Night Relief Cough; Night Relief Free; Night Relief Multi Symptom Cold and Flu; Night Relief sinus; Night Time; Night Time Cherry; Night Time Cherry Pseudo-Free; Night Time Cold Max; Night Time Cold and Flu; Night Time Cold and Flu Multi Symptom; Night Time Cold and Flu Original; Night Time Cold and Flu ReadyInCase; Night Time Cold and Flu Relief; Night Time Cold and Flu Relief Multi Symptom; Night Time Cold and Flu Severe; Night Time Cold and Flue Relief; Night Time Cold/Flu Relief Cherry; Night Time Cold/Flu Relief Original; Night Time Cough; Night Time Cough Cherry; Night Time Cough Relief; Night Time Cough and Sore Throat Cool Blast; Night Time Cough cherry; Night Time Day Time Cold and Flu; Night Time Gelcap; Night Time Liquid Caps Cold Flu Multi symptom; Night Time MULTI-SYMPTOM COLD/FLU RELIEF; Night Time Multi Symptom Flu Cold Medicine; Night Time Multi Symptom Relief; Night Time Original Pseudo-Free; Night Time Pseudo-Free; Night Time Relief; Night Time Severe Cold and Flu Relief; Night Time Sinus; Night Time Sinus Relief; Night Time Sinus and Congestion; Night Time Softgels; Night time cold and flu; Night time cold and flu multi symptom; Night time cold/flu relief multi symptom; Night time multi symptom cold/flu relief; Night time sinus; Night-Time COUGH RELIEF; Night-Time Cherry MULTI-SYMPTOM COLD/FLU RELIEF; Night-Time Multi-Symptom Cold/Flu Relief; Night-Time Original MULTI-SYMPTOM COLD/FLU RELIEF; Night-time Multi-symptom Cold/flu Cherry; Night-time Multi-symptom Cold/flu Original; NightRelief DayRelief; NightRelief Free Multi symptom cold flu; NightTime; NightTime Cold and Flu; NightTime Cold and Flu Multi Symptom; NightTime Cold and Flu Relief; NightTime Cough DM Maximum Strength; NightTime Maximum Strength Cold and Flu; NightTime Multi-Symptom Flu Cold; NightTime Relief Severe Cold and Flu; NightTime Sinus; NightTime Sinus Relief; Nightcap Cold and Flu Liquid Gels; Nightcap Complete Liquid Gels; Nighttime; Nighttime 325 Liqua Caps; Nighttime Cold & Flu Liquid Capsules; Nighttime Cold & Flu Relief; Nighttime Cold & Flu Relief Syrup; Nighttime Cold Flu Relief; Nighttime Cold Max; Nighttime Cold Medicine; Nighttime Cold Multi-Symptom Cool Blast; Nighttime Cold and Flu; Nighttime Cold and Flu Cherry; Nighttime Cold and Flu Extra Strength Medicine; Nighttime Cold and Flu Lil Drug Store Products; Nighttime Cold and Flu Liquid Capsules; Nighttime Cold and Flu ReadyInCase; Nighttime Cold and Flu Relief; Nighttime Cold and Flu Relief Multi-Symptom; Nighttime Cold and Flu Relief Plus; Nighttime Cold and Flu cherry; Nighttime Cold and Flu original; Nighttime Cold and flu Relief; Nighttime Complete; Nighttime Cough; Nighttime Cough Relief; Nighttime Cough all night cough relief; Nighttime Cough and Sore Throat Liquid; Nighttime Cough. Cold. Flu Gel Capsules; Nighttime D Cold and Flu; Nighttime D Cold and Flu Relief; Nighttime Daytime Cough; Nighttime Fast Sleep Aid; Nighttime Liqua Caps; Nighttime Multi Symptom; Nighttime Multi Symptom Cold and Flu Relief; Nighttime Multi-Symptom Cold and Flu Relief; Nighttime SEVERE COLD and FLU; Nighttime Severe; Nighttime Severe Cold and Flu; Nighttime Severe Cold and Flu Relief; Nighttime Sinus Multi symptom; Nighttime Sinus Relief; Nighttime Sinus and Congestion Relief; Nighttime Sleep Aid; Nighttime Sleep-Aid; Nighttime Sleepaid; Nighttime cold and flu; Nighttime multi symptom; Nighttime severe; Nighttime sinus; Nite Time; Nite Time Cold Flu Relief; Nite Time Cold Medicine; Nite Time Cold Medicine Cherry Flavor; Nite Time Cold and Flu; Nite Time Cold and Flu Relief; Nite Time Cold/Flu Relief; Nite Time Day Time; Nite Time Multi symptom cold flu relief; Nite Time multi symptom cold flu relief; Nite Time multi symptom cold/flu; Nite time Severe Cold and Flu Maximum Strength; Nite time cold and flu relief; Nite-Time COLD/FLU ORIGINAL; Nite-Time Cold and Flu Multi-Symptom Relief; Nite-TimeCOLD/FLU CHERRY COLD/FLU CHERRY; NiteTime; NiteTime Cold Flu Relief; NiteTime Cold and Flu; NiteTime Cold plus Flu Releif; NiteTime Cold/Flu, Multi-Symptom Relief; NiteTime Cough; NiteTime DayTime Cold and Flu; NiteTime DayTime Severe Cold and Flu; NiteTime Multi-Symptom Cold/Flu Relief; NiteTime Severe Cold and Flu; NiteTime Sinus; NiteTime Sinus Relief; Nitecap Sinus Liquid Gels; Nitetime; Nitetime Cold Flu Relief; Nitetime Cold Medicine; Nitetime Cold Medicine Liq; Nitetime Cold Medicine Original and Cherry; Nitetime Cold and Flu; Nitetime Cough; Nitetime D; Nitetime D multi symptom cold flu relief; Nitetime Severe Cold and Flu Relief; Nitetime Sinus Relief; Nitetime cold and flu relief; NyQuil Cold and Flu; NyQuil Severe; NyQuil Severe Cold and Flu; Nyquil Liquicaps; Nyquil Sinus Liquicaps; Original Night-Time MULTI-SYMPTOM COLD/FLU RELIEF; P.M. Cold Relief Formula; PMS-doxylamine-pyridoxine; Poly Hist Forte; Preferred Plus Severe Nite Time; Preferred Plus Severe Sinus Congestion; Publix Cherry Flavor Nitetime; Quality Choice Nighttime Cold and Flu; Ratio-calmydone; Regular Strength Sinus Medication; Rexall Daytime Nighttime Cold Flu; Rexall Daytime Nighttime Cold and Flu; Rexall Night Time Cold and Flu; Robitussin Complete Nighttime; Robitussin Maximum Strength Nighttime Cough DM; Robitussin Peak Cold Nighttime Cold Plus Flu; Rx Act Cough and Sore Throat; Rx Act Nighttime Cold Flu Relief Multi Symptom; SMITH BROS NIGHT TIME COUGH and CONGESTION; Safetussin PM; Safeway Nighttime Cold and Flu; Sambrosa Sweet Dreams Nighttime; Sanaflu Nighttime Xtreme Multi Symptom Cold Flu Relief Cherry Flavor; Sanatos Night; Sever Daytime Cold and Flu and Sever Nighttime Cold and Flu; Severe Cold Plus Flu Daytime Nighttime; Severe Cold and Flu; Severe Cold and Flu Daytime/nighttime; Severe Cold and Flu Night time; Severe Cold and Flu Nighttime Daytime; Severe Cold and Flu Relief; Severe Cold and Flu Relief Nighttime; Severe Cold and Flu nighttime; Severe Nighttime; Severe Nighttime Cold and Flu; Severe Nighttime Severe Daytime; Severe Sinus Congestion; Severe Sinus Congestion Allergy and Cough Formula; Severe cold and flu Nighttime; ShopRite Ni Calm; ShopRite Ni Calm Cough; ShopRite Sleep-Aid; Shoprite Ni Calm; Signature Care Nighttime Severe Cold and Flu Relief; Signature Care daytime nighttime severe cold and flu relief; Simply Right Night Time; Sinex; Sinex Nighttime Sinus; Sinus Day/night Extra Strength; Sinus Medication; Sinus Medication Day & Night; Sinus Medication Extra Strength Night Time; Sinus Medication Night Tablets; Sinus Nighttime; Sinus Relief Daytime Nighttime; Sleep Aid; Sleep Aid Nighttime; Sleep aid; Sleep-Aid; Smart Sense Daytime Nighttime Cold and Flu; Smart Sense NightTime Cold and Flu; Smart Sense NightTime DayTime; Smart Sense Nighttime; Smart Sense Nighttime Cold and Flu Relief Multi Symptom; Smart Sense Nighttime Cough; Smart Sense Severe Cold and Flu NightTime; Smart Sense Sleep Aid; Smart Sense nighttime cold and flu; Sound Body Cold and Flu Relief; Sunmark Nite Time; Sunmark Nite Time Cough; Sunmark Nite Time D Cold and Flu; Sunmark nite time cold and flu; Sunmark sleep aid; Target Cold/Flu Relief; Teva-doxylamine/pyridoxine Dr; TopCare Cold Max; TopCare Nite Time; TopCare Nite Time Cold and flu; TopCare Pain Relief Cold Nightttime; TopCare Sleep Aid; TopCare Tussin DM Nighttime Cough; Topcare Clear Time; Topcare Cold and Cough; Topcare Cold and Flu; Topcare Cough and Sore Throat; Topcare Day Time Nite Time; Topcare Day Time Nite Time Cold and Flu; Topcare Day Time Nite Time Cold and Flu Relief; Topcare Daytime Nighttime Clear Time; Topcare Nite Time Cold and Flu; Topcare Nite Time Cold and Flu Relief; Topcare Nite Time Cold and Flu Relief Multi Symptom Relief; Topcare Nite Time Cold and flu relief; Topcare Nite Time Cough; Topcare Nite Time D; Topcare Nite Time Day Time Cold and Flu; Topcare Nite Time Day Time Cold and Flu Relief; Topcare Nite Time Multi Symptom Relief; Topcare Severe Sinus Congestion; Tussin DM Cough Nighttime Maximum Strength; Tussin DM Maximum Strength; Tussin Nighttime Cough Control; Tussin Nighttime Cough DM Maximum Strength; Tylenol Cold & Flu Nighttime; Tylenol Cold Max Night; Tylenol Cold Multi-symptom; Tylenol Cold and Flu Nighttime; Tylenol Cold plus Flu Severe and Tylenol Cold Max; Unisom SleepTabs; Unisom-2 Tablets; Up and Up Cold Flu Relief; Up and Up Cold Flu Relief Day Night; Up and Up Cold Flu Relief multi symptom night; Up and Up Cold and Flu Relief; Up and Up Cold and Flu Relief Multi Symptom Day and Night Combo Pack; Up and Up Daytime Nighttime Cold and Flu; Up and Up Nighttime Cold and Flu; Up and Up Nighttime Daytime Cold and Flu; Up and Up nighttime cough control; Up and Up severe cold and flu; Vicks DayQuil Tropical and Vicks NyQuil Cherry Cough; Vicks DayQuil and Vicks NyQuil Cherry Cold and Flu; Vicks DayQuil and Vicks NyQuil Cold and Flu; Vicks DayQuil and Vicks NyQuil Cold and Flu Multi-Symptom Relief/Cold and Flu Nighttime Relief; Vicks DayQuil and Vicks NyQuil Severe Cold and Flu; Vicks NyQuil Cold and Flu; Vicks NyQuil Cold and Flu Nighttime Relief; Vicks NyQuil Cold and Flu Nighttime Relief and Vicks Childrens NyQuil Cold and Cough; Vicks NyQuil Cough; Vicks NyQuil D Cold And Flu Nighttime Relief; Vicks NyQuil HBP Cold and Flu; Vicks NyQuil Severe Cold and Flu; Vicks Nyquil Adult Nighttime Colds Medicine; Vicks Nyquil Cold & Flu Nighttime Relief; Vicks Nyquil Complete Cold & Flu; Vicks Nyquil Complete Cold & Flu Caplets; Vicks Nyquil Liquicaps; Vicks Nyquil Liquicaps Cold & Flu Multi-symptom Relief; Vicks Nyquil Sinus Liquicaps; Vicks QlearQuil Daytime Sinus and Congestion and Nighttime Sinus and Congestion; Vicks QlearQuil Nighttime Sinus and Congestion; Wal Som Nighttime Sleep Aid; WalTussin DM Max; Walgreen Nighttime Cold and Flu Relief; Walgreens Adult Nighttime Wal Tussin DM Max Maximum Strength; Welby Nighttime Cold and Flu; Zicam; Zicam Multi-symptom Cold & Flu Nighttime; good neighbor pharmacy Night time; good sense DayTime Night Time; sanaflu Night-Time Xtreme Multi-Symptom Cold/Flu Relief Cherry Flavor; simply right Night Time
+
+>  <SALTS>  (1) 
+Doxylamine succinate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00937
+
+>  <SMILES>  (1) 
+CN(C)CCOC(C)(C1=CC=CC=C1)C1=CC=CC=N1
+
+>  <SYNONYMS>  (1) 
+Dossilamina; Doxilminio; Doxylaminum
+
+$$$$

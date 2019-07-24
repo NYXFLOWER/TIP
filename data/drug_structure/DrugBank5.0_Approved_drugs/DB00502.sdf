@@ -1,0 +1,223 @@
+502
+     RDKit          2D
+
+ 49 51  0  0  0  0  0  0  0  0999 V2000
+    5.4436    5.1416    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -5.1416    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810    2.9981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6335    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.2836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.0460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2060    2.9981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    3.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0310    2.9981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2060    4.4270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4436    3.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0310    4.4270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.0791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.0791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.9041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.9041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -4.3166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0
+  2 26  1  0
+  3  6  1  0
+  4 19  2  0
+  5  9  1  0
+  5 10  1  0
+  5 11  1  0
+  6  7  1  0
+  6  8  1  0
+  6 12  1  0
+  7  9  1  0
+  8 10  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 12 15  1  0
+ 13 16  1  0
+ 14 17  1  0
+ 15 18  2  0
+ 16 19  1  0
+ 17 20  2  0
+ 18 20  1  0
+ 19 21  1  0
+ 21 22  2  0
+ 21 23  1  0
+ 22 24  1  0
+ 23 25  2  0
+ 24 26  2  0
+ 25 26  1  0
+  3 27  1  0
+  7 28  1  0
+  7 29  1  0
+  8 30  1  0
+  8 31  1  0
+  9 32  1  0
+  9 33  1  0
+ 10 34  1  0
+ 10 35  1  0
+ 11 36  1  0
+ 11 37  1  0
+ 13 38  1  0
+ 13 39  1  0
+ 14 40  1  0
+ 15 41  1  0
+ 16 42  1  0
+ 16 43  1  0
+ 17 44  1  0
+ 18 45  1  0
+ 22 46  1  0
+ 23 47  1  0
+ 24 48  1  0
+ 25 49  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.70
+
+>  <ALOGPS_LOGS>  (1) 
+-4.93
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.46e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00502
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00502
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+375.140134897
+
+>  <FORMULA>  (1) 
+C21H23ClFNO2
+
+>  <GENERIC_NAME>  (1) 
+Haloperidol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H23ClFNO2/c22-18-7-5-17(6-8-18)21(26)11-14-24(15-12-21)13-1-2-20(25)16-3-9-19(23)10-4-16/h3-10,26H,1-2,11-15H2
+
+>  <INCHI_KEY>  (1) 
+LNEPOXFFQSENCJ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aloperidin; Bioperidolo; Brotopon; Dozic; Duraperidol; Einalon S; Eukystol; Halosten; Keselan; Linton; Peluces; Serenace; Sigaperidol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+39.147554540287445
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one
+
+>  <JCHEM_LOGP>  (1) 
+3.6611138006666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+16.398188334958146
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.963255005315197
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.045287776980366
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.54
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+102.59190000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+haloperidol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+375.864
+
+>  <PRODUCTS>  (1) 
+Apo Haloperidol Liq 2mg/ml; Apo Haloperidol Tab 0.5mg; Apo Haloperidol Tab 1mg; Apo-haloperidol LA Injectable; Apo-haloperidol Tab 10mg; Apo-haloperidol Tab 2mg; Apo-haloperidol Tab 5mg; Haldol; Haldol Decanoate; Haldol Injection 5mg/ml; Haldol LA Inj 100mg/ml; Haldol LA Inj 50mg/ml; Haloperidol; Haloperidol Decanoate; Haloperidol Decanoate Inj. Liq Im 100mg/ml; Haloperidol Decanoate Inj. Liq Im 50mg/ml; Haloperidol Decanoate Injection; Haloperidol Inj 5mg/ml USP; Haloperidol Injection; Haloperidol Injection, USP; Haloperidol LA; Haloperidol Lactate; Haloperidol Long Acting; Haloperidol Tab 0.5mg; Haloperidol Tab 1mg; Haloperidol Tab 2mg; Haloperidol Tab 5mg; Haloperidol-10 Tab 10mg; Haloperidol-LA Omega; Novo-peridol Oral Soln 2mg/ml; Nu-haloperidol; PMS-haloperidol Soln 2mg/ml; PMS-haloperidol-LA; Ratio-haloperidol 2mg/ml; Ratio-haloperidol Tab 0.5mg; Ratio-haloperidol Tab 10mg; Ratio-haloperidol Tab 1mg; Ratio-haloperidol Tab 2mg; Ratio-haloperidol Tab 5mg; Rho-haloperidol Decanoate Inj.-im 100mg/ml; Rho-haloperidol Decanoate Inj.-im 50mg/ml; Teva-haloperidol
+
+>  <SALTS>  (1) 
+Haloperidol decanoate; Haloperidol lactate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00538
+
+>  <SMILES>  (1) 
+OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1
+
+>  <SYNONYMS>  (1) 
+1-(3-p-fluorobenzoylpropyl)-4-p-chlorophenyl-4-hydroxypiperidine; 4-(4-(para-chlorophenyl)-4-hydroxypiperidino)-4'-fluorobutyrophenone; 4-[4-(4-chlorophenyl)-4-hydroxy-1-piperidyl]-1-(4-fluorophenyl)-butan-1-one; 4'-fluoro-4-(4-(p-chlorophenyl)-4-hydroxypiperidinyl)butyrophenone; 4'-fluoro-4-(4-hydroxy-4-(4'-chlorophenyl)piperidino)butyrophenone; Haloperidolum; γ-(4-(p-chlorophenyl)-4-hydroxpiperidino)-p-fluorbutyrophenone
+
+$$$$

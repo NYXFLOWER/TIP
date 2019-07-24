@@ -1,0 +1,207 @@
+295
+     RDKit          2D
+
+ 40 44  0  0  1  0  0  0  0  0999 V2000
+    1.9356    0.0458    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349   -2.0838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7349    2.0838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3440   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6773    0.1925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6296    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8506    0.1925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861   -1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151   -1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350   -1.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9151    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4861    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 16  1  0
+ 14  2  1  6
+  3 20  1  0
+  4  7  1  0
+  4 12  1  0
+  4 18  1  0
+  5  6  1  0
+  5  8  1  0
+  5  9  1  1
+  5 10  1  0
+  6  7  1  0
+  6 15  1  0
+  7 11  1  0
+  8 14  1  0
+  9 12  1  0
+ 10 13  2  0
+ 10 16  1  0
+ 11 13  1  0
+ 13 19  1  0
+ 14 17  1  0
+ 15 17  2  0
+ 16 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  2 22  1  0
+  3 23  1  0
+  6 24  1  1
+  7 25  1  6
+  8 26  1  1
+  9 27  1  0
+  9 28  1  0
+ 11 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 17 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 21 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.99
+
+>  <ALOGPS_LOGS>  (1) 
+-1.45
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.02e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00295
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00295
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+285.136493479
+
+>  <FORMULA>  (1) 
+C17H19NO3
+
+>  <GENERIC_NAME>  (1) 
+Morphine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+BQJCRHHNABKAKU-KBQPJGBKSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Kapanol; MSIR; Oramorph; Roxanol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.951034386845045
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,5R,13R,14S,17R)-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0¹,¹³.0⁵,¹⁷.0⁷,¹⁸]octadeca-7(18),8,10,15-tetraene-10,14-diol
+
+>  <JCHEM_LOGP>  (1) 
+0.8952108197005931
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+13.78310964250598
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.25560977784915
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.1215849853492
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.93
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+80.12240000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+morph
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+285.3377
+
+>  <PRODUCTS>  (1) 
+Arymo ER; Avinza; Bar-morphine SR; Doloral 1; Doloral 5 Sirop 5mg/ml; Duramorph; Embeda; Infumorph 200; Infumorph 500; Kadian; Kadian ER; M-ediat; M-eslon; M.O.S. 10 Syrup 10mg/ml; M.O.S. 10 Tablets 10mg; M.O.S. 20 Concentrate 20mg/ml; M.O.S. SR Tablets 30mg; M.O.S. SR Tablets 60mg; M.O.S. Sulphate 10mg Tab; M.O.S. Sulphate 25mg Tab; M.O.S. Sulphate 50mg Tab; M.O.S. Sulphate 5mg Tab; M.O.S. Syrup 1.0 mg/ml; M.O.S. Syrup 5mg/ml; M.O.S.- 10; M.O.S.- 20; M.O.S.- 30; M.O.S.-20 Tab 20mg; M.O.S.-40 Tab 40mg; M.O.S.-50 Concentrate Liq 50mg/ml; M.O.S.-60 Tab 60mg; MS Contin; MorphaBond; MorphaBond ER; Morphine Extra Forte Injection 50mg/ml USP; Morphine Forte Injection 25mg/ml USP; Morphine Hp 25 - 25mg/ml; Morphine Hp 50 - 50mg/ml USP; Morphine Lp Epidural; Morphine SR; Morphine Sulfate; Morphine Sulfate ER; Morphine Sulfate Extended Release; Morphine Sulfate Extended-Release; Morphine Sulfate Extended-release; Morphine Sulfate Inj 10mg/ml USP; Morphine Sulfate Inj 15mg/ml USP; Morphine Sulfate Inj 1mg/ml USP; Morphine Sulfate Inj 2mg/ml USP; Morphine Sulfate Inj 5mg/ml USP; Morphine Sulfate Injection 10mg/ml USP; Morphine Sulfate Injection 15mg/ml USP; Morphine Sulfate Injection 2mg/ml USP; Morphine Sulfate Injection Sdz; Morphine Sulfate Injection USP; Morphine Sulfate Oral Solution; Morphine Sulfate Oral Solution CII; Morphine Sulphate Inj 1mg/ml BP; Morphine Sulphate Injection 1mg/ml; Morphine Sulphate Injection 2mg/ml; Morphine Sulphate Injection 50mg/ml; Morphine Sulphate Injection B.P. 25mg/ml; Morphine Sulphate Injection B.P. 50mg/ml; Morphine Sulphate Injection Bp 2mg/ml; Morphine Sulphate Injection, USP; Morphine Sulphate Injection, USP Liq50mg/ml; Morphine Sulphate Injection,usp Liq 1.1mg/ml; Morphine sulfate; Morphine sulfate solution; Morphine-epd Injection 0.5mg/ml USP; Morphine-epd Injection 1mg/ml USP; Ms Contin; Ms Contin CR; Ms Contin Srt 100mg; Ms Contin Srt 15mg; Ms Contin Srt 200mg; Ms Contin Srt 30mg; Ms Contin Srt 60mg; Ms Contin Suppositories -  30mg; Ms Contin Suppositories - 100mg; Ms Contin Suppositories - 200mg; Ms Contin Suppositories - 60mg; Ms Contin Tablets; Ms Contin XL Capsules; Ms Ir Sup  30mg; Ms Ir Sup 10mg; Ms Ir Sup 20mg; Ms.ir; Ntp-morphine SR; Opium Tincture; Opium Tincture Deodorized; Oramorph SR Tablets 100mg; Oramorph SR Tablets 30mg; Oramorph SR Tablets 60mg; PMS-morphine Sulfate SR 100 mg; PMS-morphine Sulfate SR 15 mg; PMS-morphine Sulfate SR 200 mg; PMS-morphine Sulfate SR 30 mg; PMS-morphine Sulfate SR 60 mg; Paregoric; Ratio-morphine; Sandoz Morphine SR; Statex Dps 50mg/ml; Statex Drops 20mg/ml; Statex Suppositories 20mg; Statex Suppositories 30mg; Statex Suppositories 5mg; Statex Syrup 10mg/ml; Statex Syrup 1mg/ml; Statex Syrup 5mg/ml; Statex Tab 10mg; Statex Tab 5mg; Statex Tablet 25mg; Statex Tablets 50mg; Statex-suppositories 10mg; Teva-morphine SR; Zomorph
+
+>  <SALTS>  (1) 
+Morphine acetate; Morphine hydrochloride; Morphine mesylate; Morphine nitrate; Morphine phosphate; Morphine sulfate; Morphine sulfate pentahydrate; Morphine tartrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00215; DB05354
+
+>  <SMILES>  (1) 
+[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O
+
+>  <SYNONYMS>  (1) 
+(−)-morphine; (5alpha,6alpha)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol; (5alpha,6alpha)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol; (5R,6S,9R,13S,14R)-4,5-epoxy-N-methyl-7-morphinen-3,6-diol; (5α,6α)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol; (5α,6α)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol; (7R,7AS,12bs)-3-methyl-2,3,4,4a,7,7a-hexahydro-1H-4,12-methano[1]benzofuro[3,2-e]isoquinoline-7,9-diol; morfina; Morphia; Morphin; Morphinum; Morphium
+
+$$$$

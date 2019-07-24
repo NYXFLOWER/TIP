@@ -1,0 +1,108 @@
+
+     RDKit          2D
+
+  5  3  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 K   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2411    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2411   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+M  CHG  4   1   1   2  -1   3   1   4  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB11090
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11090
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+100.951524732
+
+>  <FORMULA>  (1) 
+KNO3
+
+>  <GENERIC_NAME>  (1) 
+Potassium nitrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/K.NO3/c;2-1(3)4/q+1;-1
+
+>  <INCHI_KEY>  (1) 
+FGIUAXJPYTZDNR-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+3.239762129889275
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+potassium nitrate
+
+>  <JCHEM_LOGP>  (1) 
+0.02841376366666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-1.399990368988571
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.054117228555776
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+68.88
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+9.8534
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+potassium nitrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+101.1032
+
+>  <PRODUCTS>  (1) 
+Aim Sensitive Cavity Protection; Aquafresh Sensitive Maximum Strength; Arm and Hammer Orajel Sensitive Freshening with Flavor Burst; Big Lots Sound Body; CVS Pharmacy Always White; Care One Maximum Strength; Colgate Advanced Sensitive Plus Whitening; Colgate Enamel Health Mineral Repair; Colgate Enamel Health Sensitivity MultiProtect; Colgate Enamel Health Sensitivity Relief; Colgate Sensitive Complete Protection; Colgate Sensitive Enamel Protect; Colgate Sensitive Lasting Fresh Mint Burst; Colgate Sensitive Maximum Strength Mint Clean; Colgate Sensitive Maximum Strength Whitening; Colgate Sensitive Multiprotection; Colgate Sensitive Prevent and Repair; Colgate Sensitive Pro Relief; Colgate Sensitive Pro Relief Enamel Repair; Colgate Sensitive Pro Relief Whitening; Colgate Sensitive Smart White Fresh Mint; Colgate Sensitive Smartfoam With Whitening; Colgate Sensitive Whitening Fresh Mint; Colgate Sensitive Whitening for Sensitive Teeth and Cavity Protection; Colgate Sensitive multiprotection for Sensitive Teeth and Cavity Protection; Colgate Total Zx Pro-Shield Plus Sensitive; Crest 3D White Luxe; Crest 3DWhite Whitening Therapy Sensitivity Care; Crest Sensi-Namel; Crest Sensi-Relief; Crest Sensitivity Clinical Sensitivity Relief; Cvs Enamel Guard; Cvs Extra Whitening; Cvs Maximum Strength; Dollar General Maximum Strength; EcoDent Res-Q-Dent; Enamel Health Multi-Protection; Family Wellness Sensitive Extra Whitening; FluoriMax 5000 Sensitive; Freshmint Sensitive; Freshmint Sensitive Toothpaste; Freshmist Sensitive Toothpaste; Genesis Sensitive Fresh Mint; Goodsense Sensitive Extra Whitening; Grafco Applicator 15 Cm; Grafco Applicator 30 Cm; Grafco Applicator 45 Cm; Heb Extra Whitening; Hello; House Living; HyVee Inc Maximum Strength; HyVee Maximum Strength; Iodent Sensitive Extra Whitening; Iodent Sensitive Fresh Mint; Ionite H; Kmart Corporation Maximum Strength; Kroger Extra Whitening; Kroger Sensitive; Laura Lynn Extra Whitening Sensitive; Level Herbal Mint Five Sensitive Formula Anticavity; Live Better Extra Whitening; Lornamead Natural White; Lucky Super Soft Sensitive; MIPaste ONE; Maximum Strength Sensitive Soothing Mint; Maximum Strength Sensitive True Mint; Meijer Maximum Strength; Natural White Pro Sensitive Clean and Polish Toothtpaste; Natural White Wht. Tpt Sens.teeth-fresh Mint; Opalescence PF; Opalescence Sensitivity Relief Whitening; Oral-B Sensitive With Fluoride Toothpaste; PERIOSCIENCES SENSITIVE AO Pro; Pearl White; Power White 7 Sensitive; PreviDent 5000 Enamel Protect; PreviDent 5000 Sensitive; Quality Choice Natural White; Rembrandt Whitening Toothpaste for Sensitive Teeth; Repara Silver Nitrate Applicators; Rite Aid Extra Whitening; Rite Aid Sensitive Mint; Rite Aid Sensitive Toothpaste Extra Whitening; Salpetre Pwr; Saltpetre Pwr 100%; Sensitive Anti-cavity; Sensitive MultiProtection with Tartar Control; Sensitive Teeth; Sensitive Tooth Paste Multi Action; Sensitive Tooth Paste Whitening; Sensitive Tooth Polish; Sensitive Whitening Enamel Guard; Sensitive Whitening with Baking Soda; Sensitive With Fluoride Tpt; Sensitive fluoride-free - Wintermint; Sensodyne; Sensodyne CoolGel; Sensodyne Extra Whitening; Sensodyne Fresh Impact; Sensodyne Fresh Mint; Sensodyne Full Protection; Sensodyne Iso-active; Sensodyne Original Flavor; Sensodyne Pronamel Daily Protection; Sensodyne Pronamel Fresh Breath; Sensodyne Pronamel Gentle Whitening; Sensodyne Pronamel Iso-active; Sensodyne Pronamel Multi Action; Sensodyne Pronamel Strong and Bright Enamel Extra Fresh; Sensodyne Pronamel Strong and Bright Enamel Mint; Sensodyne Tartar Control; Sensodyne True white; Sensodyne-F Fluoride Toothpaste; Sensodyne-F Mint Toothpaste; SheerDesenZ Desensitizing Treatment; Silver Nitrate Applicators; Smart Sense Enamel Guard; Smart Sense Maximum Strength; SprinJene Natural Sensitivity Relief; Styptstix; Teeth Desensitizing and Remineralizing Gel; The Natural Dentist Sensitivity; Toms Natural Fluoride-free Strength Sensitive Wintermint clinically proven to reduce painful sensitivity / no artificial dyes or sweeteners; Toms Natural Maximum Strength Sensitive Soothing Mint clinically proven to reduce painful sensitivity / no artificial dyes or sweeteners; Top Care Enamel Guard; Topco Associates LLC Maximum Strength; Topol Plus Whitening Tpt for Sensitive Teeth; Up and UP Sensitive Toothpaste Enamel Strengthening formula; Up and UP Sensitive Toothpaste Enamel Strengthening formula plus whitening; Up and Up Sensitive Maximum Strength Mint; Up and Up Sensitive Maximum Strength Whitening; Up and Up Sensitive Toothpaste; Up and Up Sensitive Toothpaste Whitening; Vet one; Wakefern Maximum Strength; Wal-Mart Stores Inc. Equate; Walgreen Sensitive Extra Whitening; Walgreens Maximum Strength Sensitive Fluoride; Walgreens Sensitive Dura-namel; Western Family Sensitive Whitening Fluoride; fluorodine ULTRA sensitive Fluoride Anticavity; iBrite
+
+>  <SMILES>  (1) 
+[K+].[O-][N+]([O-])=O
+
+$$$$

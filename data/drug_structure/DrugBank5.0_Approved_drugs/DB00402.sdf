@@ -1,0 +1,208 @@
+402
+     RDKit          2D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    7.6412   -1.8754    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -0.4273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7577    0.0166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -3.3235    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8213    0.9710    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3339    2.5393    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -1.8754    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0504    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.7004    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -2.5899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6286    1.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2703    1.5850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8848    1.9253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5266    2.3692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -1.2115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5650    0.1868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5902    3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.4629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -2.5393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662   -1.8754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -1.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037   -1.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037   -2.5899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8162   -1.8754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0
+ 15  2  1  6
+  2 16  1  0
+  3 16  2  0
+  4 20  2  0
+  5 11  1  0
+  5 12  1  0
+  5 16  1  0
+  6 13  1  0
+  6 14  1  0
+  6 17  1  0
+  7 15  1  0
+  7 20  1  0
+  7 21  1  0
+  8 18  2  0
+  8 23  1  0
+  9 19  2  0
+  9 24  1  0
+ 10 21  2  0
+ 10 26  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 15 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 21 22  1  0
+ 22 25  2  0
+ 23 24  2  0
+ 25 27  1  0
+ 26 27  2  0
+ 11 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 17 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 22 40  1  0
+ 23 41  1  0
+ 24 42  1  0
+ 25 43  1  0
+ 26 44  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.97
+
+>  <ALOGPS_LOGS>  (1) 
+-2.64
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.85e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00402
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00402
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+388.105066147
+
+>  <FORMULA>  (1) 
+C17H17ClN6O3
+
+>  <GENERIC_NAME>  (1) 
+Eszopiclone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H17ClN6O3/c1-22-6-8-23(9-7-22)17(26)27-16-14-13(19-4-5-20-14)15(25)24(16)12-3-2-11(18)10-21-12/h2-5,10,16H,6-9H2,1H3/t16-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+GBBSUAFBMRNDJC-INIZCTEOSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dorplen; Esleep; Eszop; Fulnite; Inductal; Isoklon; Nirvan; Noptic; Plessir; Sanilent; Sleepil; Sono; Valnoc; Wen Fei; Zopilone; Zopinon
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+37.666054873402665
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(5S)-6-(5-chloropyridin-2-yl)-7-oxo-5H,6H,7H-pyrrolo[3,4-b]pyrazin-5-yl 4-methylpiperazine-1-carboxylate
+
+>  <JCHEM_LOGP>  (1) 
+0.8065430329999994
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.038308435946096
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.887477179199521
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+91.76000000000002
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+95.8855
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lunesta
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+388.808
+
+>  <PRODUCTS>  (1) 
+Eszopiclone; Lunesta
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00431
+
+>  <SMILES>  (1) 
+CN1CCN(CC1)C(=O)O[C@@H]1N(C(=O)C2=NC=CN=C12)C1=NC=C(Cl)C=C1
+
+>  <SYNONYMS>  (1) 
+(+)-(5S)-6-(5-chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-5-yl-4-methylpiperazine-1-carboxylate; (S)-6-(5-Chloro-2-pyridinyl)- 7-oxo- 6,7-dihydro- 5H-pyrrolo[3,4-b]pyrazin-5-yl- 4-methyl- 1-piperazinecarboxylate; 1-Piperazinecarobxylic acid,4-methyl-,(5S)-6-(5-chloro-2-pyridinyl)-6,7-dihydro-7-oxo-5H-pyrrolo[3,4-b]pyrazin-5-yl ester; Esopiclone; Estorra; Eszopiclone
+
+$$$$

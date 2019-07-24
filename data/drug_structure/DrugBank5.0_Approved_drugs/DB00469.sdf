@@ -1,0 +1,191 @@
+
+     RDKit          2D
+
+ 33 35  0  0  0  0  0  0  0  0999 V2000
+   -1.1485    0.5659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4365    0.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4365   -0.6715    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1485   -1.0840    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8646    0.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8622   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6476   -0.9310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1355   -0.2636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6515    0.4065    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2781    0.5654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2789    1.3903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9923    0.1524    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7072    0.5644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7066    1.3864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4213    1.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1355    1.3854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1349    0.5605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4201    0.1484    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2781   -1.0834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1475    1.3909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5608   -1.7985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7360   -1.7985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0
+  1  2  2  0
+  2 10  1  0
+  2  3  1  0
+ 10 11  2  0
+  3  4  1  0
+ 10 12  1  0
+  5  6  2  0
+ 12 13  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  5  1  0
+  4  6  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 13  1  0
+  3 19  1  0
+  1 20  1  0
+  4 21  2  0
+ 22  4  2  0
+  7 23  1  0
+  8 24  1  0
+ 12 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 19 30  1  0
+ 19 31  1  0
+ 19 32  1  0
+ 20 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.42
+
+>  <ALOGPS_LOGS>  (1) 
+-3.12
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.57e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00469
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00469
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+337.019098194
+
+>  <FORMULA>  (1) 
+C13H11N3O4S2
+
+>  <GENERIC_NAME>  (1) 
+Tenoxicam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H11N3O4S2/c1-16-10(13(18)15-9-4-2-3-6-14-9)11(17)12-8(5-7-21-12)22(16,19)20/h2-7,17H,1H3,(H,14,15,18)
+
+>  <INCHI_KEY>  (1) 
+LZNWYQJJBLGYLT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Mobiflex; Octiveran; Oxicam; Oxytel; Palitenox; Tenorix; Tenxil; Tilcotil; Tilflam; Tilko; Tilnoxcam; Tiloxican; Tobitil; Tonox; Toscacalm; Velasor; Vienoks; Voir; Xicotil; Zibelant; Zikaral
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+33
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.957337348182968
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-hydroxy-2-methyl-1,1-dioxo-N-(pyridin-2-yl)-2H-1λ⁶-thieno[2,3-e][1,2]thiazine-3-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.11589946271036078
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+11.729147039203982
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.2100077352605987
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.259102273897464
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+99.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.93339999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tenoxicam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+337.37
+
+>  <PRODUCTS>  (1) 
+Mobiflex Tab 20mg; Novo-tenoxicam Tab 20mg; Nu-tenoxicam; Tenoxicam Tablets; Tenoxicam-20
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00011
+
+>  <SMILES>  (1) 
+CN1C(C(=O)NC2=CC=CC=N2)=C(O)C2=C(C=CS2)S1(=O)=O
+
+>  <SYNONYMS>  (1) 
+Tenoxicam; Ténoxicam; Tenoxicamum
+
+$$$$

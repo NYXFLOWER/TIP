@@ -1,0 +1,99 @@
+1377
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    2.4750    0.0000    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01377
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01377
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+39.97995652
+
+>  <FORMULA>  (1) 
+MgO
+
+>  <GENERIC_NAME>  (1) 
+Magnesium oxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Mg.O
+
+>  <INCHI_KEY>  (1) 
+CPLXHLVBOLITMK-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.8789761653518973
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+oxomagnesium
+
+>  <JCHEM_LOGP>  (1) 
+-1.1014
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+13.094809265384717
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+17.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+1.4429
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+magnesium oxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+40.304
+
+>  <PRODUCTS>  (1) 
+Active FE; Aspirin Plus Stomach Guard Ext.stgth.caplet; Aspirin Plus Stomach Guard Extra Strength; Aspirin Plus Stomach Guard Tab; Aspirin With Stomach Guard; Aspirin With Stomach Guard Extra Strength - Tab; B6 Plus Tab; Bacmin; C-apnto-B6 Vitamins W Magnesium Tab; Calcium - Magnesium - Zinc Tab; Calcium Magnesium Avec Vitamine D Et Zinc; Calcium Magnesium Tab; Calcium Supplement Tab; Calcium Vitamin D Iron Mag; Citracleen; Clenpiq; Cyclo/Mag; Cyclo/Mag 10mg/200mg; Inatal Advance; Iron Polysaccharides Folic Acid DHA; Kidmag Vitamins W Magnesium Tab; Magnesium Cap; Magnesium Citrate Oral Solution; Magnesium Comprime Tab; Magnesium Oxide; Magnesium Oxide 420 - Caplet; Magnesium Oxide Tab 420mg; Magnesium Tab 250mg; Migralex Dr. Mauskop; Nestabs ONE; Oral Purgative; PNV-First; PNV-Select; PRENATE Enhance; PRENATE Restore; Pico-salax; Picodan; Picoflo; PreQue 10; Prenate Elite; Prenate Essential; Prenate Star; Prepopik; Purg-odan; Se-Care Chewable; Se-Natal One; Spd Tab; Strovite One Caplets; TriAdvance; Trinatal GT; UltimateCare ONE NF; Urologic G for Irrigation; Urologic Solution G; Usana Active Calcium; Virt-PN Plus; Virt-Pn; Virt-Pn DHA; Vitafol Ultra; Zantanol Tab.; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SMILES>  (1) 
+O=[Mg]
+
+$$$$

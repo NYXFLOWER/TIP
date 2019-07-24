@@ -1,0 +1,221 @@
+1138
+     RDKit          2D
+
+ 49 52  0  0  1  0  0  0  0  0999 V2000
+    2.4705    1.7861    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4148    0.3649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0653   -1.3421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.6999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1848   -1.0871    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5174   -1.5721    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1049   -0.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6199    0.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9299   -0.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8499   -1.0871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9555    1.1186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9694   -1.3421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5174   -2.3971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5826   -0.7900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2318   -2.8096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1409   -2.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8028   -2.8096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8061    2.5397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3672   -1.0450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2318   -3.6346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9256   -2.4040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8028   -3.6346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5387   -1.8520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5174   -4.0471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6266    2.6260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3212    3.2073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9621    3.3797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6567    3.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4772    4.0471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0
+  1 11  1  0
+  1 18  1  0
+  2  9  2  0
+  3 10  2  0
+  5  6  1  0
+  5  9  1  0
+  5 12  1  0
+  6 10  1  0
+  6 13  1  0
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+  8 11  1  0
+ 12 14  2  0
+ 12 16  1  0
+ 13 15  2  0
+ 13 17  1  0
+ 14 19  1  0
+ 15 20  1  0
+ 16 21  2  0
+ 17 22  2  0
+ 18 25  2  0
+ 18 26  1  0
+ 19 23  2  0
+ 20 24  2  0
+ 21 23  1  0
+ 22 24  1  0
+ 25 27  1  0
+ 26 28  2  0
+ 27 29  2  0
+ 28 29  1  0
+  7 30  1  0
+  8 31  1  0
+  8 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 19 39  1  0
+ 20 40  1  0
+ 21 41  1  0
+ 22 42  1  0
+ 23 43  1  0
+ 24 44  1  0
+ 25 45  1  0
+ 26 46  1  0
+ 27 47  1  0
+ 28 48  1  0
+ 29 49  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.92
+
+>  <ALOGPS_LOGS>  (1) 
+-3.10
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.23e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01138
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01138
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+404.119463206
+
+>  <FORMULA>  (1) 
+C23H20N2O3S
+
+>  <GENERIC_NAME>  (1) 
+Sulfinpyrazone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C23H20N2O3S/c26-22-21(16-17-29(28)20-14-8-3-9-15-20)23(27)25(19-12-6-2-7-13-19)24(22)18-10-4-1-5-11-18/h1-15,21H,16-17H2
+
+>  <INCHI_KEY>  (1) 
+MBGGBVCUIVRRBF-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Anturane
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.15075304404465
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[2-(benzenesulfinyl)ethyl]-1,2-diphenylpyrazolidine-3,5-dione
+
+>  <JCHEM_LOGP>  (1) 
+3.1874085596666673
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+16.363817426055114
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.4136141519969105
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.722072173688344
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.690000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+113.61550000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfinpyrazone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+404.482
+
+>  <PRODUCTS>  (1) 
+Antazone Tab 100mg; Antazone Tab 200mg; Anturan 100mg; Anturan 200mg; Apo Sulfinpyrazone Tab 100mg; Novo-pyrazone Tab 100mg; Novo-pyrazone Tab 200mg; Nu-sulfinpyrazone Tab 100mg; Nu-sulfinpyrazone Tab 200mg; Sulfinpyrazone; Sulfinpyrazone 100 Tab; Sulfinpyrazone 200 Tab; Sulfinpyrazone Tablets 100mg; Sulfinpyrazone Tablets 200mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00620
+
+>  <SMILES>  (1) 
+O=C1C(CCS(=O)C2=CC=CC=C2)C(=O)N(N1C1=CC=CC=C1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+1,2-Diphenyl-3,5-dioxo-4-(2-phenylsulfinylethyl)pyrazolidine; 1,2-Diphenyl-4-(2'-phenylsulfinethyl)-3,5-pyrazolidinedione; 4-(2-Benzenesulfinylethyl)-1,2-diphenylpyrazolidine-3,5-dione; Sulfoxyphenylpyrazolidine
+
+$$$$

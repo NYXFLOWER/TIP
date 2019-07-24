@@ -1,0 +1,172 @@
+
+     RDKit          2D
+
+ 31 29  0  0  0  0  0  0  0  0999 V2000
+   -4.4075    0.0000    0.0000 Sr  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7590    0.0000    0.0000 Sr  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6699    0.9873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5024    0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1107   -0.3702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2820   -0.0704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8902    0.4760    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7228    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3310    1.8334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1156    1.5867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1635    2.6445    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6749    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9305   -0.5553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4456   -1.2252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9609   -1.8864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7590   -0.5553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2350   -1.2252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9001   -1.9745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0803   -2.0627    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3849   -2.6445    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0147    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7992    0.4760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4075   -0.0704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9667    1.2870    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3448    0.7140    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  2  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  7 12  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 12 13  2  0
+ 12 25  1  0
+ 13 14  1  0
+ 13 16  1  0
+ 14 15  3  0
+ 16 17  1  0
+ 16 21  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 21 22  1  0
+ 21 25  1  0
+ 22 23  2  0
+ 22 24  1  0
+  6 26  1  0
+  6 27  1  0
+  8 28  1  0
+  8 29  1  0
+ 17 30  1  0
+ 17 31  1  0
+M  CHG  6   1   2   2   2   5  -1  11  -1  20  -1  24  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.91
+
+>  <ALOGPS_LOGS>  (1) 
+-2.46
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.17e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09267
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09267
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+513.795712
+
+>  <FORMULA>  (1) 
+C12H6N2O8SSr2
+
+>  <GENERIC_NAME>  (1) 
+Strontium ranelate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H10N2O8S.2Sr/c13-2-6-5(1-7(15)16)10(12(21)22)23-11(6)14(3-8(17)18)4-9(19)20;;/h1,3-4H2,(H,15,16)(H,17,18)(H,19,20)(H,21,22);;/q;2*+2/p-4
+
+>  <INCHI_KEY>  (1) 
+XXUZFRDUEGQHOV-UHFFFAOYSA-J
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+10
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+31
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.910533977475247
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+distrontium(2+) ion 5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyanothiophene-2-carboxylate
+
+>  <JCHEM_LOGP>  (1) 
+0.2675610216666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-4
+
+>  <JCHEM_PKA>  (1) 
+2.177086850145455
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.6347814788102912
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+187.54999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+116.3394
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+distrontium(2+) ion 5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyanothiophene-2-carboxylate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+513.49
+
+>  <PRODUCTS>  (1) 
+Osseor; Protelos
+
+>  <SMILES>  (1) 
+[Sr++].[Sr++].[O-]C(=O)CN(CC([O-])=O)C1=C(C#N)C(CC([O-])=O)=C(S1)C([O-])=O
+
+$$$$

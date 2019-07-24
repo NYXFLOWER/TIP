@@ -1,0 +1,126 @@
+
+     RDKit          2D
+
+  8  7  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -0.2615    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.9760    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6740    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.4529    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.9760    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  7  1  0
+  3  6  1  0
+  4  6  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.50
+
+>  <ALOGPS_LOGS>  (1) 
+-1.71
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.81e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01159
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01159
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+195.890225001
+
+>  <FORMULA>  (1) 
+C2HBrClF3
+
+>  <GENERIC_NAME>  (1) 
+Halothane
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H
+
+>  <INCHI_KEY>  (1) 
+BCQZXOMGPXTTIC-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Fluothane; Halotan; Narcotan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.783667227362901
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-bromo-2-chloro-1,1,1-trifluoroethane
+
+>  <JCHEM_LOGP>  (1) 
+2.1193551299999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+24.633099999999995
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+halothane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+197.382
+
+>  <PRODUCTS>  (1) 
+Fluothane Anesthetic; Fluothane Liq Inh 1000mg/gm; Halothane; Halothane Liq 99.9%
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00598; EXPT01754; DB02330
+
+>  <SMILES>  (1) 
+FC(F)(F)C(Cl)Br
+
+>  <SYNONYMS>  (1) 
+2-Bromo-2-Chloro-1,1,1-Trifluoroethane; Bromochlorotrifluoroethane; Ftorotan; Halotano; Halothanum
+
+$$$$

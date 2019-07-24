@@ -1,0 +1,119 @@
+
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  3
+  3  1  1  0
+  4  2  1  0
+  5  2  1  0
+  1  6  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.45
+
+>  <ALOGPS_LOGS>  (1) 
+-1.83
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.96e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13323
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13323
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+129.914383153
+
+>  <FORMULA>  (1) 
+C2HCl3
+
+>  <GENERIC_NAME>  (1) 
+Trichloroethylene
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2HCl3/c3-1-2(4)5/h1H
+
+>  <INCHI_KEY>  (1) 
+XSTXAVWGXDQKEL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Chlorylen
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.593047784605647
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,1,2-trichloroethene
+
+>  <JCHEM_LOGP>  (1) 
+2.17833483
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.177
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+trichloroethylene
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+131.388
+
+>  <SMILES>  (1) 
+ClC=C(Cl)Cl
+
+>  <SYNONYMS>  (1) 
+1,1-dichloro-2-chloroethylene; acetylene trichloride; ethinyl trichloride; ethylene trichloride; Narcogen; TCE; trichlor; Trichloräthen; Trichloräthylen; trichloréthylène; Trichloroethene; trichloroéthylène; trichloroethylenum; triciene
+
+$$$$

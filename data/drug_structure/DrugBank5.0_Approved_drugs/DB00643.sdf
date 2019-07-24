@@ -1,0 +1,192 @@
+643
+     RDKit          2D
+
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+    3.7932    1.5394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2610   -0.8249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0235   -1.5394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7171    0.5534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7171   -0.7743    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0235   -0.1106    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9365   -0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5077    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2220    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2220   -0.9355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5077   -0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1986   -0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7932    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3643   -0.9355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4360   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6735   -1.5394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0
+  2 21  1  0
+  2 22  1  0
+  3 21  2  0
+  4  7  1  0
+  4 13  1  0
+  5  8  1  0
+  5 13  2  0
+  6 13  1  0
+  6 21  1  0
+  7  8  2  0
+  7 10  1  0
+  8 11  1  0
+  9 10  2  0
+  9 12  1  0
+  9 14  1  0
+ 11 12  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 16 18  1  0
+ 17 19  2  0
+ 18 20  2  0
+ 19 20  1  0
+  4 23  1  0
+  6 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+ 19 31  1  0
+ 20 32  1  0
+ 22 33  1  0
+ 22 34  1  0
+ 22 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.95
+
+>  <ALOGPS_LOGS>  (1) 
+-3.88
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.87e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00643
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00643
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+295.095691297
+
+>  <FORMULA>  (1) 
+C16H13N3O3
+
+>  <GENERIC_NAME>  (1) 
+Mebendazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H13N3O3/c1-22-16(21)19-15-17-12-8-7-11(9-13(12)18-15)14(20)10-5-3-2-4-6-10/h2-9H,1H3,(H2,17,18,19,21)
+
+>  <INCHI_KEY>  (1) 
+OPXLLQIJSORQAM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Lomper; Meberix; Mebex; Mebezol; Mebfil; Mebutar; Mebzol; Mendazole; Mezole; Minyoozole; Mopen; Multielmin; Necamin; Ovex; Panamox; Pantelmin; Tesical; Thelmox; Ticoquer; Vermox
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.098982142772872
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+methyl N-(6-benzoyl-1H-1,3-benzodiazol-2-yl)carbamate
+
+>  <JCHEM_LOGP>  (1) 
+3.260108544666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.92327404762947
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.437220468207997
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.9325308506307075
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+84.08000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+81.50390000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mebendazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+295.2927
+
+>  <PRODUCTS>  (1) 
+Emverm; Mebendazole; Vermox; Vermox Tablets 100 mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01086
+
+>  <SMILES>  (1) 
+COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+(5-benzoyl-1H-benzimidazol-2-yl)-carbamic acid methyl ester; MBDZ; Mebendazol; Mébendazole; Mebendazolum
+
+$$$$

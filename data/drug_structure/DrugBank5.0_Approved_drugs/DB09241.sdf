@@ -1,0 +1,194 @@
+ 
+     RDKit          2D
+
+ 39 40  0  0  0  0  0  0  0  0999 V2000
+   12.3935   -9.1090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3935   -8.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1099   -9.6212    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6807   -9.5243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1099   -7.8632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6807   -7.8771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8331   -9.1125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9746   -9.1090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8296   -8.2820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9746   -8.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5597   -9.5243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2652   -9.5139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5459   -7.8529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2865   -9.1055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5628   -9.0986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2619  -10.3306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2761   -8.2647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9959   -9.5105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9994  -10.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6984   -9.0918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1652  -10.5762    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  2  0
+  1  4  1  0
+  2  5  2  0
+  2  6  1  0
+  3  7  1  0
+  4  8  2  0
+  5  9  1  0
+  6 10  2  0
+  7 11  2  0
+  8 12  1  0
+  9 13  2  0
+ 11 14  1  0
+ 12 15  1  0
+ 12 16  1  0
+ 13 17  1  0
+ 14 18  1  0
+ 18 19  1  0
+ 18 20  1  0
+  7  9  1  0
+  8 10  1  0
+ 14 17  2  0
+  4 22  1  0
+  6 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 13 26  1  0
+ 15 27  1  0
+ 15 28  1  0
+ 15 29  1  0
+ 16 30  1  0
+ 16 31  1  0
+ 16 32  1  0
+ 17 33  1  0
+ 19 34  1  0
+ 19 35  1  0
+ 19 36  1  0
+ 20 37  1  0
+ 20 38  1  0
+ 20 39  1  0
+M  CHG  2   3   1  21  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.61
+
+>  <ALOGPS_LOGS>  (1) 
+-4.03
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.96e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09241
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09241
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+319.0909965
+
+>  <FORMULA>  (1) 
+C16H18ClN3S
+
+>  <GENERIC_NAME>  (1) 
+Methylene blue
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H18N3S.ClH/c1-18(2)11-5-7-13-15(9-11)20-16-10-12(19(3)4)6-8-14(16)17-13;/h5-10H,1-4H3;1H/q+1;/p-1
+
+>  <INCHI_KEY>  (1) 
+CXKWCBBOMKCUKX-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+39
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.10491553301396
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3,7-bis(dimethylamino)-5λ⁴-phenothiazin-5-ylium chloride
+
+>  <JCHEM_LOGP>  (1) 
+2.613303665457387
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.436785514403084
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+19.370000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+86.9759
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+3,7-bis(dimethylamino)-5λ⁴-phenothiazin-5-ylium chloride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+319.85
+
+>  <PRODUCTS>  (1) 
+Azuphen Mb; Blue Collyrium; Collyre Bleu; Eau Resolutive Soker; Hyolev Mb; Hyophen; Indiomin Mb; Me NaPhos MB Hyo 1; Methylene Bleu Liq 1%; Methylene Bleu Liq 2%; Methylene Blue; Methylene Blue Inj 1%; Methylene Blue Inj 1% USP; Methylene Blue Inj 10mg/ml USP; Methylene Blue Injection; Methylene Blue Injection USP; Methylene Blue Injection, USP; Methylene Blue Solution 1%; Methylthioninium Chloride Proveblue; Phosphasal; Provayblue; Saprolex Tab; UR N-C Urinary Antiseptic; Uralgic; Uramit Mb; Urelle; Uribel; Urimar-T; Urin D/S; Uro-458; Uro-L; Uro-MP; UroAv-81; UroAv-B; Urogesic Blue; Urolet Mb; Urophen Mb; Ustell; Uta; Utira-C; Vilamit MB; Vilevev MB
+
+>  <SALTS>  (1) 
+Methylene blue trihydrate
+
+>  <SMILES>  (1) 
+[Cl-].CN(C)C1=CC2=[S+]C3=C(C=CC(=C3)N(C)C)N=C2C=C1
+
+>  <SYNONYMS>  (1) 
+C.I. basic blue 9; Lowacryl blue 9; Methylene blue; methylenium ceruleum
+
+$$$$

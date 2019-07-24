@@ -1,0 +1,168 @@
+ 
+     RDKit          2D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+   14.9998   -9.5113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2821   -9.0959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9929  -10.3321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7106   -9.0925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5713   -9.5113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7106  -10.7442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2787  -10.7407    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   16.4248   -9.5045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7071   -8.2649    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   12.8571   -9.0959    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5713  -10.3355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4248  -10.3321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1393   -9.5113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4251   -9.0959    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1393  -10.3355    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  2  0
+  1  4  1  0
+  2  5  1  0
+  3  6  1  0
+  3  7  1  0
+  4  8  2  0
+  4  9  1  0
+  5 10  1  0
+  5 11  2  0
+  6 12  2  0
+ 10 13  1  0
+ 13 14  1  0
+ 13 15  2  3
+  8 12  1  0
+  2 16  1  0
+  2 17  1  0
+  6 18  1  0
+  8 19  1  0
+ 10 20  1  0
+ 12 21  1  0
+ 14 22  1  0
+ 14 23  1  0
+ 15 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.28
+
+>  <ALOGPS_LOGS>  (1) 
+-3.25
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.39e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01018
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01018
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+245.012267339
+
+>  <FORMULA>  (1) 
+C9H9Cl2N3O
+
+>  <GENERIC_NAME>  (1) 
+Guanfacine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H9Cl2N3O/c10-6-2-1-3-7(11)5(6)4-8(15)14-9(12)13/h1-3H,4H2,(H4,12,13,14,15)
+
+>  <INCHI_KEY>  (1) 
+INJOMKTZOLKMBF-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Estulic
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.74756627970052
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-carbamimidoyl-2-(2,6-dichlorophenyl)acetamide
+
+>  <JCHEM_LOGP>  (1) 
+1.7370317963333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.937505810438758
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.647665414541562
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+78.97
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+69.63409999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+guanfacine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+246.093
+
+>  <PRODUCTS>  (1) 
+Guanfacine; Guanfacine Extended-Release; Guanfacine Hydrochloride; Intuniv; Intuniv XR; Tenex
+
+>  <SALTS>  (1) 
+Guanfacine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00075
+
+>  <SMILES>  (1) 
+NC(=N)NC(=O)CC1=C(Cl)C=CC=C1Cl
+
+>  <SYNONYMS>  (1) 
+Guanfacina; Guanfacinum
+
+$$$$

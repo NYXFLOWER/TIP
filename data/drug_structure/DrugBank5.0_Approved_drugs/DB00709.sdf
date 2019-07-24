@@ -1,0 +1,173 @@
+709
+     RDKit          2D
+
+ 26 27  0  0  1  0  0  0  0  0999 V2000
+    2.6665   -1.4952    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465   -0.7106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6409   -2.9164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.0744    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4115   -0.7106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -1.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764   -2.1627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2  8  1  0
+  2 10  1  0
+  3 11  1  0
+  4 13  2  0
+  8  5  1  1
+  5 12  1  0
+  5 13  1  0
+  6 13  1  0
+  6 15  2  0
+  7 15  1  0
+  8  9  1  0
+ 10 11  1  6
+ 12 14  2  0
+ 14 15  1  0
+  3 16  1  0
+  7 17  1  0
+  7 18  1  0
+  8 19  1  0
+  9 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 14 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.29
+
+>  <ALOGPS_LOGS>  (1) 
+-1.92
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.76e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00709
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00709
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+229.052111923
+
+>  <FORMULA>  (1) 
+C8H11N3O3S
+
+>  <GENERIC_NAME>  (1) 
+Lamivudine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H11N3O3S/c9-5-1-2-11(8(13)10-5)6-4-15-7(3-12)14-6/h1-2,6-7,12H,3-4H2,(H2,9,10,13)/t6-,7+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+JTEGQNOMFQHVDC-NKWVEPMBSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Amilitrap; Antiheb; Avilam; Avolam; Epivir-HBV; Flamivud; Ganvirel; Hepavir; Hepitec; Heptavir; Heptodin; Heptodine; Lamda; Lamibergen; Lamidac; Lamitec; Lamivir; Zeffix
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.69986366490535
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-1-[(2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]-1,2-dihydropyrimidin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+-1.0951075880000003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.294605913828615
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.16058074296490987
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.15
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+55.1645
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lamivudine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+229.256
+
+>  <PRODUCTS>  (1) 
+3tc; Abacavir Sulfate, Lamivudine and Zidovudine; Abacavir and Lamivudine; Abacavir, Lamivudine and Zidovudine; Apo-abacavir-lamivudine; Apo-abacavir-lamivudine-zidovudine; Apo-lamivudine; Apo-lamivudine Hbv; Apo-lamivudine-zidovudine; Apo-zidovudine-lamivudine-nevirapine; Auro-abacavir/lamivudine; Auro-lamivudine; Auro-lamivudine/zidovudine; Combivir; Dutrebis; Epivir; Epivir Hbv; Epzicom; Heptovir; Kivexa; LAMIVUDINE and ZIDOVUDINE; Lamivudine; Lamivudine Teva; Lamivudine Teva Pharma B.V.; Lamivudine Zidovudine; Lamivudine and Zidovudine; Mylan-abacavir/lamivudine; PMS-abacavir-lamivudine; Teva-abacavir/lamivudine; Teva-lamivudine/zidovudine; Triumeq; Trizivir
+
+>  <SALTS>  (1) 
+3-TC; GR 109714 X
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00681
+
+>  <SMILES>  (1) 
+NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1
+
+>  <SYNONYMS>  (1) 
+Lamivudin; Lamivudina; Lamivudine; Lamivudinum
+
+$$$$

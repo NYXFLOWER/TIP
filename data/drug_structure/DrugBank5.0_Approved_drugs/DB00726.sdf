@@ -1,0 +1,215 @@
+726
+     RDKit          2D
+
+ 48 50  0  0  1  0  0  0  0  0999 V2000
+    3.8680    0.7167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -1.6597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1820   -0.4715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8680   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5817    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1542    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1819   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2641    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4719    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7580    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9780    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1777    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5581    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5425    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1934    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9680    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7678    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1516    1.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5843    1.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8099   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  6  1  0
+  2  7  1  0
+  2 21  1  0
+  2 22  1  0
+  3  4  1  0
+  3  7  1  0
+  3 12  1  0
+  5 10  2  0
+  5 13  1  0
+  6 11  2  0
+  6 14  1  0
+  8  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 15  1  0
+ 11 16  1  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 20  2  0
+ 17 19  1  0
+ 18 20  1  0
+  3 23  1  0
+  4 24  1  0
+  4 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 12 32  1  0
+ 12 33  1  0
+ 12 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+ 19 41  1  0
+ 20 42  1  0
+ 21 43  1  0
+ 21 44  1  0
+ 21 45  1  0
+ 22 46  1  0
+ 22 47  1  0
+ 22 48  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.67
+
+>  <ALOGPS_LOGS>  (1) 
+-4.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.60e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00726
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00726
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+294.209598842
+
+>  <FORMULA>  (1) 
+C20H26N2
+
+>  <GENERIC_NAME>  (1) 
+Trimipramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H26N2/c1-16(14-21(2)3)15-22-19-10-6-4-8-17(19)12-13-18-9-5-7-11-20(18)22/h4-11,16H,12-15H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+ZSCDBOWYZJWBIY-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Herphonal; Sapilent; Stangyl; Trimidura; Trimineurin; Tripress; Tydamine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.671602589169126
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3-{2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-yl}-2-methylpropyl)dimethylamine
+
+>  <JCHEM_LOGP>  (1) 
+4.7578923536666675
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.421368596207449
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+95.02200000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+trimipramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+294.4338
+
+>  <PRODUCTS>  (1) 
+Apo-trimipramine; Novo-tripramine Tab 100mg BP; Novo-tripramine Tab 25mg BP; Novo-tripramine Tab 50mg BP; Nu-trimipramine Tab 100mg; Nu-trimipramine Tab 12.5mg; Nu-trimipramine Tab 25mg; Nu-trimipramine Tab 50mg; Rhotrimine; Surmontil; Surmontil 100; Surmontil 12.5; Surmontil 75; Trimipramine; Trimipramine Maleate; Trimipramine Tab 100mg; Trimipramine Tab 12.5mg; Trimipramine Tab 25mg; Trimipramine Tab 50mg; Trimipramine-75 - Cap 75mg
+
+>  <SALTS>  (1) 
+Trimipramine maleate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00498
+
+>  <SMILES>  (1) 
+CC(CN(C)C)CN1C2=CC=CC=C2CCC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+beta-Methylimipramine; Trimeprimina; Trimeprimine; Trimipramina; Trimipramine; Trimipraminum
+
+$$$$

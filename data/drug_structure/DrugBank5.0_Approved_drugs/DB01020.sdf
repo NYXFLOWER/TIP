@@ -1,0 +1,163 @@
+1020
+     RDKit          2D
+
+ 22 23  0  0  1  0  0  0  0  0999 V2000
+    3.2642   -1.0948    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8296    0.2366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0092    1.0248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0858   -1.8755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9472    1.9810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.5832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2022    1.1963    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0488   -0.0149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0488   -0.8399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2642    0.2402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8296   -1.0913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7792   -0.4274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3110   -0.4274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 12  1  0
+  2  8  1  0
+  2 13  1  0
+  3  7  1  0
+ 10  3  1  1
+ 11  4  1  6
+  5  7  1  0
+  6  7  2  0
+  8  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 11 13  1  0
+  4 14  1  0
+  8 15  1  6
+  9 16  1  6
+ 10 17  1  0
+ 11 18  1  0
+ 12 19  1  0
+ 12 20  1  0
+ 13 21  1  0
+ 13 22  1  0
+M  CHG  2   5  -1   7   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.74
+
+>  <ALOGPS_LOGS>  (1) 
+-0.53
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.70e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01020
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01020
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+191.042987025
+
+>  <FORMULA>  (1) 
+C6H9NO6
+
+>  <GENERIC_NAME>  (1) 
+Isosorbide Mononitrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H9NO6/c8-3-1-11-6-4(13-7(9)10)2-12-5(3)6/h3-6,8H,1-2H2/t3-,4+,5+,6+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+YWXYYJSYQOXTPL-SLPGGIOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Chemydur; Corangin; Dilatrate; Duride; Elantan; Etimonis; Imodur; Imtrate; Ismexin; Ismo; Ismox; Isomon; Isomonit; Isonorm; Medocor; Monicor; Monit; Mono Corax; Mono Mack; Monocedocard; Monoclair; Monocord; Monodur Durules; Monolong; Monomax; Mononit; Monopront; Monosorb; Monosordil; Monotrate; Nitramin; Olicard; Olicardin; Orasorbil; Pertil; Plodin; Promocard; Sigacora; Solotrate; Sorbimon; Turimonit; Uniket; Vasdilat
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.85213163448809
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3R,3aS,6S,6aR)-6-hydroxy-hexahydrofuro[3,2-b]furan-3-yl nitrate
+
+>  <JCHEM_LOGP>  (1) 
+-0.4816601490000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.335234173575063
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.526968572478266
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+93.74000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.077400000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+monit
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+191.1388
+
+>  <PRODUCTS>  (1) 
+Apo-ismn; Dom-ismn; Imdur; Imdur - Extended Release Tablets 60 mg; Ismn; Ismo Tab 20mg; Isosorbide; Isosorbide Mononitrate; Isosorbide mononitrate; Monoket; PHL-ismn; PMS-ismn; Pro-ismn - 60
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00528
+
+>  <SMILES>  (1) 
+[H][C@]12OC[C@@H](O[N+]([O-])=O)[C@@]1([H])OC[C@@H]2O
+
+>  <SYNONYMS>  (1) 
+IS 5-MN; IS-5-MN; IS-5MN; ISMN; Iso-5-mononitrate; Isosorbide 5-mononitrate; Isosorbide 5-nitrate; Isosorbide-5-mononitrate; isosorbidi mononitras; mononitrate d'isosorbide; mononitrato de isosorbida; Monosorbitrate
+
+$$$$

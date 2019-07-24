@@ -1,0 +1,194 @@
+380
+     RDKit          2D
+
+ 35 36  0  0  1  0  0  0  0  0999 V2000
+    5.2224    2.6813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.6813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.6813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.6813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  2  0
+  2 17  2  0
+  3 18  2  0
+  4 19  2  0
+  9  5  1  1
+  5 11  1  0
+  5 12  1  0
+  6 10  1  0
+  6 14  1  0
+  6 15  1  0
+  7 16  1  0
+  7 17  1  0
+  8 18  1  0
+  8 19  1  0
+  9 10  1  0
+  9 13  1  0
+ 11 16  1  0
+ 12 17  1  0
+ 14 18  1  0
+ 15 19  1  0
+  7 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 12 28  1  0
+ 13 29  1  0
+ 13 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.05
+
+>  <ALOGPS_LOGS>  (1) 
+-1.41
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.04e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00380
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00380
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <EXACT_MASS>  (1) 
+268.11715502
+
+>  <FORMULA>  (1) 
+C11H16N4O4
+
+>  <GENERIC_NAME>  (1) 
+Dexrazoxane
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H16N4O4/c1-7(15-5-10(18)13-11(19)6-15)2-14-3-8(16)12-9(17)4-14/h7H,2-6H2,1H3,(H,12,16,17)(H,13,18,19)/t7-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+BMKDZUISNHGIBY-ZETCQYMHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ao Nuo Xian; Cardioxane; Dexrazoxane; Savene; Totect
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.12181075550423
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-[(2S)-2-(3,5-dioxopiperazin-1-yl)propyl]piperazine-2,6-dione
+
+>  <JCHEM_LOGP>  (1) 
+-2.6526549413333336
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.800852844190322
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.198792840713974
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.595816919458805
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+98.82
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.2532
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dexrazoxane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+268.2691
+
+>  <PRODUCTS>  (1) 
+Dexrazoxane; Dexrazoxane Hydrochloride; Savene; Totect; Zinecard
+
+>  <SALTS>  (1) 
+Dexrazoxane hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00090; DB02444
+
+>  <SMILES>  (1) 
+C[C@@H](CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1
+
+>  <SYNONYMS>  (1) 
+(+)-(S)-4,4'-Propylenedi-2,6-piperazinedione; 4-[(2S)-2-(3,5-dioxopiperazin-1-yl)propyl]piperazine-2,6-dione; Dexrazoxan; Dexrazoxane; Dexrazoxano; Dexrazoxanum
+
+$$$$

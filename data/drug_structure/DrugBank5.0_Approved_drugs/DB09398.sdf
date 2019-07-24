@@ -1,0 +1,103 @@
+
+     RDKit          2D
+
+  2  0  0  0  0  0  0  0  0  0999 V2000
+    0.8250    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  ISO  1   1  18
+M  END
+>  <DATABASE_ID>  (1) 
+DB09398
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09398
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+40.99070695
+
+>  <FORMULA>  (1) 
+FNa
+
+>  <GENERIC_NAME>  (1) 
+Sodium fluoride F-18
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/FH.Na/h1H;/q;+1/p-1/i1-1;
+
+>  <INCHI_KEY>  (1) 
+PUZPDOWCWNUUKD-ULWFUOSBSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+0.43590066
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium (18F)fluoride
+
+>  <JCHEM_LOGP>  (1) 
+0.14883863966666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.1699999999999995
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.8725
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium (18F)fluoride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+40.9907
+
+>  <PRODUCTS>  (1) 
+Sodium Fluoride F 18; Sodium Fluoride F-18; Sodium Fluoride F18; Sodium FluorideF 18 F 18
+
+>  <SMILES>  (1) 
+[18F-].[Na+]
+
+$$$$

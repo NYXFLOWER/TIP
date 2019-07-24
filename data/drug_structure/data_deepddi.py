@@ -22,14 +22,19 @@ with open('./data/index_map/chem-map-db.pkl', 'rb') as f:
     chem_map_db = pickle.load(f)
 
 
-def calculate_drug_similarity(drug_list, input_list,
-                              output_file='./data/drug_structure/drug_similarity.csv'):
+def calculate_drug_similarity(input_dir='../data/DrugBank5.0_Approved_drugs/',
+                              drug_dir='../data/DrugBank5.0_Approved_drugs/',
+                              output_file='../data/output.csv'):
+    drugbank_drugs = glob.glob(drug_dir + '*')
+    input_drugs = glob.glob(input_dir + '*')
     drug_similarity_info = {}
-    for each_drug_id1 in drug_list:
-        drug_similarity_info[each_drug_id1] = {}
+    for each_drug_id1 in drugbank_drugs:
+        drugbank_id = os.path.basename(each_drug_id1).split('.')[0]
+        drug_similarity_info[drugbank_id] = {}
         drug1_mol = Chem.MolFromMolFile(each_drug_id1)
         drug1_mol = AllChem.AddHs(drug1_mol)
-        for each_drug_id2 in input_list:
+        for each_drug_id2 in input_drugs:
+            input_drug_id = os.path.basename(each_drug_id2).split('.')[0]
             drug2_mol = Chem.MolFromMolFile(each_drug_id2)
             drug2_mol = AllChem.AddHs(drug2_mol)
             fps = AllChem.GetMorganFingerprint(drug1_mol, 2)
@@ -51,5 +56,5 @@ for i in inversed_map:
         count += 1
     else:
         inversed_db.append('')
-# only 345 chem comp
+# only 345 chem comp in drugbank dataset
 

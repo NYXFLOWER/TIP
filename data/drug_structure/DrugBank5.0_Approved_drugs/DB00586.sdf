@@ -1,0 +1,184 @@
+586
+     RDKit          2D
+
+ 30 31  0  0  0  0  0  0  0  0999 V2000
+    4.5080   -1.2870    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2870    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2 15  1  0
+  3 16  1  0
+  4 16  2  0
+  5  7  1  0
+  5  9  1  0
+  6  7  2  0
+  6  8  1  0
+  6 10  1  0
+  7 11  1  0
+  8 16  1  0
+  9 14  2  0
+  9 15  1  0
+ 10 12  2  0
+ 11 13  2  0
+ 12 13  1  0
+ 14 17  1  0
+ 15 18  2  0
+ 17 19  2  0
+ 18 19  1  0
+  3 20  1  0
+  5 21  1  0
+  8 22  1  0
+  8 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 17 28  1  0
+ 18 29  1  0
+ 19 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.98
+
+>  <ALOGPS_LOGS>  (1) 
+-4.82
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.47e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00586
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00586
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+295.016684015
+
+>  <FORMULA>  (1) 
+C14H11Cl2NO2
+
+>  <GENERIC_NAME>  (1) 
+Diclofenac
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H11Cl2NO2/c15-10-5-3-6-11(16)14(10)17-12-7-2-1-4-9(12)8-13(18)19/h1-7,17H,8H2,(H,18,19)
+
+>  <INCHI_KEY>  (1) 
+DCOPUUMXTXDBNB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aclonac; Allvoran; Ecofenac; Effekton; Nu-Diclo; Primofenac; Prophenatin; Rhumalgan; Voltaren Emulgel; Voltarol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.93167870508987
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-{2-[(2,6-dichlorophenyl)amino]phenyl}acetic acid
+
+>  <JCHEM_LOGP>  (1) 
+4.259009233333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+16.40187487777428
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.995651870366132
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.0760497458522584
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+49.33
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+75.46140000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+diclofenac
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+296.149
+
+>  <PRODUCTS>  (1) 
+Act Diclo-miso; Apo-diclo; Apo-diclo Rapide 50 Mg Tablets; Apo-diclo SR; Apo-diclofenac; Apo-diclofenac Ophthalmic; Arthrotec; Arthrotec 50; Arthrotec 75; Ava-diclofenac; Ava-diclofenac SR; Cambia; Cataflam; Diclo Gel 1% with Xrylix Sheets; Diclofenac; Diclofenac EC; Diclofenac Ect 25mg; Diclofenac Ect 50mg; Diclofenac K; Diclofenac Misoprostol; Diclofenac Potassium; Diclofenac Potassium for Oral Solution; Diclofenac SR; Diclofenac Sodium; Diclofenac Sodium 1.5%; Diclofenac Sodium 3 Percent; Diclofenac Sodium D/R; Diclofenac Sodium Delayed Release; Diclofenac Sodium Delayed Release Delayed Release; Diclofenac Sodium Dr; Diclofenac Sodium Extended-Release; Diclofenac Sodium Topical Solution; Diclofenac Sodium and Misoprostol; Diclofenac Sodium and Misoprostol Delayed-Release; Diclofenac Sodium topical solution; Diclofenac Topical Solution; Diclofenac sodium; Diclofenac sodium and Misoprostol; Diclofenac-SR; Diclotec; Diclozor; Dipentocaine Topical Cream Compounding Kit; Dom-diclofenac; Dom-diclofenac-SR; Dyloject; Flector; Gapeam Budibac; Gd-diclofenac/misoprostol 50; Gd-diclofenac/misoprostol 75; Infla-eze; Klofensaid II; Lexixryl; Ntp-diclofenac Potassium; Ntp-diclofenac Sodium; Ntp-diclofenac Sodium SR; Nu-diclo Enteric Coated Tab 25mg; Nu-diclo Enteric Coated Tab 50mg; Nu-diclo Rapide; Nu-diclo SR - Srt 100mg; Nu-diclo SR - Srt 75mg; PMS-diclofenac; PMS-diclofenac K; PMS-diclofenac-SR; PMS-diclofenac-misoprostol; Pennsaid; Penta-diclofenac - 25mg; Penta-diclofenac - 50mg; PrevidolRx Analgesic Pak; PrevidolRx Plus Analgesic Pak; Pro-diclo Rapide - 50; Rho-diclofenac; Riva-diclofenac 100mg SR Tablets; Riva-diclofenac 50mg Tablets; Riva-diclofenac 75mg SR Tablets; Riva-diclofenac-K 50mg Tablets; Sandoz Diclofenac; Sandoz Diclofenac Misoprostol; Sandoz Diclofenac Ophtha; Sandoz-diclofenac; Sandoz-diclofenac Rapide; Sandoz-diclofenac SR; Solaraze; Taro-diclofenac; Taro-diclofenac Tab 25mg; Taro-diclofenac Tab 50mg; Teva-diclofenac; Teva-diclofenac EC; Teva-diclofenac SR; Teva-diclofenac-K; Topical Nerve Pain; Vofenal 0.1%; Voltaren; Voltaren Emulgel; Voltaren Emulgel Back & Muscle Pain; Voltaren Emulgel Extra Strength; Voltaren Emulgel Joint Pain Extra Strength; Voltaren Emulgel Joint Pain Regular Strength; Voltaren Ophtha; Voltaren Rapide Tablets 50mg; Voltaren SR 75 Tab; Voltaren SR Tab 100mg; Voltaren Sup 100mg; Voltaren Sup 50mg; Voltaren Tab 25mg; Voltaren Tab 50mg; Voltaren XR; Xrylix; Zipsor; Zorvolex
+
+>  <SALTS>  (1) 
+Diclofenac diethylamine; Diclofenac epolamine; Diclofenac potassium; Diclofenac sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00527
+
+>  <SMILES>  (1) 
+OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl
+
+>  <SYNONYMS>  (1) 
+[2-(2,6-dichloroanilino)phenyl]acetic acid; 2-((2,6-dichlorophenyl)amino)benzeneacetic acid; Diclofenac Acid; Diclofenaco; Diclofenacum
+
+$$$$

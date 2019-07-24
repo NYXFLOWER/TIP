@@ -1,0 +1,142 @@
+627
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    3.0790    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  3  6  2  0
+  3  8  1  0
+  4  5  2  0
+  4  6  1  0
+  4  9  1  0
+  5  7  1  0
+  7  8  2  0
+  1 10  1  0
+  5 11  1  0
+  6 12  1  0
+  7 13  1  0
+  8 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.29
+
+>  <ALOGPS_LOGS>  (1) 
+-0.17
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.31e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00627
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00627
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+123.032028409
+
+>  <FORMULA>  (1) 
+C6H5NO2
+
+>  <GENERIC_NAME>  (1) 
+Niacin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H5NO2/c8-6(9)5-2-1-3-7-4-5/h1-4H,(H,8,9)
+
+>  <INCHI_KEY>  (1) 
+PVNIIMVLHYAWGP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.303434426527122
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+pyridine-3-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.16644564754087304
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.785610419861248
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.193250855836253
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+50.19
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.157299999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+niacin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+123.1094
+
+>  <PRODUCTS>  (1) 
+Acti-niacin Caplet 500mg; Advicor; American Eagle Energizer Plus Vitamin Supplement Drink; American Plus Energy & Vitamin Drink; Antivert Tab; Armax; B 6 Plus; B-3 500mg Continuous Released; B-complex Tab; B3; B6 Plus Tab; Bev 29 Tab; C-B Complex; Cal M Tab; Cc II; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Chromemate; Complex 5 - Pwr; Concept DHA; Concept OB; Cool B; DermaNIC; Flush Free Niacin With Inositol; Formula # 7 Tab 50mg; Formula Cw; Formula Cw-caplet; Formula Lf; Fortistress Tab; Fusion Activator Formula Tab; Gesticare DHA; Gtf Support Caplet; Harvest Of Values All B Complex Tab; Hi Potency B Complex W Chelated Minerals; Ifb; Inositol Nicotinate 250 mg; Integra F; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; JEUNCELL Hair restorer and Hair Growth Solution; Kindervites; Lipo-B-C Tab; Lipovitan; MVC-Fluoride; Master Key Formula 3 Tab; Mega 13 Multivitamin Formula; Metacinamide Tab; Mhb; Multi #2; Multi Tabs; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi-Vitamin; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multicaps; Multitabs; Multivitamin with fluoride; My Favorite Niacin and Inositol Tab; Myhephron Dialysis and Stress Supplement; Nata Komplete; Nephrocaps; Niachrom Capsule; Niacin; Niacin 100 Mg Tablets; Niacin 100 mg; Niacin 100mg; Niacin 100mg Tab; Niacin 100mg Tablets USP; Niacin 250mg; Niacin 500 Mg and Inositol; Niacin 500mg; Niacin 50mg; Niacin Cap 250mg; Niacin Caps 100mg; Niacin Ctr Srt 500mg; Niacin Inj 100mg/ml; Niacin Pwr 800mg/1.25ml; Niacin Src 400mg; Niacin Tab 100mg; Niacin Tab 100mg USP; Niacin Tab 100mg Yeast Free; Niacin Tab 250mg; Niacin Tab 475mg; Niacin Tab 500mg; Niacin Tab 50mg; Niacin Tablets 500mg USP; Niacin-100 Tab 100mg; Niacin-niacinamide Tab; Niacor; Niaspan; Niaspan ER; Niaspan Fct; Niodan 500 Mg Time Release Tablets; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; One A Day Advance Adults; One A Day Advance Adults 50+; Orange Flavored Crystal Chews Tab; Phytopure; PreNatal Vitamins Plus; Prenatal Mega Antioxidant; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Reaphirm Plant Source DHA; Red American Eagle Vitamin Supplement Drink; Red Bull; Remedium - Liq Orl; Reno Caps; Shen Min Vitamin Supplement; Simcor; Spectrum 2 Cap; Stress Formula Multi-B Comp + 500mg Vit C Cap; Strovite Forte Caplet; Super Daily No 2; Super Stress Mega B Plus 1000mg Vit C Tab; Sustained Release Niacin 500mg; Sveets; Time Released Niacin 500 mg; Tri B3 Src 300mg; Usana Megavitamin Tablets - Tab; Vasodyn Tab; Vita B Complex Tab; Vita Day Tab; Vitafol Caplet; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitalife  -  Capsule; Vitamin B + C Cap; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Compound Tab; Vitamin B3 Tab 10mg USP Chewable; Vtb Vitamin and Mineral Supplement; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00042; APRD00536
+
+>  <SMILES>  (1) 
+OC(=O)C1=CN=CC=C1
+
+>  <SYNONYMS>  (1) 
+3-carboxypyridine; 3-Pyridinecarboxylic acid; 3-Pyridylcarboxylic acid; Acide Nicotinique; Acidum Nicotinicum; M-Pyridinecarboxylic Acid; Nicotinic Acid; pyridine-β-carboxylic acid; Vitamin B3; β-pyridinecarboxylic acid
+
+$$$$

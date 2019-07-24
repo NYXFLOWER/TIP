@@ -1,0 +1,209 @@
+1242
+     RDKit          2D
+
+ 45 47  0  0  0  0  0  0  0  0999 V2000
+    1.5842    0.1860    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2627    0.7166    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -1.6596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2627   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5491    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9763    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8667    2.4517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6588    2.4517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3729    1.8325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1526    1.8325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9488   -0.4715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9488   -1.2636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9530    0.4898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5725    0.4898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5884    2.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9373    2.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1627    0.7270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3627    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9792    1.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5464    1.5313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -2.4517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3207   -1.2636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3 12  1  0
+  3 21  1  0
+  3 22  1  0
+  4 11  1  0
+  5  9  2  0
+  5 13  1  0
+  6 10  2  0
+  6 14  1  0
+  7  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 15  1  0
+ 10 16  1  0
+ 11 12  1  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 20  2  0
+ 17 19  1  0
+ 18 20  1  0
+  4 23  1  0
+  4 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+ 11 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 18 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 21 40  1  0
+ 21 41  1  0
+ 21 42  1  0
+ 22 43  1  0
+ 22 44  1  0
+ 22 45  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.04
+
+>  <ALOGPS_LOGS>  (1) 
+-4.34
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.44e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01242
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01242
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+314.154976453
+
+>  <FORMULA>  (1) 
+C19H23ClN2
+
+>  <GENERIC_NAME>  (1) 
+Clomipramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H23ClN2/c1-21(2)12-5-13-22-18-7-4-3-6-15(18)8-9-16-10-11-17(20)14-19(16)22/h3-4,6-7,10-11,14H,5,8-9,12-13H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+GDLIGKIOYRNHDA-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Hydiphen
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.73064379062186
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3-{14-chloro-2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3,5,7,12,14-hexaen-2-yl}propyl)dimethylamine
+
+>  <JCHEM_LOGP>  (1) 
+4.882613470666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.19697706986717
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+95.41040000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+clomipramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+314.852
+
+>  <PRODUCTS>  (1) 
+Act Clomipramine; Altius-clomipramine; Anafranil; Apo-clomipramine Tablets 10mg; Apo-clomipramine Tablets 25mg; Apo-clomipramine Tablets 50mg; Clomipramine Hydrochloride; Clomipramine Tablets 10mg; Clomipramine Tablets 25mg; Clomipramine Tablets 50mg; Clomipramine-10 - Tab 10mg; Clomipramine-25 - Tab 25mg; Clomipramine-50 - Tab 50mg; Dom-clomipramine; Gen-clomipramine - Tab 10mg; Gen-clomipramine - Tab 25mg; Gen-clomipramine - Tab 50mg; Med Clomipramine Tablets - 25mg; Med Clomipramine Tablets - 50mg; Novo-clopamine Tab 10mg; Novo-clopamine Tablets - 25mg; Novo-clopamine Tablets- 50mg; PMS-clomipramine; Penta-clomipramine - 25mg; Penta-clomipramine - 50mg
+
+>  <SALTS>  (1) 
+Clomipramine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00253; DB07600
+
+>  <SMILES>  (1) 
+CN(C)CCCN1C2=CC=CC=C2CCC2=C1C=C(Cl)C=C2
+
+>  <SYNONYMS>  (1) 
+3-(3-chloro-10,11-dihydro-5H-dibenzo[b,f]azepin-5-yl)-N,N-dimethyl-1-propanamine; 3-(3-chloro-5H-dibenzo[b,F]azepin-5-yl)-N,N-dimethylpropan-1-amine; 3-Chloroimipramine; Chlorimipramine; Clomipramina; Clomipraminum; Monochlorimipramine
+
+$$$$

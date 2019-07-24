@@ -1,0 +1,187 @@
+299
+     RDKit          2D
+
+ 33 34  0  0  0  0  0  0  0  0999 V2000
+    6.0424    2.5350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4006    2.0911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.9157    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.6018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -1.9296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6782    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3370    1.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0807    0.3525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2734    0.1824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7860    1.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1443    1.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.8532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -1.2657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.0907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  2 13  1  0
+  3 17  2  0
+  4 11  1  0
+  4 14  1  0
+  4 16  1  0
+  5 14  1  0
+  5 18  1  0
+  6 15  1  0
+  6 16  2  0
+  7 17  1  0
+  7 18  2  0
+  8 18  1  0
+  9 10  1  0
+  9 12  1  0
+  9 13  1  0
+ 10 11  1  0
+ 14 15  2  0
+ 15 17  1  0
+  1 19  1  0
+  2 20  1  0
+  5 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 16 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.86
+
+>  <ALOGPS_LOGS>  (1) 
+-1.53
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.45e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00299
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00299
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+253.117489371
+
+>  <FORMULA>  (1) 
+C10H15N5O3
+
+>  <GENERIC_NAME>  (1) 
+Penciclovir
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H15N5O3/c11-10-13-8-7(9(18)14-10)12-5-15(8)2-1-6(3-16)4-17/h5-6,16-17H,1-4H2,(H3,11,13,14,18)
+
+>  <INCHI_KEY>  (1) 
+JNTOCHDNEULJHD-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.106083786739198
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-9-[4-hydroxy-3-(hydroxymethyl)butyl]-6,9-dihydro-3H-purin-6-one
+
+>  <JCHEM_LOGP>  (1) 
+-1.5479088533333338
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.095575891007815
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.010394283090589
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.835791198749247
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+125.75999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.59190000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+denavir
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+253.2578
+
+>  <PRODUCTS>  (1) 
+Denavir; Penciclovir
+
+>  <SALTS>  (1) 
+Penciclovir sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00041; DB01730
+
+>  <SMILES>  (1) 
+NC1=NC(=O)C2=C(N1)N(CCC(CO)CO)C=N2
+
+>  <SYNONYMS>  (1) 
+9-(4-hydroxy-3-(hydroxymethyl)butyl)guanine; 9-(4-hydroxy-3-hydroxymethylbut-1-yl)-guanine; 9-[2-hydroxy-1-(hydroxymethyl)-ethoxymethyl]guanine; 9-[4-hydroxy-3-(hydroxymethyl)but-1-yl]guanine; PCV; PE2; Penciclovirum
+
+$$$$

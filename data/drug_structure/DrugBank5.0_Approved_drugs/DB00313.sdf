@@ -1,0 +1,168 @@
+
+     RDKit          2D
+
+ 26 25  0  0  0  0  0  0  0  0999 V2000
+   -1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.0725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.2475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  2  3  1  0
+  3  4  1  0
+  4  8  1  0
+  4  5  1  0
+  5  9  1  0
+  5 10  2  0
+  6  7  1  0
+  6  8  1  0
+  1 11  1  0
+  1 12  1  0
+  1 13  1  0
+  2 14  1  0
+  2 15  1  0
+  3 16  1  0
+  3 17  1  0
+  4 18  1  0
+  6 19  1  0
+  6 20  1  0
+  7 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.54
+
+>  <ALOGPS_LOGS>  (1) 
+-1.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.36e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00313
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00313
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+144.115029756
+
+>  <FORMULA>  (1) 
+C8H16O2
+
+>  <GENERIC_NAME>  (1) 
+Valproic Acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)
+
+>  <INCHI_KEY>  (1) 
+NIJJYAXOARWZEE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Convulex; Depakine; Deprakine; Encorate; Epilim; Valcote; Valparin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.996878483662712
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-propylpentanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+2.7984510709999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.144389811177235
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+37.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.2491
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+valproic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+144.2114
+
+>  <PRODUCTS>  (1) 
+Apo-divalproex; Apo-valproic; Apo-valproic Syrup; Depacon; Depakene; Depakene Cap 500mg; Depakote; Depakote ER; Depakote Sprinkles; Deproic Syrup; Divalproex; Divalproex Sodium; Divalproex Sodium DR; Divalproex Sodium Delayed Release; Divalproex Sodium Delayed Release (Sprinkle); Divalproex Sodium Delayed-Release; Divalproex Sodium Dr; Divalproex Sodium ER; Divalproex Sodium Extended Release; Divalproex Sodium Extended-Release; Divalproex Sodium Extended-release; Divalproex SodiumDelayed-Release Delayed-Release; Divalproex sodium; Divalproex-125; Divalproex-250; Divalproex-500; Dom-divalproex; Dom-valproic Acid; Dom-valproic Acid E.C.; Dom-valproic Acid Syrup; Epiject I.V.; Epival; Epival ER; Ftp-valproic Acid; Myl-divalproex; Mylan-divalproex; Mylan-valproic; Novo-valproic; Nu-divalproex 125mg; Nu-divalproex 250mg; Nu-divalproex 500mg; Nu-valproic; Nu-valproic Syrup; PHL-divalproex; PHL-valproic Acid; PHL-valproic Acid E.C.; PMS-divalproex (125mg); PMS-divalproex (250mg); PMS-divalproex (500mg); PMS-valproic Acid; PMS-valproic Acid E.C.; Penta-valproic Capsules; Ratio-valproic; Ratio-valproic - Ecc 500mg; Ratio-valproic 50mg/ml Syrup; Ratio-valproic-cap 250mg; Sandoz Valproic; Teva-divalproex; Valproate Sodium; Valproic; Valproic Acid; Valproic-250
+
+>  <SALTS>  (1) 
+Divalproex sodium; Valproate sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00256; DB00510; APRD00066
+
+>  <SMILES>  (1) 
+CCCC(CCC)C(O)=O
+
+>  <SYNONYMS>  (1) 
+2-n-propyl-n-valeric acid; 2-propyl-pentanoic acid; 2-Propylpentanoic Acid; 2-Propylvaleric Acid; 4-heptanecarboxylic acid; acide valproïque; ácido valproico; acidum valproicum; di-n-propylacetic acid; Di-n-propylessigsäure; Dipropylacetic acid; DPA; n-DPA; Valproate; Valproinsäure; VPA
+
+$$$$

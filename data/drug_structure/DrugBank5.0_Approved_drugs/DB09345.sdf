@@ -1,0 +1,211 @@
+
+     RDKit          2D
+
+ 48 49  0  0  0  0  0  0  0  0999 V2000
+   -0.7144   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433   -1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0012   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  8  2  1  0
+  3  7  1  0
+  3  4  1  0
+  5  3  2  0
+  1  5  1  0
+  6  2  1  0
+  4  6  2  0
+ 20  7  1  0
+  9  8  1  0
+ 10  9  1  0
+ 11 10  1  0
+ 12 11  1  0
+ 13 21  1  0
+ 20 13  1  0
+ 14 19  1  0
+ 14 15  1  0
+ 15 18  1  0
+ 18 16  1  0
+ 16 17  1  0
+ 17 19  1  0
+ 21 19  1  0
+  1 22  1  0
+  4 23  1  0
+  5 24  1  0
+  6 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 11 31  1  0
+ 12 32  1  0
+ 12 33  1  0
+ 12 34  1  0
+ 13 35  1  0
+ 13 36  1  0
+ 14 37  1  0
+ 14 38  1  0
+ 15 39  1  0
+ 15 40  1  0
+ 16 41  1  0
+ 16 42  1  0
+ 17 43  1  0
+ 17 44  1  0
+ 20 45  1  0
+ 20 46  1  0
+ 21 47  1  0
+ 21 48  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.03
+
+>  <ALOGPS_LOGS>  (1) 
+-3.12
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.21e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09345
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09345
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+293.199093733
+
+>  <FORMULA>  (1) 
+C17H27NO3
+
+>  <GENERIC_NAME>  (1) 
+Pramocaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H27NO3/c1-2-3-12-20-16-5-7-17(8-6-16)21-13-4-9-18-10-14-19-15-11-18/h5-8H,2-4,9-15H2,1H3
+
+>  <INCHI_KEY>  (1) 
+DQKXQSGTHWVTAD-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+48
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.11451009745457
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[3-(4-butoxyphenoxy)propyl]morpholine
+
+>  <JCHEM_LOGP>  (1) 
+2.8419061089999995
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.062880506816286
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+30.93
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+84.817
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pramoxine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+293.407
+
+>  <PRODUCTS>  (1) 
+ATOPALM Hemorrhoidal Pain Relieving; Acella Hydrocortisone Acetate - Pramoxine Singles; Analpram Advanced; Analpram E; Analpram E Cream 2.5% Kit hydrocortisone acetate 2.5% pramoxine hydrochloride 1%; Analpram HC; Anesthetic Hemorrhoidal With Aloe; Anodan-plus; Anodan-plus Ointment; Anti Itch Maximum Relief; Anti-Itch; Antibiotic; Antibiotic Plus Pain Relief; Antibiotic Plus Pain Relief Maximum Strength; Antibiotic and Pain Relief; Antibiotic and Pain Relief Maximum Strength; Antibiotic and pain relief maximum strength; Antibiotic plus Pain Relief; Antibiotic, Pain and Scar; Anugesic-HC Ointment; Anugesic-HC Suppositories; Anusol Plus Ointment; Anusol Plus Suppositories; Anuzinc Plus Suppositories; Atopalm First Aid Triple Antibiotic Protection Moisturizing and Pain Relief; Aveeno Active Naturals Skin Relief Medicated Anti Itch Treatment; Aveeno Anti Itch Concentrated; Aveeno Calamine and Pramoxine Hydrochloride Anti Itch; Bactine Pain Relieving Cleansing Spray; Best Choice Anti-Itch Clear; Best Choice Medicated Calamine; Bikini Zone MEDICATED After Shave Fresh Scent; Bikini Zone Medicated After Shave Spray; Bikini Zone Medicated After-shave Roll-ON Relief; Bite and Itch; Blistex Cold and Allergy Lip Soother; Blistex Ivarest Poison Ivy Itch; CVS Calamine Plus; CVS Fragrance Free Anti-Itch; CVS Health Maximum Strength Feminine; CVS Health Triple Antibiotic with Pain Relief; CVS Hemorrhoidal; CVS Itch Relief; CVS Medicated Anti-Itch; CVS Pharmacy; CVS Pharmacy Maximum Strength Feminine Wipes; Caladryl; Caladryl Clear; Calamine; Calamine Plus; Calamine Plus Pramoxine HCl; Caldyphen Clear; Care One Maximum Strength First Aid Antibiotic; Careone Antibiotic Plus Pain Relief; CeraVe Itch Relief Moisturizing; CeraVe Itch Relief Moisturizing Cream; Childrens Double Antibiotic with Pain Relief; Clear Anti Itch; Clear Anti-Itch; Clear Anti-itch Lotion; Cocoskin; Cortane-B; Cuadriderma; Curasore; DDM Calaclear; DDM Calagesic; DG Health Antibiotic; DerMend Moisturizing Anti-Itch; Dermagesic; Dermarest Eczema Medicated Moist for Sensitive Skin; Dermoplast Poison Ivy Treatment; Double Antibiotic Plus Pain Relief Maximum Strength; Dr Bells Pomade; Dr. Sheffield Hemorrhoid; Eczemin; Epifoam; Equaline Antibiotic Plus Pain Relief; Equaline Antibiotic Plus Pain Relief for Kids; Equaline First Aid Antibiotic; Equaline Hemorrhoidal; Equaline Triple Antibiotic; Equaline Triple Antibiotic Plus; Equate Antibiotic Plus Pain Relief; Equate First Aid Antibiotic Pain Relieving; Equate First Aid Antibiotic Plus Pain Relief; Equate Hemorrhoidal; Exchange Select First Aid Triple Anitbiotic Pain Relieving; Extra Strength Bacitraycin Plus; Family Care Maximum Strength Medicated Anti Itch; Family Care Triple Antibiotic Plus Pain Relief; Family Wellness; Family Wellness Antiseptic and Pain Relief; Family Wellness Triple Antibiotic Plus Pain Relief; First Aid Antibiotic; First Aid Antibiotic Plus Pain Relief Maximum Strength; First Aid Triple Antibiotic Pain and Scar; First Aid Triple Antibiotic and Pain Relief Maximum Strength; First Degree Maximum Strength Burn; First On Topical Analgesic; Fissurene; Fleet; GNP Caldyphen; Glycerin, Phenylephrine Hydrochloride, Pramoxine, White Petrolatum; Gold Bond Anti Itch; Gold Bond Anti-itch Lotion; Gold Bond Intensive Healing Anti Itch Skin Protectant; Gold Bond Medicated Anti-itch Cream; Good Neighbor Pharmacy Antibiotic and Pain Relief; Good Neighbor Pharmacy Triple Antibiotic Plus Pain Relief; Good Sense Hemorrhoidal Maximum Strength Pain Relief; Good Sense Triple Antibiotic and Pain Relief; GoodSense Antibiotic plus Pain Relief; H E Buddy Antibiotic Maximum Strength Plus Pain Relief; HEB Calaclear; HEB Calagesic; Harris Teeter Triple Antibiotic Plus Pain Relief; Harris Teetter Calagesic; Healthy Accents Triple Antibiotic; Hemorrhoid Ointment; Hemorrhoidal; Hemorrhoidal Anesthetic; Hemorrhoidal Maximum Strength Pain Relief; Hemorrhoidal Ointment; Hemorrhoidal Ointment With Anesthetic for Extra Pain Relief; Hemorrhoidal Relief; Humco Calaclear; Humco Calagesic; Hydrocortisone Acetate Pramoxine HCl; Hydrocortisone Acetate Pramoxine Hcl; Hydrocortisone Acetate and Pramoxine Hydrochloride; Itch Relief Clear Skin Protectant CVS; Itch Relief Lotion; Itch Relief Medicated Pads CVS; Itch X; Itch X Gel; Itch-X; Itch-X Gel; Ivy Wash; LEADER Caldyphen; LEADER Caldyphen Clear; Leader; Leader Poison Ivy Wash; Leader Triple Antibiotic Plus; Live Better Triple Antibiotic plus Pain Relief; LiveBetter Antibiotic Plus Pain Relief; Luvena Feminine Wipes; MAXIMUM STRENGTH MEDICATED ANTI-ITCH Rite Aid; Medicated Anti-itch Well At Walgreens; Meijer Antibiotic Plus Pain Relief; Meijer Triple Antibiotic Plus; Meijer Triple Antibiotic Plus Pain Relief; Mineral Oil, Pramoxine Hydrochloride and Zinc Oxide; Multi Antibiotic with Pain Relief Maximum Strength; Natureplex Hemorrhoidal; Neosporin Pain Itch Scar; Neosporin Plus Pain Relief; Neosporin Plus Pain Relief First Aid Antibiotic Pain Relieving For Kids; Neosporin Plus Pain Relief First Aid Antibiotic/Pain Relieving; Neosporin Plus Pain Relief Neo To Go First Aid Antibiotic Pain Relieving; Neosporin Plus Pain Relief Neo To Go First Aid Antiseptic Pain Relieving; Neosporin Plus Pain Relief Neo To Go First Aid Antiseptic Pain Relieving For Kids; Neosporin Plus Pain Relief Neo to Go; Nikzon Hemorrhoidal; No More Bumps; Novacort; Polysporin Itch Relief; Polysporin Lip Treatment; Polysporin Poly To Go; Pomada De La Campana Triple Antibiotic Pain Relief; Pramcort; PrameGel; Pramosone; Pramosone Cream; Pramosone E; Pramosone E Cream 2.5% hydrocortisone acetate 2.5% pramoxine hydrochloride 1%; Pramox HC Cream; Pramox HC Lotion; Pramoxine Hydrochloride; Pramoxine hydrochloride; Pramoxine-HC; Prax; Prax Wipe; Preferred Plus Hemorrhoid; Premier Value Antibiotic Plus Pain Relief; Premier Value Calaclear; Premier Value Calagesic; Premier Value Triple Antibiotic Plus; Preparation H Maximum Strength; Preparation H Totables Pain Relief; Pro-relief; Procort; Proctodan-HC Ointment; Proctodan-HC Suppositories; Proctofoam; Proctofoam HC; Proctofoam NS; Publix Calamine Medicated; Publix Clear Anti-Itch; Publix antibiotic plus Pain Relief; Publix antibiotic plus pain relief; Quality Choice Anti-Itch Clear; Quality Choice Anti-itch Medicated; Quality Choice Maximum Strength Triple Antibiotic; Quality Choice Triple Antibiotic Plus Pain Reliever; Rexall Maximum Strength Hemorrhoidal; Rite Aid Soothing Medicated Anit-Itch; Safeway Antibiotic Plus Pain Relief; Sally Hansen Zero bump bikini; Sandoz Anuzinc HC Plus; Sandoz Anuzinc HC Plus Suppositories; Sandoz Anuzinc Plus; Sarna; Sarna P; Scalpicin Medicated Wipes; Select Brand Anti-Itch; Select Brand Hemorrhoid; Sheffield Triple Antibiotic Plus Pain Relief; Shopko Antibiotic Plus Pain Relief; Shopko Triple Antibiotic Plus; Shopko Triple Antibiotic plus Pain Relief; Shoprite Triple Antibiotic; Signature Care First Aid Antibiotic; Signature Care Hemorrhoidal; Signature Care Triple Antibiotic; Skin Relief Medicated Anti-itch Treatment; Smart Sense Antibiotic Maximum Strength; Smart Sense Triple Antibiotic; Smart Sense antibiotic plus pain relief; Smart Sense triple antibitotic plus pain relief; Soothing Care Itch Relief Spray; Sunmark Antibiotic Plus Pain Relief; Sunmark Caldiphen; Sunmark Caldyphen Clear; Sunmark Hemorrhoidal; Sunmark Triple Antibiotic Plus Pain Relief; TopCare Antibiotic Plus Pain Relief; TopCare Triple Antibiotic Plus Pain Relief; Topcare Hemorrhoidal; Triple Antibiotic; Triple Antibiotic Plus; Triple Antibiotic Plus Maximum Strength; Triple Antibiotic Plus Pain Relief; Triple Antibiotic Plus Pain Relief Maximum Strength; Triple Antibiotic and Pain Relief Maximum Strength; Triple Antibiotic plus Pain Relief Maximum Strength; Triple Antibiotic plus pain relief; Triple Antibiotic with Pain Relief Maximum Strength; Tripleantibioticointmentandpainrelief; Tronolane; Tronothane Pramoxine HCl Crm 1% USP; Tucks Fast Relief; Tucks Hemorrhoidal; Up and Up Antibiotic Plus Pain Relief; Up and Up First Aid Antibiotic Pain Relieving; Up and Up Hemorrhoidal; Up and Up multi action antibiotic; VAGISIL Anti-Itch Medicated Wipes Maximum Strength; Vagisil Medicated Wipes; Vida Mia Calaclear; W15883-CS; Walgreens Maximum Strength Hemorrhoidal; Walgreens Maximum Strength Triple Antibiotic With Pain Relief; Western Family Antibiotic Plus Pain Relief; Western Family Triple Antibiotic plus Pain Relief; WinCo Maximum Strength Triple Antibiotic; hydrocortisone acetate pramoxine HCl
+
+>  <SALTS>  (1) 
+Pramoxine hydrochloride
+
+>  <SMILES>  (1) 
+CCCCOC1=CC=C(OCCCN2CCOCC2)C=C1
+
+>  <SYNONYMS>  (1) 
+Pramoxine
+
+$$$$

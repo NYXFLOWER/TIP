@@ -1,0 +1,187 @@
+349
+     RDKit          2D
+
+ 34 36  0  0  0  0  0  0  0  0999 V2000
+    2.8172   -2.3593    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.1124    1.1545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6107    2.3593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1245    0.1666    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4543    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3812   -0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6379    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7937    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3081    0.9709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9687    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7695   -0.3478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4586   -1.0473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9205   -0.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7524   -1.5367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9781   -1.1639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5375   -0.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6466   -1.1636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1825   -0.5608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2915   -1.6780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0595   -1.3765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  2  9  2  0
+  3 10  2  0
+  4  6  1  0
+  4  9  1  0
+  4 11  1  0
+  5  7  1  0
+  5 10  1  0
+  5 14  1  0
+  6  7  2  0
+  6 12  1  0
+  7 13  1  0
+  8  9  1  0
+  8 10  1  0
+ 11 17  2  0
+ 11 18  1  0
+ 12 15  2  0
+ 13 16  2  0
+ 15 16  1  0
+ 17 19  1  0
+ 18 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  8 22  1  0
+  8 23  1  0
+ 12 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 16 29  1  0
+ 17 30  1  0
+ 18 31  1  0
+ 19 32  1  0
+ 20 33  1  0
+ 21 34  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.14
+
+>  <ALOGPS_LOGS>  (1) 
+-3.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.64e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00349
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00349
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <EXACT_MASS>  (1) 
+300.066555377
+
+>  <FORMULA>  (1) 
+C16H13ClN2O2
+
+>  <GENERIC_NAME>  (1) 
+Clobazam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H13ClN2O2/c1-18-13-8-7-11(17)9-14(13)19(16(21)10-15(18)20)12-5-3-2-4-6-12/h2-9H,10H2,1H3
+
+>  <INCHI_KEY>  (1) 
+CXOXHMZGEKVPMT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aedon; Castilium; Clobam; Clobamax; Frisium; Grifoclobam; Mystan; Noiafren; Sederlona; Urbanil; Urbanol; Urbanyl; Venium
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.066074049985147
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-chloro-1-methyl-5-phenyl-2,3,4,5-tetrahydro-1H-1,5-benzodiazepine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+2.554375973333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.068303914570974
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.723067238972568
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.620000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+80.29860000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+clobazam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+300.74
+
+>  <PRODUCTS>  (1) 
+Apo-clobazam; Clobazam-10; Dom-clobazam; Frisium Tab 10mg; Frisium Tablet 10mg; Frisium Tablets 10mg; Ntp-clobazam; Onfi; PMS-clobazam; Ratio-clobazam; Teva-clobazam
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00307
+
+>  <SMILES>  (1) 
+CN1C2=C(C=C(Cl)C=C2)N(C2=CC=CC=C2)C(=O)CC1=O
+
+>  <SYNONYMS>  (1) 
+1-phenyl-5-methyl-8-chloro-1,2,4,5-tetrahydro-2,4-dioxo-3H-1,5-benzodiazepine; 7-Chloro-1-methyl-5-phenyl-1,5-dihydro-benzo[b][1,4]diazepine-2,4-dione; Clobazam; Clobazamum
+
+$$$$

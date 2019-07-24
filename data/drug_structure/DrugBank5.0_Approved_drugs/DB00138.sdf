@@ -1,0 +1,168 @@
+
+     RDKit          2D
+
+ 26 25  0  0  0  0  0  0  0  0999 V2000
+    2.5076    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5076    1.0025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -1.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3642   -0.2350    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0787    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2221   -0.2350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    1.0025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3503    0.1775    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0648   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2082    0.1775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  1  3  2  0
+  2  4  1  0
+  2  6  1  0
+  5  6  1  0
+  7  1  1  0
+  9  8  1  6
+  8 10  2  0
+  9 11  1  0
+  9 13  1  0
+ 12 13  1  0
+ 14  8  1  0
+  5 12  1  0
+  2 15  1  0
+  4 16  1  0
+  4 17  1  0
+  6 18  1  0
+  6 19  1  0
+  7 20  1  0
+  9 21  1  0
+ 11 22  1  0
+ 11 23  1  0
+ 13 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.16
+
+>  <ALOGPS_LOGS>  (1) 
+-1.16
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.68e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00138
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00138
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+240.023848262
+
+>  <FORMULA>  (1) 
+C6H12N2O4S2
+
+>  <GENERIC_NAME>  (1) 
+Cystine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H12N2O4S2/c7-3(5(9)10)1-13-14-2-4(8)6(11)12/h3-4H,1-2,7-8H2,(H,9,10)(H,11,12)/t3-,4-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+LEVWYRKDKASIDU-IMJSIDKUSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.772305661240047
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2-amino-3-{[(2R)-2-amino-2-carboxyethyl]disulfanyl}propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-5.897687960059564
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+2.267408279723485
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.5564231091903382
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.342140596747571
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+126.64000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.87179999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-cystine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+240.3
+
+>  <PRODUCTS>  (1) 
+Distilpure Msm; Medi Msm (methyl Sulfonyl Methane)
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00023
+
+>  <SMILES>  (1) 
+N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(R,R)-3,3'-dithiobis(2-aminopropanoic acid); L-alpha-Diamino-beta-dithiolactic acid; L-Cystine; L-Dicysteine; β,β'-dithiodialanine
+
+$$$$

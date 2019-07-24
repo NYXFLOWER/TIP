@@ -1,0 +1,169 @@
+885
+     RDKit          2D
+
+ 25 27  0  0  0  0  0  0  0  0999 V2000
+    4.3846   -1.3471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992   -0.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3846    1.1279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8694   -1.3426    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020   -0.1865    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7997    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992    0.7154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8366    1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3846   -0.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6702   -0.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8366   -0.5507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5842    0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6702    0.7154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5842   -0.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8271    1.9814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9557   -0.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2  8  1  0
+  2 10  1  0
+  2 12  1  0
+  3  8  2  0
+  3 14  1  0
+  4  6  1  0
+  4 17  2  0
+  5  7  2  0
+  5 17  1  0
+  6  7  1  0
+  8  9  1  0
+  9 13  2  0
+  9 16  1  0
+ 10 11  1  0
+ 11 14  2  0
+ 11 17  1  0
+ 12 15  2  0
+ 13 15  1  0
+  6 18  1  0
+ 12 19  1  0
+ 13 20  1  0
+ 14 21  1  0
+ 15 22  1  0
+ 16 23  1  0
+ 16 24  1  0
+ 16 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.13
+
+>  <ALOGPS_LOGS>  (1) 
+-2.69
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.62e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00885
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00885
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+228.075958908
+
+>  <FORMULA>  (1) 
+C10H8N6O
+
+>  <GENERIC_NAME>  (1) 
+Pemirolast
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H8N6O/c1-6-3-2-4-16-9(6)11-5-7(10(16)17)8-12-14-15-13-8/h2-5H,1H3,(H,12,13,14,15)
+
+>  <INCHI_KEY>  (1) 
+HIANJWSAHKJQTH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alamast; Alegysal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.961589766717655
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+9-methyl-3-(2H-1,2,3,4-tetrazol-5-yl)-4H-pyrido[1,2-a]pyrimidin-4-one
+
+>  <JCHEM_LOGP>  (1) 
+1.458706813333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.795677439179341
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.4045948664634236
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+87.13000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.350300000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pemirolast
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+228.2101
+
+>  <SALTS>  (1) 
+Pemirolast potassium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00394
+
+>  <SMILES>  (1) 
+CC1=CC=CN2C(=O)C(=CN=C12)C1=NNN=N1
+
+>  <SYNONYMS>  (1) 
+Pemirolast; Pemirolastum
+
+$$$$

@@ -1,0 +1,171 @@
+
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013    1.2375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.9500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  1  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 11 16  1  0
+ 14 17  1  0
+ 13 18  1  0
+  3 19  1  0
+  1 20  1  0
+  2 21  1  0
+  4 22  1  0
+  5 23  1  0
+  7 24  1  0
+ 10 25  1  0
+ 12 26  1  0
+ 15 27  1  0
+ 16 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.10
+
+>  <ALOGPS_LOGS>  (1) 
+-5.04
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.90e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11155
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11155
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+313.978046
+
+>  <FORMULA>  (1) 
+C13H9Cl3N2O
+
+>  <GENERIC_NAME>  (1) 
+Triclocarban
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H9Cl3N2O/c14-8-1-3-9(4-2-8)17-13(19)18-10-5-6-11(15)12(16)7-10/h1-7H,(H2,17,18,19)
+
+>  <INCHI_KEY>  (1) 
+ICUTUKXCWQYESQ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+28
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.185343458861702
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-(4-chlorophenyl)-1-(3,4-dichlorophenyl)urea
+
+>  <JCHEM_LOGP>  (1) 
+4.93078919
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.943820764495491
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.420053761500927
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.6150776875486175
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.13
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+80.46719999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+triclocarban
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+315.58
+
+>  <PRODUCTS>  (1) 
+1st Date antibacterial Deodorant (Gold); 1st Date antibacterial Deodorant (Green); 1st Date antibacterial Deodorant (White); AmerFresh Antibacterial Deodorant; Amerfresh Antibacterial Deodorant; Antibacterial Beauty; Antibacterial Deodorant; Antibacterial Gold; Antibacterial Golden Burst; Antibacterial Ocean Fresh; Avon Clearskin Antibacterial Cleansing Cake; Bob Barker Antibacterial wrapped body; Cetaphil Gentle Cleansing Antibacterial Bar; Clearskin 2 Cleansing Cake 1.5%; Coralite Antibacterial; Coralite Antibacterial Natural Oat; Coralite Ultra Antibacterial Deodorant; Cuticura Med Soap Original Formula 1%; Cuticura Medicated Antibacterial Bar; Cuticura Medicated Antibacterial Bar - Dry Skin Formula; Cuticura Medicated Antibacterial Bar - Original Formula; Cuticura Medicated Antibacterial Bar-oily Skin Formula; Cuticura Medicated Soap Unscented 1%; DG Body Antibacterial Deodorant 3.5 oz bar; Deodorant; Dial Aloe Aloe; Dial Gold Bar Antibacterial Deodorant Soap; Dial Odor Armor Odor Armor; Dial White; Dial antibacterial; Dollar General Gold; Freshscent Antibacterial Deodorant; Freshscent Sport Antibacterial; Image Essentials Gold; Lucky antibacterial deodorant; MIMO Aloe Vera Antibacterial; MIMO Deep Clean Antibacterial; MIMO Gold Antibacterial; MIMO Oats Avena Antibacterial; Madina African Black Soap; Madina Antibacterial; MegaFresh Antibacterial Deodorant; NEXT 1 Anti-bacterial; Next 1 Anti-Bacterial Sport; Personal Care Antibacterial; Protex BALANCE ANTIBACTERIAL HAND; Protex Deep Clean; Protex Oats; Rite Aid Renewal Gold Deodorant; Safeguard Antibacterial Bar Beige; Safeguard Antibacterial White with Aloe; Zarina Medicated Antiseptic Soap; a.c.care Bees Foam Cleanser; a.c.care Bees Foam Cleanser Troubled Skin Care 2 pcs Set
+
+>  <SMILES>  (1) 
+ClC1=CC=C(NC(=O)NC2=CC(Cl)=C(Cl)C=C2)C=C1
+
+$$$$

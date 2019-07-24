@@ -1,0 +1,102 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB05382
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB05382
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+253.80893684
+
+>  <FORMULA>  (1) 
+I2
+
+>  <GENERIC_NAME>  (1) 
+Iodine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/I2/c1-2
+
+>  <INCHI_KEY>  (1) 
+PNDPGZBMCMUPRI-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.176346482806093
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+diiodane
+
+>  <JCHEM_LOGP>  (1) 
+1.358210709333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+26.6816
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+iodine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+253.8089
+
+>  <PRODUCTS>  (1) 
+Alphadine Scrub Foam Antimicrobial Foam; Alphadine Scrub Topical Microbiocidal Skin Cleanser; Basic Foley Cath Kit Iodophor Pvp Pad 1%; Blood Culture Prep Kit; CVS Iodine; Chela Potassium Plus; Colloidal Iodine; Colloidal Iodine Ophthalmic; DDM Iodine Tincture Mild; De La Cruz Tincture of Iodine; Diodine; Foam Care Pvp Iodophor Surg Hand Scrub 0.75%; Folcaps Care One; GNP Idoinde Tincture 2% Mild; Genetic Amniocentesis Tray Kit; HUMCO Strong Iodine; Harris Teeter Iodine Tincture Mild; Health Mart Iodine Tincture Mild; Humco Strong Iodine Tincture; Iode-potassium; Iodine; Iodine 0.5% Alcoholic Soln; Iodine Gauze Packing; Iodine Sepp; Iodine Tab 0.5mg; Iodine Tab 3mg; Iodine Tct 2.5% BP; Iodine Tct 5% CF; Iodine Tincture; Iodine Tincture 21/2%; Iodine Tincture Mild; Iodine Tincture Rojo; Iodine Tincture White; Iodine-potassium Tablets; Irrigation Tray W Pvp-I Prep Pad 1%; JCI MN Colloidal Iodine Eye Wash Cleansing Water (Quasi Drug); JCI MN Colloidal Iodine Immune-improving Water; Kelp Tablets; Kelp Tablets 150mcg; LEADER Mild Iodine; Leep RediKit; Liquid Iodine; Lugols Solution; Lugols Strong Iodine; Metadyne 10%; Mgk; Micro Plus 6    (concentrate); Micro Plus 6   (pediatric); Multi-lumen Central Venous Cathet Kit; Multivitamines Et Mineraux; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Omnipaque 180 Liq Sar 388mg/ml; Omnipaque 240 Liq IV Sar 518mg/ml; Omnipaque 300 Liq IV Sar 647mg/ml; Omnipaque 350 Liq IV 755mg/ml; One A Day Tab; Optiray 240 Inj 240mg/ml; Osmovist 240 - Liq Int 513mg/ml; Osmovist 300 - Liq Int 641mg/ml; Phyderm Liq; Pleura-seal Thoracentesis Kit; Potassium and Iodine Tab; Povidone-iodine; Premier Value Iodine Tincture Mild; Proviodine Aerosol; Proviodine Ovules 250mg; QC Iodine Tincture Mild; QKit Procedure Tray; Quality Choice Iodine Tincture Mild; Reaphirm Plant Source DHA; Rolderme No1; Sclerodine 6 Injection; Sky-Living Water MT Activition Liquid; Solunet 1 Brosse 0.75%; Spinal Anaesthesia Tray; Sunmark Iodine; Theraplex F Tab 0.12mg; Tincture Of Iodine; Tincture Of Iodine 2.5%; Tincture Of Iodine 5%; Trace Minerals Et/and B12 Tab; UltimateCare ONE NF; Urethral Cath Tray W Iodphor Pvp Pad 1%; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; Varol 1% Liquid; Vitafol Nano; Vitafol One; Vitafol Plus; Vitamines Et Mineraux Enfants 970
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB05247
+
+>  <SMILES>  (1) 
+II
+
+>  <SYNONYMS>  (1) 
+diiodine; I2; Jod; molecular iodine
+
+$$$$

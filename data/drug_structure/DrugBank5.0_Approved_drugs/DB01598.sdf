@@ -1,0 +1,192 @@
+1598
+     RDKit          2D
+
+ 37 38  0  0  1  0  0  0  0  0999 V2000
+    5.9559   -0.2382    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625    1.5588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4474   -1.2387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7079   -1.8618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3488   -2.3033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8613   -0.6507    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6059    1.1908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8434    1.9053    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8613    0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0295    0.1778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6459    0.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0295   -0.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4474    0.7623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6459   -0.9056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1309   -0.2382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9009   -1.6903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3684    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1934    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4309    1.1908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  1 18  1  0
+ 13  2  1  6
+  3 12  2  0
+  4 17  1  0
+  5 17  2  0
+  6  9  1  0
+  6 12  1  0
+  6 14  1  0
+  7 19  1  0
+  7 20  2  0
+  8 20  1  0
+  9 10  1  0
+  9 11  1  0
+ 10 12  1  0
+ 10 13  1  0
+ 11 15  1  0
+ 13 16  1  0
+ 14 15  2  0
+ 14 17  1  0
+ 18 19  1  0
+  2 21  1  0
+  4 22  1  0
+  8 23  1  0
+  8 24  1  0
+  9 25  1  6
+ 10 26  1  1
+ 11 27  1  0
+ 11 28  1  0
+ 13 29  1  0
+ 16 30  1  0
+ 16 31  1  0
+ 16 32  1  0
+ 18 33  1  0
+ 18 34  1  0
+ 19 35  1  0
+ 19 36  1  0
+ 20 37  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.19
+
+>  <ALOGPS_LOGS>  (1) 
+-2.59
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.76e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01598
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01598
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+299.093976737
+
+>  <FORMULA>  (1) 
+C12H17N3O4S
+
+>  <GENERIC_NAME>  (1) 
+Imipenem
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H17N3O4S/c1-6(16)9-7-4-8(20-3-2-14-5-13)10(12(18)19)15(7)11(9)17/h5-7,9,16H,2-4H2,1H3,(H2,13,14)(H,18,19)/t6-,7-,9-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+ZSKVGTPCRGIANV-ZXFLCMHBSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.096207372789934
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(5R,6S)-3-({2-[(E)-(aminomethylidene)amino]ethyl}sulfanyl)-6-[(1R)-1-hydroxyethyl]-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.8512225438676038
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.000723709272222
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.6333360173788556
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.878152885787445
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+116.21999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+75.84340000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zienam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+299.346
+
+>  <PRODUCTS>  (1) 
+Imipenem and Cilastatin; Imipenem and Cilastatin for Injection; Imipenem and Cilastatin for Injection USP; Imipenem and Cilastatin for Injection, USP; Primaxin 250; Primaxin 500; Primaxin IV; Primaxin IV 250/250 Add-vantage Vial; Primaxin IV 500; Ran-imipenem-cilastatin
+
+>  <SALTS>  (1) 
+Imipenem monohydrate
+
+>  <SMILES>  (1) 
+[H][C@]12CC(SCC\N=C\N)=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(5R,6S)-3-((2-(Formimidoylamino)ethyl)thio)-6-((R)-1-hydroxyethyl)-7-oxo-1-azabicyclo(3.2.0)hept-2-ene-2-carboxylic acid; (5R,6S)-3-(2-Formimidoylamino-ethylsulfanyl)-6-((R)-1-hydroxy-ethyl)-7-oxo-1-aza-bicyclo[3.2.0]hept-2-ene-2-carboxylic acid; (5R,6S)-6-((R)-1-Hydroxyethyl)-3-(2-(iminomethylamino)ethylthio)-7-oxo-1-azabicyclo(3.2.0)hept-2-ene-2-carbonsaeure; Imipenem anhydrous; Imipenemum; N-formimidoyl thienamycin; N-formimidoylthienamycin
+
+$$$$

@@ -1,0 +1,119 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  1  0
+  5  3  1  0
+  5  4  2  0
+  5  6  2  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB00653
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00653
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+119.936771076
+
+>  <FORMULA>  (1) 
+MgO4S
+
+>  <GENERIC_NAME>  (1) 
+Magnesium Sulfate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Mg.H2O4S/c;1-5(2,3)4/h;(H2,1,2,3,4)/q+2;/p-2
+
+>  <INCHI_KEY>  (1) 
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.805291890677037
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+magnesium(2+) ion sulfate
+
+>  <JCHEM_LOGP>  (1) 
+-0.8415520233333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+1.8964254257138706
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-3.034349054191991
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.25999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+11.5274
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+magnesium(2+) ion sulfate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+120.368
+
+>  <PRODUCTS>  (1) 
+50% Magnesium Sulfate Injection USP; Assured Epsom Salt; Calcium Lactate Et Magnesium Sulfate; ColPrep Kit; Concept DHA; Concept OB; Eau Purgative Riga; Epsom Salt; Epsom Salt Magnesium Sulfate; Epsom Salt Pws 100%; Epsom Salt Soaking Solution; Epsom Salts; Epsom Salts Relief; Eucalyptus Scented Natural Epsom Salt; Green Tea Chamomile Natural Epsom Salt; Health Smart Natural Epsom Salt; Humco Epson Salt; MORTON Natural Epsom Salt; Magnesium Cap; Magnesium Sulfate; Magnesium Sulfate Dressing; Magnesium Sulfate In 5% Dextrose Inj(20mg/ml); Magnesium Sulfate Inj 20% USP; Magnesium Sulfate Inj 50%; Magnesium Sulfate Injection; Magnesium Sulfate Injection 50% USP; Magnesium Sulfate in 5% Dextrose; Magnesium Sulfate in Dextrose; Multiple Electrolyte Additive Inj; Natural Epsom Salt; Natural Epsom Salt Lavender; Natural Epsom Salts; ROYAL Epsom Salt; Relief Epsom Salt; Sel D Epsom; Solution Carda; Spearmint and Menthol scented Natural Epsom Salt; Suclear; Tandem OB; Tandem Plus; Tis-U-sol; Tis-U-sol Solution; Vamin N
+
+>  <SALTS>  (1) 
+Magnesium sulfate heptahydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01080
+
+>  <SMILES>  (1) 
+[Mg++].[O-]S([O-])(=O)=O
+
+>  <SYNONYMS>  (1) 
+Magnesium sulphate
+
+$$$$

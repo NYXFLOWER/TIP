@@ -1,0 +1,182 @@
+
+     RDKit          2D
+
+ 33 32  0  0  0  0  0  0  0  0999 V2000
+   -2.1805    1.2964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4660    1.7089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7516    1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0371    1.7089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6774    1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3918    1.7089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1063    1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8208    1.7089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5353    1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2497    1.7089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6774    0.4714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0371    2.5339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1641    0.5820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3391    0.5820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  4  3  1  1
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  5 11  2  0
+  4 12  1  0
+  3 13  1  0
+  3 14  1  0
+  1 15  1  0
+  2 16  1  0
+  2 17  1  0
+  4 18  1  0
+  6 19  1  0
+  7 20  1  0
+  7 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.00
+
+>  <ALOGPS_LOGS>  (1) 
+-0.23
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.21e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09357
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09357
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+205.131408101
+
+>  <FORMULA>  (1) 
+C9H19NO4
+
+>  <GENERIC_NAME>  (1) 
+Dexpanthenol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H19NO4/c1-9(2,6-12)7(13)8(14)10-4-3-5-11/h7,11-13H,3-6H2,1-2H3,(H,10,14)/t7-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+SNPLKNRPJHDVJA-ZETCQYMHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ilopan; Panthoderm
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.873264095639975
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide
+
+>  <JCHEM_LOGP>  (1) 
+-1.7005134243333335
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.016110435805928
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.685869948391623
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.390706370314997
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+89.79
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.8848
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dexpanthenol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+205.2515
+
+>  <PRODUCTS>  (1) 
+Add More Hair; Adult Infuvite Multiple Vitamins; Ahc Hydra B5 Soother; Ahc Hydra B5 Soother (red); Ahc Premium Hydra Soother Cellulose Mask; Ahc Radiance Gommage Peeling; All New TS; Alsimine W Vitamins A D; Aquasol A Cream; Atomy Herbal Hair Tonic; B Complex W C and B12 Inj; B Vitamin Compound With B12 Thunas; B-Combo; B-plex 100; Beminal Fortis Elx; Beminal W C Fortis Inj; Beminal With C Fortis Pws; Carione Rg; Cellapy A.Repair Plus; Cellapy Haircell; Cellapy Haircell Meso Tonic; Claon All 4 Cleanser; Dexpanthenol; Dong Sung Monelyn; Dynam Ampoule Et Tablet; EH Hair Plus Regeneration Hair Care; EH Plus H2CO3 Cool; Easter Scalp Tonic; Eros Aqua Sensations and Care Woman; Fortaplex Inj; Gentle Therapy; Gentle Therapy Treatment; Geritol Liquid; Green Toner; HASOL Anagen Hair Tonic; HASOL Anagen Scalp; HASOL Anti Hair Loss; HASOL Vital For Hair-Loss Tonic; IDENEL Light R Tox Daily; IDENEL Revitalizing Eye; Infuvite Adult Multiple Vitamins; M.V.I. 12; M.V.I. Pediatric; MD CELL Scalp; MD CELL Solution; Medi All 4 Cleanser; Medi All 4 Cleanser (NIACINAMIDE); Micro Dust Detox; Multi 12 Injection; Multi Vitamin Infusion; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multivit Et Fer Ampoules Et Comprimes; Ndm Scalp; Neo Bex Elixir; Neo-bex Injectable; New Premium Notamo; New Premium Notamo Tonic; Notamo Hair Tonic; Nrg Plus Liq; P1P Chitosan V-mask; P1P Magic Whitening Antiaging; P1P Mela Care; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Perfect Pore Clean I; Phytopecia Hair Boosting; Phytopecia Hair Tonic; Phytoplex B Liq; Premium Notamo; Premium TS; Primerose White Milky Cb; Purple Toner; Revitex Ampoules Et Comprimes; Scalp Scaling; Somarexin and C 1000; Super Vitalex Ampoule Buvable; Supravite 10ml Ampoule; Supravite C 1000; Synergy Booster; The Barafu Intensive Serum; Theraphytion Nokmosu; Therapytion Hair Tonic; Therapytion Natural Deep Clean; Therapytion Natural Relaxing; Tini-cal Ampoules; Tonicol Et A-D-C Ampoules/comprimes; Vita Volu 101 Essence; Vitabrid C12 Hair Tonic Professional; Vitabrid C12 Hair Tonic Scalp Relief; Vitabrid Scalp; Vitafer - Liq; Vitalizer White; Vitamin B Complex; Vitamine Du Groupe B Plus Fer - Liq; Yozum Well Being Hair Color; bdr Re-charge N hydro serum maximum skin energizer; bdr Re-charge contour push up serum high-potential moisturizer; bdr Re-fine pore minimizing fluid complex; bdr Re-lax 3 multiple level serum highly-potential youth; bdr Re-set 4D age-repair code; bdr Re-vital PH pure harmony care soothing skin optimizer; bdr Re-vital balance care intense age control
+
+>  <SMILES>  (1) 
+CC(C)(CO)[C@@H](O)C(=O)NCCCO
+
+>  <SYNONYMS>  (1) 
+(+)-Panthenol; (2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide; (R)-2,4-Dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide; 2,4-Dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide; Bepanthen; Bepanthene; Bepantol; Cozyme; D-(+)-2,4-Dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutyramide; D-panthenol; D-panthenol 50; d-Pantothenol; d-Pantothenyl alcohol; D(+)-Panthenol; D(+)-Pantothenyl alcohol; Dexpanthenol; Motilyn; N-Pantoyl-propanolamine; Panadon; Panthenol; Pantol; Pantothenol; Pantothenyl alcohol; Provitamin B; Synapan; Thenalton; Zentinic
+
+$$$$

@@ -1,0 +1,142 @@
+
+     RDKit          2D
+
+ 13 12  0  0  1  0  0  0  0  0999 V2000
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  1  6  1  0
+  1  7  1  0
+  1  8  1  0
+  2  9  1  0
+  3 10  1  0
+  4 11  1  0
+  4 12  1  0
+  5 13  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.10
+
+>  <ALOGPS_LOGS>  (1) 
+1.10
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.52e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01839
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01839
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+76.0524295
+
+>  <FORMULA>  (1) 
+C3H8O2
+
+>  <GENERIC_NAME>  (1) 
+Propylene glycol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H8O2/c1-3(5)2-4/h3-5H,2H2,1H3
+
+>  <INCHI_KEY>  (1) 
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+8.010010240094317
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+propane-1,2-diol
+
+>  <JCHEM_LOGP>  (1) 
+-0.7921040560000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.996044021064442
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.470762978766011
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.8584492517004216
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+18.9724
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+1,2-propanediol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+76.0944
+
+>  <PRODUCTS>  (1) 
+Advanced Eye Relief Dry Eye Rejuvenation; Aloe Vera Gel; Aloe Vera Sprayer; Artifical Tears; Artificial Tears Lubricant Eye Drops; CVS Long Lasting Lubricant Eye; CVS Long Lasting Lubricant Eye Twin Pack; CVS Single Use Lubricant Eye Drops; CareOne Lubricant; CareOne Ultra Lubricant; Dg Lubricant Eye Drops; Dry Eye Therapy; Equate Lubricant Eye; Equate Support Advanced Lubricant; Extreme Relief Lubricant; Eye Drops SY; Eye Lubricant; Eyewash Station Additive Concentrate; Family Care Lubricant Eye; Family Care Preservative Free Single Use; Family Care Single-Use Eye; GNP Lubricant Eye; GNP Lubricating Relief Eye; Good Neighbor Pharmacy Lubricant Eye Drops; Good Sense Lubricant Eye; Goodsense Lubricant Eye Drops; Goodsense Ultra Lubricant; Health Mart Lubricating Tears; Leader Lubricant Eye; Leader Lubricant Eye Drops; Leader Sterile Ultra Lubricating Eye; Lidl Ultra Lubricant Eye; Lubricant Eye; Lubricant Eye Drops; Lubricant Eye Drops Ultra; Lubricant Eye Drops/ Artificial Tears; Lubricating Nasal Gel; Lubricating Nasal Mist; Lubricating Relief; MSM (MoSaengMo); Meijer Lubricant Dry Eye; Meijer Ultra Lubricant Eye; Opti-free; PEG-Phen Lubricant Eye Drops; PEG-Phen Ultra Lubricant Eye Drops; PhysiciansCare Eyewash Station Additive Concentrate; QC Ultra Lubricant Eye; Quality Choice Lubricant Eye; Rhinaris Nasal Gel; Rhinaris Nasal Mist; Rhinedrine Lubricant Nasal Gel; Rhinedrine Moisturizing Nasal Mist -liq Nas; Rite Aid Eye Care Lubricant; Rugby Lubricant Eye; Rugby Ultra Lubricant Eye; Salinex Nasal Lubricant; Salinex Nasal Lubricant Gel; Salinol Sol 160mg; Secaris; Secret Key Tattoo Cover Cushion Spf50 Plus (21 Light Beige); Secret Key Tattoo Cover Cushion Spf50 Plus (23 Natural Beige); Soothe; Soothe Dry Eyes; SoundBody Long Lasting Lubricant; Sunmark Lubricant Eye Drops; Sunmark Lubricating Tears; Systane; Systane Lubricant; Systane Lubricant Eye Drops; Systane Sport; Systane ULTRA; Systane Ultra; TopCare Ultra Lubricant; Topcare Lubricant Eye; Ultra Lubricant Eye Drops; Vitabrid SCALP CARE; Walgreen Sterile Lubricant; Walgreens Lubricant Eye; Walgreens Lubricant Eye Drops
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT02572; DB11078
+
+>  <SMILES>  (1) 
+CC(O)CO
+
+>  <SYNONYMS>  (1) 
+1,2-dihydroxypropane; 1,2-Propanediol; 1,2-Propylenglykol; 2-hydroxypropanol; isopropylene glycol; methyl glycol; methylethyl glycol; methylethylene glycol; monopropylene glycol; PPD; Propane-1,2-diol; propane-1,2-diol; α-propyleneglycol
+
+$$$$

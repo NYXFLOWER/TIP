@@ -1,0 +1,119 @@
+
+     RDKit          2D
+
+  4  0  0  0  0  0  0  0  0  0999 V2000
+   18.1330  -17.0817    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   17.5541  -18.1990    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   18.6436  -18.2070    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   17.9800  -17.7117    0.0000 Cr  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  4   1  -1   2  -1   3  -1   4   3
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.09
+
+>  <ALOGPS_LOGS>  (1) 
+-1.43
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.83e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09129
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09129
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+156.847064
+
+>  <FORMULA>  (1) 
+Cl3Cr
+
+>  <GENERIC_NAME>  (1) 
+Chromic chloride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/3ClH.Cr/h3*1H;/q;;;+3/p-3
+
+>  <INCHI_KEY>  (1) 
+QSWDMMVNRMROPK-UHFFFAOYSA-K
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.3881688999999993
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+chromium(3+) ion trichloride
+
+>  <JCHEM_LOGP>  (1) 
+0.6123387216666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-7.000000000000001
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.6156
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chromium(3+) ion trichloride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+158.35
+
+>  <PRODUCTS>  (1) 
+Chromic Chloride; Chromium; Formula Cw; Formula Cw-caplet; Fusion Activator Formula Tab; M.T.E.-6 Concentrated; Micro Plus 4 Concentrate; Micro Plus 6 (regular); Multitrace -4; Multitrace -4 Pediatric; Multitrace-4; Multitrace-4 Neonatal; Multitrace-5; Nutrilite Double X; Right Choice A.M. Multi Formula - Caplet; Trace Elements 4; Trace Elements Injection USP; Trace Elements Solution Inj; Trace Elements for Injection - Liq IV; Women's Formula
+
+>  <SALTS>  (1) 
+Chromic chloride hexahydrate
+
+>  <SMILES>  (1) 
+[Cl-].[Cl-].[Cl-].[Cr+3]
+
+>  <SYNONYMS>  (1) 
+anhydrous chromium(III) chloride; Chromium chloride; Chromium trichloride; chromium(3+) trichloride; Chromium(III) chloride; Puratronic chromium chloride; Trichlorochromium
+
+$$$$

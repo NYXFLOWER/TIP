@@ -1,0 +1,156 @@
+244
+     RDKit          2D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+    2.0930    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2 11  1  0
+  3 11  2  0
+  4  6  1  0
+  5  7  2  0
+  5  8  1  0
+  5 11  1  0
+  6  7  1  0
+  6  9  2  0
+  8 10  2  0
+  9 10  1  0
+  1 12  1  0
+  2 13  1  0
+  4 14  1  0
+  4 15  1  0
+  7 16  1  0
+  9 17  1  0
+ 10 18  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.75
+
+>  <ALOGPS_LOGS>  (1) 
+-1.10
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.22e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00244
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00244
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+153.042593095
+
+>  <FORMULA>  (1) 
+C7H7NO3
+
+>  <GENERIC_NAME>  (1) 
+Mesalazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H7NO3/c8-4-1-2-6(9)5(3-4)7(10)11/h1-3,9H,8H2,(H,10,11)
+
+>  <INCHI_KEY>  (1) 
+KBOPZPXVLCULAV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Asacolitin; Claversal; Fisalamine; Iialda; Lixacol; Mesasal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.263819873124916
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-amino-2-hydroxybenzoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.28978240563320434
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+15.475226170274773
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.024188346479524
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.871587939823654
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.55
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+39.9955
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mesalazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+153.1354
+
+>  <PRODUCTS>  (1) 
+5-asa; Apriso; Asacol; Asacol 800; Asacol HD; Asacol Hd; Canasa; Delzicol; Lialda; Mesalamine; Mesasal; Mezavant; Ntp-5-aminosalicylic Acid; Pendo-5 Asa; Pentasa; Pentasa Enema 2g/100ml; Pentasa Extended-release Tablets 250mg; Pentasa Extended-release Tablets 500mg; Pentasa Suppository - 1g; Rowasa; Salofalk; Salofalk (r) 5-asa Enteric Coated Tab- 250mg; Salofalk (r) 5-asa Suppositories - 250mg; Teva-5 Asa; sF Rowasa; sfRowasa Sulfite-Free Formulation
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01098; DB05376; DB06396
+
+>  <SMILES>  (1) 
+NC1=CC(C(O)=O)=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+3-carboxy-4-hydroxyaniline; 5-aminosalicylic acid; 5-ASA; m-Aminosalicylic acid; Mesalamine; Mesalazina; Mésalazine; Mesalazinum; p-Aminosalicylsaeure
+
+$$$$

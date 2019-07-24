@@ -1,0 +1,139 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    2.8075   -0.2615    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.6740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  2  0
+  1  7  1  0
+  5  7  1  0
+  6  7  2  0
+  2  8  1  0
+  3  9  1  0
+  5 10  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.63
+
+>  <ALOGPS_LOGS>  (1) 
+-0.88
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.68e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00529
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00529
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+125.971809718
+
+>  <FORMULA>  (1) 
+CH3O5P
+
+>  <GENERIC_NAME>  (1) 
+Foscarnet
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH3O5P/c2-1(3)7(4,5)6/h(H,2,3)(H2,4,5,6)
+
+>  <INCHI_KEY>  (1) 
+ZJAOAACCNHFJAH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Triapten
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.888062129212226
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+phosphonoformic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.8303841046666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-3
+
+>  <JCHEM_PKA>  (1) 
+3.497768602888783
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-0.09567521963130154
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+94.83000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+19.0731
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+foscarnet
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+126.0053
+
+>  <PRODUCTS>  (1) 
+Foscarnet Sodium; Foscavir
+
+>  <SALTS>  (1) 
+Foscarnet sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00669
+
+>  <SMILES>  (1) 
+OC(=O)P(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+Carboxyphosphonic acid; Foscarmet; Phosphonoformate; Phosphonoformic acid; Phosphonomethanoic acid
+
+$$$$

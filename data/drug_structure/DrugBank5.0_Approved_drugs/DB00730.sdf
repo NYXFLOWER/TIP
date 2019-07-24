@@ -1,0 +1,161 @@
+730
+     RDKit          2D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+    6.4356    0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596    0.5014    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -0.8265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6510   -0.8300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1661   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6510    0.5049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4356   -0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0
+  1 14  1  0
+  2  5  1  0
+  2  7  1  0
+  3  6  1  0
+  3  7  2  0
+  4  8  1  0
+  4 14  2  0
+  5  6  2  0
+  5  9  1  0
+  6 10  1  0
+  7  8  1  0
+  8 13  2  0
+  9 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+  2 15  1  0
+  9 16  1  0
+ 10 17  1  0
+ 11 18  1  0
+ 12 19  1  0
+ 13 20  1  0
+ 14 21  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.47
+
+>  <ALOGPS_LOGS>  (1) 
+-3.16
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.38e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00730
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00730
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+201.036067929
+
+>  <FORMULA>  (1) 
+C10H7N3S
+
+>  <GENERIC_NAME>  (1) 
+Thiabendazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H7N3S/c1-2-4-8-7(3-1)12-10(13-8)9-5-14-6-11-9/h1-6H,(H,12,13)
+
+>  <INCHI_KEY>  (1) 
+WJCNZQLZVWNLKY-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Mintezol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.02122404273486
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(1,3-thiazol-4-yl)-1H-1,3-benzodiazole
+
+>  <JCHEM_LOGP>  (1) 
+2.328917354333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.276095741722969
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.07578078004297
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.57
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.90650000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+testo
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+201.248
+
+>  <PRODUCTS>  (1) 
+Mintezol Chewable Tab 500mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01252; DB08630
+
+>  <SMILES>  (1) 
+N1C2=CC=CC=C2N=C1C1=CSC=N1
+
+>  <SYNONYMS>  (1) 
+TBDZ; Tiabendazole
+
+$$$$
