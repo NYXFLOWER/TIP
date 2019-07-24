@@ -47,7 +47,7 @@ def load_data_torch(path, dd_et_list, mono=True):
             ''.join([path, 'sym_adj/drug-sparse-adj/type_', str(i), '.npz']))
 
         # dd_adj_list.append(adj)
-        dd_adj_list.append(sp.triu(adj))
+        dd_adj_list.append(sp.triu(adj).tocsr())
         sum_adj += adj
 
     # ########################################
