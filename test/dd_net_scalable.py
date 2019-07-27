@@ -31,32 +31,16 @@ et_list = [20, 34, 38, 41, 42, 46, 55, 57, 89, 92, 99, 103, 105, 110, 125, 126, 
            1067, 1069, 1073, 1076, 1082, 1085, 1087, 1088, 1090, 1091, 1093, 1095, 1101, 1102, 1104, 1106, 1107, 1108,
            1112, 1116, 1118, 1123, 1126, 1128, 1133, 1137, 1138, 1145, 1148, 1152, 1153, 1171, 1181, 1205]
 
-et_list = et_list[:5]
+et_list = et_list
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
 n_et_dd = len(et_list)
 
-
 data = Data.from_dict(feed_dict)
 
-data.dd_edge_index = torch.cat(data.dd_edge_index, dim=1)
-data.dd_edge_type = torch.cat(data.dd_edge_type)
 
-n_edge = data.dd_edge_index.shape[1]
-train_mask = np.random.binomial(1, 0.90, n_edge)
-test_mask = 1 - train_mask
-train_set = train_mask.nonzero()[0]
-test_set = test_mask.nonzero()[0]
-
-data.train_idx = data.dd_edge_index[:, train_set]
-data.test_idx = data.dd_edge_index[:, test_set]
-
-data.train_type = data.dd_edge_type[train_set]
-data.test_type = data.dd_edge_type[test_set]
-
-data.train_idx, data.train_type = to_bidirection(data.train_idx, data.train_type)
-data.test_idx, data.test_type = to_bidirection(data.test_idx, data.test_type)
+data.train_idx, data.train_et, data.train_range,data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
 
 # TODO: add drug feature
 data.d_feat = sparse_id(n_drug)
@@ -64,10 +48,11 @@ n_feat_d = n_drug
 data.x_norm = torch.ones(n_drug)
 # data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
 
-n_embed = 4
-n_base = 4
-n_hid1 = 4
-n_hid2 = 4
+n_base = 16
+
+n_embed = 64
+n_hid1 = 32
+n_hid2 = 16
 
 
 class Encoder(torch.nn.Module):
@@ -77,17 +62,17 @@ class Encoder(torch.nn.Module):
         self.num_et = num_et
 
         self.embed = Param(torch.Tensor(in_dim, n_embed))
-        self.rgcn1 = MyRGCNConv(n_embed, n_hid1, num_et, num_base, after_relu=False)
-        self.rgcn2 = MyRGCNConv(n_hid1, n_hid2, num_et, num_base, after_relu=True)
+        self.rgcn1 = MyRGCNConv2(n_embed, n_hid1, num_et, num_base, after_relu=False)
+        self.rgcn2 = MyRGCNConv2(n_hid1, n_hid2, num_et, num_base, after_relu=True)
 
         self.reset_paramters()
 
-    def forward(self, x, edge_index, edge_type, x_norm):
+    def forward(self, x, edge_index, edge_type, range_list, x_norm):
         x = torch.matmul(x, self.embed)
         x = x / x_norm.view(-1, 1)
-        x = self.rgcn1(x, edge_index, edge_type)
+        x = self.rgcn1(x, edge_index, edge_type, range_list)
         x = F.relu(x, inplace=True)
-        x = self.rgcn2(x, edge_index, edge_type)
+        x = self.rgcn2(x, edge_index, edge_type, range_list)
         x = F.relu(x, inplace=True)
         return x
 
@@ -100,7 +85,7 @@ class MultiInnerProductDecoder(torch.nn.Module):
         super(MultiInnerProductDecoder, self).__init__()
         self.num_et = num_et
         self.in_dim = in_dim
-        self.weight = Param(torch.Tensor(num_et, in_dim)).cuda()
+        self.weight = Param(torch.Tensor(num_et, in_dim))
 
         self.reset_parameters()
 
@@ -116,7 +101,10 @@ encoder = Encoder(n_feat_d, n_et_dd, n_base)
 decoder = MultiInnerProductDecoder(n_hid2, n_et_dd)
 model = MyGAE(encoder, decoder)
 
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+device_name = 'cuda' if torch.cuda.is_available() else 'cpu'
+print(device_name)
+device = torch.device(device_name)
+
 model = model.to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 data = data.to(device)
@@ -126,13 +114,13 @@ def train():
     model.train()
 
     optimizer.zero_grad()
-    z = model.encoder(data.d_feat, data.train_idx, data.train_type, data.x_norm)
+    z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
 
     pos_index = data.train_idx
-    neg_index = negative_sampling(data.train_idx, n_drug).cuda()
+    neg_index = negative_sampling(data.train_idx, n_drug).to(device)
 
-    pos_score = model.decoder(z, pos_index, data.train_type)
-    neg_score = model.decoder(z, neg_index, data.train_type)
+    pos_score = model.decoder(z, pos_index, data.train_et)
+    neg_score = model.decoder(z, neg_index, data.train_et)
 
     # pos_loss = F.binary_cross_entropy(pos_score, torch.ones(pos_score.shape[0]).cuda())
     # neg_loss = F.binary_cross_entropy(neg_score, torch.ones(neg_score.shape[0]).cuda())
@@ -156,14 +144,14 @@ def train():
     return z, loss
 
 
-test_neg_index = negative_sampling(data.test_idx, n_drug).cuda()
+test_neg_index = negative_sampling(data.test_idx, n_drug).to(device)
 
 
 def test(z):
     model.eval()
 
-    pos_score = model.decoder(z, data.test_idx, data.test_type)
-    neg_score = model.decoder(z, test_neg_index, data.test_type)
+    pos_score = model.decoder(z, data.test_idx, data.test_et)
+    neg_score = model.decoder(z, test_neg_index, data.test_et)
 
     pos_target = torch.ones(pos_score.shape[0])
     neg_target = torch.zeros(neg_score.shape[0])
@@ -176,12 +164,13 @@ def test(z):
     return auprc, auroc, ap
 
 
-EPOCH_NUM = 5
+EPOCH_NUM = 80
 
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
     z, loss = train()
+
     auprc, auroc, ap = test(z)
 
     # print(epoch, ' ',
@@ -191,11 +180,3 @@ for epoch in range(EPOCH_NUM):
 
     print(epoch, ' ',
           'auprc:', auprc)
-
-
-
-# 0.5437798265986752   0   auprc: 0.5641642935957784
-# 0.5649987508074507   1   auprc: 0.5783955703500084
-# 0.5785966763019907   2   auprc: 0.5945425148727426
-# 0.597677156149233   3   auprc: 0.6104982767369932
-# 0.6183655199695842   4   auprc: 0.6284256023928173

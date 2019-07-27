@@ -8,6 +8,11 @@ from torch_geometric.nn.models.autoencoder import negative_sampling
 t.manual_seed(0)
 
 
+def save_to_pkl(path, obj):
+    with open(path, 'wb') as g:
+        pickle.dump(obj, g)
+
+
 def get_drug_index_from_text(code):
     return int(code.split('D')[-1])
 
@@ -23,6 +28,10 @@ def load_data_torch(path, dd_et_list, mono=True):
     :param mono: if consider single drug side effects as drug features
     :return: a dict contain: dd-adj list, pp-adj, dp-adj and the feature matrix of drug and protein
     """
+
+    # path = './data/'
+    # dd_et_list = [0, 1, 2, 3]
+
     print("loading data")
     # load graph info
     with open(path + 'graph_info.pkl', 'rb') as f:
@@ -36,7 +45,9 @@ def load_data_torch(path, dd_et_list, mono=True):
     for i in dd_et_list:
         adj = sp.load_npz(
             ''.join([path, 'sym_adj/drug-sparse-adj/type_', str(i), '.npz']))
-        dd_adj_list.append(adj)
+
+        # dd_adj_list.append(adj)
+        dd_adj_list.append(sp.triu(adj).tocsr())
         sum_adj += adj
 
     # ########################################
@@ -135,8 +146,10 @@ def load_data_torch(path, dd_et_list, mono=True):
         # if i % 100 == 0:
         #     print(i)
 
-    data['dd_edge_index'] = t.cat(edge_index_list, 1)
-    data['dd_edge_type'] = t.cat(edge_type_list, 0)
+    # data['dd_edge_index'] = t.cat(edge_index_list, 1)
+    # data['dd_edge_type'] = t.cat(edge_type_list, 0)
+    data['dd_edge_index'] = edge_index_list
+    data['dd_edge_type'] = edge_type_list
     data['dd_edge_type_num'] = num
     data['dd_y_pos'] = t.ones(num[-1])
     data['dd_y_neg'] = t.zeros(num[-1])
