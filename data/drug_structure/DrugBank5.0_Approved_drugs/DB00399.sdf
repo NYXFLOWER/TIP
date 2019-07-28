@@ -1,0 +1,172 @@
+68740
+     RDKit          2D
+
+ 26 26  0  0  0  0  0  0  0  0999 V2000
+    2.5741   -0.9212    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7010   -1.2232    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8760    0.2058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1135   -1.9376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4155   -0.8107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596   -1.3337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1615   -0.2067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4189   -1.9984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4308   -1.7337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0030    0.7288    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4155    1.9984    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885   -0.5087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0030   -0.0962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3355    1.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6705    1.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5905    1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  1  7  1  0
+  1  9  2  0
+  1 12  1  0
+  2  4  1  0
+  2  5  1  0
+  2  8  2  0
+  2 12  1  0
+  3 12  1  0
+ 10 13  1  0
+ 10 14  1  0
+ 10 15  1  0
+ 11 15  2  0
+ 11 16  1  0
+ 12 13  1  0
+ 14 16  2  0
+  3 17  1  0
+  4 18  1  0
+  5 19  1  0
+  6 20  1  0
+  7 21  1  0
+ 13 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 16 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.93
+
+>  <ALOGPS_LOGS>  (1) 
+-1.92
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.27e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00399
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00399
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+271.996323708
+
+>  <FORMULA>  (1) 
+C5H10N2O7P2
+
+>  <GENERIC_NAME>  (1) 
+Zoledronic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H10N2O7P2/c8-5(15(9,10)11,16(12,13)14)3-7-2-1-6-4-7/h1-2,4,8H,3H2,(H2,9,10,11)(H2,12,13,14)
+
+>  <INCHI_KEY>  (1) 
+XRASPMIURGNCCH-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.097260908269067
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+[1-hydroxy-2-(1H-imidazol-1-yl)-1-phosphonoethyl]phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.851108564002269
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+1.4203844443343967
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.6570370453814713
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.674963447469139
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+153.11
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.157700000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zoledronate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+272.0896
+
+>  <PRODUCTS>  (1) 
+Aclasta; Act Zoledronic Acid; Act Zoledronic Acid Concentrate; PMS-zoledronic Acid; Reclast; Taro-zoledronic Acid; Taro-zoledronic Acid Concentrate; Val-zoledronic Acid; Zoledronic Acid; Zoledronic Acid - A; Zoledronic Acid - Z; Zoledronic Acid Accord; Zoledronic Acid Accord Infusion; Zoledronic Acid Actavis; Zoledronic Acid Concentrate; Zoledronic Acid Concentrate for Injection; Zoledronic Acid Hospira; Zoledronic Acid Injection; Zoledronic Acid Medac; Zoledronic Acid Mylan; Zoledronic Acid Teva; Zoledronic Acid Teva Generics; Zoledronic Acid Teva Pharma; Zoledronic Acid for Injection; Zoledronic Acid for Injection Concentrate; Zoledronic acid; Zometa; Zometa Concentrate; Zometa Lyophilized Powder
+
+>  <SALTS>  (1) 
+Zoledronate disodium; Zoledronate trisodium; Zoledronic acid hemipentahydrate; Zoledronic acid monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01294; DB06286
+
+>  <SMILES>  (1) 
+OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+(1-hydroxy-2-(1H-imidazol-1-yl)ethylidene)bisphosphonic acid; (1-hydroxy-2-imidazol-1-ylethylidene)diphosphonic acid; Anhydrous Zoledronic Acid; Zol; Zoledronate; Zoledronic Acid Anhydrous; Zoledronic Acid, Anhydrous
+
+$$$$

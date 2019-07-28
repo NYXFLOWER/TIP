@@ -1,0 +1,122 @@
+1390
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    2.5864    0.8250    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4429    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8719    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  1  0
+  3  5  1  0
+  4  5  2  0
+  2  6  1  0
+M  CHG  2   1   1   3  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.06
+
+>  <ALOGPS_LOGS>  (1) 
+0.96
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.64e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01390
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01390
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+83.982338573
+
+>  <FORMULA>  (1) 
+CHNaO3
+
+>  <GENERIC_NAME>  (1) 
+Sodium bicarbonate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH2O3.Na/c2-1(3)4;/h(H2,2,3,4);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+UIIMBOGNXHQVGW-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+3.8614967558834117
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium hydrogen carbonate
+
+>  <JCHEM_LOGP>  (1) 
+0.25005136566666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.638414228618219
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.052541895520343
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+20.335300000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium bicarbonate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+84.0066
+
+>  <PRODUCTS>  (1) 
+800 Sodium Bicarbonate Powder; Accusol 35 K0; Accusol 35 K2; Accusol 35 K4; After Bite Kids; After Bite Sensitive; After Bite The Itch Eraser KIDS; After Bite the Itch Eraser; Alka Seltzer; Alka Seltzer Evt; Alka Seltzer Flavoured; Alka Seltzer Original; Alka-Seltzer; Alka-Seltzer Extra Strength; Alka-Seltzer Gold; Alka-Seltzer HEARTBURN; Alka-Seltzer Heartburn; Alka-Seltzer Lemon Lime; Alka-Seltzer Original; Alka-Seltzer XTRA STRENGTH; Alka-seltzer Flavoured; Alka-seltzer Flavoured - Evt; Amo Endosol Extra; Anti-Empacho; Arm and Hammer Baking Soda; Assured Bug Bite Relief; Baking Soda USP; Baros Effervescent Granules; Bc-I Concentrate Pwr; Bi-peglyte; Bibag; Bicarb Hemodial Conc 81.25gm/l; Bicarbolyte Bicar Hemodialysis Conc; Bicarbolyte Bicar Hemodiaylsis Conc; Bicarbonate Chloride D12052; Bicarbonate Conc Mb-330 Pwr 650mg/pck; Bicarbonate Concentrate 4105; Bicarbonate Concentrate B38; Bicarbonate Concentrate D16000; Bicarbonate Concentrate D16001; Bicarbonate Concentrate D17000; Bicarbonate Concentrate D20000; Bicarbonate Concentrate No 4202 Liq; Bicart; Bicart Select Combi-pak; Bicaruvas; Bicavera 1.5% Glucose; Bicavera 2.3% Glucose; Bicavera 4.25% Glucose; Bicavera Forte 1.5% Glucose; Bicavera Forte 2.3% Glucose; Bicavera Forte 4.25% Glucose; Biflexy 1100; Biflexy 750; Biflexy 900; Brioschi Childrens Effervescent Antacid; Brioschi Effervescent Antacid; Brioschi Effervescent Antacid - 1.8gm/6gm; Brioschi Effervescent Antacid Pwr 280.3mg/gm; Bromo Seltzer; Bss Plus; CVS Health Antacid and Pain Reliever; Carbicarb Injection; Ceo-two; Ceo-two Bowel Evacuant Suppositories; Citrocarbonate Eff Pws; Colyte; Colyte with flavor packs; Cvs; D12057; De LA Cruz Sodium Bicarbonate Antacid; De La Cruz Desempacho; Dialyte; E-Z-gas 2 Granules; EcoDent Ultimate Essential Mouthcare Sparkling Clean Mint; EcoDent Ultimate Essential Mouthcare Spicy-Cool Cinnamon; Effervescent Antacid and Pain Relief; Effervescent Pain Relief; Effervescent Pain Relief Fast Relief; Effervescent Pain Relief Fast Relief Fast Relief; Electropeg Solution; Estomarol; GaviLyte - C TM; GaviLyte - N; GaviLyte G TM; Gingera Effervescent Antacid; GoLYTELY; Golytely Gi Lavage Solution; Good Sense Omeprazole and Sodium Bicarbonate; Goongsecret Calming Bath Oriental Formula for Babies; H.E.L.P.bicel; Hema Bp-38; Hemacart; Humco Sodium Bicarbonate; Inon; Jamp-electropeg; Jamp-electropeg With Flavour Packet; Jamplyte; Jamplyte 280; Kettle Neti Pot; Klean-prep; Leader Sinus Wash Saline Refills; Lyteprep; Medique Medi Seltzer; Medis Sodium Bicarbonate; Naturalyte Dry Pack for Bicarbonate Dialysis; Naturalyte Sodium Bicarbonate Liquid Concentrate; Navstel; Neut; Neut Sodium Bicarbonate; Neutra-seltzer; Normo Gastryl; Normocarb 25; Normocarb 35; Not Applicable; NuLYTELY; Ocl Solution; Ohta's Isan Stomach Powder; Ohtas Isan Antacid; Omeprazole Sodium Bicarbonate; Omeprazole and Sodium Bicarbonate; Omeprazole and Sodium Bicrabonate; Omeprazole and sodium bicarbonate; Omeprazole/Sodium Bicarbonate; Omeprazole/sodium Bicarbonate; Ora Rinse Liq; PEG-3350 and Electrolytes; PEG-3350, sodium chloride, sodium bicarbonate and potassium chloride; Pain Relief Fast Relief; Peglyte Powder; Peglyte Solution; Pepsotol; Phoxillum Bk4/2.5; Physioneal 40 Glucose 1.36% W/V 13.6mg/ml Clear-flex; Physioneal 40 Glucose 1.36% W/V 13.6mg/ml Solution for Peritoneal Dialysis; Physioneal 40 Glucose 2.27% W/V 22.7 mg/ml Clear-flex; Physioneal 40 Glucose 2.27% W/V 22.7 mg/ml, Solution for Peritoneal Dialysis; Physioneal 40 Glucose 3.86% W/V 38.6 mg/ml Clear-flex; Physioneal 40 Glucose 3.86% W/V 38.6mg/ml, Solution for Peritoneal Dialysis; Picot Plus Effervescent; Pleo Alkala Antacid; Polyethylene Glycol 3350 and Electrolytes; Polyethylene Glycol 3350, Sodium Chloride, Sodium Bicarbonate and Potassium Chloride - Unflavored; Polyethylene Glycol 3350, Sodium Chloride, Sodium Bicarbonate and Potassium Chloride with Lemon Flavor; Polyethylene Glycol 3350, Sodium Chloride, Sodium Bicarbonate and Potassium Chloride with Orange Flavor; Polyethylene Glycol-3350 and Electrolytes; Polyethylene Glycol-3350 and Electrolytes with Flavor Pack; Polyethylene Glycol-3350, Sodium Chloride, Potassium Chloride and Sodium Bicarbonate; Premier Value Antacid and Pain Relief Medicine; Premier Value Sodium Bicarbonate; Prism0cal; Prism0cal B22k0/0; Prismasol 0; Prismasol 2; Prismasol 4; Prolax - Pws; R04940 Liq; Relief OTC antacid; Riga Purgative Lemon Flav Liq; Sal De Uvas Picot; Sal de Uvas Picot; Saline Refills; Saline Wash; SinuCleanse; SinuCleanse Micro-Filtered Nasal Wash System; SinuCleanse Neti-Pot; SinuCleanse Squeeze; Sinus Wash; Skin protectant; Soda Mint Tab; Sodium Bicarbonate; Sodium Bicarbonate 10 gr; Sodium Bicarbonate 5 gr; Sodium Bicarbonate 5% Inj 50mg/ml USP; Sodium Bicarbonate 5% Inj 5gm/100ml USP; Sodium Bicarbonate Antacid; Sodium Bicarbonate Dry Concentrate Ro9504; Sodium Bicarbonate Dry Concentrate Rx002c; Sodium Bicarbonate Inj 4.2%; Sodium Bicarbonate Inj 7.5%; Sodium Bicarbonate Inj 8.4%; Sodium Bicarbonate Injection 75mg/ml; Sodium Bicarbonate Injection 84mg/ml; Sodium Bicarbonate Injection USP; Sodium Bicarbonate Tab 300mg; Sodium Bicarbonate Tab 600mg; Sodium Bicarbonate USP for Hemodialysis D12276; Sodium Bicarbonate-chloride Dry Concentrate; Sodium Bicarbonate-chloride Dry Concentrate R04955; Sodium Bicarbonate-chloride Liquid Concentrate Ro4941; Sol-cart B; Solution Carda; Stomachin Antacid; Suclear; The Itch Eraser Sensitive; Thunas Bilex; Top Value Effervescent Pain Relief; Topcare Omeprazole and Sodium Bicarbonate; Tqm Bicarbonate Concentrate B38; TriLyte with Flavor Packs; Trilyte With Flavor Packs; Unik Zoru Pwr; Unik Zoru Tab; Urasal Granules; Vida Mia Pain Relief; Vida Mia Sodium Bicarbonate; Vivia Bicarb; Walgreens Filtered Squeeze Sinus Wash System; Walgreens Sinus Wash Squeeze Bottle Kit; Well at Walgreens; WinCo Foods Effervescent Antacid and Pain Relief; Woodward's Gripe Water Liq; Yeti Pot- Schnoz Wash; Zee-Seltzer Antacid and Pain Reliever; Zegerid; Zegerid OTC
+
+>  <SMILES>  (1) 
+[Na+].OC([O-])=O
+
+>  <SYNONYMS>  (1) 
+Baking soda; Bicarbonate of soda; Carbonic acid monosodium salt; Sodium acid carbonate; Sodium hydrogen carbonate; Sodium hydrogencarbonate
+
+$$$$

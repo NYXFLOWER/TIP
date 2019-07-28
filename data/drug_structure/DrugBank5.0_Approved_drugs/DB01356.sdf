@@ -1,0 +1,98 @@
+1356
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    2.0000    0.0000    0.0000 Li  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+>  <DATABASE_ID>  (1) 
+DB01356
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01356
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+7.016004049
+
+>  <FORMULA>  (1) 
+Li
+
+>  <GENERIC_NAME>  (1) 
+Lithium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Li/q+1
+
+>  <INCHI_KEY>  (1) 
+HBBGRARXTFLTSG-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+lithium(1+) ion
+
+>  <JCHEM_LOGP>  (1) 
+0
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lithium(1+) ion
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+6.941
+
+>  <PRODUCTS>  (1) 
+Apo-lithium Carbonate; Carbolith Cap 150mg; Carbolith Cap 300mg; Carbolith Capsules 600mg; Dom-lithium Carbonate; Duralith Tab 300mg; Euro Lithium; Lithane; Lithium; Lithium Carbonate; Lithium Carbonate ER; Lithium Carbonate Lithium Carbonate; Lithium Hydroxide Monohydrate; Lithium carbonate; Lithizine Cap 150mg; Lithizine Cap 300mg; Lithmax; Lithobid; PHL-lithium Carbonate; PMS-lithium Carbonate - Cap 150mg; PMS-lithium Carbonate - Cap 300mg; PMS-lithium Carbonate - Cap 600mg; PMS-lithium Citrate; Pal-lithium Carbonate
+
+>  <SALTS>  (1) 
+Lithium carbonate; Lithium citrate; Lithium hydroxide monohydrate; Lithium succinate
+
+>  <SMILES>  (1) 
+[Li+]
+
+$$$$

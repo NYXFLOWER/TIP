@@ -1,0 +1,198 @@
+472
+     RDKit          2D
+
+ 40 41  0  0  1  0  0  0  0  0999 V2000
+    4.3974    2.6813    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0475    2.6813    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.5063    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0
+  2 22  1  0
+  3 22  1  0
+  4  6  1  0
+  4 12  1  0
+  5  9  1  0
+  5 19  1  0
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  2  0
+  8 11  1  0
+ 10 13  1  0
+ 11 14  2  0
+ 12 15  2  0
+ 12 16  1  0
+ 13 18  2  0
+ 14 18  1  0
+ 15 20  1  0
+ 16 21  2  0
+ 17 20  2  0
+ 17 21  1  0
+ 17 22  1  0
+  5 23  1  0
+  6 24  1  0
+  7 25  1  0
+  7 26  1  0
+  9 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 18 35  1  0
+ 19 36  1  0
+ 19 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 21 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.09
+
+>  <ALOGPS_LOGS>  (1) 
+-5.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.70e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00472
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00472
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+309.134048818
+
+>  <FORMULA>  (1) 
+C17H18F3NO
+
+>  <GENERIC_NAME>  (1) 
+Fluoxetine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H18F3NO/c1-21-12-11-16(13-5-3-2-4-6-13)22-15-9-7-14(8-10-15)17(18,19)20/h2-10,16,21H,11-12H2,1H3
+
+>  <INCHI_KEY>  (1) 
+RTHCYVBBDHJXIQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adofen; Animex-On; Fluoxeren; Fontex; Ladose
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.326618157922514
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+methyl({3-phenyl-3-[4-(trifluoromethyl)phenoxy]propyl})amine
+
+>  <JCHEM_LOGP>  (1) 
+4.1732195433333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.80313944120745
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+21.259999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+80.36750000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fluoxetine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+309.3261
+
+>  <PRODUCTS>  (1) 
+Accel-fluoxetine; Ach-fluoxetine; Act Fluoxetine; Apo-fluoxetine; Auro-fluoxetine; Ava-fluoxetine; Bci Fluoxetine; Bio-fluoxetine; Dom-fluoxetine; Dom-fluoxetine - Cap 10mg; Fluoxetine; Fluoxetine Capsules; Fluoxetine HCl; Fluoxetine Hydrochloride; Fluoxetine hydrochloride; Fluoxetine-10 - Cap; Fluoxetine-20 - Cap; Fxt 10; Fxt 20; Fxt 40; Gaboxetine; Ipg-fluoxetine; Jamp-fluoxetine; Mar-fluoxetine; Mint-fluoxetine; Mylan-fluoxetine; Nu-fluoxetine; Odan-fluoxetine; Olanzapine and Fluoxetine; PHL-fluoxetine - Cap 10mg; PHL-fluoxetine - Cap 20mg; PHL-fluoxetine - Solution 20mg/5ml; PMS-fluox Capsules 20mg; PMS-fluoxetine; PMS-fluoxetine - Cap 10mg; PMS-fluoxetine - Cap 20mg; PMS-fluoxetine Liquid - 20mg/5ml; Penta-fluoxetine Capsules; Priva-fluoxetine; Pro-fluoxetine; Prozac; Prozac Capsules 10mg; Prozac Capsules 20mg; Prozac Liq 20mg/5ml; Prozac Weekly; Q-fluoxetine; Ran-fluoxetine; Ratio-fluoxetine; Riva-fluoxetine; Sandoz Fluoxetine; Sarafem; Sentraflox AM-10; Sentroxatine; Stcc-fluoxetine - Cap 10mg; Stcc-fluoxetine - Cap 20mg; Symbyax; Teva-fluoxetine; Van-fluoxetine; Zym-fluoxetine
+
+>  <SALTS>  (1) 
+Fluoxetine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00530
+
+>  <SMILES>  (1) 
+CNCCC(OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Fluoxetin; Fluoxetina; Fluoxétine; Fluoxetinum
+
+$$$$

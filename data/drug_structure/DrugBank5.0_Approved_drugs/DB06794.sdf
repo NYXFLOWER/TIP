@@ -1,0 +1,174 @@
+
+     RDKit          2D
+
+ 27 27  0  0  0  0  0  0  0  0999 V2000
+    5.6873   -5.4105    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.8280   -3.3125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5536   -3.3125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5250   -5.4105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2647   -4.1801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8495   -5.4105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1525   -4.1801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1239   -4.5855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2506   -4.5855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6873   -1.2571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6873   -4.5855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3843   -4.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9903   -4.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6873   -2.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3843   -3.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9903   -3.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8280   -4.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5536   -4.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6873   -2.0821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5250   -4.5855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8495   -4.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 17  2  0
+  3 18  2  0
+  4 20  2  0
+  5 20  1  0
+  6 21  2  0
+  7 21  1  0
+  8 12  1  0
+  8 17  1  0
+  9 13  1  0
+  9 18  1  0
+ 10 19  3  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 14 15  2  0
+ 14 16  1  0
+ 14 19  1  0
+ 17 20  1  0
+ 18 21  1  0
+  5 22  1  0
+  7 23  1  0
+  8 24  1  0
+  9 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.72
+
+>  <ALOGPS_LOGS>  (1) 
+-3.94
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.61e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06794
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06794
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+310.9945126
+
+>  <FORMULA>  (1) 
+C11H6ClN3O6
+
+>  <GENERIC_NAME>  (1) 
+Lodoxamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H6ClN3O6/c12-7-5(14-8(16)10(18)19)1-4(3-13)2-6(7)15-9(17)11(20)21/h1-2H,(H,14,16)(H,15,17)(H,18,19)(H,20,21)
+
+>  <INCHI_KEY>  (1) 
+RVGLGHVJXCETIO-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+27
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.52238960071597
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+{[3-(carboxyformamido)-2-chloro-5-cyanophenyl]carbamoyl}formic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.8279957053333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+1.400232534177916
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-6.7248968911525155
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.7335408258836061
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+156.58999999999997
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+69.90020000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lodoxamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+311.63
+
+>  <PRODUCTS>  (1) 
+Alomide
+
+>  <SALTS>  (1) 
+Lodoxamide tromethamine
+
+>  <SMILES>  (1) 
+OC(=O)C(=O)NC1=CC(=CC(NC(=O)C(O)=O)=C1Cl)C#N
+
+>  <SYNONYMS>  (1) 
+N,N'-(2-chloro-5-cyano-m-phenylene)dioxamate
+
+$$$$

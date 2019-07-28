@@ -1,0 +1,166 @@
+1008
+     RDKit          2D
+
+ 28 27  0  0  0  0  0  0  0  0999 V2000
+    7.3659    0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7784   -0.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9534    0.9207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.9207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  5  2  0
+  1  6  2  0
+  1 13  1  0
+  2  4  1  0
+  2  7  2  0
+  2  8  2  0
+  2 14  1  0
+  3 11  1  0
+  4 12  1  0
+  9 10  1  0
+  9 11  1  0
+ 10 12  1  0
+  9 15  1  0
+  9 16  1  0
+ 10 17  1  0
+ 10 18  1  0
+ 11 19  1  0
+ 11 20  1  0
+ 12 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 13 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.90
+
+>  <ALOGPS_LOGS>  (1) 
+-1.68
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.16e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01008
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01008
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+246.02317956
+
+>  <FORMULA>  (1) 
+C6H14O6S2
+
+>  <GENERIC_NAME>  (1) 
+Busulfan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H14O6S2/c1-13(7,8)11-5-3-4-6-12-14(2,9)10/h3-6H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+COVZYZSDYWQREU-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Busilvex
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.637829810018616
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-(methanesulfonyloxy)butyl methanesulfonate
+
+>  <JCHEM_LOGP>  (1) 
+-0.7590282259999991
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.74000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.5686
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+busulfan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+246.302
+
+>  <PRODUCTS>  (1) 
+Busulfan; Busulfan for Injection; Busulfex; Myleran; N/a
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00664
+
+>  <SMILES>  (1) 
+CS(=O)(=O)OCCCCOS(C)(=O)=O
+
+>  <SYNONYMS>  (1) 
+1,4-Bis(methanesulfonoxy)butane; 1,4-Butanediol dimethanesulfonate; 1,4-Dimesyloxybutane; 1,4-Dimethanesulfonoxybutane; Tetramethylene bis(methanesulfonate)
+
+$$$$

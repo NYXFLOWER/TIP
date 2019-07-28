@@ -1,0 +1,251 @@
+
+     RDKit          2D
+
+ 64 67  0  0  0  0  0  0  0  0999 V2000
+    8.3346   -4.3826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3346   -5.2076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6399   -3.9484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3346   -3.5575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6399   -5.6418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017   -4.3826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017   -5.2076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6399   -6.4668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1636   -3.9484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1636   -5.6418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017   -6.0760    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017   -6.9010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1636   -6.4668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4254   -5.2076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1636   -4.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4254   -6.9010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7307   -5.6418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7307   -6.4668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9925   -6.9010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1192   -5.4626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6041   -4.7951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1193   -4.1277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1148   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8269   -2.8836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3980   -2.8914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4291   -4.7952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8224   -2.0586    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    9.9099   -4.3337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6256   -3.9262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3376   -4.3430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0545   -3.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6305   -3.1012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  1  1
+  2  5  1  0
+  3  6  1  0
+  5  7  1  0
+  5  8  1  0
+  6  9  1  1
+  7 10  1  0
+  7 11  1  6
+  8 12  1  0
+ 10 13  1  0
+ 10 14  1  0
+ 10 15  1  1
+ 13 16  2  0
+ 14 17  2  0
+ 16 18  1  0
+ 18 19  2  0
+  6  7  1  0
+ 12 13  1  0
+ 17 18  1  0
+ 20  2  1  0
+  1  2  1  0
+ 21 20  1  0
+ 22  1  1  0
+ 22 21  1  0
+ 22 23  1  1
+ 23 24  1  0
+ 23 25  2  0
+ 21 26  1  6
+ 24 27  1  0
+ 22 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 29 32  2  0
+  2 33  1  6
+  3 34  1  0
+  3 35  1  0
+  4 36  1  0
+  4 37  1  0
+  4 38  1  0
+  5 39  1  1
+  6 40  1  0
+  8 41  1  0
+  8 42  1  0
+  9 43  1  0
+ 12 44  1  0
+ 12 45  1  0
+ 14 46  1  0
+ 15 47  1  0
+ 15 48  1  0
+ 15 49  1  0
+ 16 50  1  0
+ 17 51  1  0
+ 20 52  1  0
+ 20 53  1  0
+ 21 54  1  0
+ 24 55  1  0
+ 24 56  1  0
+ 26 57  1  0
+ 26 58  1  0
+ 26 59  1  0
+ 30 60  1  0
+ 30 61  1  0
+ 31 62  1  0
+ 31 63  1  0
+ 31 64  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.49
+
+>  <ALOGPS_LOGS>  (1) 
+-5.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.13e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01013
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01013
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+466.192230046
+
+>  <FORMULA>  (1) 
+C25H32ClFO5
+
+>  <GENERIC_NAME>  (1) 
+Clobetasol propionate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C25H32ClFO5/c1-5-21(31)32-25(20(30)13-26)14(2)10-18-17-7-6-15-11-16(28)8-9-22(15,3)24(17,27)19(29)12-23(18,25)4/h8-9,11,14,17-19,29H,5-7,10,12-13H2,1-4H3/t14-,17-,18-,19-,22-,23-,24-,25-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+CBGUOGMQLZIXBE-XGQKBEPLSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Clobesol; Dermovate; Embeline; Embeline E
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+48.28199169016095
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,2S,10S,11S,13S,14R,15S,17S)-14-(2-chloroacetyl)-1-fluoro-17-hydroxy-2,13,15-trimethyl-5-oxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-3,6-dien-14-yl propanoate
+
+>  <JCHEM_LOGP>  (1) 
+4.177822793000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.142723966133307
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.626671175517131
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.3933955587767723
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.66999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+119.32229999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+temovate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+466.97
+
+>  <PRODUCTS>  (1) 
+Alti-clobetasol Propionate Cream 0.05%; Alti-clobetasol Propionate Ont 0.05%; Alti-clobetasol Propionate Scalp Application 0.05%; Clobetasol Cream 0.05%; Clobetasol Ointment 0.05%; Clobetasol Propionate; Clobetasol Propionate (emollient); Clobetasol Propionate Emollient Formulation; Clobetasol Propionate Emulsion; Clobetasol Scalp Application 0.05%; Clobex; Clobex Lotion; Clobex Shampoo; Clobex Spray; Clodan; Clodan Kit; Cormax; Dermovate Cream; Dermovate Crm 0.05%; Dermovate Ointment; Dermovate Ont 0.05%; Dermovate Scalp Application; Dermovate Scalp Application .05%; Mylan-clobetasol Cream; Mylan-clobetasol Ointment; Mylan-clobetasol Scalp Application; Novo-clobetasol Crm 0.05%; Novo-clobetasol Ointment - 0.05%; Olux; Olux-E; PMS-clobetasol; PMS-clobetasol Cream; PMS-clobetasol Ointment; PMS-clobetasol Scalp Application; Penta-clobetasol Cream; Ratio-clobetasol; Taro-clobetasol Cream USP, 0.05%; Taro-clobetasol Ointment USP, 0.05%; Taro-clobetasol Topical Solution USP, 0.05%; Temovate; Temovate E; Temovate Scalp Application
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00876
+
+>  <SMILES>  (1) 
+[H][C@@]12C[C@H](C)[C@](OC(=O)CC)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+
+>  <SYNONYMS>  (1) 
+21-chloro-9-fluoro-11β,17-dihydroxy-16β-methylpregna-1,4-diene-3,20-dione 17-propionate; clobetasol 17-propanoate; clobetasol 17-propionate; Clobetasol propionate E
+
+$$$$

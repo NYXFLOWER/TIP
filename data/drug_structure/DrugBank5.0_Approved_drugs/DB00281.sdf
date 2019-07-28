@@ -1,0 +1,198 @@
+281
+     RDKit          2D
+
+ 39 39  0  0  0  0  0  0  0  0999 V2000
+    4.5080   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  3  8  1  0
+  4  8  1  0
+  5 11  1  0
+  6 12  1  0
+  7  9  2  0
+  7 10  1  0
+  9 13  1  0
+  9 15  1  0
+ 10 14  2  0
+ 10 16  1  0
+ 13 17  2  0
+ 14 17  1  0
+  3 18  1  0
+  4 19  1  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 16 37  1  0
+ 16 38  1  0
+ 17 39  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.81
+
+>  <ALOGPS_LOGS>  (1) 
+-2.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.93e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00281
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00281
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+234.173213336
+
+>  <FORMULA>  (1) 
+C14H22N2O
+
+>  <GENERIC_NAME>  (1) 
+Lidocaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H22N2O/c1-5-16(6-2)10-13(17)15-14-11(3)8-7-9-12(14)4/h7-9H,5-6,10H2,1-4H3,(H,15,17)
+
+>  <INCHI_KEY>  (1) 
+NNJVILVZKWQKPM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+After Burn Double Strength Gel; After Burn Double Strength Spray; After Burn Gel; After Burn Spray; Alphacaine; Anestacon Jelly; DermaFlex; Dilocaine; Esracaine; L-Caine; Lidoject-1; Lidoject-2; LidoPain SP; Norwood Sunburn Spray; Xylocard
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.765610032699158
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide
+
+>  <JCHEM_LOGP>  (1) 
+2.842913359666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.775423132503192
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.754504502964598
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.34
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+73.92960000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lidocaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+234.3373
+
+>  <PRODUCTS>  (1) 
+0.4% Lidocaine Hydrochloride and 5% Dextrose Injection USP; 10 Person ANSI; 1st RELIEF TOPICAL; 2% Lidocaine Hydrochloride Injection USP; 2% Lidocaine and Epinephrine 1:100,000 Injection USP; 25 Person ANSI; 3-Step First Aid Kit; 5% Xylocaine Mpf With Glucose 7.5% Injection; 50 Person ANSI; ACME FIRST AID Contains 404 PIECES; ACME Small Cuts and Burns; ARC Emergency Preparedness FIRST AID Contains 202 PIECES; ARC FIRST AID Contains 1000 PIECES; ARC FIRST AID Contains 101 PIECES; ARC FIRST AID Contains 101 PIECES Hardcase; ARC FIRST AID Contains 404 PIECES; Absorbine jr. Lidocaine; Accucaine; Activate Joint and Muscle Relief; Adazin; Advanced DNA Medicated Collection; Advanced DNA Medicated Collection Kit II; Advanced DNA Medicated Collection Kit III; Aerowound Blood Clotting First Aid; Aflexeryl-LC; After Bite Wipe; After Burn; After Cuts and Scrapes; After Sun Burn Relief Lidocaine Continuous Spray; After Sun Gel; After Sun Soothing Spray; AfterBurn; Aftersun Cooling CVS; AgonEaze; Akten; Alcoholada Gel Pain Relieving Pain; Alcoholada Pain Relieving; Alocane; Alocane Emergency Burn Pads; Alocane On The Go; Alocane Plus; Alocane Severe Sunburn; Aloe; Aloe Gel Pain Reliever Well at Walgreens; Aloe Ice Sunburn Relief; Aloe Ice Sunburn Relief Jelly; Aloe Vera Gel; Amniocentesis Tray 1%; Ana-Lex; Anecream; Anecream 5; Anesta; Anestacon; Anesthetic; Anodyne LPT; AnodyneRx; Anorectal Equate; Anorectal Walgreens; Antecubital Cent Venous Catheterization Kit; Antibiotic Cream Plus Pain Relief; Antibiotic Cream Plus Pain Relief for Kids; Antibiotic Cream for Kids; Antibiotic Plus Pain Relief Cream; Antiseptic; Antiseptic Formula Filled Swab; Apicaine-X; Apr15; Arrow Central Venous Catheterization Kit; Arrow Multi-lumen Central Venous Catheter Kit; Arrow Pneumothorax Kit; Arrow Two-lumen Central Venous Cathetar Kit; Arrow Two-lumen Jugular Catheterization Kit; Arthrogram Tray 1%; Aspercreme; Aspercreme Lidocaine XL; Aspercreme with Lidocaine; Aspercreme with Lidocaine No-Mess Applicator; Aspercreme with Lidocaine Pain Relieving Creme; Aspercreme with Lidocaine XL; Assured; Assured Bikini Smooth Cream; Assured Pain Relief; Astero; Atelocollagen Implant; Aubio Life Sciences Lip; Australian Gold Aloe Freeze Gel with Lidocaine; Auto 157; AvaDerm; Avalin External Analgesic Patch; Avon Foot Works Therapeutic Cracked Heel Relief Cream; BZ Step Pain Relief Cream; Baciguent Plus Pain Reliever Ont; Bactine First Aid Spray; Bactine First Aid Spray Liq; Bactine Original First Aid; Bactine Pain Relieving; Bakers Best Arthritis Pain Relief; Banana Boat Sooth-A-caine Spray Gel; Banana Boat Sooth-A-caine W.moist.aloe V.gel; Banana Boat Soothacaine Spray Gel; Band-Aid Brand Hurt-Free Antiseptic Pain Relieving; Band-Aid Brand Hurt-Free Antiseptic Wash; Band-aid Brand Antiseptic Wash; Basic Biopsy Tray 1%; BeKoool Itch Relief; Bed Bug Instant Bite Relief; Bene Patch; BenePatch; Benzalkonium Chloride and Lidocaine Hydrochloride; Betacaine Gel; Bikini Relief; Bikini Zone; Bikini Zone Medicated; Bikini Zone Medicated CREME; Bikini Zone Topical Analgesic Gel; Bio-Scriptives Lidum; Bio-Scriptives Lidum Hemorroidal (Anorectal); Bio-Scriptives Lidum Topical Analgesic; Biotic-Plus; Blood Clotting First Aid; Blt 2; Blue-Emu Lidocaine Pain Relief Cream; BonaDur; Braline Patch; Budpak First Aid; Burn; Burn Cream; Burn Jel; Burn Jel 20 mg/g; Burn Jel Plus; Burn Mist; Burn Relief CVS; Burn Relief Cream; Burn Relief Extra Strength Kool-Down; Burn Relief Gel; Burn Relief Gel With Lidocaine; Burn Relief Kol-Down; Burn Relief Leader; Burn Relief Pain Reliever Well at Walgreens; Burn Relief Professional Kool-Down; Burn ReliefPreferred Plus Ph Preferred Plus Pharmacy; Burn Treatment; Burn with Aloe; Burn with Lidocaine; BurnX Pain Relieving Burn; Burncare Kit; Burncare Spray; Burnrelief; CBD Clinic - Mild Pain Therapy; CBD Medic - Odor-Free Serious Relief; CVS Antiseptic Wash; CVS Bacitracin with Pain Relief; CVS Burn Relief w/Lido 8oz; CVS Health Aftersun Aloe Vera Cooling; CVS Health Antibiotic Free Wound and Pain Relief; CVS Health Antiseptic Wound Wash; CVS Pain Relieving First Aid Antiseptic; CYHOT Cream with Lidocaine Well at WAlgreens; Cacitrix; Cadira Compliant Blood Stat; Caribbean Breeze Burn Relief; Cathejell; Caustinerf; Central Vein Catheterization Kit; Central Venous Catetherization Kit; Central Venous Catheter Expanded Kit; Cicloferon; CidalEaze; Coachs First Aid Contains 102 Pieces; Comfort EZ Extra Strength Pain Relief Patch; Comfort EZ Extra StrengthTransdermal Patch; Comfort EZ Pain Relief Patch; Comfortcaine; Comfortox Lidocaine; Complete Antibiotic Ointment; Continuous Epidural Anesthesia Tray; Coralite Lidocaine Pain Relief; Curacaine; Curacaine Transdermal Corporation; Cutiecaine; Cutiecaine-5%; D-Care 100X; DAYMARK FAK-35 First Aid; DX1 OraGenomic Medicated DNA Collection Screen; DX2 OraGenomic Medicated DNA Collection Screen; De La Cruz Mercurochrome; Deeveeant Numb; Dentsply 2% Lidocaine With Epinephrine 1:100,000; Dentsply 2% Lidocaine With Epinephrine 1:50,000; Depo-medrol With Lidocaine; Derma Gel Relief; Derma Numb; Derma-Caine; DermaNumb Tattoo Anesthetic; DermaNumb Tattoo Anesthetic Gel; DermacinRx Cinlone-I CPI; DermacinRx Cinlone-II CPI; DermacinRx DPN Pak; DermacinRx Empricaine; DermacinRx Lexifen; DermacinRx Lido V Pak; DermacinRx Lidotral; DermacinRx PHN Pak; DermacinRx Prikaan; DermacinRx Prizopak; Dermatologic Relief; Desert Harvest RELEVEUM; Dipentocaine Topical Cream Compounding Kit; Discount Drug Mart Pain Relief Patches; Disposable Convenience Kit (Single Shot Epidural); Doans Pain Relieving; Dollar General Pain Relieving Patch with Lidocaine; Dolor-parche With Lidocaine-RX; Doloracin/l Rx With Lidocaine; Dolotranz; Dr. Numb; Dr. Richs Numbing; Dr. Scholl's Cracked Heel Relief Cream; Dynamo Delay; Dynarex Burn Cream; ECOLAB Blood Clotting; ECOLAB Burn; ECOLAB Burn Cream; ENDURE Male Genital Desensitizing; Easy Care First Aid Kit - Comprehensive; Ebsl-5; Ebss-5; Eclipse Topical Anesthetic; Eha; Elite PAIN RELIEF; Emla; Emla Cream; Emla Patch; Endoxcin; Endurance Rx Male Desensitizer; Epidural Anesthesia Tray; Exchange Select Burn Relief Pain Relieving; Expanded Multi-med Kit; Exsel Aloe; Extra Strength AfterTAT; Extra Strength AfterTAT Slime; Extra Strength First Aid; Extra Strength Foot Care Liquid Gel; Extra Strength Liquid Bedsore Relief Gel; Extra Strength Liquid Burn Relief Gel; Extra Strength Liquid Hemorrhoid Relief Gel; Extra Strength Liquid Insect Bite Relief Gel; Extra Strength Liquid Numbing Gel; Extra Strength Naturally HL Foot Care; Extra Strength Naturally HL Warming Ice; Extra Strength Naturally Hl Foot Care; Extra Strength Naturally Hl Hand Care; Extra Strength Naturally Hl Itch Relief; Extra Strength Naturally Hl Sunburn Relief; Extra Strength Naturally Hl Warming Ice; Extra Strength Numbing Gel; Extra Strength Postherpetic Neuralgia; Extra Strength Postherpetic Neuralgia Care; Extra Strength Postherpetic Neuralgia Relief; Extra Strength Postpartum Relief; Extra Strength PreTAT; Extra Strength Pruritis Care; Extra Strength Pruritis Relief; Extra Strength Scar Prevention; Extra Strength Shingle Chickenpox Relief; Extra Strength Shingles Chickenpox Relief; Extra Strength Skin Repair; Extra Strength Skin repair; Extra Strength Sunburn Relief; Extra Strength Wound Care; Ez Pain Relieving; FIRST AID Contains 101 PIECES; FIRST AID Contains 101 PIECES HARDCASE; FIRST AID Contains 303 PIECES; Family Medic First Aid Treatment - Liq; Family Medic First-aid Treatment Liquid; Family Medic First-aid Treatment Lotion; First Aid; First Aid Antiseptic Pain Relieving; First Aid Antiseptic Swabs; First Aid Antiseptic Well at Walgreens; First Aid Burn; First Aid Burn Cream; First Aid Macimum Sterngth Bacitraycin Plus; First Aid Pocket Pack - 40 Pieces; First Aid Research Bacitraycin Plus Maximum Vertical; First Aid Spray; First Aid Triple Antibiotic with Pain Reliever; First Aid Value Pack - 77 Pieces; First Aid and Burn; First aid and Burn; Fonow; Foot Works Cracked Heel; Foot Works Healthy Cracked Heel Cream; Footworks Healthy Cracked Heel Cream; Footworks Maximum Strength Cracked Heel; Fortacin; Freds Antiseptic Wash; Fruit of the Earth Aloe Vera Cool Blue; Fruit of the Earth Cool Blue Aloe Mist Continuous; Fsk-5; GFA First Aid; GFA First Aid 16 Unit Metal Case; GFA First Aid 24 Unit Metal Case; GFA First Aid 36 Unit Metal Case; GOOD NEIGHBOR PHARMACY FIRST AID Contains 202 PIECES; Gardeners Skin Remedy Topical Analgesic Gel; General Numb; Genetic Amniocentesis Tray Kit; Genuine First Aid Burn; Genuine First Aid Burn Antiseptic Pain Relief With Aloe; Genuine First Aid Industrial First Aid; Gigi Anesthetic Numbing; Gold Bond Medicated Pain and Itch Relief; Gold Bond Pain and Itch; Good Neighbor Pharmacy Aloe Vera; Good Neighbor Pharmacy Burn Relief Aloe Extra; Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces; Green Guard Derma-Caine; Green Guard Super Stat Blood Clotting First Aid; H-Releve Hemorrhoidal; H2Ocean Nothing Tattoo Glide And Soothing Balm; HAWAIIAN Tropic; HEM-EASY RELIEF Herbal Hemorrhoidal; HUMCO Mercuroclear; Harmony Numbing Cream; Hawaiian Tropic After Sun Après Soleil Sunburn Relief Soulagement Des Coups De Soleil; Healerz for Noses; HemAway; Hemorrhoid and Fissure Dr. Butler; Hot Cold Lidocaine With Menthol; Hot and Cold Cream with Lidocaine- RA Pain Relieving; Hot and Cold Lidocaine with Menthol Patch Pain Relief; Hot and Cold with Lidocaine Pain Relieving; Hot and Cold with Lidocaine-Careone Pain Relieving; Hot and Cold with Lidocaine-RA Pain Relieving; Hush Anesthetic; Hyaluronic Acid 60mg and Lidocaine 2% PF; Hydrocath Central Venous Catheter Kit; I.C.E. Lidocaine Gel - Gel Lidocaine; IV Infusion CPI; Icy Hot; Icy Hot Lidocaine Pain Relieving Cream Plus Menthol; Icy Hot with Lidocaine Pain Relieving; Instant Burn Relief Aloe Extra CVS; Instant Cool Skin Instant Relief. Sudden Results; Instillagel; Interarticular Joint Kit; Itch Relief Cream; Iwk-5; Jampocaine 2% Viscous Solution; Jampocaine 5%; Jamshidi Bone Marrow Biopsy Tray; Jamshidi Menghini Soft Tissue Biopsy Tray; Jelido; K-Mart SmartSense First Aid Contains 101 Pieces; KDS Lab Liquid Styptic; Keepan A; Kendra SKIN PROTECTION and PAIN RELIEF FOR HAIR REMOVAL; Kope Pain relief gel; Kroger Aloe Vera Pain Relieving; Kroger Burn Relief Aloe; Ky Duration for Men; LIDOCAINE HCl; Large ANSI First Aid Kit; Laryng O Jet Kit; Laryng-O-Jet; Leep RediKit; LenzaGel; LenzaPatch; LevigoLT; LexiLido; LiProZonePak; LidAll; Lidenza Patch; Lido Bdk; Lido Rx; Lido-Prilo Caine Pack; Lido-RX 4.1; LidoCream 10; LidoCream 4; LidoCream 5; LidoFLEX; LidoFLEX Elbow, Single Pouch; LidoPatch; LidoPatch Pain Relief; LidoPlus Pain Relief; LidoPlus Pain Relief Patch; LidoPro; LidoPro Patch; LidoSport Pain Relief; LidoSport Pain Relief Patch; LidoStat; LidoXib; Lidocaine; Lidocaine 0.2% In 5% Dextrose Inj; Lidocaine 2% and Epinephrine 1:100 000; Lidocaine 2% and Epinephrine 1:100,000; Lidocaine 2% and Epinephrine 1:100,000 Injection; Lidocaine 2% and Epinephrine 1:50 000; Lidocaine 2% and Epinephrine 1:50,000; Lidocaine 2.5% and Prilocaine 2.5% Cream; Lidocaine 4%; Lidocaine 4% Cream; Lidocaine 5%; Lidocaine HCl; Lidocaine HCl - Hydrocortisone Acetate; Lidocaine HCl - Hydrocortisone Acetate with Aloe; Lidocaine HCl 0.2% and Dextrose 5% Inj; Lidocaine HCl 0.4% and 5% Dextrose Inj; Lidocaine HCl 0.8% and 5% Dextrose Inj; Lidocaine HCl 3.88%; Lidocaine HCl Inj 1%; Lidocaine HCl Inj 10mg/ml USP; Lidocaine HCl Inj 20mg/ml; Lidocaine HCl Injection; Lidocaine HCl Injection USP 1% (50 Mg/5ml); Lidocaine HCl Injection USP 1% (50mg/5ml); Lidocaine HCl Injection With Preservative; Lidocaine HCl Jelly 2%; Lidocaine HCl and Dextrose 5% Inj USP; Lidocaine HCl and Hydrocortisone Acetate; Lidocaine Hydrochloride; Lidocaine Hydrochloride 0.5% and Epinephrine 1:200000 Injection USP; Lidocaine Hydrochloride 1% and Epinephrine 1:100 000 Injection USP; Lidocaine Hydrochloride 1.5% and Epinephrine 1:200000 Injection USP; Lidocaine Hydrochloride 1.5% and Epinephrine 1:200000 Injection USP Test Dose; Lidocaine Hydrochloride 2% and Epinephrine 1:100 000 Injection USP; Lidocaine Hydrochloride 2% and Epinephrine 1:200000 Injection USP; Lidocaine Hydrochloride Injection; Lidocaine Hydrochloride Injection USP; Lidocaine Hydrochloride Injection USP 0.5%; Lidocaine Hydrochloride Injection USP 1%; Lidocaine Hydrochloride Injection USP 2%; Lidocaine Hydrochloride Injection, USP 1%; Lidocaine Hydrochloride Solution; Lidocaine Hydrochloride Topical Solution USP; Lidocaine Hydrochloride Viscous; Lidocaine Hydrochloride and 5% Dextrose Injection USP; Lidocaine Hydrochloride and Dextrose; Lidocaine Hydrochloride and Epinephrine; Lidocaine Hydrochloride and Epinephrine Bitartrate; Lidocaine Hydrochloride and Hydrocortisone Acetate; Lidocaine Injection BP; Lidocaine Maximum Strength; Lidocaine Ointment USP; Lidocaine Ointment USP, 5%; Lidocaine Ont 5% Graham Flavored; Lidocaine Pain Relief Patch; Lidocaine Pain Relieving Creme; Lidocaine Patch; Lidocaine Plus Maximum Strength Pain Relieving Cream; Lidocaine Viscous; Lidocaine and Epinephrine Inj.usp 2% 1:100000; Lidocaine and Prilocaine; Lidocaine and Tetracaine; Lidocaine-Prilocaine-Cream Base; Lidocaine4; Lidocare 03; Lidocare Arm, Neck, Leg; Lidocare Mist; Lidocin; Lidocoll; Lidodan 4% Topical Solution; Lidodan Cream 4%; Lidodan Cream 5%; Lidodan Endotracheal Non-aerosol Spray; Lidodan Jelly 2%; Lidodan Jelly 2%(single Use Syringe); Lidodan Ointment 5%; Lidodan Viscous 2%; Lidoderm; Lidoderm 5; Lidomax 5; Lidomyxin; Lidonexe; Lidopac; Lidopatch; Lidopatch Pain Relief; Lidopin; Lidopril; Lidopril XR; Lidosporin Cream; Lidosporin Ear Drops; Lidothal Relief; Lidothol; Lidotrans 5 Pak; Lidovex; Lidovin; Lidozen; Lidozol; LifeStyles EPIC Male Genital Desensitizer; Lignospan Forte; Lignospan Speciale Inj; Lignospan Standard; Limencin; Liprotek; Lipsorex Plus; Lmx4; Lmx5; Lorenza Pain Relief Patch; Lumbar Puncture Tray 1%; Lumbar Puncture Tray 1% Pediatric/infant; Lyracaine Gel; MTX Topical Pain; Makesense First Aid; Male Genital Desensitizer Stud 100; Maxilene 4; Maxilene 5; Maximum strength Lidocaine Patch; Med Numb; Medi-First Burn; Medi-First First Aid Burn Cream; Medi-First Plus Burn Cream; Medi-Quik First Aid Antiseptic; Medi-derm / L With Lidocaine; Medi-derm / L With Lidocaine Rx; Medi-patch With Lidocaine; Medi-patch With Lidocaine Rx; Medi-quik First Aid Spray; Medi-quik First-aid Spray - Aer Top; Medi-sulting Topical Pain Relief; MediFirst Burn; MediNumb; Medolor Pak Lidocaine and Prilocaine Cream Kit; Meijer Aloe Gel; Meijer Burn Relief Aloe Vera Pain Relieving Gel; Meijer Pain Relief Patches; Mencaine; Menthocin Patch with Lidocaine - Strong; Mentholix; Mericaine; Miami Beach Burn Relief; Microcaine Topical Analgesic; Minims Lidocaine and Fluorescein; Mueller First Aid Antiseptic; Multi-lumen Central Venous Cathet Kit; Myelogram Tray 1%; NORTH Antiseptic First Aid; Naturally HL Extra Strength Bedsore Numbing; Naturally HL Extra Strength Burn Numbing; Naturally HL Extra Strength Hand Care; Naturally HL Extra Strength Hemorrhoid Numbing; Naturally HL Extra Strength Insect Bite Numbing; Naturally HL Extra Strength Numbing; Neo-bex Injectable; NeuroMed 7 Topical Pain Relief; NeuroMed AR; NeuroMed Topical Anesthetic 7; Neutrogena Anti-itch Moisturizer; No-AD Aloe Vera Gel 98% Pure; No-AD Sunburn Relief Gel; North Burn Jel; North Burn Relief; Nothing; NuLido; Numb 100; Numb 520; Numb Master; Numb Nuts; Numb Skin; Numb Zone; Number 5; Numbify Tropical Gold; Numbing Hemorrhoidal Label; Numbing Label; Numbs Up; Numpot Topical Anesthetic; Numquick Analgesic; Numquick Topical Analgesic; Numstick; Ocean Potion Instant Burn Relief Ice; Octocaine 100; Octocaine 100 Needleject Inj; Octocaine 50; Octocaine HCl 2% Epinephrine 1:100000; Octocaine HCl 2% Epinephrine 1:50000; Odynia-R Regular; Oraqix; Otizol HC Liq; Ozonol Antibiotic Plus - Ointment; Ozonol Antibiotic Plus Ont; Ozonol Antibiotics Plus; P-Care 100MX; P-Care X; PMS-lidocaine Viscous 2%; Pacing Catheter Introducer Kit Acp-001px; Pain Prescriptives 4; Pain Prescriptives 5; Pain Relief; Pain Relief CVS; Pain Relief Equate; Pain Relief Patch; Pain Relief Patches; Pain Relief Well at Walgreens; Pain Relieving Cleansing Spray; Pain Relieving Well at walgreens; Pain and Itch Relief 4% Lidocaine; Panama Jack Burn Relief Gel with Lidocaine; Paracentesis Tray W Boasberg Catheter Set; Paraid Burn; Percutaneous Sheath Introducer Kit Hl-09883; Percutaneous Sheath Introducer Tray; Permavan External Patch; Pharmacist Choice Pain Relief Patch; Pharmacist Choice TSX Transdermal Patch; PharmapureRx Lidocaine HCl 4.12%; PharmapureRx Menthotral; Pharmassist Soothenel Gel; Physician EZ Use Joint Tunnel and Trigger Kit; Planticin Advanced Topical Pain Relief; Pleura-seal Thoracentesis Kit; Pliaglis; Plum Smooth Plumb Numb Gelee; Plush anesthetics L; Point Relief LidoSpot; Polyderm Antibiotic Ointment; Polysporin Antibiotic Burn Cream; Polysporin Burn Formula Cream; Polysporin Cold Sore Ointment; Polysporin Complete; Polysporin Plus Pain Relief; Polysporin Plus Pain Relief Ear Drops; Polysporin for Kids; Polysporin for Stitches; Pomoda Dragon Pain Numbing; Pre-wax Pain Relief; Pre-wax Spray; Preattached Lta Kit; Predator; Premier Value Pain Relief Patches; Premium Lidocaine 5% Extra; Premium Scar Patch; Premjact; Premjact Male Desensitizer Pound International; Preparation H Rapid Relief; Prikaan; Prikaan Lite; Prilolid; ProCoMycin; ProStat Blood Clotting First Aid; Procicept L Lidocaine 4%; Prolayed; Prolida; Promescent; Provenza; Publix Burn Relief; Publix Burn Relief ALOE VERA; Puroxcin; Quality Choice Pain Relief Patches; Racestyptine Cord; Re-Lieved Lidocaine Patch; Ready America First Aid Outdoor- 107 Pieces; ReadySharp Anesthetics plus Dexamethasone; ReadySharp Anesthetics plus Ketorolac; ReadySharp Anesthetics plus MethylPrednisolone 80; ReadySharp Lidocaine; ReadySharp-A; ReadySharp-K; ReadySharp-P40; ReadySharp-P80; Recovery Numb; RectaSmoothe; RectiCare Complete; Recticare; Recticare Advanced; Rediburn Burn Gel Skin Protectant; Refill 3; Regenecare Ha; Regenecare Hydrogel; Relador Pak Plus; Relador Pak with Occlusive Dressing; Releevia LM Patch; Relyyks Patch; Remaxazon External Patch; Renovo Lido5; Renuu Patch; Res-Q Analgesic Topical Pain Relief; Res-Q Analgesic Topical Pain Relief Spray; Res-Q Topical Analgesic Soothing; Res-Q Topical Analgesic Soothing Gel; Ricora; Rite Aid Burn Relief; SYREN Intimate Relief Topical Pain Relief; Safetec Burn Gel; Safetec Burn Spray; Safetec Sting Relief; Salonpas LIDOCAINE PLUS; Salonpas LIDOCAINE Pain Relieving; Sanoba; Scadexe; Scar Patch; Scar Zone Burn Extra Strength Burn Relief Topical Analgesic and Antiseptic; Scar Zone Burn Gel; Scar Zone Burn Topical Analgesic and Antiseptic; Select Brand Burn Relief; Shave Zone; Silvera Pain Relief Patch; Simplicity Desensitizing; Simply Numb Endure; Single-shot Epidural Anesthesia Tray; Siterol; Skin Envy Soothing Cream; Skullduggery Pain Relief and Skin Protection for Tattoos; Small Cuts and Burns; SmartRx Gaba Kit; Smartshield After Sun; Solarcaine; Solarcaine First Aid Lidocaine Spray; Solarcaine Medicated First Aid Lotion; Solarcaine Medicated Lidocaine Gel; Solarcaine cool aloe; Sole Serum; Solmara; Solmate Burn Relief Gel; Sonacaine Topical Anesthetic With Menthol; Soothee Patch; Soothing Gel With Lidocaine; Sore Relief; Sore relief; Soulus Rp Rash and Pain; Spinal Anaesthesia Tray; Spinal Anesthesia Tray; Spinal Anesthesia Tray 1%; Stallion; Stama Pro; Standard ANSI First Aid; Sting Relief; Stud 100; Sun Burn Relief Cream; Sunburn Pain Reliever CVS; Sunburn Pain Reliever Well at Walgreens; Sunburn Relief; Sunburn Relief Gel; Suntone After Sun Burn Relief Gel with Lidocaine; Superior Pain and Itch Relief; Superior pain and itch relief; Swabplus Piercing Care Swabs; Swiss Navy Endurance Rx Pro; Swiss Navy EnduranceRx; Sx1 Medicated Post-Operative System; Synera; Synvexia; Synvexia TC; TLC Plus Anesthetic G; TLC Plus Anesthetic S; Tecnu First Aid; Terocin; Terrasil Cold Sore Treatment Max; Terrasil Itch, Rash and Pain Relief; Terrasil Itch, Rash and Pain Relief MAX; Thera Care Pain Therapy; Thoracentesis Tray 1%; Tiger delayspray; Top Safety First Aid Burn Cream; Topicaine 5; Topical Anesthetic Anorectal Cream Numb and Number; Tpr20; Tranzarel; Tribioticlc Lc Lc; Triple Antibiotic; Uber Numb; Uber Numb Topical Anesthetic; Ultimate Lidocaine Pain Relief Patch; Unburn; Unburn-gel 2.5%; Up and Up Pain Relieving Cleansing; VIVA Patch; Velma Pain Relief Patch; Veltrix; Venia Patch Premium Pain Patch; Venipuncture CPI; Venipuncture Px1; Vexa; Walg Aftrsn Burn Relief; Walgreens Aloe Vera Burn Relief Pain Relieving; Walgreens Aloe Vera Pain Relieving; Walgreens First Aid Antiseptic; Walgreens PAIN RELIEVING; Water-jel Burn Jel-2%; Watkins Burn Cream; Western Family Aloe Vera Moisturizing; Wound and Burn Care Refill Pack; X3 On The Go First Aid Bite Relief Spray; X3 On The Go First Aid Burn Relief Spray; X3 On-the-GO First Aid Burn Relief Spray; XeroBurn Burn Gel; Xolido; Xpacaine; Xylocaine; Xylocaine - Mpf 5% With Glucose 7.5%; Xylocaine 0.5%; Xylocaine 0.5% W Epinephrine 1:100000; Xylocaine 0.5% W Epinephrine 1:200000; Xylocaine 1%; Xylocaine 1% W Epinephrine 1:100000; Xylocaine 1% W Epinephrine 1:200000; Xylocaine 1.5%; Xylocaine 1.5% W Epinephrine 1:200000; Xylocaine 1.5% W Epinephrine 1:200000 Test Dose; Xylocaine 2%; Xylocaine 2% Epidural; Xylocaine 2% W Epinephrine 1:100000; Xylocaine 2% W Epinephrine 1:200000; Xylocaine 2% With Epinephrine 1:200000; Xylocaine 5% Spinal; Xylocaine Co2 Inj; Xylocaine Dental Lidocaine HCl 2% and Epinephrine 1:100,000; Xylocaine Dental Lidocaine Hydrochloride 2% and Epinephrine 1:50,000; Xylocaine Endotracheal; Xylocaine Jelly 2%; Xylocaine MPF; Xylocaine Mpf 1%; Xylocaine Mpf 1.5% With Epinephrine; Xylocaine Ointment 5%; Xylocaine Oral Spray; Xylocaine Topical 4%; Xylocaine Topical 5%; Xylocaine Viscous 2%; Xylocaine-MPF; Xylocaine-mpf, 2%; Xylocard; Xylocard One Gm Additive Unit 20% Inj; Xylonor - Aem Asp; Xylonor Gel; Xylonor Spray; Xyralid; Your Label Here Blood Clotting First Aid; Your Logo Here Antiseptic First Aid; Yowch Extra Strength for minor burns; Yowch extra strength for insect bites and stings; Yowch for insect bites and stings by Pain Balm; Yowch for minor burns by Pain Balm; Zcaine Fast Acting Anesthetic; Zensa; Zilactin-L; Zilactin-L Early Relief Cold Sore Liquid; Zims Lido Freeze; Zims Max Freeze; Zingo; biochemistry PAIN RELIEF FOOT ACTIVE; lidoForte Hemorrhoidal
+
+>  <SALTS>  (1) 
+Lidocaine hydrochloride; Lidocaine hydrochloride anhydrous
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00479; DB05291
+
+>  <SMILES>  (1) 
+CCN(CC)CC(=O)NC1=C(C)C=CC=C1C
+
+>  <SYNONYMS>  (1) 
+2-(Diethylamino)-2',6'-acetoxylidide; 2-(Diethylamino)-N-(2,6-dimethylphenyl)acetamide; alpha-diethylamino-2,6-dimethylacetanilide; Lignocaine; α-diethylamino-2,6-dimethylacetanilide
+
+$$$$

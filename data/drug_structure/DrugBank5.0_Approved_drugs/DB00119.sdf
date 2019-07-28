@@ -1,0 +1,136 @@
+
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    2.0928    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2  4  2  0
+  3  6  2  0
+  4  5  1  0
+  4  6  1  0
+  1  7  1  0
+  5  8  1  0
+  5  9  1  0
+  5 10  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.38
+
+>  <ALOGPS_LOGS>  (1) 
+0.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.34e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00119
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00119
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+88.016043994
+
+>  <FORMULA>  (1) 
+C3H4O3
+
+>  <GENERIC_NAME>  (1) 
+Pyruvic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)
+
+>  <INCHI_KEY>  (1) 
+LCTONWCANYUPML-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.3105058729791725
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-oxopropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.06587395333333337
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.93012330309767
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-9.583170381128017
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.37
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+17.9897
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pyruvic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+88.0621
+
+>  <PRODUCTS>  (1) 
+Rejuvesol
+
+>  <SALTS>  (1) 
+Calcium pyruvate; Sodium pyruvate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00050; DB11194
+
+>  <SMILES>  (1) 
+CC(=O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+2-ketopropionic acid; 2-oxopropanoic acid; 2-Oxopropansäure; 2-Oxopropionsäure; a-Ketopropionic acid; Acetylformic acid; acide pyruvique; alpha-ketopropionic acid; Brenztraubensäure; BTS; Pyroracemic acid; α-ketopropionic acid; α-Oxopropionsäure
+
+$$$$

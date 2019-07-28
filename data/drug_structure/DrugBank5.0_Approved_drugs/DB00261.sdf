@@ -1,0 +1,165 @@
+
+     RDKit          2D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    4.5232   -0.7732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5232    0.0454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0756    0.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7862   -1.1938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0756   -0.7732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7862    0.4718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3593    0.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6600    0.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3593   -1.1825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6600   -0.7732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3593    1.2734    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.9437    0.4547    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.3079    0.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3079   -1.0281    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7928   -0.3607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6178   -0.3607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  5  2  0
+  4  1  2  0
+  5  4  1  0
+  6  2  1  0
+  7  3  1  0
+  8 10  1  0
+  9  5  1  0
+ 10  9  2  0
+ 11  7  1  0
+ 12  8  1  0
+  6  3  1  0
+  8  7  2  0
+  1 14  1  0
+  2  1  1  0
+ 13  2  1  0
+ 14 15  1  0
+ 13 15  1  0
+ 15 16  2  0
+  6 17  1  0
+  6 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 13 21  1  0
+ 13 22  1  0
+ 14 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.95
+
+>  <ALOGPS_LOGS>  (1) 
+-2.96
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.79e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00261
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00261
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+254.996617275
+
+>  <FORMULA>  (1) 
+C10H7Cl2N3O
+
+>  <GENERIC_NAME>  (1) 
+Anagrelide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H7Cl2N3O/c11-6-1-2-7-5(9(6)12)3-15-4-8(16)14-10(15)13-7/h1-2H,3-4H2,(H,13,14,16)
+
+>  <INCHI_KEY>  (1) 
+OTBXOEAOVRKTNQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Xagrid
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.610620596496467
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6,7-dichloro-1H,2H,3H,5H-imidazolidino[2,1-b]quinazolin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+1.9439308199999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.548791740536455
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.6198612137806108
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+44.7
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.250600000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+anagrelide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+256.088
+
+>  <PRODUCTS>  (1) 
+Agrylin; Anagrelide; Anagrelide Hydrochloride; Dom-anagrelide; Mylan-anagrelide; PHL-anagrelide; PMS-anagrelide; Sandoz Anagrelide; Xagrid
+
+>  <SALTS>  (1) 
+Anagrelide Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00798
+
+>  <SMILES>  (1) 
+ClC1=CC=C2N=C3NC(=O)CN3CC2=C1Cl
+
+$$$$

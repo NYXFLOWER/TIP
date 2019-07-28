@@ -1,0 +1,174 @@
+9835049
+     RDKit          2D
+
+ 28 29  0  0  1  0  0  0  0  0999 V2000
+    9.2605   -1.0149    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4355   -1.0149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9509    0.9089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1360    1.8149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0855   -1.0149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2605   -1.8399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2605   -0.1899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7251    1.1224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0230   -0.3005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1800    0.7531    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5116    0.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1174    1.9331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2451   -0.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5777    0.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4914   -0.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2365    0.4964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9645    1.0080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  5  1  0
+  1  6  2  0
+  1  7  2  0
+  2  9  1  0
+  3 16  2  0
+  4 17  2  0
+  8 12  1  0
+  8 14  1  0
+  8 16  1  0
+  9 11  1  0
+  9 16  1  0
+ 10 17  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 13 15  1  0
+ 14 15  1  0
+ 14 17  1  1
+  5 18  1  0
+ 10 19  1  0
+ 10 20  1  0
+ 11 21  1  1
+ 12 22  1  0
+ 12 23  1  0
+ 13 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+ 15 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.79
+
+>  <ALOGPS_LOGS>  (1) 
+-1.25
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.50e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09060
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09060
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+265.03685626
+
+>  <FORMULA>  (1) 
+C7H11N3O6S
+
+>  <GENERIC_NAME>  (1) 
+Avibactam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H11N3O6S/c8-6(11)5-2-1-4-3-9(5)7(12)10(4)16-17(13,14)15/h4-5H,1-3H2,(H2,8,11)(H,13,14,15)/t4-,5+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+NDCUAPJVLWFHHB-UHNVWZDZSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+28
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.38817403004081
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+[(2S,5R)-2-carbamoyl-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl]oxidanesulfonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.606539514926804
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+15.051078181429066
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-1.984601279080552
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.9098115894157215
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+130.24
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.48340000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+[(2S,5R)-2-carbamoyl-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl]oxidanesulfonic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+265.24
+
+>  <PRODUCTS>  (1) 
+Avycaz; Zavicefta Solution for Infusion
+
+>  <SALTS>  (1) 
+Avibactam sodium
+
+>  <SMILES>  (1) 
+[H]OS(=O)(=O)ON1C(=O)N2C([H])([H])[C@@]1([H])C([H])([H])C([H])([H])[C@@]2([H])C(=O)N([H])[H]
+
+$$$$

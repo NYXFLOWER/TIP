@@ -1,0 +1,275 @@
+
+     RDKit          2D
+
+ 76 79  0  0  1  0  0  0  0  0999 V2000
+   16.6846  -18.7035    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6633  -15.6834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2654  -15.3862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4262  -13.7302    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8678  -15.0891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4024  -13.5528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2464  -12.7127    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0170  -14.9185    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8347  -14.8763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4370  -14.5793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7871  -13.4664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2326  -15.1734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2216  -14.3243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6194  -14.6214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8239  -14.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1228  -12.7127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9666  -13.5528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0392  -14.2820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5819  -13.4664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2721  -14.1339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6846  -15.4035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6846  -17.8785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7313  -12.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0971  -14.1339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3520  -14.9185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6846  -16.2284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1367  -15.1734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9700  -17.4659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3989  -17.4659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5518  -12.1316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3958  -11.2916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9700  -16.6410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3989  -16.6410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7497  -14.6214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3081  -15.9803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0367  -11.4640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8807  -10.6242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0928  -16.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5343  -14.8763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7012  -10.7104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7059  -15.6834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0
+  9  2  1  6
+ 10  3  1  6
+  4 18  1  0
+  5 18  2  0
+  6 19  2  0
+  7 19  1  0
+  7 23  1  0
+  8 12  1  0
+  8 20  1  0
+  8 21  1  0
+  9 13  1  0
+  9 14  1  0
+ 10 13  1  0
+ 10 15  1  0
+ 11 16  1  0
+ 11 17  1  0
+ 11 20  1  0
+ 12 14  1  0
+ 15 18  1  0
+ 19 24  1  0
+ 20 24  2  0
+ 21 25  2  0
+ 21 26  1  0
+ 22 28  2  0
+ 22 29  1  0
+ 23 30  2  0
+ 23 31  1  0
+ 24 25  1  0
+ 25 27  1  0
+ 26 32  2  0
+ 26 33  1  0
+ 27 34  2  0
+ 27 35  1  0
+ 28 32  1  0
+ 29 33  2  0
+ 30 36  1  0
+ 31 37  2  0
+ 34 39  1  0
+ 35 38  2  0
+ 36 40  2  0
+ 37 40  1  0
+ 38 41  1  0
+ 39 41  2  0
+  2 42  1  0
+  3 43  1  0
+  4 44  1  0
+  7 45  1  0
+  9 46  1  0
+ 10 47  1  0
+ 11 48  1  0
+ 12 49  1  0
+ 12 50  1  0
+ 13 51  1  0
+ 13 52  1  0
+ 14 53  1  0
+ 14 54  1  0
+ 15 55  1  0
+ 15 56  1  0
+ 16 57  1  0
+ 16 58  1  0
+ 16 59  1  0
+ 17 60  1  0
+ 17 61  1  0
+ 17 62  1  0
+ 28 63  1  0
+ 29 64  1  0
+ 30 65  1  0
+ 31 66  1  0
+ 32 67  1  0
+ 33 68  1  0
+ 34 69  1  0
+ 35 70  1  0
+ 36 71  1  0
+ 37 72  1  0
+ 38 73  1  0
+ 39 74  1  0
+ 40 75  1  0
+ 41 76  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.24
+
+>  <ALOGPS_LOGS>  (1) 
+-5.95
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.30e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01076
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01076
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+558.253000445
+
+>  <FORMULA>  (1) 
+C33H35FN2O5
+
+>  <GENERIC_NAME>  (1) 
+Atorvastatin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C33H35FN2O5/c1-21(2)31-30(33(41)35-25-11-7-4-8-12-25)29(22-9-5-3-6-10-22)32(23-13-15-24(34)16-14-23)36(31)18-17-26(37)19-27(38)20-28(39)40/h3-16,21,26-27,37-38H,17-20H2,1-2H3,(H,35,41)(H,39,40)/t26-,27-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+XUKUURHRXDUEBC-KAYWLYCHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Atogal; Cardyl; Faboxim; Hipolixan; Lipotropic; Liprimar; Lowden; Normalip; Sincol; Sortis; Torvacard; Torvast; Totalip; Tulip; Vastina; Xanator; Xarator; Zurinel
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+59.38823976223814
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-(propan-2-yl)-1H-pyrrol-1-yl]-3,5-dihydroxyheptanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+5.387146767000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+11.824462199114915
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.3280532591005985
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.7438283586756986
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+111.78999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+158.19839999999994
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+12
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+atorvastatin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+558.6398
+
+>  <PRODUCTS>  (1) 
+Ach-atorvastatin Calcium; Amlodipine Besylate and Atorvastatin Calcium; Amlodipine besylate and Atorvastatin calcium; Amlodipine besylate and atorvastatin calcium; Amlodipine besylate/atorvastatin calcium; Apo-amlodipine-atorvastatin; Apo-atorvastatin; Atorvastatin; Atorvastatin Calcium; Atorvastatin-10; Atorvastatin-20; Atorvastatin-40; Atorvastatin-80; Auro-atorvastatin; Ava-atorvastatin; Caduet; Dom-atorvastatin; Gd-amlodipine/atorvastatin; Gd-atorvastatin; Jamp-atorvastatin; Lipitor; Liptruzet; M-atorvastatin; Mar-atorvastatin; Mylan-amlodipine/atorvastatin; Mylan-atorvastatin; Novo-atorvastatin; Ntp-atorvastatin; PMS-amlodipine-atorvastatin; PMS-atorvastatin; Pendo-amlodipine-atorvastatin; Q-gen Atorvastatin; Ran-atorvastatin; Ratio-atorvastatin; Rbx-atorvastatin; Reddy-atorvastatin; Riva-atorvastatin; Sandoz Atorvastatin; Teva-atorvastatin
+
+>  <SALTS>  (1) 
+Atorvastatin Calcium; Atorvastatin calcium trihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00055
+
+>  <SMILES>  (1) 
+CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(=C(N1CC[C@@H](O)C[C@@H](O)CC(O)=O)C1=CC=C(F)C=C1)C1=CC=CC=C1
+
+$$$$

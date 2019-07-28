@@ -1,0 +1,182 @@
+491
+     RDKit          2D
+
+ 31 31  0  0  1  0  0  0  0  0999 V2000
+    4.9509   -1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  6
+  9  2  1  6
+ 10  3  1  1
+  4 12  1  0
+  5 14  1  0
+  6  7  1  0
+  6 11  1  0
+  6 13  1  0
+  7  8  1  0
+  7 12  1  1
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 13 14  1  0
+  1 15  1  0
+  2 16  1  0
+  3 17  1  0
+  4 18  1  0
+  5 19  1  0
+  7 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 14 30  1  0
+ 14 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.30
+
+>  <ALOGPS_LOGS>  (1) 
+0.47
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.10e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00491
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00491
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+207.110672659
+
+>  <FORMULA>  (1) 
+C8H17NO5
+
+>  <GENERIC_NAME>  (1) 
+Miglitol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H17NO5/c10-2-1-9-3-6(12)8(14)7(13)5(9)4-11/h5-8,10-14H,1-4H2/t5-,6+,7-,8-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+IBAQFPQHRJAVAV-ULAWRXDQSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Diaban; Diamig; Diaset; Diastabol; Elitox; Euglitol; Glycet; Laiping; Migbose; Miglit; Mignar; Migtor; Misobit; Plumarol; Seibule
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.81348444995806
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3R,4R,5S)-1-(2-hydroxyethyl)-2-(hydroxymethyl)piperidine-3,4,5-triol
+
+>  <JCHEM_LOGP>  (1) 
+-3.1927972576666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.021652065352495
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.901322324362273
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.597759811038377
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+104.39
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+48.16140000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+miglitol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+207.2243
+
+>  <PRODUCTS>  (1) 
+Glyset; Miglitol
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01117
+
+>  <SMILES>  (1) 
+OCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO
+
+>  <SYNONYMS>  (1) 
+Miglitol; Miglitolum
+
+$$$$

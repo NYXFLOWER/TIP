@@ -1,0 +1,168 @@
+648
+     RDKit          2D
+
+ 28 29  0  0  1  0  0  0  0  0999 V2000
+    2.3645    1.6500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  8  1  0
+  3 11  1  0
+  4 17  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  1  0
+  6  9  2  0
+  6 10  1  0
+  7 11  2  0
+  7 12  1  0
+  9 13  1  0
+ 10 14  2  0
+ 11 15  1  0
+ 12 16  2  0
+ 13 17  2  0
+ 14 17  1  0
+ 15 18  2  0
+ 16 18  1  0
+  5 19  1  0
+  8 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 12 23  1  0
+ 13 24  1  0
+ 14 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+ 18 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+6.08
+
+>  <ALOGPS_LOGS>  (1) 
+-7.53
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.42e-06 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00648
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00648
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+317.953661148
+
+>  <FORMULA>  (1) 
+C14H10Cl4
+
+>  <GENERIC_NAME>  (1) 
+Mitotane
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H10Cl4/c15-10-7-5-9(6-8-10)13(14(17)18)11-3-1-2-4-12(11)16/h1-8,13-14H
+
+>  <INCHI_KEY>  (1) 
+JWBOIMRXGHLCPP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Lisodren; Opeprim
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.934789412181047
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-chloro-4-[2,2-dichloro-1-(2-chlorophenyl)ethyl]benzene
+
+>  <JCHEM_LOGP>  (1) 
+6.110364791333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+79.96540000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mitotane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+320.041
+
+>  <PRODUCTS>  (1) 
+Lysodren
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00494
+
+>  <SMILES>  (1) 
+ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=CC=C1Cl
+
+>  <SYNONYMS>  (1) 
+Mitotan; Mitotane; Mitotano; Mitotanum; Piprine-DDD, O-
+
+$$$$

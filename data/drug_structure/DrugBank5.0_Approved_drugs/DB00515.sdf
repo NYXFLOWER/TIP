@@ -1,0 +1,122 @@
+
+     RDKit          2D
+
+  9  8  0  0  0  0  0  0  0  0999 V2000
+    0.5834    0.5834    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5834   -0.5834    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Pt  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834   -0.5834    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834    0.5834    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  3  2  1  0
+  3  4  1  0
+  3  5  1  0
+  4  6  1  0
+  4  7  1  0
+  5  8  1  0
+  5  9  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00515
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00515
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+296.939928001
+
+>  <FORMULA>  (1) 
+Cl2H4N2Pt
+
+>  <GENERIC_NAME>  (1) 
+Cisplatin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2ClH.2H2N.Pt/h2*1H;2*1H2;/q;;2*-1;+4/p-2
+
+>  <INCHI_KEY>  (1) 
+DQLATGHUWYMOKM-UHFFFAOYSA-L
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Abiplatin; Cisplatyl; Platidiam; Platin; Platinol-AQ
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.307110976312632
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dichloroplatinumdiamine
+
+>  <JCHEM_LOGP>  (1) 
+0.04139999999999977
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.061191028666678
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.04
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+22.8408
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+diamminedichloroplatinum
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+298.035
+
+>  <PRODUCTS>  (1) 
+CISplatin; Cisplatin; Cisplatin Inj 0.5mg/ml; Cisplatin Inj 1mg/ml; Cisplatin Injection; Cisplatin Injection BP; Cisplatin Injection, BP; Cisplatin Injection, Mylan Std.; PMS-cisplatin; Platinol; Platinol AQ Inj 1mg/ml; Platinol-AQ
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00359
+
+>  <SMILES>  (1) 
+N[Pt](N)(Cl)Cl
+
+>  <SYNONYMS>  (1) 
+CDDP; Cis-DDP; cis-diamminedichloroplatinum(II)
+
+$$$$

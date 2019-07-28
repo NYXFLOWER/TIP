@@ -1,0 +1,171 @@
+1021
+     RDKit          2D
+
+ 28 29  0  0  1  0  0  0  0  0999 V2000
+    2.3641    1.7106    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    0.4732    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.7049    0.9057    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -0.7641    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7049   -0.7840    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2053   -1.4784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3804   -1.4784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1200   -0.0712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2896   -1.4968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -0.3517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    0.8857    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4176   -1.1991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    0.4732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073   -0.3517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073    0.4732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2446   -0.7926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9921   -0.3689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    0.8857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2446    0.9143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9921    0.4904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0
+  2 18  1  0
+  3 20  1  0
+  4  6  2  0
+  4  7  2  0
+  4 10  1  0
+  4 14  1  0
+  5  8  2  0
+  5  9  2  0
+  5 12  1  0
+  5 17  1  0
+ 10 13  1  0
+ 11 13  1  0
+ 11 15  1  0
+ 13 18  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 15 19  1  0
+ 16 17  2  0
+ 17 20  1  0
+ 19 20  2  0
+ 10 21  1  0
+ 11 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+ 13 25  1  0
+ 16 26  1  0
+ 18 27  1  0
+ 19 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.86
+
+>  <ALOGPS_LOGS>  (1) 
+-2.96
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.15e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01021
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01021
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+378.90218026
+
+>  <FORMULA>  (1) 
+C8H8Cl3N3O4S2
+
+>  <GENERIC_NAME>  (1) 
+Trichlormethiazide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H8Cl3N3O4S2/c9-3-1-4-6(2-5(3)19(12,15)16)20(17,18)14-8(13-4)7(10)11/h1-2,7-8,13-14H,(H2,12,15,16)
+
+>  <INCHI_KEY>  (1) 
+LMJSLTNSBFUCMU-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Anistadin; Carvacron; Diu-Hydrin; Diurese; Fluitran; Kubacron; Metahydrin; Naqua
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.970887949352836
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-chloro-3-(dichloromethyl)-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+0.9733494586666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.80221331927889
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.322179814553696
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.055106429314077
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+118.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+77.4351
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+trichlormethiazide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+380.656
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00031
+
+>  <SMILES>  (1) 
+NS(=O)(=O)C1=C(Cl)C=C2NC(NS(=O)(=O)C2=C1)C(Cl)Cl
+
+$$$$

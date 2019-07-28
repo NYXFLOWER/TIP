@@ -1,0 +1,198 @@
+
+     RDKit          2D
+
+ 38 37  0  0  1  0  0  0  0  0999 V2000
+    9.6691   -8.1682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010   -8.5711    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1080   -9.8373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010   -6.9211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8103   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3789   -8.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2493   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9400   -8.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8103   -7.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3789   -9.4152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0621   -8.5711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1080   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3522   -8.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8227   -8.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  1
+  8  1  1  0
+  7  2  1  0
+  5  2  1  6
+ 10  3  1  0
+  9  4  1  0
+  5  9  1  0
+ 11  5  1  0
+  6 10  1  0
+ 12  6  1  0
+  8  7  1  0
+ 13 11  1  0
+ 12 14  1  0
+  1 15  1  0
+  2 16  1  0
+  3 17  1  0
+  4 18  1  0
+  5 19  1  0
+  6 20  1  0
+  7 21  1  0
+  7 22  1  0
+  8 23  1  0
+  8 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 14 37  1  0
+ 14 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.12
+
+>  <ALOGPS_LOGS>  (1) 
+-1.43
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.58e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00330
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00330
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+204.183778022
+
+>  <FORMULA>  (1) 
+C10H24N2O2
+
+>  <GENERIC_NAME>  (1) 
+Ethambutol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H24N2O2/c1-3-9(7-13)11-5-6-12-10(4-2)8-14/h9-14H,3-8H2,1-2H3/t9-,10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+AEUTYOVWOVBAKS-UWVGGRQHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Etibi; Tibutol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.46924534542113
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-[(2-{[(2S)-1-hydroxybutan-2-yl]amino}ethyl)amino]butan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+-0.059291071333333153
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+15.421967964187893
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.819909118674012
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.551704261347783
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+64.52
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+57.888000000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethambutol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+204.3098
+
+>  <PRODUCTS>  (1) 
+Ethambutol; Ethambutol Hydrochloride; Etibi Tab 100mg; Etibi Tab 400mg; Myambutol; Myambutol Tab 100mg; Myambutol Tab 400mg; Myambutol Tablets  -  400 mg
+
+>  <SALTS>  (1) 
+Ethambutol Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00957
+
+>  <SMILES>  (1) 
+CC[C@@H](CO)NCCN[C@@H](CC)CO
+
+>  <SYNONYMS>  (1) 
+(+)-2,2'-(ethylenediimino)di-1-butanol; (+)-ethambutol; (+)-S,S-ethambutol; EMB; Etambutol; Etambutolo; Ethambutolum; S,S-Ethambutol
+
+$$$$

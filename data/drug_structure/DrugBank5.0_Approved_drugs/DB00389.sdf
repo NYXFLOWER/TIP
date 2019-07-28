@@ -1,0 +1,155 @@
+389
+     RDKit          2D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    4.5311    0.4990    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    1.5386    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2690    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465    0.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4115    0.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6666    1.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764    2.2060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.7935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  2 10  1  0
+  2 11  1  0
+  3 10  2  0
+  4  6  1  0
+  4  8  1  0
+  4  9  1  0
+  5  6  1  0
+  5  7  1  0
+  5 10  1  0
+  7  8  2  0
+ 11 12  1  0
+  7 13  1  0
+  8 14  1  0
+  9 15  1  0
+  9 16  1  0
+  9 17  1  0
+ 11 18  1  0
+ 11 19  1  0
+ 12 20  1  0
+ 12 21  1  0
+ 12 22  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.78
+
+>  <ALOGPS_LOGS>  (1) 
+-1.77
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.14e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00389
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00389
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+186.046298264
+
+>  <FORMULA>  (1) 
+C7H10N2O2S
+
+>  <GENERIC_NAME>  (1) 
+Carbimazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H10N2O2S/c1-3-11-7(10)9-5-4-8(2)6(9)12/h4-5H,3H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+CFOYWRHIYXMDOT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Camen; Carbimazol; Carbinom; Carbizol; Neomercazole; Neomerdin; Newmazole; Thyrocab; Thyrostat; Tyrazol; Upha Carbimazole
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.706131643135368
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl 3-methyl-2-sulfanylidene-2,3-dihydro-1H-imidazole-1-carboxylate
+
+>  <JCHEM_LOGP>  (1) 
+1.3485111993333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9999999999999996
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.78
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.170300000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+carbimazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+186.232
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00503
+
+>  <SMILES>  (1) 
+CCOC(=O)N1C=CN(C)C1=S
+
+>  <SYNONYMS>  (1) 
+1H-Imidazole-1-carboxylic acid, 2,3-dihydro-3-methyl-2-thioxo-, ethyl ester  Ethyl 3-methyl-2-thioimidazoline-1-carboxylate; Athyromazole; Carbethoxymethimazole; Carbimazol; Carbimazolo; Carbimazolum; Carbinazole; Ethyl 3-methyl-2-thioimidazoline-1-carboxylate
+
+$$$$

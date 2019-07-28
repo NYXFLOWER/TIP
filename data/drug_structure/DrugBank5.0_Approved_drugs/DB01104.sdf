@@ -1,0 +1,193 @@
+1104
+     RDKit          2D
+
+ 37 39  0  0  1  0  0  0  0  0999 V2000
+    1.6498   -2.2685    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -3.0934    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    2.6809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    1.8561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    1.4436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    1.4436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5304    0.1776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5304    1.8847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2778    0.6015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2778    1.4607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    3.0934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641   -1.8561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -1.8561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -2.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0
+  2 20  1  0
+  6  3  1  1
+  3 17  1  0
+  4  5  1  0
+  4  8  1  0
+  4 10  1  6
+  5  7  1  0
+  6  7  1  0
+  6  9  1  0
+  8  9  2  0
+  8 11  1  0
+  9 12  1  0
+ 10 13  2  0
+ 10 14  1  0
+ 11 15  2  0
+ 12 16  2  0
+ 13 18  1  0
+ 14 19  2  0
+ 15 16  1  0
+ 18 20  2  0
+ 19 20  1  0
+  3 21  1  0
+  4 22  1  0
+  5 23  1  0
+  5 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 15 32  1  0
+ 16 33  1  0
+ 17 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 19 37  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.06
+
+>  <ALOGPS_LOGS>  (1) 
+-6.32
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.45e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01104
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01104
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+305.073804963
+
+>  <FORMULA>  (1) 
+C17H17Cl2N
+
+>  <GENERIC_NAME>  (1) 
+Sertraline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H17Cl2N/c1-20-17-9-7-12(13-4-2-3-5-14(13)17)11-6-8-15(18)16(19)10-11/h2-6,8,10,12,17,20H,7,9H2,1H3/t12-,17-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+VGKDLMBJGBXTGI-SJCJKPOMSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Lustral
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.442850025091104
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine
+
+>  <JCHEM_LOGP>  (1) 
+5.1492999736666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.853307918944921
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.03
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+85.741
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sertraline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+306.23
+
+>  <PRODUCTS>  (1) 
+Act Sertraline; Apo-sertraline; Auro-sertraline; Bio-sertraline; Dom-sertraline; Gd-sertraline; Ipg-sertraline; Jamp-sertraline; Mar-sertraline; Mint-sertraline; Mylan-sertraline; Nu-sertraline Capsules; PHL-sertraline; PMS-sertraline; Priva-sertraline; Q-sertraline; Ran-sertraline; Ratio-sertraline; Riva-sertraline; SERTRAline Hydrochloride; Sandoz Sertraline; Sertraline; Sertraline Hydrochloride; Sertraline Hydrochloride Tablets; Sertraline hydrochloride; Sertraline-100; Sertraline-25; Sertraline-50; Teva-sertraline; Van-sertraline; Zoloft; Zoloft Cap 100mg; Zoloft Cap 50mg
+
+>  <SALTS>  (1) 
+Sertraline hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00175; DB08567
+
+>  <SMILES>  (1) 
+CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+(+)-Sertraline; (1S-cis)-1,2,3,4-tetrahydro-4-(3,4-dichlorophenyl)-N-methyl-1-naphthalenamine; (1S,4S)-sertraline; cis-(+)-sertraline; Sertralina; Sertralinum
+
+$$$$

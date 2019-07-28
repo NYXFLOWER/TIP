@@ -1,0 +1,157 @@
+117
+     RDKit          2D
+
+ 20 20  0  0  1  0  0  0  0  0999 V2000
+    5.7803    0.3693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3388   -0.9898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3174   -0.7099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2111    0.8791    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049    0.5597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695   -0.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3826    0.0721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9849   -0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1672   -0.1828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7299    0.5597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  3  8  1  0
+  3 11  1  0
+  7  4  1  6
+  5 10  1  0
+  5 11  2  0
+  6  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  2  0
+  1 12  1  0
+  3 13  1  0
+  4 14  1  0
+  4 15  1  0
+  6 16  1  0
+  6 17  1  0
+  7 18  1  0
+ 10 19  1  0
+ 11 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.09
+
+>  <ALOGPS_LOGS>  (1) 
+-0.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.20e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00117
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00117
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+155.069476547
+
+>  <FORMULA>  (1) 
+C6H9N3O2
+
+>  <GENERIC_NAME>  (1) 
+Histidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)/t5-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+HNDVDQJCIGZPNO-YFKPBYRVSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.670259477860855
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-(1H-imidazol-5-yl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.6160224799542067
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.941172308417478
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.849972676704367
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.437137464922305
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+92
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.059
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-histidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+155.1546
+
+>  <PRODUCTS>  (1) 
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; Aminosyn; Aminosyn 10%; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; FreAmine HBC; FreAmine III; HepatAmine; NephrAmine; Novamine; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; ProSol; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; Renamin (amino Acids) Injection; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; Trepoxicam-7.5; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00030
+
+>  <SMILES>  (1) 
+N[C@@H](CC1=CN=CN1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(S)-4-(2-Amino-2-carboxyethyl)imidazole; (S)-a-Amino-1H-imidazole-4-propanoic acid; (S)-alpha-amino-1H-Imidazole-4-propanoic acid; (S)-alpha-Amino-1H-imidazole-4-propionic acid; (S)-α-amino-1H-Imidazole-4-propanoic acid; HIS; Histidina; L-(−)-histidine; L-Histidin; L-Histidine
+
+$$$$

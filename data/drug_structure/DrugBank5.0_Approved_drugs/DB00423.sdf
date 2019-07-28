@@ -1,0 +1,184 @@
+423
+     RDKit          2D
+
+ 32 32  0  0  1  0  0  0  0  0999 V2000
+    3.7935   -0.7466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.7284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.5717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    1.7284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.9659    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -3.2217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 10  1  0
+  2  7  1  0
+  3  9  1  0
+  3 16  1  0
+  4 11  1  0
+  4 17  1  0
+  5 16  2  0
+  6 16  1  0
+  7  8  1  0
+  7  9  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 13 15  2  0
+ 14 15  1  0
+  2 18  1  0
+  6 19  1  0
+  6 20  1  0
+  7 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 17 30  1  0
+ 17 31  1  0
+ 17 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.63
+
+>  <ALOGPS_LOGS>  (1) 
+-1.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.21e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00423
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00423
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+241.095022595
+
+>  <FORMULA>  (1) 
+C11H15NO5
+
+>  <GENERIC_NAME>  (1) 
+Methocarbamol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H15NO5/c1-15-9-4-2-3-5-10(9)16-6-8(13)7-17-11(12)14/h2-5,8,13H,6-7H2,1H3,(H2,12,14)
+
+>  <INCHI_KEY>  (1) 
+GNXFOGHNGIVQEH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Bolaxin; Carbaflex; Delaxin; DoloVisan; Fubaxin; Lumirelax; Metocarbamol; Mioflex; Miorel; Musxan; Ortoton; Rebamol; Robaxin-750; Robinax; Sinaxar; Taspan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.275226498817677
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate
+
+>  <JCHEM_LOGP>  (1) 
+0.4450462073333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+14.81327126592846
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.595917919817158
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.3962357043964646
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+91.01
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.067400000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+methocarbamol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+241.2405
+
+>  <PRODUCTS>  (1) 
+A.S.A. With Methocarbamol Night-time Extra Strength; Acetaminophen 325mg + Methocarbamol 400mg Caplets; Acetaminophen 500mg + Methocarbamol 400mg Extra Strength Caplets; Advil Back Pain; Analgesic and Muscle Relaxant; Analgesic and Muscle Relaxant Caplets; Aspirin Backache; Aspirin Night-time; Axacet-C1/8; Axisal-C1/8; Axum; Dodd's Back-ease Muscle Spasm and Back Pain Relief; Dodd's Extra Strength Back-ease; Douleurs Musculaires Et Les Courbatures Extra Fort/muscle and Back Pain Relief Extra Strength; Extra Strength Aspirin Backache; Extra Strength Back Pain; Extra Strength Body Pain Night; Extra Strength Muscle & Back Pain Asa 500 Mg Methocarbamol 400 Mg & Acetylsalicylic Acid 500 mg; Extra Strength Muscle & Back Pain Relief; Extra Strength Muscle & Back Pain Relief With Asa; Extra Strength Tylenol Back Pain; Extra Strength Tylenol Body Pain Night; Ibuprofen+methocarbamol Caplets; Methocarbamol; Methocarbamol Inj 100mg/ml; Methocarbamol Omega; Methoxacet; Methoxacet Extra Strength; Methoxacet-C 1/8; Methoxisal; Methoxisal Extra Strength; Methoxisal-C 1/2; Methoxisal-C 1/4; Methoxisal-C 1/8; Midol Night-time; Motrin Platinum Muscle and Body; Muscle & Back Pain Asa 325 Mg Methocarbamol 400 Mg & Acetylsalicylic Acid 325 mg; Muscle & Back Pain Relief; Muscle & Back Pain Relief - 8; Muscle & Back Pain Relief Caplets; Muscle & Back Pain Relief Extra Strength; Muscle & Back Pain Relief With Ibuprofen; Muscle & Back Pain Relief-8; Muscle Relaxant and Analgesic; Muscle Relaxant and Analgesic Caplets; Muscle Relaxant and Back Pain Relief Extra Strength Tablets; Muscle Relaxant and Back Pain Relief Regular Strength Tablets; Muscle and Back Pain Platinum Relief; Muscle and Back Pain Relief; Muscle and Back Pain Relief - 8 Tablets; Muscle and Back Pain Relief Caplets; Muscle and Back Pain Relief Extra Strength; Muscle and Back Pain Relief Regular Strength Tablets; Muscle and Back Pain Relief With Asa; Muscle and Back Pain Relief With Asa Extra Strength; Muscle and Back Pain Relief-8; Nighttime Body Pain; PMS-methocarbamol Inj 100mg/ml; Platinum Muscle and Back Pain Relief; Regular Strength Analgesic & Muscle Relaxant Caplets; Regular Strength Tylenol Back Pain; Regular Strength Tylenol Body Pain Night; Relaxophen Caplets; Robax Platinum; Robaxacet; Robaxacet Extra Strength; Robaxacet Tablets; Robaxacet-8; Robaximol Inj 100mg/ml; Robaxin; Robaxin 750; Robaxin Inj 100mg/ml; Robaxin Injectable Liq 100mg/ml; Robaxisal C 1/2; Robaxisal C 1/4; Robaxisal C-1/8 Tablets; Robaxisal Caplets; Robaxisal Extra Strength; Robaxisal Tablets; Soulagement Des Douleurs Musculaires & Courbatures Extra Fort; Spasmhalt-8; Spasmhalt-asa-8; Summit Ultra; Super Extra Strength Aspirin Backache
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01102
+
+>  <SMILES>  (1) 
+COC1=CC=CC=C1OCC(O)COC(N)=O
+
+>  <SYNONYMS>  (1) 
+(RS)-2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate; Méthocarbamol; Methocarbamolum; Metocarbamol; Metocarbamolo
+
+$$$$

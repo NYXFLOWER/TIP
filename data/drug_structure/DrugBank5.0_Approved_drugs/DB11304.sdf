@@ -1,0 +1,151 @@
+
+     RDKit          2D
+
+ 20 20  0  0  0  0  0  0  0  0999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  7  6  1  0
+  8  4  2  0
+  8  5  1  0
+  9  6  1  0
+ 10  7  1  0
+ 10  8  1  0
+  1 11  1  0
+  2 12  1  0
+  3 13  1  0
+  4 14  1  0
+  5 15  1  0
+  6 16  1  0
+  6 17  1  0
+  7 18  1  0
+  7 19  1  0
+  9 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.22
+
+>  <ALOGPS_LOGS>  (1) 
+-0.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.41e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11304
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11304
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+138.068079562
+
+>  <FORMULA>  (1) 
+C8H10O2
+
+>  <GENERIC_NAME>  (1) 
+Phenoxyethanol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H10O2/c9-6-7-10-8-4-2-1-3-5-8/h1-5,9H,6-7H2
+
+>  <INCHI_KEY>  (1) 
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+20
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.913745490860894
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-phenoxyethan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.1254725383333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.102173105114254
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.754109483823025
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.8135
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phenoxyethanol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+138.166
+
+>  <PRODUCTS>  (1) 
+Acropole Bleu; Cosmos Hv; Grime Eater Lotion Soap 2.5%; Lanohex Nettoyeur Pour LA Peau 1.7%; Lanohex Shp 1.7%; Manugel 85; Marcorodex; Micro
+
+>  <SMILES>  (1) 
+OCCOC1=CC=CC=C1
+
+$$$$

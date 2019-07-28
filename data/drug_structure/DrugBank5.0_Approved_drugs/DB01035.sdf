@@ -1,0 +1,196 @@
+1035
+     RDKit          2D
+
+ 38 38  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.3967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.3784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.6342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.6342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.5534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0
+  2  5  1  0
+  2  6  1  0
+  2  7  1  0
+  3  8  1  0
+  3 11  1  0
+  4 17  1  0
+  5  8  1  0
+  6  9  1  0
+  7 10  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+  3 18  1  0
+  4 19  1  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+  9 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 10 32  1  0
+ 10 33  1  0
+ 10 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.42
+
+>  <ALOGPS_LOGS>  (1) 
+-1.89
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.02e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01035
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01035
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+235.168462309
+
+>  <FORMULA>  (1) 
+C13H21N3O
+
+>  <GENERIC_NAME>  (1) 
+Procainamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H21N3O/c1-3-16(4-2)10-9-15-13(17)11-5-7-12(14)8-6-11/h5-8H,3-4,9-10,14H2,1-2H3,(H,15,17)
+
+>  <INCHI_KEY>  (1) 
+REQCZEXYDRLIBE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Biocoryl; Procan; Procanbid; Pronestyl
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.685029346227658
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-N-[2-(diethylamino)ethyl]benzamide
+
+>  <JCHEM_LOGP>  (1) 
+0.9508966536666662
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.751574908923946
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.044348080073618
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.24980000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+procainamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+235.3253
+
+>  <PRODUCTS>  (1) 
+Apo-procainamide Cap 250mg; Apo-procainamide Cap 375mg; Apo-procainamide Cap 500mg; Procainamide Hydrochloride; Procainamide Hydrochloride Inj. USP; Procainamide-250 Cap 250mg; Procainamide-375 Cap 375mg; Procainamide-500 Cap 500mg; Procan SR; Pronestyl Cap 250mg; Pronestyl Cap 375mg; Pronestyl Cap 500mg; Pronestyl Inj 100mg/ml; Pronestyl-SR Tab 500mg
+
+>  <SALTS>  (1) 
+Procainamide Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00509
+
+>  <SMILES>  (1) 
+CCN(CC)CCNC(=O)C1=CC=C(N)C=C1
+
+>  <SYNONYMS>  (1) 
+p-Amino-N-(2-diethylaminoethyl)benzamide; p-Aminobenzoic diethylaminoethylamide
+
+$$$$

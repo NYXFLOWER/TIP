@@ -1,0 +1,148 @@
+[NO NAME]
+     RDKit          2D
+
+ 16 14  0  0  0  0  0  0  0  0999 V2000
+    1.8719    1.7490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    0.5115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    1.3365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6061    0.0180    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8719    2.5740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5864    1.3365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4429    1.7490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  3  2  1  0
+  5  1  2  0
+  6  1  1  0
+  7  3  1  0
+  2  8  1  0
+  2  9  1  0
+  2 10  1  0
+  3 11  1  0
+  4 12  1  0
+  4 13  1  0
+  4 14  1  0
+  4 15  1  0
+  7 16  1  0
+M  CHG  2   4   1   6  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.51
+
+>  <ALOGPS_LOGS>  (1) 
+0.91
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.66e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06768
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06768
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+107.058243159
+
+>  <FORMULA>  (1) 
+C3H9NO3
+
+>  <GENERIC_NAME>  (1) 
+Ammonium lactate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H6O3.H3N/c1-2(4)3(5)6;/h2,4H,1H3,(H,5,6);1H3
+
+>  <INCHI_KEY>  (1) 
+RZOBLYBZQXQGFY-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Amlactin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.647103093177042
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+ammonium 2-hydroxypropanoate
+
+>  <JCHEM_LOGP>  (1) 
+-0.47182951800000017
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+14.593508084825753
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.784942414122652
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6696493832413326
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+29.6769
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ammonium lactate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+107.1085
+
+>  <PRODUCTS>  (1) 
+Ammonium Lactate; Lac Hydrin Cream; Lac-Hydrin
+
+>  <SMILES>  (1) 
+[NH4+].CC(O)C([O-])=O
+
+>  <SYNONYMS>  (1) 
+Ammonium (+-)-lactate; Lactic acid ammonium salt
+
+$$$$

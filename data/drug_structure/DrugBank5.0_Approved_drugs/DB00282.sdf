@@ -1,0 +1,170 @@
+282
+     RDKit          2D
+
+ 24 23  0  0  0  0  0  0  0  0999 V2000
+    2.8075   -1.0743    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2492    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9345   -1.3762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950   -0.3598    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.4868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.1633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6490   -0.9637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.8993    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0932    0.5632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6208    1.3955    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1095    0.0527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2527    0.8652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  8  2  0
+  1 11  1  0
+  2  6  1  0
+  2  7  1  0
+  2  9  2  0
+  2 11  1  0
+  3 11  1  0
+ 10 13  1  0
+ 11 12  1  0
+ 12 13  1  0
+  3 14  1  0
+  4 15  1  0
+  5 16  1  0
+  6 17  1  0
+  7 18  1  0
+ 10 19  1  0
+ 10 20  1  0
+ 12 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 13 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.41
+
+>  <ALOGPS_LOGS>  (1) 
+-1.17
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.58e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00282
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00282
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+235.001074735
+
+>  <FORMULA>  (1) 
+C3H11NO7P2
+
+>  <GENERIC_NAME>  (1) 
+Pamidronate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H11NO7P2/c4-2-1-3(5,12(6,7)8)13(9,10)11/h5H,1-2,4H2,(H2,6,7,8)(H2,9,10,11)
+
+>  <INCHI_KEY>  (1) 
+WRUUGTRCQOWXEG-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aminomux; Pamimed
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.338067565065554
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3-amino-1-hydroxy-1-phosphonopropyl)phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-4.536482727267307
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+1.4320105727980836
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.6686214006842395
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.855403863984701
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+161.31
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+42.6188
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pamidronate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+235.0695
+
+>  <PRODUCTS>  (1) 
+Aredia; Aredia 30mg; Aredia 90mg; Aredia Liq Inj 3mg/ml; PMS-pamidronate; Pamidronate Disodium; Pamidronate Disodium Omega 3 mg/ml; Pamidronate Disodium Omega 6 mg/ml; Pamidronate Disodium Omega 9 mg/ml; Pamidronate Disodium for Injection; Val-pamidronate Disodium
+
+>  <SALTS>  (1) 
+Pamidronate Disodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01161
+
+>  <SMILES>  (1) 
+NCCC(O)(P(O)(O)=O)P(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+Acide pamidronique; Acido pamidronico; Acidum pamidronicum; Pamidronic acid
+
+$$$$

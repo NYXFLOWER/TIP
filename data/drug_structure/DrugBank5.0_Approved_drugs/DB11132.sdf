@@ -1,0 +1,125 @@
+
+     RDKit          2D
+
+ 11  8  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7696    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0
+  3  5  1  0
+  3  6  1  0
+  3  7  1  0
+  3  8  1  0
+  3  9  1  0
+  3 10  1  0
+  3 11  1  0
+M  CHG  3   1  -2   2  -2   3   4
+M  END
+>  <DATABASE_ID>  (1) 
+DB11132
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11132
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+59.966755775
+
+>  <FORMULA>  (1) 
+O2Si
+
+>  <GENERIC_NAME>  (1) 
+Silicon dioxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2O.Si/q2*-2;+4
+
+>  <INCHI_KEY>  (1) 
+ZMBYZFXRKKDSCM-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+0.9475908
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+silicon(4+) ion dioxidandiide
+
+>  <JCHEM_LOGP>  (1) 
+-0.6519999999999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.7
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.1149
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+silicon(4+) ion dioxidandiide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+60.083
+
+>  <PRODUCTS>  (1) 
+2080 Dentistry Night Fresh; 2080 Dentistry Night Repair; Alegria Neo; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium and Magnesium 1:1 Plus Tablets; Calcor; Calplus; Chunzam Silk Amino Acid Tooth; Colgate Total Advanced Health Daily Repair; Colgate Total Advanced Health Sensitive; DIO Enamel Coating Pen Pro Tooth; Dio Whitening; Evertox Special Bath Preparations; Exoden White Tooth; Gelusil; Good Night/pm Formula Tab; Infants Simethicone; Lubas; Master Key Formula 3 Tab; Medique Alamag Plus; Mineralex; NAVI MAXON Sirin Doctor; NAVI Mate Gold; NAVI Mate Silver; Nano Silver Toothpaste; Olea Olidental; Oprecare 12; Oprecare 24; Oprecare 3set (07,12,21); PediaCare Gas Relief Drops Dye Free; PediaCare Gas Relief Original; PediaCare Infants Gas Relief; PediaCare Infants Gas Relief Dye Free; Pediacare SIMETHICONE ANTIGAS; Purigo; SUNSIL-Tin50AS; Silica - Liq 80mg/5ml; Silica Gel; Silica-calcium With Biotin Capsules; Silicare 5mg; Simethicone; Sonatural All Kill Blackhead Clear; Supplements De Vitamines Et Mineraux; Women's Support Tablets
+
+>  <SMILES>  (1) 
+[O--].[O--].[Si+4]
+
+>  <SYNONYMS>  (1) 
+silica; Silica gel; Silicon dioxide, colloidal
+
+$$$$

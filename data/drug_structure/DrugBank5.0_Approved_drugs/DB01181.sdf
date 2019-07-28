@@ -1,0 +1,175 @@
+1181
+     RDKit          2D
+
+ 29 29  0  0  1  0  0  0  0  0999 V2000
+    1.6500    0.6040    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.2540    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6040    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9205   -0.1106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0955   -0.1106    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0955   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0
+  2 14  1  0
+  3  4  1  0
+  3  5  2  0
+  3  6  1  0
+  3  7  1  0
+  4 10  1  0
+  6  8  1  0
+  6 11  1  0
+  7 12  1  0
+  8  9  1  0
+  9 10  1  0
+ 11 13  1  0
+ 12 14  1  0
+  7 15  1  0
+  8 16  1  0
+  8 17  1  0
+  9 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 11 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 14 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.57
+
+>  <ALOGPS_LOGS>  (1) 
+-1.24
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.50e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01181
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01181
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+260.02481966
+
+>  <FORMULA>  (1) 
+C7H15Cl2N2O2P
+
+>  <GENERIC_NAME>  (1) 
+Ifosfamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H15Cl2N2O2P/c8-2-4-10-14(12)11(6-3-9)5-1-7-13-14/h1-7H2,(H,10,12)
+
+>  <INCHI_KEY>  (1) 
+HOMGKSMUEGBAAB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Celofos; Cuantil; Holoxan; Mitoxana
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.943197490268776
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-(2-chloroethyl)-2-[(2-chloroethyl)amino]-1,3,2λ⁵-oxazaphosphinan-2-one
+
+>  <JCHEM_LOGP>  (1) 
+0.09654768666666613
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.23806361124026
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.12279165123184488
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.57
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.47810000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ifosfamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+261.086
+
+>  <PRODUCTS>  (1) 
+Ifex; Ifex (ifosfamide) 1 G/vial; Ifex (ifosfamide) 3 G/vial; Ifex Pws 1gm/vial; Ifex Pws 2g/vial; Ifex Pws 3gm/vial; Ifosfamide; Ifosfamide for Injection
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00007
+
+>  <SMILES>  (1) 
+ClCCNP1(=O)OCCCN1CCCl
+
+>  <SYNONYMS>  (1) 
+Iphosphamide; Isofosfamide; Isophosphamide; Isosfamide
+
+$$$$

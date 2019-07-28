@@ -1,0 +1,177 @@
+
+     RDKit          2D
+
+ 29 31  0  0  0  0  0  0  0  0999 V2000
+   -1.1801    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4223   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2954   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1204    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079   -0.4125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  7  6  2  0
+  9  4  2  0
+  9  5  1  0
+ 10  6  1  0
+ 10  8  2  0
+ 11  7  1  0
+ 12  8  1  0
+ 12 11  2  0
+ 13  9  1  0
+ 14 11  1  0
+ 14 13  2  0
+ 15 12  1  0
+ 15 13  1  0
+ 19 10  1  0
+ 19 16  1  0
+ 19 17  2  0
+ 19 18  2  0
+  1 20  1  0
+  2 21  1  0
+  3 22  1  0
+  4 23  1  0
+  5 24  1  0
+  6 25  1  0
+  7 26  1  0
+  8 27  1  0
+ 15 28  1  0
+ 16 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.03
+
+>  <ALOGPS_LOGS>  (1) 
+-2.94
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.17e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11115
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11115
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+274.041213364
+
+>  <FORMULA>  (1) 
+C13H10N2O3S
+
+>  <GENERIC_NAME>  (1) 
+Ensulizole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H10N2O3S/c16-19(17,18)10-6-7-11-12(8-10)15-13(14-11)9-4-2-1-3-5-9/h1-8H,(H,14,15)(H,16,17,18)
+
+>  <INCHI_KEY>  (1) 
+UVCJGUGAGLDPAA-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+29
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.726811459533018
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-phenyl-1H-1,3-benzodiazole-6-sulfonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.13775271764231073
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+10.706416274194655
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-2.1789356251544234
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.933898408161153
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.04999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+80.69259999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-phenyl-3H-1,3-benzodiazole-5-sulfonic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+274.29
+
+>  <PRODUCTS>  (1) 
+15 SPF Fps Premium Sunscreen; 45 SPF Sunscreen Spray; ASAP Skin Products Moisturising Daily Defense SPF 30; Absolute Oil Control Foundation; Advanced Firming and Anti Wrinkle; Advanced Revitalift Day; Advanced Revitalift Lotion; Advanced Revitalift Lotion SPF 15; Advanced Wrinkle Reducer Lotion SPF 15; After Shave Broad Spectrum SPF 15; Age Control Anti-Sagging and Ultra Hydrating Day SPF 15; Age Refine Day Cream CVS; Ahava Active Deadsea Minerals Mineral Suncare SPF 15; Ahava Active Deadsea Minerals Mineral Suncare SPF 30; Ahava Active Deadsea Minerals Mineral Suncare SPF 50; Ahava Active Deadsea Minerals Mineral Suncare SPF 50 Face; All Around Safe Block Essence Sun; Aloe Sun Spf28 Pa Plus Plus; Aloe Sunscreen; Alpha Hydrox Moisturizing Daily Lotion SPF 15; Anti Aging Vitamin Complex; Anti Wrinkle; Anti-Age Global Complete Anti-Aging SPF20; Anti-aging Moisturizing Complex-UV Protection; Anti-âge Global CRème Fondamentale Jour Fps 20; Aqua Fusion SPF 15 Peau Normale A Seche; Aqua Soleil CRème Visage Et Corps Fps 35; Aqua Soleil CRème Visage Fps 30; Aqua Soleil Creme Visage Et Corps Fps 35; Aquasource Uv Fps 15 Peau Normale Mixte; Aquasource Uv Fps 15 Peau Seche; Artistry Beauty Balm Perfecting Primer SPF 35 Broad Spectrum Sunscreen; Artistry Exact Fit Beauty Balm Perfecting Primer; Artistry Ideal Radiance Illuminating CC SPF 50 Broad Spectrum Med/Deep; Artistry Ideal Radiance Illuminating CC SPF 50 Broad Spectrum Sunscreen Deep; Artistry Ideal Radiance Illuminating CC SPF 50 Broad Spectrum Sunscreen Light/Medium; Artistry Ideal Radiance Illuminating CC SPF 50 Broad Spectrum Sunscreen Medium; Artistry Ideal Radiance Illuminating CC SPF50 Broad Spectrum Sunscreen - Light; Artistry Ideal Radiance Illuminating Cc Cream; Artistry Vi Clarifying Balancing Moisturizer; BANILA CO Prime Primer Sun; Baléa Men Facial Lotion; Base De Pré-maquillage Correctrice/corrective Make-UP Base; Bienfait Multi-vital SPF 15; Bienfait Total SPF 15-creme; Black Rice Platinum Absolute Youth SPF 15; Bliss Triple Oxygen Ultimate Protection UV Moisturizer SPF 33; Brightening and moisturizing facial SPF 30; By Pharmicell Lab Prestige Sun Block SPF40 PA PLUS PLUS PLUS; CLARINS Bright Plus HP SPF 20 Brightening Hydrating Day; CRème Solaire Très Haute Protection Spécial Visage SPF 30; CRème Solaire écran Spécial Visage SPF 30; CVS Advanced Deep Set Wrinkle Therapy w/SPF15; CVS Revitalift Complete with SPF-15; Careone Anti Aging Vitamin Complex 7 in 1; Cargo Tinted Moisturizer SPF 20; Cc Cream; Cel Defense Fluide De Jour Matifiant SPF 15; Cellular Aw Sun Block SPF 50; Clarins Super Restorative Day; Cle De Peau Beaute Correcting Veil; Cle De Peau Beaute Gentle Protective I; Cle De Peau Beaute Refreshing Protective I; Cle De Peau Beaute Synactif Daytime Moisturizer; Collagen Moisture Filler; Covergirl Outlast All Day Stay Fabulous 3-IN-1 Foundation; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 805 Ivory; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 810 Classic Ivory; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 820 Creamy Natural; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 825 Buff Beige; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 832 Nude Beige; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 840 Natural Beige; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 842 Medium Beige; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 845 Warm Beige; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 850 Creamy Beige; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 855 Soft Honey; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 857 Golden Tan; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 860 Classic Tan; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 865 Tawny; Covergirl Outlast Stay Fabulous 3in1 Foundation Broad spectrum SPF 20 - 875 Soft Sable; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q800 Sand; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q805 Amber Glow; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q810 Classic Bronze; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q815 Brulee; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q820 Toffee; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q825 Golden Honey; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q830 Soft Copper; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q835 Mocha; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q840 Almond Glow; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q845 Warm Caramel; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q850 Sheer Espresso; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q855 Spicy Brown; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q860 Rich Mink; Covergirl Queen Collection All Day Flawless 3in1 Foundation Broad Spectrum SPF 20 - Q865 True Ebony; Covergirl Vitalist Elixir Foundation; Covergirl Vitalist Healthy Foundation with Vitamins plus Ensulizole Sunscreen Broad Spectrum SPF 20 (All shades); Creme Haute Exigence Jour SPF 20; Creme Solaire Ecran Special Visage SPF 30; Creme Solaire Haute Protection SPF 20; Creme Solaire Haute Protection Special Enfants Et Peaux Reactives Au Soleil SPF 30; Creme Solaire Haute Protection Special Sports SPF 15; Creme Solaire Haute Protection Special Visage SPF 15; Creme Solaire Tres Haute Protection Special Intolerances 30 SPF; Creme Solaire Tres Haute Protection Special Intolerances SPF 30; Creme Solaire Tres Haute Protection Special Peaux Sensibles 30 SPF; Cvs Dry Skin Therapy With SPF 15; Cyzone SUN BY ME Sunblock SPF 50; Cyzone Sun By Me Face Screen Fps 50 Amplio Espectro; Daily Defense Complex Spf4; Daily Defense SPF 30 Oil Free Fluid; Daily Protection Moisturizing Face Lotion (SPF 30); Daylogic Tinted Daily Moisturizer SPF 30; Ddf Advanced Moisture Defense Uv Cream SPF 15; Ddf Daily Protective Moisturizer Uv Moisturizer SPF 15; Ddf Mattifying Oil-control Uv Moisturizer SPF 15; Ddf Ultra Lite Oil Free Moisturizing Dew Uv Moisturizer; Dermatological Sun Protection; Diamond White Matte Finish Sun Protection; Diamond White Oil-Free Brilliant Sun Protection; Dolce and Gabbana The Foundation Perfect Matte Broadspectrum SPF 20 All shades; Dolce and Gabbana The Primer Sheer Radiance Make Up Base with Sunscreen Broad Spectrum SPF 30; Dove DermaSeries Dry Skin Relief Replenishing Face Cream SPF 15; Dove Face Day Cream; Dove Face Day Lotion; Dove Men plus Care Hydrate Face; Dove Men plus Care Hydrate Face SPF 15; Dove Men plus Care Sensitive Face; Dove Men+care Face Lotion; Dove Men+care Face Lotion Hydrate+; Dr.Jart Every Sun Day Illuminating Sunscreen SPF 36; Durascreen SPF 30; ECO EARTH POWER Light Sun; Easydew Daily Ultra Shield Sun; Elements Anti Aging Vitamin Complex 7 In 1; Equate Anti Wrinkle SPF 15; Equate Beauty Day Cream; Equate Moisturizing Lotion SPF 15; Esika Perfect Sun Kids; Esika Protector Against Solar Rays for Children, Face and Body SPF 50; Essential-C Day Moisture SPF 30; Essentials 24h Moisture Boost + Matte; Essentials 24h Moisture Boost + Nourish; Essentials 24h Moisture Boost + Refresh; Essentials 24h Moisture Boost + Soothe; Eucerin; Eucerin Daily Protection Face; Eucerin Everyday Protection Face; Eye Contour Multi-protection Sun Care SPF 30; Face It Radiance Makeup Base SPF 20 Pa++; Face It Smart Capsule Color Control Cream SPF 40/pa++ Perfect Skin Tone; Face It Smart Color Control 32800661; Face It Smart Color Control 32800677; Facial Fuel SPF 15; Facial Shield SPF 20; Floral Water Mist SPF 8; Fluide Hydratant Quotidien SPF 15; Force C Premium SPF 15; Fresh Daily Hydrating Fluid SPF 15; Futur E SPF 15 Moisturizing Lotion; Future E SPF 15; Future Solution Lx Daytime Protective Cream SPF 15; Garnier Nutritioniste Moisture Rescue Lightweight UV SPF 15; Garnier Nutritioniste Skin Renew Radiance Moisture Lotion SPF 15; Garnier Skin Naturals Lift SPF 15 Day; Gelee Solaire Bronzage Tres Rapide Special Peaux Halees-spf6; Gelée Solaire Haute Protection SPF 15; Happyderm SPF 15 Peaux Normales A Grasses; Happyderm SPF 15 Peaux Normales A Seches; Harmon Face Values Revitalizing Age Control Anti-Sagging Ultra Hydrating Day SPF 15; Harmon Face Values Revitalizing Day Cream; Hawaiian TroP.C.and A.tan Gel W.eX.S.S.4spf; Hawaiian Tropic Herbal Protective Gel 15 SPF; Hawaiian Tropic Herbal Tanning Mist 2 SPF; Hawaiian Tropic Shimmering Body Sheen Spf6; High Resolution; Homme Aqua Sun Block SPF50 Plus PA 2Plus; Hydra Life Water BB SPF 30 Shade 010; Hydra Life Water BB SPF 30 Shade 020; Hydra Life Water BB SPF 30 Shade 030; Hydra Vãgãtal CRãme Hydratante Fps 25; Hydra-C Radiance 24h + SPF 15 Fps Hydrating Lotion Lotion Hydratante; Hydra-C Radiance 24h + SPF 15 Fps Moisturizing Cream Dry Skin CRème Hydratante Peaux Sèches; Hydra-C/ Radiance 24h Plus SPF 15 Fps/ Moisturizing Cream Normal Skin/crème Hydratante Peaux Normales; Hydrafresh Gel-creme Normal To Dry Skin; Hydrafresh Gel-creme Normal To Oily Skin; IQ Derma Essentials Life Without Wrinkles SPF 25; IQ Derma regiMEN Hydrating UV Shield SPF 25; Intense Care Gold 24k Snail Sun; Intensive Day Defense SPF 15; Karanja Tree Sunshield SPF 30 Molton Brown Skin Care; Kids SPF 45 Sunscreen Spray; Kids SPF 50 Sunscreen Spray; Kids Sprayable Sunscreen Lotion SPF 50; LBEL SUPREMACIE NX JOUR Replenishing Daytime Face SPF 15 Normal To Oily Skin; LBEL SUPREMACIE NX JOUR Replenishing Treatment Daytime Face SPF 15 Normal To Dry Skin; LBEL SUPREMACIE NX JOUR Replenishing Treatment Daytime Face SPF 15 Normal To Oily Skin; LBel Paris Regression Jour; LBel Supremacie Mains; LOreal Paris Dermo Expertise SPF 15 Active Daily Moisture; LOreal Paris Revitalift Antiwrinkle Plus Firming SPF 18 Sunscreen Day Moisturizer; LOreal Paris Skin Expertise Age Perfect For Mature Skin Anti-Sagging Anti-Age Spot Hydrating Moisturizer Day Cream SPF 15; LOreal Paris Skin Expertise Collagen Moisture Filler Daily Moisturizer Day Lotion SPF15; Lancome - Bienfait Total SPF 15; Lbel Dermo Clarite; Lbel Dermo Clarite Clarifying and Moisturizing With SPF 30; Lbel Protege Expert; Lbel Regression Jour Protective Complex With SPF 15 Facial Day Normal To Dry Skin; Le Blanc Light Revealing Brightening Makeup Base Broad Spectrum SPF 30 Sunscreen, 10 Rosee; Lift Anti-wrinkle Firming Day Cream SPF 16; Lift SPF 15; Lotion Sport; Lovely Me EX 32900042; Lovely Me:ex Bb Cream SPF 20/pa++; Lubriderm Lotion Daily Uv Defense SPF 15; Luminous Shield SPF 50; Marcelle / Hydra-C 24 H + SPF 15 Fps / Moisturizing Cream / Creme Hydratante All Skin Types / Tous Types De Peaux; Marcelle / New Age Precision / Anti-wrinkle and Firming / Anti-rides Et Fermeté / Moisturizing Lotion SPF 15 / Lotion Hydratante Fps 15; Marcelle Hydra-C 24 H + SPF 15 Fps Moisturizing Cream CRème Hydratante Dry Skin Peaux Sèches; Marcelle Revival Intense Anti-aging/anti-age Intense Moisturizing Lotion SPF 15/lotion Hydratante Fps 15; Marcelle Revival+ Skin Renewal Anti-aging Day Cream SPF 15; Marcelle/ Oil Free Multi-Défense Lotion SPF 15 Fps/ Fluide Multi-Défense Sans Huile; Marcelle/multi-defense Cream/crème Multi-Défense/SPF 15 Fps; MediSpa Sunspray; Mesoestetic Moisturizing Sun Protection Broad Spectrum for Normal and Dry Skins; Mesoestetic Sun Protection SPF 30; Mesoestetic Sun Protection SPF 50; Missha All Around Safe Block Essence Sun Broad Spectrum Spf45; Missha All Around Safe Block Essence Sun Spf45 Pa Plus Plus Plus; Moisture Cream SPF 30; Moisture Rescue Lightweight SPF 15-lotion; Moisturising Sun Protection Spf50; Multi Recharge SPF 15; Myung Han Miindo Make Up Base; NBCeutical; Nars Pro-prime Multi-protect Primer; Natural Sun Eco Aqua Sunscreen Gel 40 SPF; Natural Sun Eco Mild Milk Spf40; Natural Sun Eco Oil Clear Sun Cream Spf50+ Pa+++; Natural Sun Eco Oil Clear Sunscreen Cream 50 SPF; Natural Sun Eco Photogenic Sun Blur Spf50+ Pa+++; Natural Sun Eco Sebum Control Moisture Sun Spf40; Neo Classic Homme Leports Sun Cream SPF 50+ Pa+++; Neo Classic Homme Sports 31700111; Neutrogena Anti-wrinkle Cream SPF 15; Neutrogena Day Moisture SPF 15; Neutrogena Healthy Defense Daily Moisturizer SPF 30; Neutrogena Healthy Defense Daily Moisturizer Sunscreen SPF30 Light Tint; Neutrogena Healthy Skin Anti Wrinkle Sunscreen SPF15; Neutrogena Intensified Day Moist. SPF 15 Crm; Neutrogena Intensified Day Moisture SPF 15; Neutrogena Men Age Fighter Moisturizer Sunscreen SPF15; Neutrogena Men Triple Protect Face SPF20; Nivea For Men Age Defying Face Moisturizer; Nivea Mattifying Day Cream; Nivea Men Protect & Care Face Lotion; Nivea Moisturizing Day Cream; Nivea Nourishing Day Cream; Nivea Q10 Plus Anti-wrinkle Day Cream; Nivea Q10 Plus Anti-wrinkle Day Cream SPF 30; Nivea Visage Dnage Firm & Glow Day Care Cream; Nivea Visage Light Moisturizing Day Care; Nivea Visage Moisturizing Lotion SPF 15; Nivea Visage Q10 Advanced Wrinkle Reducer Lotion; Nivea Visage Q10 Plus Anti-wrinkle; No7 Rebalancing Day Fluid Sunscreen SPF 15; Nutritionist Regenerating Moisturizer Spf15; O HUI Perfect Sun Black EX Broad Spectrum SPF 50; OHUI Powdery Metal Cushion Compact 01 Light Beige; OHUI Powdery Metal Cushion Compact 02 Natural Beige; OHUI SUN SCIENCE Perfect Sunblock Blue EX plus; OHUI SUN SCIENCE Perfect Sunblock black EX plus; OHUI Ultimate Cover CC Cushion Compact 01 Light Beige; OHUI Ultimate Cover CC Cushion Compact 02 Natural Beige; Octinoxate,octisalate,avobenzone,octocrylene,ensulizole,titanium Dioxide; Ohui Sunscience Luminous Whitening Sunblock; Ohui The First Cell Revolution Age Control Sun Block; Oil Control Mattifier SPF 15; Oil Control Mattifier SPF 15 Pa++; Oil Of Olay Daily Uv Protectant Moist Crm; Oil Of Olay Protective Moisture Lotion; Oil Of Olay Protective Renewal Lotion; Olay Age Defying Anti-wrinkle - Daily SPF 15 Lotion; Olay Anti-wrinkle Nutrients Daily SPF 15 Lotion; Olay Body Age Transform Intensive Moisturizer Plus Uv Defense; Olay Complete Spf30 Defense All Day Moisturizer; Olay Definity Refining Lotion With Uv Protection; Olay Moisturizing Lotion With SPF 30; Olay Professional Pro-X Age Protection Lotion With SPF 30; Olay Regenerist Enhancing Lotion With Uv Protection; Olay Regenerist Superstructure Cream; Olay Regenerist Touch Of Foundation Uv Defense Moisturizer; Olay Total Effects 7-IN-1 Anti-aging Uv Moisturizer; Olay Total Effects 7-IN-1 Anti-aging Uv Moisturizer Plus Touch Of Foundation; Olay Total Effects Uv Protection Enriched Moisturizer; Olay Total Effects Uv Protection Hand Moisture Treatment; Oligo 25 Fluide SPF 15; Ombrelle - Lotion Spf30; Ombrelle Lotion SPF 30; Ombrelle Lotion SPF 30 Pour Enfants; Ombrelle-lotion SPF 15; Ombrelle-lotion SPF 30; Perfect Sun Kids Sunscreen protector against solar rays for children, face and body SPF 50 FM; Phaze 13 Light N' Block Pigment Cream; Plenitude-fluide Hydrat.prot.quot.n-G SPF 12; Plenitude-fluide Hydratant Prot Quot Spf12; Plenitude-fluide Hydratant Quotidien SPF 15; Pond's Daily Replenishing Moisturizer Lotion With Spf15; Pond's Prevent SPF 15; Pond's Replenishing Moist Lot W Sunsc SPF 15; Pond's Replenishing Moisturizer Lotion SPF 15; Ponds Luminous Moisture Day SPF 15; Primordiale Optimum SPF 15 Peau Normale A Mixte; Primordiale Optimum SPF 15 Peau Normale A Seche; Primordiale Skin Recharge CRème/cream; Primordiale Skin Recharge Lotion; Pro Retinol 100% Vegetal Fluide Defenseur; Protecting Day Lotion SPF 15; Protective Body Sunscreen; Protective Gel-cream Body SPF 20; Provence Calendula Aqua Cooling Sun; Queens Rose Whole In One Sunblock; Rayito de Sol; Refinish; Renergie Microlift R.A.R.E.; Renergie Microlift SPF 15; Renew Mirra Deep Moisture Day; Repaskin Body Broad-spectrum SPF 30; Repaskin Body Lotion, Broad Spectrum SPF 30; Repaskin Facial, Broad Spectrum SPF 30; Revitalift SPF 18; Revitalizing Q10 Moisturizer; Rides & éclat CRème Resplendissante Jour Fps 20; Rite Aid Renewal Sunscreen; SHISEIDO Future LX Day/Jour; SPF 15 High Resolution Refill 3x; SPF 25 Uva/uvb; SPF 30 Uva/uvb Protection Lotion; SPF 50 Sunscreen Spray; SPF 50 Uva/uvb; Sephora Super Lisseur Rides Age Defy; Sephora Super Lisseur Rides SPF 15 Age Defy Moisture; Shiseido Benefiance Nutriperfect Day Cream SPF 15; Shiseido Perfect Hydrating Bb Dark; Shiseido Perfect Hydrating Bb Light; Shiseido Perfect Hydrating Bb Medium; Shiseido Sun Block Face Cream; Shiseido Suncare Ultimate; Shiseido The Skincare Day Moisture Protection Enriched SPF 15; Shiseido The Skincare Day Moisture Protection SPF 15; Shiseido Urban Environment Tinted Uv Protector 1; Shiseido Urban Environment Tinted Uv Protector 2; Shiseido Urban Environment Tinted Uv Protector 3; Shiseido White Lucent; Simple Light Moisturizer SPF 15; Simple Protecting Light Moisturizer Broad Spectrum SPF 15 Sunscreen; Simple Protecting Light Moisturizer SPF 15; Simply Basic Moisturizing Lotion SPF 15; Skin Active Intensive Day; Skin Best Cream SPF 15 All Skin Types; Skin Best Cream SPF 15 Dry Skin; Skin Clarifying Intensive Revitalizing Care SPF 15; Skin Firm Lipoamino hydrator SPF 15 Molton Brown; Skin Renew Radiance Moisture Lotion SPF 15; SkinTx Sunscreen SPF 30; Skinfood Miracle Food 10 Solu Tion Sun Essence; Skinprint Ultra Sheer SPF 20; Soleil Suisse Cellular Anti-wrinkle Sun Cream SPF 30; Sooryehan Bichaek Jadan Sun; Sooryehan Hyo Fermented Sun Block; Spray De Traitement Des Intolérances Solaires; Spray Des Intolerances Solaires; Sprayable Sunscreen Lotion SPF 40; Sun Defense UVscreen SPF 48; Sun Protection SPF 8; Sunbar SPF 48; Sundays Moderate Protec Bronz Gel Spf4; Sungirl SPF 10; Sungirl SPF 3; Sunscreen Lotion Ecran Solaire 30; Sunscreen Lotion SPF 25; Supremacie NX Jour; Susanne Kaufmann Suncare Body Broad Spectrum Protection Sunscreen SPF 25 Uvb Uva; TeMana Tahiti Noni Brightening Facial Shield SPF50; The History Of Whoo Gongjinhyang Seol Whitening Sun; Timeless Ferment Sanil Sun; To Save Face SPF 30 Plus Facial Sunscreen; Tonymoly Magic Food Mango Mild Sun Block; Too Cool For School DINOPLATZ La Ola Noche No.23; Too Cool For School DINOPLATZ La Ola Viento No.21; Total Age Defy SPF 15 Sunscreen; Triple Protect Face Lotion SPF 20; Uha After Wax Moisturizing Lotion SPF 15; Ulta Broad Spectrum SUNSCREEN SPF80; Ultra Protection Water-based Sunscreen Lotion SPF 25; Ultra-lift Anti-wrinkle Firming Moisture Cream SPF 15; Ultra-lift Day Cream SPF 15; Urban Environment Tinted Uv Protector; Usana Sunblock Lotion SPF 30 Plus; Uv Essentiel Complete Sunscreen Uv Protection Anti-pollution Broad Spectrum SPF 20; Uv Essentiel Complete Sunscreen Uv Protection Anti-pollution Broad Spectrum SPF 30; Uv Essentiel Soin Quotidien Multi-protection Uv Daily Uv Care Multi-protection SPF 20; Uv Essentiel Soin Quotidien Multi-protection Uv Daily Uv Care Multi-protection SPF 30; Vaseline Intensive Care Aloe Fresh SPF 15; Vaseline Total Moisture Aloe Fresh SPF 15; Verdon Outdoor Moisturizer SPF 30; Vichy Laboratoires Normaderm Pro Mat Ultra Mattifying Oil-Free Lotion SPF 15; Vichy-fluide Hydrat.matifiant Non Gras Fps13; Vita Lift   (SPF 15); Vivierskin Sunscreen SPF 30; Vmv Hypoallergenics Armada 30; Voile Solaire/sun Veil; Wrinkle De-crease SPF 15; YVES ROCHER hydra vegetal HYDRATING DAY SPF 25 SUNSCREEN; Yam Double Care Fluid Spf17 Pa Plus Plus; Yves Saint Laurent Forever Youth Liberator; Zirh Defend Repairing SPF15 Moisturizer; ac care Bees Sun Protection Broad Spectrum SPF 50; belif Moisturizing bomb cushion compact - light beige; belif Moisturizing bomb cushion compact - natural beige; mesoestetic DERMATOLOGICAL SUN PROTECTION BROAD SPECTRUM
+
+>  <SMILES>  (1) 
+OS(=O)(=O)C1=CC2=C(C=C1)N=C(N2)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+phenylbenzimidazole sulfonic acid
+
+$$$$

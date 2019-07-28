@@ -1,0 +1,238 @@
+ 
+     RDKit          2D
+
+ 56 59  0  0  1  0  0  0  0  0999 V2000
+   17.9362   -9.4212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9533  -10.2420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6558   -9.0195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2306   -9.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2132  -10.6472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6314  -10.6646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3578   -9.4422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5111   -9.4073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5467  -10.2315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2098  -11.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3508  -10.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6024  -11.4925    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0845   -9.0405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7986   -8.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7916  -10.6437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0599  -10.6892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0859   -9.4004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0825  -10.2280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7916  -11.4680    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7830  -10.2839    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0771  -11.5169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3629   -8.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3665  -10.6402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6503   -9.4038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6503  -10.2315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3665  -11.4680    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8018   -7.9491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6694   -7.6875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3998   -7.2816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9526   -7.2579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2245   -7.9574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9208  -11.0764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  9  2  0
+  5 10  1  0
+  6 11  1  0
+  6 12  2  0
+  7 13  1  0
+  8 14  1  0
+  9 15  1  0
+ 11 16  1  0
+ 14 17  1  0
+ 15 18  1  0
+ 15 19  2  0
+ 16 20  1  0
+ 16 21  2  0
+ 17 22  2  0
+ 18 23  2  0
+ 22 24  1  0
+ 23 25  1  0
+ 23 26  1  0
+  7 11  2  0
+  8  9  1  0
+ 17 18  1  0
+ 24 25  2  0
+ 14 27  1  6
+  3 28  1  6
+  1  2  1  0
+ 28 29  1  0
+  1  3  1  0
+ 28 30  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  4 31  1  6
+  3  7  1  0
+  2 32  1  6
+  4  8  1  0
+  1 33  1  6
+  3 34  1  0
+  4 35  1  0
+  8 36  1  6
+ 10 37  1  0
+ 13 38  1  0
+ 14 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+ 22 42  1  0
+ 24 43  1  0
+ 25 44  1  0
+ 26 45  1  0
+ 27 46  1  0
+ 27 47  1  0
+ 27 48  1  0
+ 29 49  1  0
+ 29 50  1  0
+ 29 51  1  0
+ 30 52  1  0
+ 30 53  1  0
+ 30 54  1  0
+ 31 55  1  0
+ 32 56  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.72
+
+>  <ALOGPS_LOGS>  (1) 
+-2.85
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.30e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00254
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00254
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+444.153265754
+
+>  <FORMULA>  (1) 
+C22H24N2O8
+
+>  <GENERIC_NAME>  (1) 
+Doxycycline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H24N2O8/c1-7-8-5-4-6-9(25)11(8)16(26)12-10(7)17(27)14-15(24(2)3)18(28)13(21(23)31)20(30)22(14,32)19(12)29/h4-7,10,14-15,17,25,27-29,32H,1-3H3,(H2,23,31)/t7-,10+,14+,15-,17-,22-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+JBIWCJUYHHGXTC-AKNGSSGZSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Doxy; Doxycin; Doxylin; Jenacyclin; Microdox; NicAzelDoxyKit; Nu-Doxycycline; Supracyclin; Vibramycin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+9
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.88236658408105
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(4S,4aR,5S,5aR,6R,12aS)-4-(dimethylamino)-3,5,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+-3.4356368980531804
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+4.674903996767855
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-2.2352759547193397
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.751996038861081
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+181.61999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+113.89189999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+vibramycin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+444.4346
+
+>  <PRODUCTS>  (1) 
+Acticlate; Adoxa; Alodox; Alti-doxycycline - Tab 100mg; Alti-doxycycline-cap 100mg; Apo-doxy Cap 100mg; Apo-doxy Tabs 100mg; Apprilon; Atridox; Dom-doxycycline; Doryx; Doryx 100mg Cap; Doryx Mpc; Doxy 100; Doxycin Cap 100mg; Doxycin Tab 100mg; Doxycyclate Hyclate; Doxycycline; Doxycycline Capsules; Doxycycline Hyclate; Doxycycline Hyclate Capsules; Doxycycline Hyclate Delayed release; Doxycycline Monohydrate; Doxycycline Tablets; Doxycycline-100 Cap 100mg USP; Doxytab 100mg; Mondoxyne; Mondoxyne NL 100mg; Monodox; Morgidox; Ntp-doxycycline Capsules; Ntp-doxycycline Tablets; Nu-doxycycline Cap 100mg; Nu-doxycycline Tab 100mg; Ocudox; Okebo; Oracea; PHL-doxycycline; PMS-doxycycline; Penta-doxycycline Tablets; Periostat; Ratio-doxycycline; Rho-doxycin - Cap 100mg; Rho-doxycin Tabs - 100mg; Rho-doxycycline - Cap 100mg; Rho-doxycycline - Tab 100mg; Targadox; Teva-doxycycline; Vibra-tabs; Vibramycin Calcium; Vibramycin Cap 100mg; Vibramycin Hyclate; Vibramycin Inj; Vibramycin Monohydrate
+
+>  <SALTS>  (1) 
+Doxycycline calcium; Doxycycline hyclate; Doxycycline hydrochloride; Doxycycline monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00597
+
+>  <SMILES>  (1) 
+[H][C@@]12[C@@H](C)C3=C(C(O)=CC=C3)C(=O)C1=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@]1([H])[C@H]2O
+
+>  <SYNONYMS>  (1) 
+5-hydroxy-α-6-deoxytetracycline; 6-alpha-deoxy-5-oxytetracycline; 6alpha-deoxy-5-oxytetracycline; 6α-deoxy-5-oxytetracycline; Anhydrous doxycycline; Doxiciclina; Doxycyclin; Doxycycline (anhydrous); Doxycyclinum
+
+$$$$

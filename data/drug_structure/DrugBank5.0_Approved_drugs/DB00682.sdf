@@ -1,0 +1,203 @@
+
+     RDKit          2D
+
+ 39 41  0  0  0  0  0  0  0  0999 V2000
+    1.0993   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8138    0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8138    1.1999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0993    1.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3847    0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3847    1.1999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730    0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586   -0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296   -0.8625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3296    1.6124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0441    1.1999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7586    1.6124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1875   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730    1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1874    1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9019    1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9019    0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1875   -0.8624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4730   -2.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  5  1  0
+  2  3  1  0
+  3  4  2  0
+  4  6  1  0
+ 11  5  1  0
+  6  5  2  0
+  6 13  1  0
+ 11  7  2  0
+ 13 14  1  0
+ 14  7  1  0
+  7  9  1  0
+  9  8  1  0
+  8 16  2  0
+  9 10  1  0
+ 11 12  1  0
+ 14 15  2  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+  8 17  1  0
+ 20 16  1  0
+ 10 21  1  0
+ 21 22  2  0
+ 21 23  1  0
+  1 24  1  0
+  2 25  1  0
+  3 26  1  0
+  4 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 12 31  1  0
+ 16 32  1  0
+ 17 33  1  0
+ 18 34  1  0
+ 19 35  1  0
+ 20 36  1  0
+ 23 37  1  0
+ 23 38  1  0
+ 23 39  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.41
+
+>  <ALOGPS_LOGS>  (1) 
+-3.82
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.72e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00682
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00682
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+308.104859
+
+>  <FORMULA>  (1) 
+C19H16O4
+
+>  <GENERIC_NAME>  (1) 
+Warfarin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H16O4/c1-12(20)11-15(13-7-3-2-4-8-13)17-18(21)14-9-5-6-10-16(14)23-19(17)22/h2-10,15,21H,11H2,1H3
+
+>  <INCHI_KEY>  (1) 
+PJVWKTKQMONHTI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Lawarin; Marevan; Waran; Warfant
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.928244529715872
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-hydroxy-3-(3-oxo-1-phenylbutyl)-2H-chromen-2-one
+
+>  <JCHEM_LOGP>  (1) 
+2.744707362333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+19.418542460519408
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.3306878536053
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.590757132843575
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+86.86010000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+warfarin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+308.3279
+
+>  <PRODUCTS>  (1) 
+Apo-warfarin; Coumadin; Coumadin Tab 10mg; Coumadin Tab 1mg; Coumadin Tab 2.5mg; Coumadin Tab 2mg; Coumadin Tab 3mg; Coumadin Tab 4mg; Coumadin Tab 5mg; Coumadin Tab 6 mg; Jantoven; Mylan-warfarin; Novo-warfarin; Nu-warfarin; Taro-warfarin; Warfarin; Warfarin Sodium; Warfilone Tab 5mg
+
+>  <SALTS>  (1) 
+Warfarin potassium; Warfarin sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00341
+
+>  <SMILES>  (1) 
+CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2
+
+>  <SYNONYMS>  (1) 
+4-Hydroxy-3-(3-oxo-1-phenylbutyl)coumarin; Coumafene; Zoocoumarin
+
+$$$$

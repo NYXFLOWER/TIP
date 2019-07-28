@@ -1,0 +1,167 @@
+Thymol
+     RDKit          2D
+
+ 25 25  0  0  0  0  0  0  0  0999 V2000
+   -0.1299   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5846    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1299   -1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5846    0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990   -0.3750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444    0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444   -1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5846   -1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1299    1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1299    2.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  2  0
+  4  8  1  0
+  4  9  1  0
+  5 10  2  0
+ 10 11  1  0
+  7 10  1  0
+  3 12  1  0
+  4 13  1  0
+  5 14  1  0
+  6 15  1  0
+  7 16  1  0
+  8 17  1  0
+  8 18  1  0
+  8 19  1  0
+  9 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 11 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.16
+
+>  <ALOGPS_LOGS>  (1) 
+-2.37
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.43e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB02513
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB02513
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+150.104465071
+
+>  <FORMULA>  (1) 
+C10H14O
+
+>  <GENERIC_NAME>  (1) 
+Thymol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)6-10(9)11/h4-7,11H,1-3H3
+
+>  <INCHI_KEY>  (1) 
+MGSRCZKZVOBKFT-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+25
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.841403772475083
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-methyl-2-(propan-2-yl)phenol
+
+>  <JCHEM_LOGP>  (1) 
+3.428111034333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.592932954134925
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.231344648281415
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+47.270900000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+thymol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+150.221
+
+>  <PRODUCTS>  (1) 
+Acne Vanish Synergy for treatment of Acnes; Acute Bronchitis Synergy; Advanced Antiseptic; Advanced Antiseptic Citrus; Advanced Citrus; Advanced Citrus Antiseptic; Amber Mouth Rinse; Amber Mouth Wash  -  Liq; Amber Mouthwash - Liq; Anitseptic Mouth Rinse; Antiseptic; Antiseptic Blue Mint Mouthwash; Antiseptic Lil Drug Store Products; Antiseptic Mouth Rinse; Antiseptic Mouth Rinse - Liq; Antiseptic Mouth rinse; Antiseptic Mouthrinse; Antiseptic Rinse; Antiseptic Rinse Spring Mint; Antispetic; Antispetic Mouth Rinse; Aurora Blue Mint; Aurora Fresh Burst; Being Well Antiseptic; Benefect Natural Hand Sanitizer; Biocence; Borasol; Buenos Dias de Personna citrus flavour; Buenos Dias de Personna cool mint; Buenos Dias de Personna mint; Buenos Dias de Personna original; Carboseptol; Chronic Bronchitis Synergy; CleanWell Natural Antibacterial Foaming Orange Vanilla; CleanWell Natural Antibacterial Foaming Spearmint Lime; CleanWell Natural Orange Vanilla Hand Sanitizer; CleanWell Natural Orange Vanilla Hand Sanitizing Wipes; CleanWell Natural Original Hand Sanitizer Wipes; Cleanwell Natural Antibacterial Foaming Lavender; Common Colds Synergy; Cool Mint Antiseptic Mouthwash; Cresophene Liq; Discount Drug Mart Blue Mint Mouthwash; Discount Drug Mart Original Flavor Mouthwash; Discount Drug Mart Spring Mint Mouthwash; Equate Tartar Control Plus; Family Dollar Antiseptic Mouth Rinse; Family Dollar Antiseptic Mouth Rinse Blue Mint; Family Dollar Antiseptic Mouth Rinse Spring Mint; Forticept Antimicrobial Gel; Ginger Bergamot Natural Antibacterial Foaming; Green MINT Mouth Rinse; Handy Solutions Cool Mint LISTERINE ANTISEPTIC MOUTHWASH; Handy Solutions LISTERINE ANTISEPTIC MOUTHWASH; Hyvee Antiseptic Blue Mint; Hyvee Antiseptic Mint; Hyvee Antiseptic Original; Hyvee Blue Mint; Hyvee Health Cool Blue Sugar Free; Hyvee Health Green Mint Sugar Free; Influenza Care Synergy; Lipsorex; Lipsorex - Gel; Lipsorex Plus; Lipsorex-gel; Listerine Advanced with Tartar Protection Antiseptic Citrus; Listerine Antiseptic; Listerine Cool Mint Antiseptic; Listerine FreshBurst Antiseptic; Listerine Naturals Antiseptic - Herbal Mint; Listerine Ultraclean Antiseptic Arctic Mint; Listerine Ultraclean Antiseptic Cool Mint; Listerine Ultraclean Antiseptic Fresh Citrus; Marcs Blue Mint; Marcs Original; Marcs Spring Mint; Mastic Dent; Mouth Rinse; Nasal Jelly Thuna's; Natur 911; Natures Antibac Lavender; Natures Antibac Orange Vanilla; Natures Antibac Peppermint; Oral Care Antiseptic; Oral Dent Amber; Oral Dent Blue Mint; Oral Dent Citrus; Oral Dent Fresh Mint; Oral-dent Blue Mint; Original Antiseptic; Pastilles Valda; Peppermint Mouth Rinse; Quality Choice Amber; Quality Choice Blue Mint; Quality Choice Sprng Mint; Rinse; Royal Mouthwash Fresh and Clean Original Mint; Salonpas - Pls Top; Salonpas Medicated Plaster; Sinsinpap Cool; Smart Sense Blue Mint; Smart Sense Citrus; Smart Sense Iceberg Blue; Smart Sense Original Flavor; Smart Sense Spring Mint; Soft Mint Listerine Antiseptic; Tartar Control; Tartar Control Plus; Tartar control; Tartar control plus; Valda Pastilles; Valda Pastilles Lemon Flavoured; Vaporisateur Medicamente
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01913
+
+>  <SMILES>  (1) 
+CC(C)C1=C(O)C=C(C)C=C1
+
+>  <SYNONYMS>  (1) 
+2-isopropyl-5-methylphenol; 5-Methyl-2-(1-Methylethyl)Phenol; IPMP
+
+$$$$

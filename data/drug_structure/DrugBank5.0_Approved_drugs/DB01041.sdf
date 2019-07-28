@@ -1,0 +1,180 @@
+1041
+     RDKit          2D
+
+ 29 31  0  0  1  0  0  0  0  0999 V2000
+    5.1662   -1.4290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -1.4482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    1.4482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6412    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8162    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2 11  2  0
+  3 12  2  0
+  4 15  2  0
+  5  7  1  0
+  5 11  1  0
+  5 12  1  0
+  6 10  1  0
+  6 15  1  0
+  7  8  1  0
+  7 10  1  0
+  8  9  1  0
+  9 15  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 14  2  0
+ 13 16  1  0
+ 14 17  1  0
+ 16 18  2  0
+ 17 19  2  0
+ 18 19  1  0
+  6 20  1  0
+  7 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 16 26  1  0
+ 17 27  1  0
+ 18 28  1  0
+ 19 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.42
+
+>  <ALOGPS_LOGS>  (1) 
+-2.00
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.55e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01041
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01041
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <EXACT_MASS>  (1) 
+258.064056818
+
+>  <FORMULA>  (1) 
+C13H10N2O4
+
+>  <GENERIC_NAME>  (1) 
+Thalidomide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H10N2O4/c16-10-6-5-9(11(17)14-10)15-12(18)7-3-1-2-4-8(7)13(15)19/h1-4,9H,5-6H2,(H,14,16,17)
+
+>  <INCHI_KEY>  (1) 
+UEJJHQNACJXSKW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Contergan; Distaval; K-17; Sedalis; Softenon; Talimol; Thaled
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.42456996837572
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(2,6-dioxopiperidin-3-yl)-2,3-dihydro-1H-isoindole-1,3-dione
+
+>  <JCHEM_LOGP>  (1) 
+0.01570735600000027
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.74270753163753
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.593278965606643
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.448342644269868
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.55
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.32480000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+thalidomide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+258.2295
+
+>  <PRODUCTS>  (1) 
+Thalidomide Celgene; Thalomid
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01251
+
+>  <SMILES>  (1) 
+O=C1N(C2CCC(=O)NC2=O)C(=O)C2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+(+-)-N-(2,6-dioxo-3-Piperidyl)phthalimide; (+-)-Thalidomide; (±)-N-(2,6-dioxo-3-piperidyl)phthalimide; (±)-thalidomide; 1,3-dioxo-2-(2,6-dioxopiperidin-3-yl)isoindoline; 2,6-dioxo-3-phthalimidopiperidine; 3-Phthalimidoglutarimide; alpha-(N-Phthalimido)glutarimide; alpha-N-Phthalylglutaramide; N-(2,6-dioxo-3-piperidyl)phthalimide; N-Phthaloylglutamimide; N-Phthalyl-glutaminsaeure-imid; N-Phthalylglutamic acid imide; Talidomida; Thalidomidum; α-(N-phthalimido)glutarimide; α-N-phthalylglutaramide; α-phthalimidoglutarimide
+
+$$$$

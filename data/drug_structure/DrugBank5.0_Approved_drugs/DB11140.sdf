@@ -1,0 +1,113 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cr  0  0  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1  51
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.31
+
+>  <ALOGPS_LOGS>  (1) 
+1.08
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+0.00e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11140
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11140
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+50.944771767
+
+>  <FORMULA>  (1) 
+Cr
+
+>  <GENERIC_NAME>  (1) 
+Chromium Cr-51
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Cr/i1-1
+
+>  <INCHI_KEY>  (1) 
+VYZAMTAEIAYCRO-BJUDXGSMSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(51Cr)chromium
+
+>  <JCHEM_LOGP>  (1) 
+-0.156
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0.0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(51Cr)chromium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+50.9448
+
+>  <PRODUCTS>  (1) 
+Bacmin; Sodium Chromate 51
+
+>  <SALTS>  (1) 
+Chromium Cr-51 chloride; Chromium Cr-51 edetate
+
+>  <SMILES>  (1) 
+[51Cr]
+
+>  <SYNONYMS>  (1) 
+Chromium (51 Cr); Chromium Cr 51; Chromium-51
+
+$$$$

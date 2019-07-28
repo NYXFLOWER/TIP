@@ -1,0 +1,154 @@
+727
+     RDKit          2D
+
+ 20 19  0  0  0  0  0  0  0  0999 V2000
+    5.2224    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 13  1  0
+  2 11  1  0
+  2 14  1  0
+  3 12  1  0
+  3 15  1  0
+  4 10  1  0
+  5 10  2  0
+  6 11  1  0
+  7 12  1  0
+  8 11  2  0
+  9 12  2  0
+ 13 14  1  0
+ 13 15  1  0
+ 13 16  1  0
+ 14 17  1  0
+ 14 18  1  0
+ 15 19  1  0
+ 15 20  1  0
+M  CHG  6   4  -1   6  -1   7  -1  10   1  11   1  12   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.25
+
+>  <ALOGPS_LOGS>  (1) 
+-3.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.04e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00727
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00727
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+227.002578773
+
+>  <FORMULA>  (1) 
+C3H5N3O9
+
+>  <GENERIC_NAME>  (1) 
+Nitroglycerin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H5N3O9/c7-4(8)13-1-3(15-6(11)12)2-14-5(9)10/h3H,1-2H2
+
+>  <INCHI_KEY>  (1) 
+SNIOPGDIGTZGOP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Deponit; Dermatrans; Gen-Nitro; Glytrin; Glytrin Spray; Natispray; Nitrocap; Nitroderm TTS; Nitrolingual Pump Spray; Rectogesic; Stangyl; Transderm-Nitro; Tridil; Trimonit; Trinipatch; Triniplas; Trinispray; Trinitrin Simplex Laleuf; Trinitron; Trinitrosan; Trintek; Trocer; Trocer SR; Vasolator; Vasovin; Venitrin; Vernies; Willlong
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+9
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.559656644152696
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1,3-bis(nitrooxy)propan-2-yl nitrate
+
+>  <JCHEM_LOGP>  (1) 
+0.9358406423333336
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.596258243303704
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+165.15
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.5981
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitroglycerin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+227.0865
+
+>  <PRODUCTS>  (1) 
+Apo-nitroglycerin; Gonitro; Minitran; Minitran - Patch Trd 72mg/26.6 Sq Cm; Mylan-nitro Patch 0.2; Mylan-nitro Patch 0.4; Mylan-nitro Patch 0.6; Mylan-nitro Patch 0.8; Mylan-nitro Sublingual Spray; Nitro-Time; Nitro-bid; Nitro-dur; Nitro-dur 0.2; Nitro-dur 0.3 - 60mg/15 Sq Cm, 0.3mg/hr; Nitro-dur 0.4; Nitro-dur 0.6; Nitro-dur 0.8; Nitro-time; NitroMist; Nitrogard-SR Tab 1mg; Nitroglycerin; Nitroglycerin ER; Nitroglycerin In 5% Dextrose Inj.-100mcg/ml; Nitroglycerin In 5% Dextrose Inj.-200mcg/ml; Nitroglycerin In 5% Dextrose Inj.-400mcg/ml; Nitroglycerin In Dextrose; Nitroglycerin Inj 5mg/ml; Nitroglycerin Injection USP; Nitroglycerin Lingual; Nitroglycerin Slocaps; Nitroglycerin Transdermal Delivery System; Nitroglycerin Transdermal System; Nitroglycerin in Dextrose; Nitroject Inj 1mg/ml; Nitroject Inj 5mg/ml; Nitrol; Nitrolingual; Nitrolingual Pumpspray; Nitrolingual Spray 0.4mg/eam; Nitrong SR Srt 2.6mg; Nitrostat; Rectiv; Rho-nitro Pumpspray; Transderm-nitro 0.2; Transderm-nitro 0.4; Transderm-nitro 0.6; Transderm-nitro 0.8; Tridil Injection 5mg/ml; Trinipatch 0.2; Trinipatch 0.4; Trinipatch 0.6
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00153
+
+>  <SMILES>  (1) 
+[O-][N+](=O)OCC(CO[N+]([O-])=O)O[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+Glyceroli trinitratis ; Glyceroltrinitrat; Glyceryl trinitrate; NG; Nitroglicerina; Nitroglycerol; Nitromed; Trinitrine; Trinitroglycerin
+
+$$$$

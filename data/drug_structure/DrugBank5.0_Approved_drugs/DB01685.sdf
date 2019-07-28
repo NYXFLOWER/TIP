@@ -1,0 +1,170 @@
+FYX
+     RDKit          2D
+
+ 27 29  0  0  0  0  0  0  0  0999 V2000
+   -1.3813    1.8127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3813    2.6377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6668    3.0502    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0477    2.6377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0477    1.8127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6668    1.4002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6668    0.5752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0006    0.0903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3342    0.0903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0793   -0.6943    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2543   -0.6943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2306   -1.3618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0511   -1.2755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1049   -2.1154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3800   -2.7829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2005   -2.6967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5360   -1.9430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3565   -1.8567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1770   -1.7705    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  6  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  8 11  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 13 17  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  3  0
+  1 20  1  0
+  2 21  1  0
+  4 22  1  0
+  5 23  1  0
+  9 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.47
+
+>  <ALOGPS_LOGS>  (1) 
+-3.50
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.79e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01685
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01685
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+248.081044286
+
+>  <FORMULA>  (1) 
+C13H8N6
+
+>  <GENERIC_NAME>  (1) 
+Topiroxostat
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H8N6/c14-8-11-7-10(3-6-16-11)13-17-12(18-19-13)9-1-4-15-5-2-9/h1-7H,(H,17,18,19)
+
+>  <INCHI_KEY>  (1) 
+UBVZQGOVTLIHLH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Topiloric; Uriadec
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.387786042432413
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[5-(pyridin-4-yl)-1H-1,2,4-triazol-3-yl]pyridine-2-carbonitrile
+
+>  <JCHEM_LOGP>  (1) 
+1.817443675333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.055264386518257
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.9109776926723168
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+91.13999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.468
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+4-[5-(pyridin-4-yl)-1H-1,2,4-triazol-3-yl]pyridine-2-carbonitrile
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+248.2428
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01517
+
+>  <SMILES>  (1) 
+N#CC1=NC=CC(=C1)C1=NNC(=N1)C1=CC=NC=C1
+
+>  <SYNONYMS>  (1) 
+4-(5-(pyridin-4-yl)-1H-1,2,4-triazol-3-yl)pyridine-2-carbonitrile
+
+$$$$

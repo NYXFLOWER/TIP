@@ -1,0 +1,119 @@
+
+     RDKit          2D
+
+  6  4  0  0  0  0  0  0  0  0999 V2000
+    0.4125    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+M  CHG  2   1  -1   2   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.21
+
+>  <ALOGPS_LOGS>  (1) 
+0.37
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.24e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06767
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06767
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+53.0032268
+
+>  <FORMULA>  (1) 
+ClH4N
+
+>  <GENERIC_NAME>  (1) 
+Ammonium chloride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/ClH.H3N/h1H;1H3
+
+>  <INCHI_KEY>  (1) 
+NLXLAEXVIDQMFP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.3881688999999993
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+ammonium chloride
+
+>  <JCHEM_LOGP>  (1) 
+0.6123387216666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-7.000000000000001
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.6156
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ammonium chloride
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+53.49
+
+>  <PRODUCTS>  (1) 
+Acidax Inj 0.9% USP; Acididyn Tab; Ammonium Chloride; Babys Own Cough Syr; Balminil Codeine Night Time + Expectorant; Balminil Night-time; Bemosin Tab; Betasin Tab; Bronch Eze; Bronchodex Fort-DM Syr; Calmylin; Calmylin #4 Syr; Cheracol Cough Syrup; Cough Syr W Codeine Diphenhyd HCl & Ammon Cl; Cough Syrup; DM Cough Syrup; DM Plus Cough Syrup; DM Syrup; Damylin Avec Codeine Sirop; Damylin With Codeine Syrup; Hycomine; Hycomine-S; Mathieu Cough Syrup; Pulmorex DM Syr; Pulmorex Expectorant Liq; Suppress Cough Syr W.cod.diphen.hcl Amm.chl.; Trialyn Syrup; Zypanax
+
+>  <SMILES>  (1) 
+[NH4+].[Cl-]
+
+$$$$

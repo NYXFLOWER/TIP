@@ -1,0 +1,201 @@
+571
+     RDKit          2D
+
+ 40 41  0  0  1  0  0  0  0  0999 V2000
+    4.5080    0.6045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.8706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.1081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9600    1.4009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.0795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9600    3.1081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7075    1.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7075    2.6842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  1 10  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  5  1  0
+  4  7  1  0
+  6  8  1  0
+  6  9  1  0
+ 10 11  2  0
+ 10 13  1  0
+ 11 12  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 12 17  1  0
+ 13 16  2  0
+ 14 18  2  0
+ 15 16  1  0
+ 17 19  2  0
+ 18 19  1  0
+  2 20  1  0
+  3 21  1  0
+  4 22  1  0
+  5 23  1  0
+  5 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+  8 28  1  0
+  8 29  1  0
+  8 30  1  0
+  9 31  1  0
+  9 32  1  0
+  9 33  1  0
+ 13 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 18 39  1  0
+ 19 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.03
+
+>  <ALOGPS_LOGS>  (1) 
+-3.51
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.94e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00571
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00571
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+259.157228921
+
+>  <FORMULA>  (1) 
+C16H21NO2
+
+>  <GENERIC_NAME>  (1) 
+Propranolol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H21NO2/c1-12(2)17-10-14(18)11-19-16-9-5-7-13-6-3-4-8-15(13)16/h3-9,12,14,17-18H,10-11H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+AQHHHDLHHXJYJD-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Angilol; Bedranol SR; Cardinol; Ciplar; Deralin; Dociton; Duranol; Inderal; Indobloc; INNOPRAN; Prophylux; Sumial
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.983767934873782
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-(naphthalen-1-yloxy)-3-[(propan-2-yl)amino]propan-2-ol
+
+>  <JCHEM_LOGP>  (1) 
+2.5836959293333335
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.087930079742037
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.666166403559243
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.49
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.82570000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+1-(isopropylamino)-3-(naphthalen-1-yloxy)propan-2-ol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+259.3434
+
+>  <PRODUCTS>  (1) 
+Apo Propranolol Tab 10mg; Apo Propranolol Tab 120mg; Apo Propranolol Tab 40mg; Apo Propranolol Tab 80mg; Apo-propranolol Tab 20mg; Detensol Tab 10mg; Detensol Tab 120mg; Detensol Tab 40mg; Detensol Tab 80mg; Dom-propranolol Tablets; Dom-propranolol Tablets - 80mg; Hemangeol; Hemangiol; Inderal 20 Tab 20mg; Inderal 80 Tab; Inderal Injectable Liq 1mg/ml; Inderal LA; Inderal LA Cap 160mg; Inderal LA Cap 80mg; Inderal Tab 120mg; Inderal XL; Inderal-10 Tab 10mg; Inderal-120 Tab 120mg; Inderal-20 Tab 20mg; Inderal-40 Tab 40mg; Inderal-80 Tab 80mg; Inderal-LA; Inderide-40 Tab; Inderide-80 Tab; InnoPran XL; Novo-pranol Tab 120mg; Nu-propranolol Tab 10mg; Nu-propranolol Tab 120mg; Nu-propranolol Tab 20mg; Nu-propranolol Tab 40mg; Nu-propranolol Tab 80mg; PMS-propranolol Tablets 10mg; PMS-propranolol Tablets 120mg; PMS-propranolol Tablets 40mg; PMS-propranolol Tablets 80mg; Propranolol; Propranolol Hydrochloride; Propranolol Hydrochloride ER; Propranolol Hydrochloride Injection USP; Propranolol Hydrochloride Tablet 40mg; Propranolol Hydrochloride and Hydrochlorothiazide; Propranolol Hyrochloride; Propranolol Scopolamine; Propranolol Tab 10mg; Propranolol Tab 40mg; Propranolol Tab 80mg; Propranolol hcl ER; Propranolol-120 Tab 120mg; Propranolol-20 Tab 20mg; Teva-propranolol
+
+>  <SALTS>  (1) 
+Propranolol Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00194
+
+>  <SMILES>  (1) 
+CC(C)NCC(O)COC1=CC=CC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+1-((1-Methylethyl)amino)-3-(1-naphthalenyloxy)-2-propanol; 1-(isopropylamino)-3-(1-naphthyloxy)propan-2-ol; Propanalol; Propanolol; β-Propranolol
+
+$$$$

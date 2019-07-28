@@ -1,0 +1,138 @@
+1213
+     RDKit          2D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+    2.3176   -0.7128    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.2278    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7301    0.5568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9850   -0.2278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2150    1.2243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9050    0.5568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  4  1  0
+  2  6  2  0
+  3  4  2  0
+  3  5  1  0
+  3  6  1  0
+  1  7  1  0
+  4  8  1  0
+  5  9  1  0
+  5 10  1  0
+  5 11  1  0
+  6 12  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.41
+
+>  <ALOGPS_LOGS>  (1) 
+0.83
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.59e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01213
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01213
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+82.053098202
+
+>  <FORMULA>  (1) 
+C4H6N2
+
+>  <GENERIC_NAME>  (1) 
+Fomepizole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6N2/c1-4-2-5-6-3-4/h2-3H,1H3,(H,5,6)
+
+>  <INCHI_KEY>  (1) 
+RIKMMFOAQPJVMX-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+8.583857970237753
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-methyl-1H-pyrazole
+
+>  <JCHEM_LOGP>  (1) 
+0.7908511973333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.820058986173272
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.1260714878483644
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+28.68
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+24.786599999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+fomepizole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+82.1038
+
+>  <PRODUCTS>  (1) 
+Antizol; Fomepizole; Fomepizole for Injection
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00985
+
+>  <SMILES>  (1) 
+CC1=CNN=C1
+
+>  <SYNONYMS>  (1) 
+4-methylpyrazole; Fomepizol; Fomepizole; Fomepizolum
+
+$$$$

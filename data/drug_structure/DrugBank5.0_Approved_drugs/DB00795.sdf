@@ -1,0 +1,206 @@
+ 
+     RDKit          2D
+
+ 42 44  0  0  0  0  0  0  0  0999 V2000
+   17.7326   -9.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4412   -8.8604    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7326  -10.0986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0204   -8.8604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1571   -9.2768    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7290   -8.2760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1790   -8.2760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0204  -10.5076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3118   -9.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8693   -8.8604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3118  -10.0986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8620   -8.0386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5815   -9.2695    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5959  -10.5076    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5742   -7.6258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2937   -8.8568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7705  -10.0730    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2901   -8.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9633  -10.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9633  -11.4755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1562  -10.0730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1562  -11.9430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3452  -10.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3490  -11.4755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1562  -12.8781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5381  -11.9468    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9670  -13.3455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3490  -13.3455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  2  0
+  1  4  1  0
+  2  5  1  0
+  2  6  2  0
+  2  7  2  0
+  3  8  1  0
+  4  9  2  0
+  5 10  1  0
+  8 11  2  0
+ 10 12  2  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 14 17  2  0
+ 15 18  2  0
+ 17 19  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  2  0
+ 22 24  2  0
+ 22 25  1  0
+ 24 26  1  0
+ 25 27  1  0
+ 25 28  2  0
+  9 11  1  0
+ 16 18  1  0
+ 23 24  1  0
+  3 29  1  0
+  4 30  1  0
+  5 31  1  0
+  8 32  1  0
+  9 33  1  0
+ 12 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 18 37  1  0
+ 20 38  1  0
+ 21 39  1  0
+ 23 40  1  0
+ 26 41  1  0
+ 27 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.92
+
+>  <ALOGPS_LOGS>  (1) 
+-3.93
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.64e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00795
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00795
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+398.068490268
+
+>  <FORMULA>  (1) 
+C18H14N4O5S
+
+>  <GENERIC_NAME>  (1) 
+Sulfasalazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H14N4O5S/c23-16-9-6-13(11-15(16)18(24)25)21-20-12-4-7-14(8-5-12)28(26,27)22-17-3-1-2-10-19-17/h1-11,23H,(H,19,22)(H,24,25)/b21-20+
+
+>  <INCHI_KEY>  (1) 
+NCEXYHBECQHGNR-QZQOTICOSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Asasurfan; Azulfdidina; Azulfin; Bomecon; Colo-Pleon; Disalazin; Eminapyrin; Flogostop; Iwata; Lanofen; Lazafin; Pleon; Pyralin EN; Reumazin; Saaz; Saaz-DS; Salasopyrine; Salazar; Salazidin; Salazine; Salazopirina; Salazoprin; Salazopyrin; Salazopyrin EN; Salazopyrin EN-Tabs; Sulcolon; Sulfacol; Weiliufen; Zopyrin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+39.685937133860094
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxy-5-[(E)-2-{4-[(pyridin-2-yl)sulfamoyl]phenyl}diazen-1-yl]benzoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.937434786830155
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.746071734284534
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.297738885179465
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.4018806904923524
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+141.31
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+104.60289999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfasalazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+398.393
+
+>  <PRODUCTS>  (1) 
+Apo Sulfasalazine Tab 500mg; Azulfidine; Azulfidine EN-tabs; Orb-sulfasalazine EC; PMS-sulfasalazine 500mg/tab USP; PMS-sulfasalazine-E.C. Tab 500mg; Ratio-sulfasalazine En; Ratio-sulfasalazine Tab 500mg; S.A.S. Enteric 500mg; Salazopyrin En-tabs 500 mg; Salazopyrin Enema 3.0gm/100ml; Salazopyrin Enema 3gm/100ml; Salazopyrin Tab 500mg; Sas Enema 3gm/100ml; Sas Tab 500mg; Sulfasalazine; Sulfasalazine Delayed-Release
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00152; DB08518
+
+>  <SMILES>  (1) 
+OC(=O)C1=CC(=CC=C1O)\N=N\C1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Azopyrin; Salazosulfapyridine; Sulfasalazin; Sulfasalazina ; Sulfasalazine; Sulfasalazinum
+
+$$$$

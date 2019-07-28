@@ -1,0 +1,106 @@
+
+     RDKit          2D
+
+  4  2  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1214    0.1375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8359   -0.2750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5504    0.1375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  2  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09112
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09112
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+68.982672924
+
+>  <FORMULA>  (1) 
+NNaO2
+
+>  <GENERIC_NAME>  (1) 
+Sodium Nitrite
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/HNO2.Na/c2-1-3;/h(H,2,3);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+LPXPTNMVRIOKMN-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.4448587770475987
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium nitrite
+
+>  <JCHEM_LOGP>  (1) 
+0.166137638
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.320000070774052
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.4679102843579623
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.49
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+7.6
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium nitrite
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+68.9953
+
+>  <PRODUCTS>  (1) 
+Nithiodote; Sodium Nitrite; Sodium Nitrite Injection, USP
+
+>  <SMILES>  (1) 
+[Na+].[O-]N=O
+
+$$$$

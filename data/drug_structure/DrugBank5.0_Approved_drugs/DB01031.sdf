@@ -1,0 +1,158 @@
+1031
+     RDKit          2D
+
+ 25 25  0  0  0  0  0  0  0  0999 V2000
+    3.1433    0.6035    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3808   -0.1110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3808    1.3180    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -0.1110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -0.5235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -0.5235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -1.3485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -1.3485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -1.7610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3183    0.6035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9683    0.6035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9058    1.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1 11  1  0
+  2 11  2  0
+  3 11  1  0
+  4  5  1  0
+  4  6  1  0
+  4 10  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8  9  1  0
+ 10 12  3  0
+  3 13  1  0
+  3 14  1  0
+  5 15  1  0
+  5 16  1  0
+  6 17  1  0
+  6 18  1  0
+  7 19  1  0
+  7 20  1  0
+  8 21  1  0
+  8 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 12 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.09
+
+>  <ALOGPS_LOGS>  (1) 
+-3.20
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.06e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01031
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01031
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; withdrawn
+
+>  <EXACT_MASS>  (1) 
+167.094628665
+
+>  <FORMULA>  (1) 
+C9H13NO2
+
+>  <GENERIC_NAME>  (1) 
+Ethinamate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H13NO2/c1-2-9(12-8(10)11)6-4-3-5-7-9/h1H,3-7H2,(H2,10,11)
+
+>  <INCHI_KEY>  (1) 
+GXRZIMHKGDIBEW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Valamin; Valmid
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.726913510740403
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-ethynylcyclohexyl carbamate
+
+>  <JCHEM_LOGP>  (1) 
+1.5401250993333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.371112584590886
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.32
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.573499999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethinamate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+167.205
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00959
+
+>  <SMILES>  (1) 
+NC(=O)OC1(CCCCC1)C#C
+
+$$$$

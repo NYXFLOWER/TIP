@@ -1,0 +1,137 @@
+
+     RDKit          2D
+
+ 12 11  0  0  0  0  0  0  0  0999 V2000
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  1  5  1  0
+  1  6  1  0
+  1  7  1  0
+  2  8  1  0
+  3  9  1  0
+  3 10  1  0
+  3 11  1  0
+  4 12  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.04
+
+>  <ALOGPS_LOGS>  (1) 
+0.80
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.78e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB02325
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB02325
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+60.057514878
+
+>  <FORMULA>  (1) 
+C3H8O
+
+>  <GENERIC_NAME>  (1) 
+Isopropyl Alcohol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3
+
+>  <INCHI_KEY>  (1) 
+KFZMGEQAYNKOFK-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+7.137381657235111
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+propan-2-ol
+
+>  <JCHEM_LOGP>  (1) 
+0.2548059106666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.262586277858762
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.8091447620645766
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+17.4287
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+isopropyl alcohol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+60.095
+
+>  <PRODUCTS>  (1) 
+25 Person ANSI; 3M DuraPrep Surgical; 3m Soluprep Sponge; 50 Person ANSI; 50 percent Isopropyl alcohol; 50% Isopropyl Rubbing Alcohol; 50% Isopropyl Rubbing Alcohol with Wintergreen; 50% Rubbing; 70%; 70% Isopropyl Alcohol Well at Walgreens; 70% Isopropyl Rubbing Alcohol; 70% Isopropyl Rubbing Alcohol with Wintergreen; 70% Rubbing; 91 Percent Isopropyl alcohol; A 50% Isopropyl Rubbing Alcohol; ACME FIRST AID Contains 404 PIECES; AMSure Alcohol Prep; ARC 42 Essential First Aid Items; ARC Emergency Preparedness FIRST AID Contains 202 PIECES; ARC FIRST AID Contains 1000 PIECES; ARC FIRST AID Contains 101 PIECES; ARC FIRST AID Contains 101 PIECES Hardcase; ARC FIRST AID Contains 404 PIECES; Acetone Alcohol Prep Pads Medium; Acetone Alcohol Swabsticks Singles; Acetone Isopropyl Alcohol; Acnomel Skin Tone Cream; Adyphren Amp II Kit; Adyphren Amp Kit; Adyphren II Kit; Adyphren Kit; Aerowipe; Agropharma Isopropyl Alcohol; Alcogel; Alcohol; Alcohol Cleansing; Alcohol Cleansing Pad; Alcohol Cotton Ball; Alcohol Extra-Thick; Alcohol Hand Problend; Alcohol Hand Sanitizer Problend; Alcohol Pad; Alcohol Prep; Alcohol Prep F400 70% Liq; Alcohol Prep Pad; Alcohol Prep Pad - Large; Alcohol Prep Pad - Medium; Alcohol Prep Pad Medium; Alcohol Prep Pad with Benzocaine; Alcohol Prep Pads; Alcohol Prep Pads - Non Sterile; Alcohol Prep Pads - Sterile; Alcohol Prep Pads Lightweight Non-Sterile; Alcohol Prep Pads with Pain Relief; Alcohol Prep Swab with Pain Relief; Alcohol Prep pad; Alcohol Rub; Alcohol Swab; Alcohol Swab Sticks; Alcohol Swab with Benzocaine; Alcohol Swabs with Benzocaine; Alcohol Swabstick; Alcohol Swabsticks Singles; Alcohol Wipe; Alcohol sterile; Alcohol swab; Alcojel; Alcojel Gel 70%; Alcool Isopropylique A Friction; Alcool Isopropylique A Friction Rouge 70%usp; Alko Isol; Allure Isopropyl Rubbing Alcohol; Allure Isopropyl Rubbing Alcohol With Wintergreen; Alpet E-3; Alpet E3 Hand Sanitizer Spray; Amg-50; Antiseptic; Antiseptic Swab; Aplicare ExCel AP; Aplicare Isopropyl Alcohol; Aqua-ear Dps; Assured; Assured Alcohol Cleansing Pad; Athletic Liniment; Auro-Dri; Baxedin 2% - 70%; Bay Rum Constanza; Bioprep Liq; Biopropyl Liq 70%; Blood Culture Prep Kit; CURAD Isopropyl Alcohol; CVS Alcohol Prep; CVS Ear Drops for Swimmers; CVS Health Isopropyl Rubbing Alcohol; CVS Health Medication and Topical Refill Pouch; Cal Stat; Cal Stat Plus Antiseptic Handrub with Enhanced Emollients; CardinalHealth alcohol prep pads LARGE; CardinalHealth alcohol prep pads MEDIUM; CareFine Alcohol Swabs 100 ct; CareFine Alcohol Swabs 200 Ct; CareTouch Alcohol Prep Pad; Caring Alcohol Non-Sterile, Medium; Certus Alcohol Prep; Chg; Chlora-cleanze; ChloraPrep One-Step; Chloraprep Liq 0.5%; Chlorhexidine 0.5% Liq; Chlorhexidine and Isopropyl Alcohol Prep Pads; Chlorhexidine and Isopropyl Alcohol Swabsticks; Cida-stat Foam; Cida-stat Liq; Coachs First Aid Contains 102 Pieces; Code Brown; Coghlans Survival In A Can; Comfort; Coralite ALCOHOL PADS; Curad Alcohol Non-Sterile, Extra Thick; Curad Alcohol Non-Sterile, Large; Curad Alcohol Non-Sterile, Medium; Curad Alcohol Prep Pads Medium; Curad Alcohol Sterile, Large; Curad Alcohol Sterile, Thick; Cut Care Alcohol Prep Pad; Cut Care Insect Bite Antiseptic and Pain Relieving Wipe; D-Care 100X; DAYMARK FAK-35 First Aid; DDM Ear Drops for Swimmers; DOP Isopropyl Rubbing Alcohol 70%; DUKAL Alcohol Prep Pad; Dermorapid: Colourless and Coloured; Dexidin 0.5 Solution; Dignity Health Hand Sanitizer Cal Stat Plus Antiseptic Handrub with Enhanced Emollients; Diodine; Divas; Divas Wintergreen; Dri-Ear Drops; Dukal Alcohol Prep Pad; Dukal Sterile Alcohol Prep Pad; Dukal Sting Relief Pad; Dupont Relyon Antiseptic Hand Wipes; ECOLAB Isopropyl Alcohol; ENT Essentials All Dry Ear Drying Drops; Ear Dry Drops Well At Walgreens; Ear Dry Leader; Ear Drying; Easy to break-off cleaning and disinfecting swabstick DFB-I; Easy to break-off cleaning and disinfecting swabstick YBC-I; EasyTouch Alcohol Prep Pads Nonsterile; EasyTouch Alcohol Prep Pads Sterile; EcoCare 350 Hand Sanitizer with Skin Conditioner; Ethyl Rubbing Alcohol; FIRST AID Contains 101 PIECES; FIRST AID Contains 101 PIECES HARDCASE; FIRST AID Contains 303 PIECES; Family Wellness Sterile Alcohol; First Aid Only Alcohol Antiseptic Pad; First Aid Only Isopropyl Alcohol; First Aid Pocket Pack - 40 Pieces; First Aid Value Pack - 77 Pieces; Foam Care Chg Surgical Hand Scrub; Freeman Packing Hand Sanitizer 004; Freshnails The Undernail Sanitizer; Friction Rub; Full Care Alcohol Prep Pad; Full Care Alcohol Swabsticks; GAUKE Alcohol Prep Pad; GAUKE Sting Relief Pad; GENUINE FIRST AID Emergency Preparedness Contains 167 PIECES HARDCASE; GFA 42 Essential First Aid Items; GNP Isopropyl Alcohol 50 Percent; GNP Isopropyl Alcohol 50 Percent With Wintergreen Oil; GNP Isopropyl Alcohol 70 Percent With Wintergreen Oil; GNP Isopropyl Alcohol 91 Percent; GNP Isopropyl Rubbing Alcohol 70 Percent; GOOD NEIGHBOR PHARMACY FIRST AID Contains 202 PIECES; GOOD NEIGHBOR PHARMACY Isopropyl Alcohol Wipes; GOODSENSE Alcohol; Genuine First Aid - Auto First Aid; Genuine First Aid - Home First Aid; Germi-stat 0.5% Antiseptic Prep Gel; Germi-stat Prep Gel; Germstaroriginal; Global EASY PREP alcohol prep pads; Good Care Alcohol Pad; Good Care Isopropyl Alcohol; Good Neighbor Pharmacy Alcohol Antiseptic Skin Cleanser; Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces; Green Guard Sterile Alcohol Pads; Green Guard Sterile Alcohol Wipes; HEB Water Drying Aid; HUMCO 1 Percent Iodine; HUMCO Ear Drops for Swimmers; HUMCO Isopropyl Rubbing Alcohol 70%; HUMCO Isopropyl Rubbing Alcohol 70% Professional Pack; Hand Sanitizer; Handy Solutions Rubbing Alcohol; Health Mart Alcohol Isopropyl Rubbing 70 Percent; Health Mart Isopropyl Alcohol 91 Percent; HealthCare Plus; Hibistat; Hibistat Germicidal Hand Rinse; Hs-E3; HyVee Alcohol Prep Pads; I.V. Prep Antiseptic Wipe; Iba-cide Liquid; Ic-gel; Insect Sting Relief Wipes; Instant Ear Dry Equate; Iris; Iso Blu 50 percent; Iso-Blu Alcohol; Isopro First Aid; Isopropanol 99%; Isopropyl; Isopropyl Alcohol; Isopropyl Alcohol 50 Percent; Isopropyl Alcohol 70 Percent; Isopropyl Alcohol 70 Percent Wintergreen; Isopropyl Alcohol 70 percent; Isopropyl Alcohol 70% 3x3; Isopropyl Alcohol 70% 4x4; Isopropyl Alcohol 91 percent; Isopropyl Alcohol 99%; Isopropyl Alcohol 99% USP; Isopropyl Alcohol Antiseptic; Isopropyl Alcohol Antiseptic Germicide; Isopropyl Alcohol Liq 99%; Isopropyl Alcohol Prep Pad; Isopropyl Alcohol Prep Pad Sterile; Isopropyl Alcohol Prep Swab; Isopropyl Alcohol Sepp; Isopropyl Alcohol Surgical Scrub; Isopropyl Alcohol Swab; Isopropyl Alcohol Swabs; Isopropyl Alcohol Swabsticks; Isopropyl Alcohol Towelette; Isopropyl Alcohol with Benzocaine; Isopropyl Alcohol with Wintergreen; Isopropyl Rubbing Alcohol; Isopropyl Rubbing Alcohol 50 percent; Isopropyl Rubbing Alcohol 50 percent Wintergreen; Isopropyl Rubbing Alcohol 50%; Isopropyl Rubbing Alcohol 50% With Wintergreen; Isopropyl Rubbing Alcohol 50% with Wintergreen; Isopropyl Rubbing Alcohol 50% with Wintergreen and Glycerin; Isopropyl Rubbing Alcohol 70; Isopropyl Rubbing Alcohol 70 Percent; Isopropyl Rubbing Alcohol 70 Percent Wintergreen; Isopropyl Rubbing Alcohol 70 percent; Isopropyl Rubbing Alcohol 70 percent Wintergreen; Isopropyl Rubbing Alcohol 70%; Isopropyl Rubbing Alcohol 70% V/v; Isopropyl Rubbing Alcohol 70% With Wintergreen; Isopropyl Rubbing Alcohol 70% with Wintergreen; Isopropyl Rubbing Alcohol 90; Isopropyl Rubbing Alcohol 91 percent; Isopropyl Rubbing Alcohol 99%; Isopropyl Rubbing Alcohol Lil Drug Store Products; Isopropyl Rubbing Alcohol Liq 70%; Isopropyl Rubbing Alcohol With Wintergreen; Isopropyl Rubbing Alcohol With Wintergreen Oil; Isopropyl Rubbing Alcohol with Wintergreen Oil; Isopropyl Rubbing Compound 70%; Isopropyl Rubbing Nf 70%v/v; Isopropyl Winter Green Rubbing Alcohol; Isopropyl alcohol; Isopropyl alcohol 50 percent; Isopropyl alcohol 50 percent ReadyInCase; Isopropyl alcohol 50 percent Wintergreen ReadyInCase; Isopropyl alcohol 70 percent; Isopropyl alcohol 70 percent ReadyInCase; Isopropyl alcohol 70 percent Wintergreen; Isopropyl alcohol 70 percent Wintergreen ReadyInCase; Isopropyl alcohol 91 percent; Isopropyl alcohol 91 percent ReadyInCase; Isopropyl alcohol Prep Pad; Isopropyl alcohol Swabstick Sterile; Isopropyl alcohol Swabsticks; Isopropyl alcohol swab; Isopropyl rubbing alcohol 91 percent; Jianze Alcohol; Jianze Alcohol Prep Pad Large; Jianze Alcohol Prep Pad Medium; K-Mart SmartSense First Aid Contains 101 Pieces; LEADER ISOPROPYL Alcohol Wipes; Labsco Sterile Alcohol Prep Pad; Large ANSI First Aid Kit; Lens Cleaner; Loris - I.V.; Loris 10% Povidone-Iodine and 70% Isopropyl Alcohol Solution; Loris 7.5% Povidone-Iodine and 74% Isopropyl Alcohol Solution; MED-PRIDE ISOPROPYL RUBBING ALCOHOL 70 PERCENT with Wintergreen; MK Alcohol Prep Pads Large; MK Alcohol Prep Pads Medium; MK Alcohol Swabstick Sterile; MK Sting Relief Pads; McKesson Alcohol Prep Pad; MedPRIDE; MedPRIDE with Wintergreen Oil; MedPride; MedPride Sterile Prep Pads; Medi-First Alcohol Wipes; Medi-First Plus Alcohol Wipes; Medi-First Sterile Alcohol Pads; Medi-first Plus Sterile Alcohol Pads; MediChoice Alcohol Swabstick; MediChoice Antiseptic Isopropyl Alcohol Prep Pads; MediFirst Isopropyl Alcohol; Medimaxx; Medline Alcohol Prep Medium; Medline Alcohol Prep Non-Sterile, Extra Large; Medline Alcohol Prep Non-Sterile, Large; Medline Alcohol Prep Non-Sterile, Medium; Medline Alcohol Prep Non-Sterile, Thick/Medium; Medline Alcohol Prep Sterile, Large; Medline Alcohol Prep Sterile, Medium; Medline Alcohol Swabstick Triples; Medt Pad; Moist SURE; Moore Brand Alcohol Prep Pads; More Savings 50 Percent Isopropyl Rubbing Alcohol With Wintergreen; More Savings Rubbing Alcohol 50 Percent; N.A.S.99 Nail Antiseptic Spray; Nitrotan; North Alcohol Wipe; Novita 50% Isopropyl Rubbing Alcohol W/ Wintergreen; Novita 70% Isopropyl Rubbing Alcohol Wintergreen; Novita Isopropyl Alcohol 50%; Novita Isopropyl Rubbing Alcohol; OMNIS HEALTH Alcohol Prep Pads; Oido Sana; One Time Swab Sticks 70% F468; OtoVita Professional Hand Gel; P-Care 100MX; P-Care M; P-Care MG; P-Care X; PARAID Alcohol; PROTECTOR Alcohol Prep Pad; Pain Relief Alcohol Swabs; Paraid Sterile Alcohol Prep Pads; Pharmacist Choice Alcohol Prep Pad; Pharmacist Choice Alcohol Prep Pads; Pharmacist Choice Alcohol Sterile Prep Pad; Pharmacys Prescription; Physicians Care Sting Relief Pad; Preferred Plus Pharmacy 70% Isopropyl Alcohol Wipes; Prevail-FX One Step; Prevantics Swab; Prevantics swabstick; Procutane Gel; Protection; Publix Alcohol; Purehold Antiseptic Instant Hand Sanitizer; RUBBING ALCOHOL 99 PERCENT with Wintergreen; Refill 4; Rexall Alcohol Prep; Royal Alcohol Cleansing; Royal Alcohol Cleansing Pads; Rubbing Alcohol; Rubbing Alcohol 50 Percent; Rubbing Alcohol 50 Percent With Wintergreen; Rubbing Alcohol 70 Percent; Rubbing Alcohol 70 Percent Isopropyl; Rubbing Alcohol 70 Percent With Wintergreen; Rubbing Alcohol 70 percent Isopropyl; Rubbing Alcohol 70%; Rubbing Alcohol 91 percent Isopropyl; Rubbing Alcohol 91 percent isopropyl; Rubbing Alcohol 99 Percent; Rubbing Compound 70%; Run Kang Alcohol Pads - MEDIUM; Sanitizer - Assainissant; School Health Sterile Alcohol Prep Pad; Scrub-stat IV 4%; Seatex Hand Sanitizer; Shopko Alcohol Swabs; Smart Sense 70% Isopropyl Rubbing Alcohol First Aid Antiseptic; Smart Sense Isopropyl Alcohol Wipes; Soluprep; Soluprep 10% Povidone Iodine + 70% Isopropyl Alcohol; Soluprep Applicator; Soluprep Qd Solution; Soluprep Qd Swab; Soluprep Qd Wipe; Soluprep Swab; Soluprep Wipe; Sooth-a-Sting; Standard ANSI First Aid; Stanhexidine 2% With Isopropyl Alcohol 4%; Stanhexidine 4% With Isopropyl Alcohol 4%; Stanhexidine Aqueous 2% With 4% Isopropyl Alcohol; StarCap Medical Private Limited; Steri-stat Liq 4.0%; Steri-stat Tincture (tinted) Antis Prep Gel; Sterile Alcohol; Sterile Alcohol Prep Pad; Sterile Alcohol Prep Pads; Sting Relief; Sting Relief Pad; Sunmark Isopropyl Alcohol 70 Percent With Wintergreen Oil; Sunmark Isopropyl Alcohol 91 Percent; Sunmark Isopropyl Rubbing Alcohol 70 Percent; Super Rub 70%; Sure Comfort Alcohol Prep Pads; Swabs; Swim-EAR; TOUCHLAND Refeel KUB cartridge; TOUCHLAND kub2go Hand Sanitizer Aloe Vera; TOUCHLAND kub2go Hand Sanitizer Citrus; TOUCHLAND kub2go Hand Sanitizer Lavender; TOUCHLAND kub2go Hand Sanitizer Mint; TOUCHLAND kub2go Hand Sanitizer Neutral; TOUCHLAND kub2go Hand Sanitizer Strawberry; TOUCHLAND kub2go Hand Sanitizer Vanilla; Tempo Alcohol Prep Pad; Tempo Sting Relief Pad; The Green Scissor 99 Percent; Tinted Isopropyl Alcohol; Tintura de Arnica; UEC Medical Insect Sting Relief; UEC Medical Sterile Alcohol Wipes; Umbiliclean; Up and Up alcohol; Vida Mia Ear Drops for Swimmers; Viraguard! With Virahol (gel); WESTERN FAMILY Alcohol Swabs; WISE SHOPPER RUBBING ALCOHOL 50 PERCENT with Wintergreen; Walgreen Alcohol; Wearable Dispenser Cartridge SCS; Wintergreen Isopropyl Alcohol; Wise Shopper Rubbing Alcohol 50 Percent; Zep Alpet E-3 Sanitizer; germstar Original unscented; inControl alcohol; maxim 50% ISOPROPYL RUBBING ALCOHOL; maxim 50% ISOPROPYL RUBBING ALCOHOL With Wintergreen; maxim 70% ISOPROPYL RUBBING ALCOHOL; maxim 70% ISOPROPYL RUBBING ALCOHOL With Wintergreen; sunmark Isopropyl Rubbing Alcohol
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01912; DB04402
+
+>  <SMILES>  (1) 
+CC(C)O
+
+>  <SYNONYMS>  (1) 
+Isopropanol
+
+$$$$

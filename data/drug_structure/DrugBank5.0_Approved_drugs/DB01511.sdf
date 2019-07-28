@@ -1,0 +1,170 @@
+1511
+     RDKit          2D
+
+ 30 32  0  0  0  0  0  0  0  0999 V2000
+    2.5466   -2.3592    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.6079   -1.4649    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3402    2.3592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1838    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0374    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1106   -0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8539    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3673    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4988   -0.3478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5230    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -0.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6981    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4818   -1.5367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7075   -1.1639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3759   -1.1635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2668   -0.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0209   -1.6779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9118   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7888   -1.3765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2 16  1  0
+  3 13  2  0
+  4  8  1  0
+  4 13  1  0
+  5  7  2  0
+  5 11  1  0
+  6  7  1  0
+  6  8  2  0
+  6 10  1  0
+  7  9  1  0
+  8 12  1  0
+  9 16  2  0
+  9 17  1  0
+ 10 14  2  0
+ 11 13  1  0
+ 12 15  2  0
+ 14 15  1  0
+ 16 18  1  0
+ 17 19  2  0
+ 18 20  2  0
+ 19 20  1  0
+  4 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 15 26  1  0
+ 17 27  1  0
+ 18 28  1  0
+ 19 29  1  0
+ 20 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.46
+
+>  <ALOGPS_LOGS>  (1) 
+-4.68
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.42e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01511
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01511
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; investigational
+
+>  <EXACT_MASS>  (1) 
+304.017018366
+
+>  <FORMULA>  (1) 
+C15H10Cl2N2O
+
+>  <GENERIC_NAME>  (1) 
+Delorazepam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H10Cl2N2O/c16-9-5-6-13-11(7-9)15(18-8-14(20)19-13)10-3-1-2-4-12(10)17/h1-7H,8H2,(H,19,20)
+
+>  <INCHI_KEY>  (1) 
+CHIFCDOIPRCHCF-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Delorazepam Almus; Delorazepam Alter; Delorazepam Aurobindo; Delorazepam DOC; Delorazepam EG; Delorazepam Germed; Delorazepam Hexal; Delorazepam Mylan; Delorazepam Pensa; Delorazepam Ranbaxy; Delorazepam ratiopharm; Delorazepam Sandoz; Delorazepam Teva; Delorazepam Winthrop; EN
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.440928184810463
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-chloro-5-(2-chlorophenyl)-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+3.8160651750000003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.293636772928373
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.049184533048919
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+81.50080000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+delorazepam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+305.159
+
+>  <SMILES>  (1) 
+ClC1=CC2=C(NC(=O)CN=C2C2=CC=CC=C2Cl)C=C1
+
+$$$$

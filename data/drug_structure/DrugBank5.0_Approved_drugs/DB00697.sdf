@@ -1,0 +1,167 @@
+697
+     RDKit          2D
+
+ 24 26  0  0  0  0  0  0  0  0999 V2000
+    2.2413   -0.3751    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.6469   -1.2002    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8695    1.6829    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703    0.4499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2021    0.5269    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1654   -0.5363    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1654   -1.8640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    1.8544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558    0.8624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703   -0.3751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847   -0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847   -1.6127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558   -0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703   -2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558   -1.6127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2  6  1  0
+  2  7  1  0
+  3  8  1  0
+  3 10  1  0
+  4 10  1  0
+  4 11  1  0
+  5  9  1  0
+  5 10  2  0
+  6 12  2  0
+  7 13  2  0
+  8  9  1  0
+ 11 12  1  0
+ 11 14  2  0
+ 12 13  1  0
+ 13 15  1  0
+ 14 16  1  0
+ 15 16  2  0
+  3 17  1  0
+  4 18  1  0
+  8 19  1  0
+  8 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 15 23  1  0
+ 16 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.60
+
+>  <ALOGPS_LOGS>  (1) 
+-3.28
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.33e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00697
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00697
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+253.018893678
+
+>  <FORMULA>  (1) 
+C9H8ClN5S
+
+>  <GENERIC_NAME>  (1) 
+Tizanidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H8ClN5S/c10-5-1-2-6-8(15-16-14-6)7(5)13-9-11-3-4-12-9/h1-2H,3-4H2,(H2,11,12,13)
+
+>  <INCHI_KEY>  (1) 
+XFYDIVBRZNQMJC-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cimbrar; Musant; Myores; Navizan; Relaxkov; Sirdalid; Sirdalud; Sirdalud MR; Sizolan; Spaslax; Telzanine; Ternelin; Tizadin; Tizaflex; Tizalud; Tizan; Zanpeak; Zitanid
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.967974132435756
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-chloro-N-(4,5-dihydro-1H-imidazol-2-yl)-2,1,3-benzothiadiazol-4-amine
+
+>  <JCHEM_LOGP>  (1) 
+2.0246730729999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.494660778520409
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+62.2
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.7664
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tizanidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+253.711
+
+>  <PRODUCTS>  (1) 
+Comfort Pac with Tizanidine; Mylan-tizanidine; Pal-tizanidine; Tizanidine; Tizanidine HCl; Tizanidine Hydrochloride; Zanaflex
+
+>  <SALTS>  (1) 
+Tizanidine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00128
+
+>  <SMILES>  (1) 
+ClC1=C(NC2=NCCN2)C2=NSN=C2C=C1
+
+>  <SYNONYMS>  (1) 
+Tizanidin; Tizanidina; Tizanidine; Tizanidinum
+
+$$$$

@@ -1,0 +1,126 @@
+
+     RDKit          2D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+   -0.4124   -0.5834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9958    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4124    0.5834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1709    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9958    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  4  1  0
+  3  4  1  0
+  2  3  1  0
+  4  5  2  0
+  1  6  1  0
+  1  7  1  0
+  2  8  1  0
+  2  9  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.55
+
+>  <ALOGPS_LOGS>  (1) 
+0.78
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.36e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09348
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09348
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+72.021129369
+
+>  <FORMULA>  (1) 
+C3H4O2
+
+>  <GENERIC_NAME>  (1) 
+beta-Propiolactone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H4O2/c4-3-1-2-5-3/h1-2H2
+
+>  <INCHI_KEY>  (1) 
+VEZXCJBBBCKRPI-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+9
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+6.5457433799020786
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+oxetan-2-one
+
+>  <JCHEM_LOGP>  (1) 
+-0.13910989933333343
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.059542213312479
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+26.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+15.553099999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+β propiolactone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+72.063
+
+>  <SMILES>  (1) 
+O=C1CCO1
+
+>  <SYNONYMS>  (1) 
+Propiolactone; β-propiolactone
+
+$$$$

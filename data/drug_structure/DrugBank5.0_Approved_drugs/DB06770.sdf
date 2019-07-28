@@ -1,0 +1,143 @@
+
+     RDKit          2D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   21.7215  -14.7720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0069  -16.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0069  -15.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2925  -16.4220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7215  -16.4220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2925  -17.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7215  -17.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.0069  -17.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  3  1  0
+  2  4  2  0
+  2  5  1  0
+  4  6  1  0
+  5  7  2  0
+  6  8  2  0
+  7  8  1  0
+  1  9  1  0
+  3 10  1  0
+  3 11  1  0
+  4 12  1  0
+  5 13  1  0
+  6 14  1  0
+  7 15  1  0
+  8 16  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.07
+
+>  <ALOGPS_LOGS>  (1) 
+-0.61
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.68e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06770
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06770
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+108.057514878
+
+>  <FORMULA>  (1) 
+C7H8O
+
+>  <GENERIC_NAME>  (1) 
+Benzyl alcohol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2
+
+>  <INCHI_KEY>  (1) 
+WVDDGKGOMKODPV-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.891241514942019
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+phenylmethanol
+
+>  <JCHEM_LOGP>  (1) 
+1.2058960486666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.019332111730257
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.7903441343291844
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+32.8739
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+benzyl alcohol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+108.1378
+
+>  <PRODUCTS>  (1) 
+Averteax; Baby's Own Teething Gel - 2.5%; Baby's Own Teething Gel 2.5%; Babys Own Gora Teething Lot; Babys Own Teething Gel; Cipro HC; Denture Orajel Gel; Foille Ont; Itch X; Itch X Gel; Itch-X; Itch-X Gel; Ivarest; Ivy Dry; Ivy-Dry Super; Nitrotan; Orajel Toothache Rinse; Protocoxil; Salonpas LIDOCAINE PLUS; Thomas Formula No 17; Thomas Formula No 47; Ulesfia; Zilactin Early Relief Cold Sore; biochemistry PAIN RELIEF FOOT ACTIVE; shing-Releev
+
+>  <SMILES>  (1) 
+OCC1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+(Hydroxymethyl)benzene; Alcoolbenzylique; Bentalol; Benzalalcohol; Benzalcohol; Benzenemethanol; Benzoyl alcohol; Phenylmethanol
+
+$$$$

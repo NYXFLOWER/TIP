@@ -1,0 +1,182 @@
+371
+     RDKit          2D
+
+ 33 32  0  0  0  0  0  0  0  0999 V2000
+    6.3799   -0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    0.7846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8089   -0.4529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    0.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.8654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3634   -1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    1.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944   -0.0404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 14  1  0
+  2 10  1  0
+  2 15  1  0
+  3 14  2  0
+  4 15  2  0
+  5 14  1  0
+  6 15  1  0
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+  7 11  1  0
+  8 12  1  0
+ 12 13  1  0
+  5 16  1  0
+  5 17  1  0
+  6 18  1  0
+  6 19  1  0
+  8 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 13 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.06
+
+>  <ALOGPS_LOGS>  (1) 
+-1.95
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.47e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00371
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00371
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <EXACT_MASS>  (1) 
+218.126657074
+
+>  <FORMULA>  (1) 
+C9H18N2O4
+
+>  <GENERIC_NAME>  (1) 
+Meprobamate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H18N2O4/c1-3-4-9(2,5-14-7(10)12)6-15-8(11)13/h3-6H2,1-2H3,(H2,10,12)(H2,11,13)
+
+>  <INCHI_KEY>  (1) 
+NPPQSCRMBWNHMW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Equanil; Meprospan; Miltown
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.653083876522018
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(carbamoyloxy)methyl]-2-methylpentyl carbamate
+
+>  <JCHEM_LOGP>  (1) 
+0.9272528839999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.63114431855761
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.171696837219113
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+104.64
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+53.03669999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sowell
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+218.2502
+
+>  <PRODUCTS>  (1) 
+282 Mep Tab; Apo Meprobamate Tab 400mg; Equagesic Tablets; Equanil Tablets 400mg; Meditran 400mg; Meprobamate; Meprobamate Tab 400mg; Novo-mepro 200mg; Novo-mepro 400mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01095
+
+>  <SMILES>  (1) 
+CCCC(C)(COC(N)=O)COC(N)=O
+
+>  <SYNONYMS>  (1) 
+Meprobamat; Meprobamato; Meprobamatum; Meprobamic acid
+
+$$$$

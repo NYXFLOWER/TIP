@@ -1,0 +1,146 @@
+
+     RDKit          2D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+    5.6100   -2.9150    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8955   -2.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8955   -1.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3245   -2.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3245   -1.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -1.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -0.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0389   -1.2650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0389   -2.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100   -3.7400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  1  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  3  1  0
+  6  7  2  0
+  5  8  1  0
+  4  9  1  0
+  1 10  1  0
+  2 11  1  0
+  3 12  1  0
+  8 13  1  0
+  9 14  1  0
+  9 15  1  0
+  9 16  1  0
+ 10 17  1  0
+ 10 18  1  0
+ 10 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.60
+
+>  <ALOGPS_LOGS>  (1) 
+0.29
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.73e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB08826
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB08826
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+139.063328537
+
+>  <FORMULA>  (1) 
+C7H9NO2
+
+>  <GENERIC_NAME>  (1) 
+Deferiprone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H9NO2/c1-5-7(10)6(9)3-4-8(5)2/h3-4,10H,1-2H3
+
+>  <INCHI_KEY>  (1) 
+TZXKOCQBRNJULO-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.050352771655298
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3-hydroxy-1,2-dimethyl-1,4-dihydropyridin-4-one
+
+>  <JCHEM_LOGP>  (1) 
+0.6120479499999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.818641989104988
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.5184907947744267
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.540000000000006
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.6976
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ferriprox
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+139.1519
+
+>  <PRODUCTS>  (1) 
+Ferriprox
+
+>  <SMILES>  (1) 
+CN1C=CC(=O)C(O)=C1C
+
+$$$$

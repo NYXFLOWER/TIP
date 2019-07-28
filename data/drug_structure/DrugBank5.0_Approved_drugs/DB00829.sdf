@@ -1,0 +1,185 @@
+829
+     RDKit          2D
+
+ 33 35  0  0  0  0  0  0  0  0999 V2000
+    2.8172   -2.3592    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.6107    2.3592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4542    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3080    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3811   -0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1244    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7936    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9686    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7694   -0.3478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4586   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9205   -0.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7523   -1.5367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9781   -1.1639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5374   -0.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6465   -1.1636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1824   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2915   -1.6779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0594   -1.3765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2  9  2  0
+  3  6  1  0
+  3  9  1  0
+  3 13  1  0
+  4  7  2  0
+  4  8  1  0
+  5  6  2  0
+  5  7  1  0
+  5 11  1  0
+  6 12  1  0
+  7 10  1  0
+  8  9  1  0
+ 10 16  2  0
+ 10 17  1  0
+ 11 14  2  0
+ 12 15  2  0
+ 14 15  1  0
+ 16 18  1  0
+ 17 19  2  0
+ 18 20  2  0
+ 19 20  1  0
+  8 21  1  0
+  8 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+ 13 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 15 28  1  0
+ 16 29  1  0
+ 17 30  1  0
+ 18 31  1  0
+ 19 32  1  0
+ 20 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.63
+
+>  <ALOGPS_LOGS>  (1) 
+-4.37
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.22e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00829
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00829
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; vet_approved
+
+>  <EXACT_MASS>  (1) 
+284.071640755
+
+>  <FORMULA>  (1) 
+C16H13ClN2O
+
+>  <GENERIC_NAME>  (1) 
+Diazepam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H13ClN2O/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3
+
+>  <INCHI_KEY>  (1) 
+AAOVKJBEBIDNHE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Diapam; Nervium; Relanium
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.386528122049114
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-chloro-1-methyl-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+3.0760865673333337
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.921450447162867
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.67
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+79.81190000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+diazepam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+284.74
+
+>  <PRODUCTS>  (1) 
+Apo Diazepam Tab 10mg; Apo Diazepam Tab 2mg; Apo Diazepam Tab 5mg; Bio-diazepam; Diastat; Diazemuls; Diazepam; Diazepam 10mg Tablets; Diazepam 10tab 10mg; Diazepam 2mg Tablets; Diazepam 2tab 2mg; Diazepam 5 Tab; Diazepam 5mg Tablets; Diazepam Autoinjector; Diazepam Injection Sdz; Diazepam Injection USP; Diazepam Intensol; E Pam Tab 10mg; E Pam Tab 2mg; E Pam Tab 5mg; Gabavale-5; Meval 2; Meval 5; Novo-dipam Tab 10mg; Novo-dipam Tab 2mg; Novo-dipam Tab 5mg; PMS-diazepam; PMS-diazepam Solution 1mg/ml; Topical Nerve Pain; Topical Pain; Valium; Valium 10 Tab; Valium 5 Tab; Valium Inj Roche 5mg/ml; Vivol
+
+>  <SALTS>  (1) 
+Diazepam hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00642; DB07699
+
+>  <SMILES>  (1) 
+CN1C2=C(C=C(Cl)C=C2)C(=NCC1=O)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one; Methyl diazepinone
+
+$$$$

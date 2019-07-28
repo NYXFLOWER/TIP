@@ -1,0 +1,201 @@
+540
+     RDKit          2D
+
+ 41 43  0  0  0  0  0  0  0  0999 V2000
+    2.5991   -1.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4402    2.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6154    2.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9546    1.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1010    1.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0279    0.7462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7710    1.1041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2845    1.1041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0279   -0.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7715    2.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2840    2.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3918    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6639    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3134   -0.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4059    1.5947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3133   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2147    0.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8408    0.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5991   -2.5532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  1 20  1  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  7  2  0
+  4 10  1  0
+  5  8  2  0
+  5 11  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  2  3
+  7 12  1  0
+  8 13  1  0
+  9 14  1  0
+ 10 15  2  0
+ 11 16  2  0
+ 12 18  2  0
+ 13 19  2  0
+ 14 17  1  0
+ 15 18  1  0
+ 16 19  1  0
+  1 21  1  0
+  2 22  1  0
+  2 23  1  0
+  3 24  1  0
+  3 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.65
+
+>  <ALOGPS_LOGS>  (1) 
+-5.48
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.74e-04 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00540
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00540
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+263.167399677
+
+>  <FORMULA>  (1) 
+C19H21N
+
+>  <GENERIC_NAME>  (1) 
+Nortriptyline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H21N/c1-20-14-6-11-19-17-9-4-2-7-15(17)12-13-16-8-3-5-10-18(16)19/h2-5,7-11,20H,6,12-14H2,1H3
+
+>  <INCHI_KEY>  (1) 
+PHVGLTMQBUFIQQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Allegron; Noritren; Norpress; Nortrilen; Sensoval
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.87459039075684
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+methyl(3-{tricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-ylidene}propyl)amine
+
+>  <JCHEM_LOGP>  (1) 
+4.426486977666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.471608936862953
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.03
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+96.21250000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nortriptyline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+263.3767
+
+>  <PRODUCTS>  (1) 
+Apo-nortriptyline - Cap 10mg; Apo-nortriptyline - Cap 25mg; Ava-nortriptyline; Aventyl; Dom-nortriptyline 10mg Capsules; Dom-nortriptyline 25mg Capsules; Gen-nortriptyline Capsules 10mg; Gen-nortriptyline Capsules 25mg; Nortriptyline; Nortriptyline Hydrochloride; Nortriptyline-10; Nortriptyline-25; Norventyl; Nu-nortriptyline - Cap 10mg; Nu-nortriptyline - Cap 25mg; PMS-nortriptyline; Pamelor; Ratio-nortriptyline; Teva-nortriptyline
+
+>  <SALTS>  (1) 
+Nortriptyline Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00602
+
+>  <SMILES>  (1) 
+CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+Demethylamitriptyline; Desmethylamitriptyline
+
+$$$$

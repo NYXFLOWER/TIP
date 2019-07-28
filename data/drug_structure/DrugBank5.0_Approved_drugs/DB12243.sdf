@@ -1,0 +1,164 @@
+4021
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    4.5550    0.4885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1029    0.2586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4355    0.7436    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5155    1.5281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6904    1.5281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7704    0.7436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1029   -0.5662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2055    2.1956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3885   -0.9788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8174   -0.9788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3885   -1.8038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8174   -1.8038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1029   -2.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  2  3  1  0
+  2  6  1  0
+  2  7  1  0
+  3  5  2  0
+  4  5  1  0
+  4  6  1  0
+  5  8  1  0
+  7  9  2  0
+  7 10  1  0
+  9 11  1  0
+ 10 12  2  0
+ 11 13  2  0
+ 12 13  1  0
+  4 14  1  0
+  4 15  1  0
+  8 16  1  0
+  8 17  1  0
+  8 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 11 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.53
+
+>  <ALOGPS_LOGS>  (1) 
+-2.27
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.39e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB12243
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB12243
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+174.07931295
+
+>  <FORMULA>  (1) 
+C10H10N2O
+
+>  <GENERIC_NAME>  (1) 
+Edaravone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H10N2O/c1-8-7-10(13)12(11-8)9-5-3-2-4-6-9/h2-6H,7H2,1H3
+
+>  <INCHI_KEY>  (1) 
+QELUYTUMUWHWMC-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Arone; Radicut
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.6149320485302
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-methyl-1-phenyl-4,5-dihydro-1H-pyrazol-5-one
+
+>  <JCHEM_LOGP>  (1) 
+1.5267006276666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.445719541100054
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.4771470624699288
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.67
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.49250000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+edaravone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+174.203
+
+>  <PRODUCTS>  (1) 
+Radicava
+
+>  <SMILES>  (1) 
+CC1=NN(C(=O)C1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+1-phenyl-3-methyl-5-oxo-2-pyrazoline; 2,4-dihydro-5-methyl-2-phenyl-3H-pyrazol-3-one; 3-methyl-1-phenyl-2-pyrazolin-5-one; 3-methyl-1-phenyl-5-pyrazolone; 3-methyl-1-phenylpyrazol-5-one; C.I. developer 1; developer Z; methylphenylpyrazolone; norphenazone; phenyl methyl pyrazolone; phenylmethylpyrazolone
+
+$$$$

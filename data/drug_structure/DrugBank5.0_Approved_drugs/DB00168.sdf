@@ -1,0 +1,195 @@
+
+     RDKit          2D
+
+ 39 39  0  0  0  0  0  0  0  0999 V2000
+   -4.5964   -0.8839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8820   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1675   -0.8839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4530   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7385   -0.8839    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0241   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3096   -0.8839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4049   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1193    0.7661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4049    0.3536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1193   -0.8839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8338   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8338    0.3536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5964   -1.7089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3109   -0.4714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1675   -1.7089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4530    0.3536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0241    0.3536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7385    0.7661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3096    0.7661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3096    1.5911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  2  1  6
+  3  4  1  0
+  4  5  1  0
+  6  5  1  1
+  6  7  1  0
+  7  8  1  0
+ 10  8  2  0
+  8 11  1  0
+  9 10  1  0
+  9 13  2  0
+ 11 12  2  0
+ 12 13  1  0
+  1 14  2  0
+  1 15  1  0
+  3 16  1  0
+  4 17  2  0
+  6 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 20 21  1  0
+  2 22  1  0
+  2 23  1  0
+  3 24  1  0
+  5 25  1  0
+  6 26  1  0
+  7 27  1  0
+  7 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 15 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 21 37  1  0
+ 21 38  1  0
+ 21 39  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.18
+
+>  <ALOGPS_LOGS>  (1) 
+-2.65
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.52e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00168
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00168
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+294.121571696
+
+>  <FORMULA>  (1) 
+C14H18N2O5
+
+>  <GENERIC_NAME>  (1) 
+Aspartame
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H18N2O5/c1-21-14(20)11(7-9-5-3-2-4-6-9)16-13(19)10(15)8-12(17)18/h2-6,10-11H,7-8,15H2,1H3,(H,16,19)(H,17,18)/t10-,11-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+IAOZJIPTCAWIRG-QWRGUYRKSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aminosweet; Canderel; Equal; Nutrasweet
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.58065029218276
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3S)-3-amino-3-{[(2S)-1-methoxy-1-oxo-3-phenylpropan-2-yl]carbamoyl}propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.218210535836386
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.17607698877404
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.5257229983189755
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.52525108935207
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+118.71999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+73.2182
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+aspartame
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+294.3031
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00046
+
+>  <SMILES>  (1) 
+COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H](N)CC(O)=O
+
+>  <SYNONYMS>  (1) 
+1-Methyl N-L-alpha-aspartyl-L-phenylalanate; 1-methyl N-L-α-aspartyl-L-phenylalanate; 3-Amino-N-(alpha-carboxyphenethyl)succinamic acid N-methyl ester; 3-Amino-N-(alpha-methoxycarbonylphenethyl) succinamic acid; 3-Amino-N-(α-carboxyphenethyl)succinamic acid N-methyl ester; 3-Amino-N-(α-methoxycarbonylphenethyl) succinamic acid; Asp-phe-ome; Aspartam; Aspartame; Aspartamo; Aspartamum; Aspartylphenylalanine methyl ester; L-Aspartyl-L-phenylalanine methyl ester
+
+$$$$

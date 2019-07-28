@@ -1,0 +1,151 @@
+Guaiacol
+     RDKit          2D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    6.7374   -6.2455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -5.4102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0288   -6.6629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -6.2455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0288   -7.4980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -6.6629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -7.9156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -7.4980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4669   -6.6671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  9  1  0
+  2  4  1  0
+  3  4  2  0
+  3  5  1  0
+  4  6  1  0
+  5  7  2  0
+  6  8  2  0
+  7  8  1  0
+  2 10  1  0
+  5 11  1  0
+  6 12  1  0
+  7 13  1  0
+  8 14  1  0
+  9 15  1  0
+  9 16  1  0
+  9 17  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.32
+
+>  <ALOGPS_LOGS>  (1) 
+-0.27
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.74e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11359
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11359
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+124.052429498
+
+>  <FORMULA>  (1) 
+C7H8O2
+
+>  <GENERIC_NAME>  (1) 
+Guaiacol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H8O2/c1-9-7-5-3-2-4-6(7)8/h2-5,8H,1H3
+
+>  <INCHI_KEY>  (1) 
+LHGVFZTZFXWLCP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+17
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.686283084612246
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-methoxyphenol
+
+>  <JCHEM_LOGP>  (1) 
+1.5120092286666669
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.977540753803286
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.8904950754181264
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+34.5021
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+guaiacol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+124.139
+
+>  <PRODUCTS>  (1) 
+Analgesic Balm; Creo-rectal Adulte; Creo-rectal Enfants/children; Creo-rectal Nourrisson; Demo Cineol Inj; Demo-cineol Adultes/adults; Demo-cineol Enfants/children; Dentalgar Liq; Dry Socket; Gouttes Dentaires; Jamp-cough Suppositories Adult; Jamp-suppositories Children; Pastilles Valda; Valda Pastilles; Valda Pastilles Lemon Flavoured
+
+>  <SALTS>  (1) 
+Guaiacol carbonate; Guaiacol hydrochloride
+
+>  <SMILES>  (1) 
+COC1=C(O)C=CC=C1
+
+>  <SYNONYMS>  (1) 
+1-hydroxy-2-methoxybenzene; 2-methoxyl-4-vinylphenol; 2-methoxyphenol; o-guaiacol; o-hydroxyanisole; o-Methoxyphenol; Pyrocatechol monomethyl ether; Pyroguaiac acid
+
+$$$$

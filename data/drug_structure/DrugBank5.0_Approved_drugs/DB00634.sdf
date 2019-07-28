@@ -1,0 +1,168 @@
+634
+     RDKit          2D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+    2.4751    0.7466    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.7466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.5717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.5717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.5534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  5  1  0
+  1  7  1  0
+  4 13  2  0
+  5 13  1  0
+  6 10  1  0
+  7  8  2  0
+  7  9  1  0
+  8 11  1  0
+  9 12  2  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 14  1  0
+  5 15  1  0
+  6 16  1  0
+  6 17  1  0
+  8 18  1  0
+  9 19  1  0
+ 11 20  1  0
+ 12 21  1  0
+ 14 22  1  0
+ 14 23  1  0
+ 14 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.15
+
+>  <ALOGPS_LOGS>  (1) 
+-1.71
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.21e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00634
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00634
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+214.041212886
+
+>  <FORMULA>  (1) 
+C8H10N2O3S
+
+>  <GENERIC_NAME>  (1) 
+Sulfacetamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H10N2O3S/c1-6(11)10-14(12,13)8-4-2-7(9)3-5-8/h2-5H,9H2,1H3,(H,10,11)
+
+>  <INCHI_KEY>  (1) 
+SKIVFJLNDNKQPD-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acetopt; Albucid; Anginamide; Antebor; Apisulfa; Blef-10; Bleph; Cetamide; Cetazin; Oftasul; Optal; Ovace; Riacetamid; Sulfacil; Sulphacalyre; Unisulf
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.491204809580424
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-(4-aminobenzenesulfonyl)acetamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.2610410626666669
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.299983698566216
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.1375402711797
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+89.26
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.482200000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfacetamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+214.242
+
+>  <PRODUCTS>  (1) 
+Avar; Avar Cleansing Pads; Avar LS; Avar LS Cleansing Pads; Avar Ls; Avar-e; Avar-e Green; Avar-e LS; BP Cleansing Wash; Balsulph Oph Liq 10.0%; Balsulph Oph Ont 10.0%; Bleph 10 Dps; Bleph-10; Blephamide; Blephamide Oph Ont; Blephamide Opht Suspension; Cetamide Ont 10%; Clenia; Dioptimyd Ointment; Exact-Rx SODIUM SULFACETAMIDE and SULFER 10%/5% Cleanser; Exact-Rx Sodium Sulfacetamide Wash 10%; Klaron; Metimyd Oph Sus; OVACE Plus; Odan-cide; Odan-sulfacetamide; Ophtho-sulf Liq 10%; Ovace; Ovace Plus; OvacePlus Plus; PMS-sulfacetamide Sod Oph Soln 30%; PMS-sulfacetamide Sodium Liq 10%; Perrigo Seb Prev; Perrigo Sodium Sulfacetamide and Sulfur; Plexion; Prascion Cleanser; Prascion FC; Prascion RA; Prednisolone/sulfacetamide; Rosanil; Rosula; Rosula Wash; SODIUM SULFACETAMIDE and SULFUR; SODIUM SULFACETAMIDE and SULFUR Topical Suspension; SODIUM SULFACETAMIDE and SULFUR Wash; Seb Prev Wash; Sodium Sulamyd 10%; Sodium Sulamyd Oph Dps 30%; Sodium Sulamyd Oph Ont 10%; Sodium Sulfacetamide; Sodium Sulfacetamide - Sulfur Cleansing Pads; Sodium Sulfacetamide - Sulfur Wash; Sodium Sulfacetamide 10 Sulfur 2 Cleanser; Sodium Sulfacetamide 10 Sulfur 2 cream; Sodium Sulfacetamide 10 Sulfur 5; Sodium Sulfacetamide 10 Sulfur 5 Cleanser; Sodium Sulfacetamide 10 and Sulfur 5; Sodium Sulfacetamide 9 Sulfur 4.5 Wash; Sodium Sulfacetamide 9.8% and Sulfur 4.8%; Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser; Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cream; Sodium Sulfacetamide 9.8%, Sulfur 4.8%; Sodium Sulfacetamide and Sulfur; Sodium Sulfacetamide and Sulfur 10 Percent and 2 Percent Cleanser; Sodium Sulfacetamide and Sulfur 10 Percent and 5 Percent Cleanser; Sodium Sulfacetamide and Sulfur Cleanser; Sodium Sulfacetamide and Sulfur External Cream; Sodium Sulfacetamide and Sulfur External Liquid; Sodium Sulfacetamide, Sulfur; Sodium sulfacetamide; SulfaCleanse 8/4; Sulfacet R Lotion; Sulfacet-R; Sulfacetamide; Sulfacetamide Sodium; Sulfacetamide Sodium and Prednisolone Sodium Phosphate; Sulfacetamide Sodium and Sulfur; Sulfacetamide Sodium, Sulfur; Sulfex 10%; Sulfix; Sultrin Triple Sulfa Crm; Sumadan; Sumadan Wash; Sumadan Xlt; Sumaxin CP; Sumaxin Cleansing Pads; Sumaxin TS; Vasocidin Ophthalmic Solution; Vasosulf Oph Soln; Virti-SULF; Zencia Wash
+
+>  <SALTS>  (1) 
+Sulfacetamide sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00452
+
+>  <SMILES>  (1) 
+CC(=O)NS(=O)(=O)C1=CC=C(N)C=C1
+
+>  <SYNONYMS>  (1) 
+Sulfacetamid; Sulfacetamida; Sulfacétamide; Sulfacetamidum
+
+$$$$

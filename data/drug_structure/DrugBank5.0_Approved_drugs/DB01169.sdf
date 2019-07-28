@@ -1,0 +1,114 @@
+
+     RDKit          2D
+
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.7146    0.2062    0.0000 As  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146    0.2062    0.0000 As  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  4  2  0
+  2  3  1  0
+  2  5  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01169
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01169
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+197.827934
+
+>  <FORMULA>  (1) 
+As2O3
+
+>  <GENERIC_NAME>  (1) 
+Arsenic trioxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/As2O3/c3-1-5-2-4
+
+>  <INCHI_KEY>  (1) 
+IKWTVSLWAPBBKU-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+6.9058351056406195
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+diarsorosooxidane
+
+>  <JCHEM_LOGP>  (1) 
+1.0684
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.0420726203634265
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+43.370000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+4.236
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+arsenic trioxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+197.84
+
+>  <PRODUCTS>  (1) 
+Trisenox
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00171
+
+>  <SMILES>  (1) 
+O=[As]O[As]=O
+
+>  <SYNONYMS>  (1) 
+Acide Arsenieux; Anhydride Arsenieux; Arsenic Blanc; Arsenic oxide; Arsenic(III) oxide; Arsenigen Saure; Arsenolite; Arsenous oxide; Arsenous oxide anhydride; Diarsenic oxide; Diarsenic trioxide; White arsenic
+
+$$$$

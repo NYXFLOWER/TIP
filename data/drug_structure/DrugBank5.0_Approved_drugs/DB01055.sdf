@@ -1,0 +1,159 @@
+1055
+     RDKit          2D
+
+ 24 24  0  0  1  0  0  0  0  0999 V2000
+    2.0930    2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.9058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.7308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 12  1  0
+  3 11  2  0
+  4 14  2  0
+  5  7  1  0
+  5  9  1  0
+  5 10  1  0
+  8  6  1  6
+  7  8  1  0
+  8 11  1  0
+  9 12  2  0
+ 10 13  2  0
+ 12 14  1  0
+ 13 14  1  0
+  1 15  1  0
+  2 16  1  0
+  6 17  1  0
+  6 18  1  0
+  7 19  1  0
+  7 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 13 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.43
+
+>  <ALOGPS_LOGS>  (1) 
+-1.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.31e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01055
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01055
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+198.064056818
+
+>  <FORMULA>  (1) 
+C8H10N2O4
+
+>  <GENERIC_NAME>  (1) 
+Mimosine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H10N2O4/c9-5(8(13)14)3-10-2-1-6(11)7(12)4-10/h1-2,4-5,12H,3,9H2,(H,13,14)/t5-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WZNJWVWKTVETCG-YFKPBYRVSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.20032148272685
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-(3-hydroxy-4-oxo-1,4-dihydropyridin-1-yl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.9592000692311604
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+10.58274729332331
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.935149912523551
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.884676445822928
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+103.85999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+48.6582
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mimosine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+198.176
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00647
+
+>  <SMILES>  (1) 
+N[C@@H](CN1C=CC(=O)C(O)=C1)C(O)=O
+
+$$$$

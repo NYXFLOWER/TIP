@@ -1,0 +1,202 @@
+335
+     RDKit          2D
+
+ 41 41  0  0  1  0  0  0  0  0999 V2000
+    4.5080   -0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.7597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.0154    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.9972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.4280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -4.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.7597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.1722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 12  1  0
+  2  7  1  0
+  3 19  2  0
+  4  6  1  0
+  4  8  1  0
+  5 19  1  0
+  6  7  1  0
+  7  9  1  0
+  8 10  1  0
+  8 11  1  0
+ 12 14  2  0
+ 12 15  1  0
+ 13 16  2  0
+ 13 17  1  0
+ 13 18  1  0
+ 14 16  1  0
+ 15 17  2  0
+ 18 19  1  0
+  2 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 11 34  1  0
+ 11 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+ 18 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.57
+
+>  <ALOGPS_LOGS>  (1) 
+-2.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.29e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00335
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00335
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+266.16304258
+
+>  <FORMULA>  (1) 
+C14H22N2O3
+
+>  <GENERIC_NAME>  (1) 
+Atenolol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H22N2O3/c1-10(2)16-8-12(17)9-19-13-5-3-11(4-6-13)7-14(15)18/h3-6,10,12,16-17H,7-9H2,1-2H3,(H2,15,18)
+
+>  <INCHI_KEY>  (1) 
+METKIMKYRPQLGS-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Myocord; Normiten
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.98303657467324
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(4-{2-hydroxy-3-[(propan-2-yl)amino]propoxy}phenyl)acetamide
+
+>  <JCHEM_LOGP>  (1) 
+0.4250248483333329
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+15.950096479624769
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.078504032517479
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.66616624308163
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+84.58
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+73.5053
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+atenolol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+266.3361
+
+>  <PRODUCTS>  (1) 
+Act Atenolol; Ag-atenolol; Apo-atenidone; Apo-atenol Tab 100mg; Apo-atenol Tab 50mg; Atenolol; Atenolol - Tab 100mg; Atenolol - Tab 50mg; Atenolol Scopolamine; Atenolol Tablets 100mg; Atenolol Tablets 50mg; Atenolol Tablets, BP; Atenolol and Chlorthalidone; Ava-atenolol; Bci Atenolol; Bio-atenolol; Dom-atenolol - 100mg; Dom-atenolol - 50mg; Ftp-atenolol; Ipg-atenolol; Jamp-atenolol; Mar-atenolol; Med Atenolol - Tab 100mg; Med Atenolol - Tab 50mg; Mint-atenol; Mylan-atenolol; Ntp-atenol; Ntp-atenolol/chlorthalidone; Nu-atenol Tab 100mg; Nu-atenol Tab 50mg; Orb-atenolol; PMS-atenolol; Penta-atenolol - 100mg; Penta-atenolol - 50mg; Ran-atenolol; Riva-atenolol; Riva-atenolol 100 mg; Riva-atenolol 50 mg; Sandoz Atenolol; Septa-atenolol; Taro-atenolol Tab 100mg; Taro-atenolol Tab 50mg; Tenoretic; Tenoretic 100/25mg Tab; Tenoretic 50/25mg Tab; Tenormin; Tenormin 100mg; Tenormin 50mg; Teva-atenolol; Teva-atenolol/chlorthalidone
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00172
+
+>  <SMILES>  (1) 
+CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1
+
+>  <SYNONYMS>  (1) 
+1-p-Carbamoylmethylphenoxy-3-isopropylamino-2-propanol; 2-(p-(2-Hydroxy-3-(isopropylamino)propoxy)phenyl)acetamide; 4-(2-Hydroxy-3-((1-methylethyl)amino)propoxy)benzeneacetamide; Atenololum
+
+$$$$

@@ -1,0 +1,183 @@
+263
+     RDKit          2D
+
+ 31 32  0  0  0  0  0  0  0  0999 V2000
+    2.4751    0.6631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2758    2.7212    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.4882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0828    2.8927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.6369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.1619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.9007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9433    1.5651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4953    2.1782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.5744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1148    0.7581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158    2.0920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  4  2  0
+  1  5  1  0
+  1  8  1  0
+  2  6  1  0
+  2  9  1  0
+  5  9  1  0
+  6 11  2  0
+  7 17  1  0
+  8 12  2  0
+  8 13  1  0
+  9 10  2  0
+ 10 11  1  0
+ 10 14  1  0
+ 11 18  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+  5 19  1  0
+  7 20  1  0
+  7 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 14 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+ 16 28  1  0
+ 18 29  1  0
+ 18 30  1  0
+ 18 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.14
+
+>  <ALOGPS_LOGS>  (1) 
+-2.93
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.13e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00263
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00263
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+267.067761987
+
+>  <FORMULA>  (1) 
+C11H13N3O3S
+
+>  <GENERIC_NAME>  (1) 
+Sulfisoxazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H13N3O3S/c1-7-8(2)13-17-11(7)14-18(15,16)10-5-3-9(12)4-6-10/h3-6,14H,12H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+NHUHCSRWZMLRLA-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Gantrisin; Neoxazol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.92608944822496
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-N-(dimethyl-1,2-oxazol-5-yl)benzene-1-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+0.7306131126666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+5.804935006005729
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.1668008239015366
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+98.22
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+67.91860000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ganda
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+267.304
+
+>  <PRODUCTS>  (1) 
+Apo Sulfisoxazole Tab 500mg; Erythromycin Ethylsuccinate and Sulfisoxazole Acetyl; Novo-soxazole 500mg; Pediazole; Sulfisoxazole 500mg Tablets; Sulfizole Tab 500mg
+
+>  <SALTS>  (1) 
+Acetyl sulfisoxazole; Sulfisoxazole diolamine
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00595
+
+>  <SMILES>  (1) 
+CC1=NOC(NS(=O)(=O)C2=CC=C(N)C=C2)=C1C
+
+>  <SYNONYMS>  (1) 
+Sulfadimethylisoxazole; Sulfafurazol; Sulfafurazole; Sulfaisoxazole; Sulfasoxazole; Sulfisonazole; Sulfisoxasole; Sulfisoxazol; Sulfofurazole; Sulphafurazol; Sulphafurazole; Sulphaisoxazole; Sulphisoxazol; Sulphofurazole
+
+$$$$

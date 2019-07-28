@@ -1,0 +1,179 @@
+
+     RDKit          2D
+
+ 28 28  0  0  0  0  0  0  0  0999 V2000
+    9.7846   -4.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7846   -5.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2135   -4.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2135   -5.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4991   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3569   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3569   -3.0218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6424   -4.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9279   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0713   -4.2592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0701   -5.4967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4991   -5.4967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4991   -6.3217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2299   -4.9737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0549   -4.9737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+ 11  2  1  0
+  9  3  1  0
+  4  3  1  0
+  1  5  1  0
+  5  3  2  0
+  2 12  1  0
+ 12  4  2  0
+  6  7  2  0
+  8  6  1  6
+ 10  6  1  0
+  8  9  1  0
+ 12 13  1  0
+  8 14  1  0
+  8 15  1  0
+  1 16  1  0
+  4 17  1  0
+  5 18  1  0
+  9 19  1  0
+  9 20  1  0
+ 10 21  1  0
+ 11 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 14 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+ 15 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.02
+
+>  <ALOGPS_LOGS>  (1) 
+-1.97
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.26e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00968
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00968
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+211.084457909
+
+>  <FORMULA>  (1) 
+C10H13NO4
+
+>  <GENERIC_NAME>  (1) 
+Methyldopa
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H13NO4/c1-10(11,9(14)15)5-6-2-3-7(12)8(13)4-6/h2-4,12-13H,5,11H2,1H3,(H,14,15)/t10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+CJCSPKMFHVPWAR-JTQLQIEISA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aldomet; Aldometil; Aldomin; Dopamet; Hypolag; Medomet; Medopren; Novomedopa; Nu-Medopa
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.73358916638329
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-(3,4-dihydroxyphenyl)-2-methylpropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.3594803166154474
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.136101334364048
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.7286926215142575
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.847735184725035
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+103.78
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+53.791399999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+methyldopa
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.2145
+
+>  <PRODUCTS>  (1) 
+Aldomet Ester HCl Inj; Aldomet Tab 125mg; Aldomet Tab 250mg; Aldomet Tab 500mg; Aldoril 15 Tab; Aldoril 25 Tab; Apo Methazide 15; Apo Methazide 25; Dopamet Tab 125mg; Dopamet Tab 250mg; Dopamet Tab 500mg; Medimet 250tab; Methyldopa; Methyldopa 125 Tab 125mg; Methyldopa 250 Tab; Methyldopa 500 Tab 500mg; Methyldopa Tablets 125mg; Methyldopa Tablets 250mg; Methyldopa Tablets 500mg; Methyldopa and Hydrochlorothiazide; Methyldopate Hydrochloride; Novo-doparil 15 Tab; Novo-doparil 25 Tab; Novo-medopa Tab 125mg; Novo-medopa Tab 250mg; Novo-medopa Tab 500mg; Nu-medopa Tab 125mg; Nu-medopa Tab 250mg; Nu-medopa Tab 500mg; PMS-dopazide 15 Tab; PMS-dopazide-25 Tab; Supres 150 Tab; Supres 250 Tab
+
+>  <SALTS>  (1) 
+Methyldopa hydrochloride; Methyldopa sesquihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01106
+
+>  <SMILES>  (1) 
+C[C@](N)(CC1=CC=C(O)C(O)=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(S)-(-)-alpha-Methyldopa; 3-Hydroxy-alpha-methyl-L-tyrosine; Alpha medopa; alpha-Methyl dopa; alpha-methyl-L-dopa; Alphamethyldopa; AMD; Anhydrous methyldopa; L-alpha-Methyldopa; L-Methyl Dopa; Methyl dopa; Methyldopa anhydrous; α-Methyl dopa; α-methyl-L-dopa
+
+$$$$

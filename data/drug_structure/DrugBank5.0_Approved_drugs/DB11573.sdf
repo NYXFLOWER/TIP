@@ -1,0 +1,153 @@
+
+     RDKit          2D
+
+ 22 13  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1196   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2393   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 Al  0  0  0  0  0  0  0  0  0  0  0  0
+    5.7750    0.0000    0.0000 Al  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 11  1  0
+  2 12  1  0
+  3 13  1  0
+  4 14  1  0
+  5 15  1  0
+  6 16  1  0
+  7 17  1  0
+  7 18  1  0
+  7 19  1  0
+  8 20  1  0
+  8 21  1  0
+  8 22  1  0
+M  CHG  8   2  -1   3  -1   4  -1   5  -1   6  -1   7   3   8   3   9  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.32
+
+>  <ALOGPS_LOGS>  (1) 
+0.67
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.51e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11573
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11573
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+191.9561926
+
+>  <FORMULA>  (1) 
+Al2ClH7O6
+
+>  <GENERIC_NAME>  (1) 
+Aluminum chlorohydrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2Al.ClH.6H2O/h;;1H;6*1H2/q2*+3;;;;;;;/p-6
+
+>  <INCHI_KEY>  (1) 
+ZLVPDILYQLCEJO-UHFFFAOYSA-H
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+16
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.5082203897359623
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dialuminium(3+) ion hydrate chloride pentahydroxide
+
+>  <JCHEM_LOGP>  (1) 
+-0.6519999999999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.7
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+25.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+3.7
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dialuminium(3+) ion hydrate chloride pentahydroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+192.46
+
+>  <PRODUCTS>  (1) 
+5 Day; ARRID Dry Renew; ARRID Dry invigorate; ARRID XX Roll On Antiperspirant Deodorant Regular; AVENA kinesia ROLL-ON DEODORANT/ANTIPERSPIRANT; AVENA kinesia ROLL-ON DEODORANT/ANTIPERSPIRANT with Oat and Aloe Vera; Akileine Vaporisateur Antitranspirant; Alyssa Ashley Musk Creme DeS.A. Bille-20; Alyssa Ashley Musk Creme Desodor. A Bille; Ambicious Antiperspirant Deodorant Roll On for Women; Amerfresh Roll-ON Antiperspirant Deodorant; Angel - Caresse D'ange - Deodorant Roll-ON Antiperspirant; Antartic Roll-ON Anti-perspirant; Anti-Perspirant Deodorant; Anti-Perspirant Deodorant Roll-On Unscented; Anti-perspirant   Anti Sudorifique; Anti-perspirant Roll-ON Deod; Antiperspirant; Antiperspirant Cedarwood; Antiperspirant Deodorant; Antiperspirant Deodorant Extra Dry Men; Antiperspirant Deodorant Extra Dry Women; Antiperspirant Deodorant Fresh Women; Antiperspirant Deodorant Roll-On Jafra le moire; Antiperspirant Deodorant Roll-on Jafra Daily; Antiperspirant Dry 2 oz Lady; Antiperspirant Dry 2 oz Men; Antiperspirant Invisible Powder Fresh; Antiperspirant Roll On 22%; Antiperspirant Sandalwood; Antiperspirant Wipe for Women; Antiperspirant/antisudorifique 17.5%; AprilFresh Roll-On Anti-Perspirant Deoderant; Aramis 24 Hour High Performance Antiperspirant Spray; Arrid Cream; Arrid Ext Dry Baby Fresh Scent Aer 10%; Arrid Ext Dry Men Light Scent Spray Aer 12.5%; Arrid Ext Dry Unscent Spray Aer 10%; Arrid Ext Dry for Men Reg Scent Aer 12.5%; Arrid Extra Dry Aerosol - 10%; Arrid Extra Dry Baby Fresh Roll-ON Lot 20%; Arrid Extra Dry Reg Spray 10%; Arrid Extra Dry Regular; Arrid Extra Dry Regular Scent Roll-ON Lot 20%; Arrid Extra Dry Solid Scented 2 Stk 30%; Arrid Extra Dry Unscented Roll-ON Lot 20%; Arrid Extra Dry for Men Aerosol; Arrid Extra Extra Dry Sport; Arrid Extra Extra Dry Ultra Fresh; Arrid Extra Extra Dry Xx; Arrid Extra Extra Dry Xx Cool Shower; Arrid Extra Extra Dry Xx Morning Clean; Arrid Extra Extra Dry Xx Ultra Clear Ultra Clean; Arrid Extra Extra Dry Xx Ultra Clear Ultra Fresh; Arrid Extra Extra Dry Xx Ultra Fresh; Arrid Xx Extra-extra Dry Spray 12.5%; Arrid Xx Sport Spray; Arrid Xx Spray Aerosol; Arrid Xx Spray Fresh Scent -aer 12.5; Arrid Xx Ultra Clear Spray; Aruba Aloe Deodorant Ladies Extra Dry; Aruba Aloe Deodorant Men Extra Dry; Aruba Aloe Deodorant Men Musk; Aruba Aloe Deodorant Women Powder Fresh; Avon Cool Confidence Roll On Liq 17.5%; Avon Cool Confidence Solid Stk 25%; Avon On Duty 24 Plus; Avon On Duty 24 Plus Solid Antipersp Stk 25%; Avon Roll On Antipers Deod Serenad Lot 17.5%; Avon Roll On Antipersp Deod; Avon Roll On Antipersp Deod Destiny 17.5%; Avon Roll On Antiperspirant Deodorant Feelin' Fresh Citrus Cool Lemon; Avon Roll On Antiperspirant Deodorant Vanilla Soft Musk; Avon Roll-ON Antipers. Deod.-contrast 17.5%; Avon Roll-ON Antipers. Deod.-expression17.5%; Avon Roll-ON Antipers. Deod.-lahana 17.5%; Avon Roll-ON Antiperspirant Deodorant; Avon Roll-ON Antiperspirant Deodorant Feelin' Fresh Citrus Cool Grapefruit; Avon Roll-ON Antiperspirant Deodorant Feelin' Fresh Powder Breeze Scent; Avon Roll-ON Antiperspirant Deodorant Maxx; Avon Roll-ON Antiperspirant Deodorant Skin So Soft, Soft and Sensual; Avon Roll-ON Lot Inseparable for Her 17.5%; Avon Roll-ON Lot Inseparable for Him 17.5%; Avon Skin So Soft Roll-ON Antiperspirant Deodorant; Axe; Axe Adrenaline Antiperspirant; Axe Air Antiperspirant; Axe Forest Antiperspirant; Axe Island Antiperspirant; Axe Night Antiperspirant; Axe Signature Air Antiperspirant; Axe Signature Forest Antiperspirant; Axe Signature Gold Dry Antiperspirant; Axe Signature Island Antiperspirant; Axe Signature Night Antiperspirant; Axe Urban Antiperspirant; Ban Beautifully Smooth Roll-ON; Ban Classic Antiperspirant Roll-ON; Ban Roll-On Antiperspirant Deodorant Fresh Cotton; Ban Roll-On Antiperspirant Deodorant Powder Fresh; Ban Roll-On Antiperspirant Deodorant Regular; Ban Roll-On Antiperspirant Deodorant Satin Breeze; Ban Roll-On Antiperspirant Deodorant Simple Clean; Ban Roll-On Antiperspirant Deodorant Unscented; Ban Ultra Antiperspirant Roll-ON; Black Suede Essential Roll-on Anti-perspirant Deodorant; Black Suede Roll-On Anti-Perspirant Deodorant; Body Series Deodorant and Antiperspirant Roll-On Regular Scent; Body Series Deodorant/antiperspirant Pump - 15%; Brut Anti-perspirant Aerosol 9.2%; Brut Anti-perspirant and Deodorant Original Fragrance; CLARINS Roll-On Deodorant Anti-perspirant; CLARINSMEN Antiperspirant ALL DAY DRY ALCOHOL-FREE; CLARISSE Antiperspirant Deodorant Daily Protection; Candid Roll-On Anti-Perspirant Deodorant; Chantilly Creme Desodorisante A Bille; Charm-Tex ANTIPERSPIRANT ROLL-ON DEODORANT; Charm-Tex Deodorant; Clarins Men-antiperspirant Deo Stick Sans Alcool; Clinique Antiperspirant Deodorant Roll-ON; Cool Confidence Baby Powder Scent Roll-On Anti-Perspirant Deodorant; Cool Confidence Original Scent Roll-On Anti-Perspirant Deodorant; Cool Foot; Cuba Original Ladies Roll On Antiperspirant Deodorant; Cuba Original Mens Roll On Antiperspirant Deodorant; DRYSES Antiperspirant 100ml; DRYSES Deodorant for men Roll-on 75ml; DawMist Antiperspirant Deodorant; DawnMist Antiperspirant Deodorant; DawnMist Antiperspirant and Deodorant; DawnMist Unscented Roll-On Antiperspirant Deodorant; Dead Down Wind ScentPrevent Antiperspirant; Dead down wind Scent Prevent Antiperspirant; Degree Adventure Antiperspirant; Degree Aerosol Antiperspirant; Degree Aerosol Antiperspirant 10%; Degree Body Heat Activated Antiperspirant (aerosol); Degree Body Responsive Shower Clean Antiperspirant; Degree Everest Antiperspirant; Degree Extreme Antiperspirant; Degree For Men Motionsense Active Shield Antiperspirant; Degree For Men Motionsense Cool Rush Antiperspirant; Degree Fresh Energy Antiperspirant; Degree Men Black and White Dry Antiperspirant; Degree Men MotionSense Stress Control Dry Antiperspirant; Degree Men MotionSense Ultraclear Black and White Driftwood 48H Antiperspirant; Degree Men MotionSense Ultraclear Black and White Fresh Dry Antiperspirant; Degree Men MotionSense Ultraclear Black and White Ocean Air 48H Antiperspirant; Degree Men Sport 48H Antiperspirant; Degree Men Sport Antiperspirant; Degree MotionSense Stress Control Dry Antiperspirant; Degree MotionSense Ultraclear Black and White Dry Antiperspirant; Degree MotionSense Ultraclear Black and White Pure Clean Dry Antiperspirant; Degree MotionSense Ultraclear Black and White Pure Rain 48H Antiperspirant; Degree MotionSense Ultraclear Black and White Tropical Touch 48H Antiperspirant; Degree Motionsense Daisy Fresh Antiperspirant; Degree Overtime Antiperspirant; Degree Peach Burst Antiperspirant; Degree Sexy Intrigue Antiperspirant; Degree Sheer Powder Antiperspirant; Degree Shower Clean Aerosol Antiperspirant and Deodorant; Degree Shower Clean Antiperspirant; Degree Shower Clean Antiperspirant Deodorant; Degree Sport Aerosol Antiperspirant and Deodorant; Degree Sport Antiperspirant and Deodorant; Degree Sport Defense Antiperspirant; Degree for Women Motionsense Active Shield Antiperspirant; Deo Douceur Creme Anti-transpirante; Deo Douceur Roll-ON Anti-transpirant; DeoDry Antiperspirant; Deodorant Antisudorifique; Deodorant Dermo Tolerance - Bille-15 .5%; Deodorant Dermo Tolerance - Stick - Stk 15%; Deodorant Douceur; Deter Anti-perspirant/deod Spray 9.9%; Deter Double Active Antipersp 25%; Dial Antipersp Deod 13.4%; Dove; Dove Beauty Finish Antiperspirant; Dove Bloom 24h Invisible Solid Antiperspirant Deodorant; Dove Caring Coconut Dry Antiperspirant; Dove Clear Tone Skin Renew Antiperspirant; Dove Cool Essentials Antiperspirant; Dove Fresh 24h Invisible Solid Antiperspirant Deodorant; Dove Invisible Clear Finish Dry Antiperspirant; Dove Invisible Sheer Fresh Dry Antiperspirant; Dove Men plus Care Clean Comfort Antiperspirant; Dove Men plus Care Cool Fresh Antiperspirant; Dove Men plus Care Cool Silver Antiperspirant; Dove Men plus Care Extra Fresh Antiperspirant; Dove Men plus Care Invisible Dry Antiperspirant; Dove Men plus Care Invisible Fresh Dry Antiperspirant; Dove Men plus Care Mineral Powder and Sandalwood Dry Antiperspirant; Dove Men plus Care Minerals and Sage Dry Antiperspirant; Dove Men plus Care Sensitive Shield Antiperspirant; Dove Men plus Care Unscented Antiperspirant; Dove Nourished Beauty Antiperspirant; Dove Original Clean 24h Invisible Solid Antiperspirant Deodorant; Dove Original Clean Antiperspirant; Dove Powder 24h Invisible Solid AntiPerspirant Deodorant; Dove Powder 24h Invisible Solid Antiperspirant Deodorant; Dove Powder Roll On Antiperspirant and Deodorant; Dove Powder Soft Dry Antiperspirant; Dove Revive Antiperspirant; Dove Roll-ON Antiperspirant; Dove Sensitive 24h Invisible Solid Antiperspirant Deodorant; Dove Sensitive Antiperspirant; Dove Soothing Chamomile Antiperspirant; Dryses Antiperspirant Solution; Dryses Deoderant for men, Roll-on; EVOKE Antiperspirant Deodorant; EVOKE Antiperspirant and Deodorant Roll-on; Eoux Deodorant; Esika Total Sec Delicate Skin Alcohol Free Womens Deodorant and Antiperspirant - All Day Protection; Esika Total Sec Neutral Fragrance Alcohol Free Unisex Deodorant and Antiperspirant - All Day Protection; Essence Skin-saving Antiperspirant; Fahrenheit Deodorant Antiperspirant; Family Dollar Roll-On Deodorant; Far Away Dreams Roll-On Antiperspirant Deoderant; Far Away Roll-On Anti-Perspirant Deodorant; Feelin Fresh Original Roll-On Anti-Perspirant Deodorant; Foot Saver; Fresh Sugar Roll-On Deodorant Antiperspirant; Fresh Sugar Roll-on Deodorant; Freshscent Anti-Perspirant Deodorant; G and H Protect Deodorant and Antiperspirant Roll On; Gillette Arctic Ice Invisible; Gillette Invisible Cool Wave; Gillette Invisible Power Rush; Gillette Undefeated Invisible; HCS Roll-On Antiperspirant; Haiku Roll-On Anti-Perspirant Deodorant; Hair Minimizing Antiperspirant Deodorant Roll-ON Jafra Daily; Hand Saver; Hi and Dri Antiperspirant Roll-ON Powder Fresh; Hi and Dri Antiperspirant Roll-On Unscented; Hi and Dri Roll On; IMARI Mystique Roll-On Anti-Perspirant Deodorant; Imari Blossom Roll-on Anti-perspirant Deodorant; Imari Roll-On Anti-Perspirant Deodorant; Imari Seduction Roll-On Anti-Perspirant Deoderant; Invisible Solid Xtreme Anti-Perspirant Deodorant; Invisible Splash Hair Minimizing Roll-On Antiperspirant; Ironman Glory Roll-On Anti-Perspirant Deodorant; Jafra Daily Powder Fresh for Women; Jardins Du Monde Antisudorifique A Bille; Jean Nate Roll-ON Antiperspirant; Kiehls CrossTerrain Antiperspirant Deodorant 24 Hour Strong Dry; Kiehls Since 1851 CrossTerrain Antiperspirant Deodorant 24 Hour Strong Dry; Kiehls Since 1851 Superbly Efficient Antiperspirant and Deodorant; Lactovit DEO ROLL ON LACTOUREA DEODORANT ANTIPERSPIRANT; Lactovit DEO ROLL-ON LACTOUREA DEODORANT ANTIPERSPIRANT; Lactovit Lactourea ROLL-ON DEODORANT ANTIPERSPIRANT; Lactovit Men Roll-On Antiperspirant Deodorant; Lactovit Mens Roll On Antiperspirant Deodorant; Lactovit Mens Roll-On Antiperspirant Deodorant; Lactovit Original Roll-On Antiperspirant Deodorant; Lactovit Sensitive Skin Roll-On Antiperspirant Deodorant; Lady Speed Stick; Lady Speed Stick 24/7 Fresh Fusion; Ladys Choice Invisible Solid Antiperspirant Deodorant Coconut Lime; Ladys Choice Invisible Solid Antiperspirant Deodorant Cucumber Melon; Ladys Choice Invisible Solid Antiperspirant Deodorant Powder Fresh; Ladys Choice Invisible Solid Antiperspirant Deodorant Shower Fresh; Lbel Dry Effect 48; Lemon Ginger Tea Deodorant; Lutece Creme Desodorisante A Bile 20%; Lutece Creme Desodorisante A Bille - 20; Medrol Acne Lotion; MegaFresh Antiperspirant Roll-on Deodorant; MegaFresh Clear Gel Antiperspirant Deodorant; Mesmerize for Men Roll-On Anti-Perspirant Deodorant; Mitchum Advance Control; Mitchum Advance Control Powder Fresh; Mitchum Advance Control Pure Fresh; Mitchum Advance Control Sport; Mitchum Anti Perspirant Crm Scented; Mitchum Antipersp Crm Unscented; Monsieur Musk Creme Desodorisante A Bille; Mum Chamomile; Musk Fire Roll-On Anti-Perspirant Deodorant; Musk Marine Roll-On Anti-Perspirant Deodorant; Musk Wood Roll-on Anti-perspirant Deodorant; Naturally Dry Natural; Naturally Dry Unscented; Naturals Cucumber Melon Anti-perspirant Deoderant; Naturals Vanilla Anti-Perspirant Deodorant; Neat Feat Roll-ON Antipersp.-deod.for Feet; Neo-medrol Acne Lotion; New Brand Perfumes Ladies Roll On Antiperspirant Deodorant; New Brand Perfumes Mens Roll On Antiperspirant Deodorant; Nieva Satin; Night Magic Roll-On Anti-Perspirant Deodorant; Nuvel Devotion Roll-on Antiperspirant Deodorant; Nuvel Instinct Roll-on Antiperspirant Deodorant; Nuvel Softy Antiperspirant Deodorant Stick; Nuvel Softy Roll-on Antiperspirant Deodorant; Nuvel Tropic Antiperspirant Deodorant Stick; Nuvel Tropic Roll-on Antiperspirant Deodorant; Obao Active; Obao Bamboo Breeze; Obao Cool Metal; Obao Floral Freshness; Obao Frescura Floral; Obao Frescura Intensa; Obao Frescura Suave; Obao Men Active; Obao Men Audaz; Obao Piel Delicada; Obao Sensitive Passion; Obao Soft Freshness; Odyssey Roll-On Anti-Perspirant Deodorant; Old Spice Captain Invisible; Old Spice Fiji Invisible; Old Spice High Endurance Antiperspirant; Old Spice High Endurance Pure Sport; Old Spice Invisible Bearglove; Old Spice Invisible Pure Sport; Old Spice Invisible Swagger; Old Spice Wolfthorn Invisible; On Duty Original Roll-On Anti-Perspirant Deodorant; On Duty Sport Roll-On Anti-Perspirant Deodorant; On Duty Unscented Roll-On Anti-Perspirant Deodorant; OraLine-Secure CLEAR ANTIPERSPIRANT/DEODORANT; Pastel Antiperspirant Deodorant Roll-On Jafra; Pour L'homme: Antisudorifique à Bille; Precious Antiperspirant Deodorant Roll On for Women; Rare Diamonds Roll-On Anti-Perspirant Deodorant; Rare Gold Roll-On Anti-Perspirant Deodorant; Rare Pearls Roll-On Anti-Perspirant Deodorant; Right Guard Aerosol Antiperspirant; Right Guard Antiperspirant Aerosol; Right Guard Sport Antiperspirant Aerosol; Right Guard Sport Fresh Antiperspirant; Right Guard Sport Scented Antiperspirant; Roll On Anti Perspirant Alcohol Free; Roll On Anti-Perspirant (Alcohol Free); Roll On Anti-Perspirant Deodorant; Roll-ON Anti-perspirant Deodorant; Roll-ON Deodorant Antipersp; Roll-ON Deodorant Multi-soin Anti-perspirant; Roll-On Antiperspirant; Roll-On Antiperspirant Deodorant - Scented; SOFT and DRI Clinical Everfresh Blossom; SOFT and DRI Soft Scent; Secret Active Cool Invisible; Secret Active Fresh Invisible; Secret Active Sport Invisible; Secret Antiperspirant Powder Fresh; Secret Antiperspirant Spring Breeze; Secret Clean Antipersp Aer 12%; Secret Invisible Boho Berry; Secret Invisible Cool Waterlily; Secret Invisible Glam Grapefruit; Secret Invisible Luxe Lavender; Secret Roll-On Powder Fresh; Sensitive Skin antiperspirant deodorant roll-on Jafra Daily; Shafali Fleur Rare Roll-ON Anti-perspirant; Silky Smooth Anti-Perspirant Deodorant; Silky Smooth Anti-Perspirant Deodorant Invisible Solid; Skin So Soft Ultra Even Roll-On Anti-Perspirant Deodorant; Skin brightening antiperspirant deodorant roll-on Jafra Daily; Soft & Dri Antiperspirant Aerosol; Soft & Dri Antiperspirant Aerosol (baby Powder); Soft & Dri Antiperspirant Aerosol (soft Scent); Soft and Dri Aerosol Antiperspirant; Soft and Dri Cool and Clean; Soft and Dri Soft Scent; Solid anti perspirant; Spai-sons Floop C; Spai-sons Floop R; Speed Stick 24/7 Fresh Rush; Stay Dry Deodorant Roll On; Stefano Fire; Stefano Gladius Roll-on; Stefano Midnight; Stefano Royal; Stefano Spazio; Stefano Stick; Stick Deodorant Multi-soin Anti-perspirant; Suave 24 Hour Fresh Antiperspirant; Suave 24 Hour Powder Antiperspirant; Suave Almond Verbena Antiperspirant Deodorant; Suave Cocoa Butter Antiperspirant and Deodorant; Suave Coconut Kiss Antiperspirant Deodorant; Suave Everlasting Sunshine Antiperspirant and Deodorant; Suave Fresh Aerosol Antiperspirant and Deodorant; Suave Fresh Antiperspirant Deodorant; Suave Fresh Antiperspirant and Deodorant; Suave Ocean Breeze Antiperspirant and Deodorant; Suave Pacific Breeze Antiperspirant and Deodorant; Suave Powder 24 Hour Protection Roll-On AntiPerspirant Deodorant; Suave Powder Aerosol Antiperspirant and Deodorant; Suave Powder Antiperspirant and Deodorant; Suave Powder Roll On Antiperspirant and Deodorant; Suave Sweet Pea and Violet Antiperspirant and Deodorant; Suave Tropical Paradise Antiperspirant and Deodorant; Suave Wild Cherry Blossom; Sure Antiperspirant Deodorant Fresh; Sure Antiperspirant Deodorant Regular; Sure Antiperspirant Deodorant Unscented; Sweet Honesty Roll-On Anti-Perspirant Deodorant; Tabac Original Antiperspirant; Thierry Mugler Womanity Antiperspirant Roll-On Deodorant; Timeless Roll-On Anti-Perspirant Deodorant; Toms Naturally Dry Antiperspirant Deodorant - Fresh Meadow wetness protection; Toms Naturally Dry Antiperspirant Deodorant - Northwoods wetness protection; Toms of Maine Antiperspirant Deodorant - Coconut Lavender Wetness Protection; Toms of Maine Antiperspirant Deodorant Coconut Lavender Wetness Protection; Total Comfort Cool Blast; Total Comfort Fresh Blast; True Force Roll-On Antiperspirant Deoderant; Tussy Antiperspirant and Deodorant Invisible Original Fresh Spice; Tussy Antiperspirant and Deodorant Original Fresh Spice; ULTRA MAX Dry CONFIDENCE; ULTRA MAX Dry PEAK PERFORMANCE; Ultra Max Dry Confidence; Ultra Max Dry Peak Performance; Ultra dry antiperspirant; Vesen Antiperpirant Deodorant Roll-On JAFRA; Watkins Roll On Deodorant; Wild Country Roll-On Anti-Perspirant Deodorant; XtraCare Dry Fresh Invisible Solid; XtraCare Invisible Solid Lady Stick Powder Fresh; Xtreme Stick Anti-Perspirant and Deodorant; Youth Dew Roll On Antipersp Deod Lot; Youth Dew Roll-ON Antiperspirant Deodorant; Youth-dew Roll-ON Antiperspirant Deodorant; Zermat Kiwi with Fragrance; Zermat Xtreme Roll-On Antiperspirant Deodorant; eau d amour Antiperspirant Deodorant Roll On for Women; eau damour Antiperspirant Deodorant RollOn for Women; esika MEN Control Fresh Deodorant and Antiperspirant; zermat Antiperspirant Deodorant Roll-on for Men; zermat Antiperspirant Deodorant Roll-on for Women; zermat Kiwi ANTIPERSPIRANT DEODORANT ROLL-ON SENSITIVE SKIN
+
+>  <SALTS>  (1) 
+Aluminum chlorohydrate anhydrous
+
+>  <SMILES>  (1) 
+O.[OH-].[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-]
+
+>  <SYNONYMS>  (1) 
+Aluminium chlorohydrate
+
+$$$$

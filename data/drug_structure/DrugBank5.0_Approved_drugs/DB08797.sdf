@@ -1,0 +1,145 @@
+5147
+     RDKit          2D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    2.0930   -0.0495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.1880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2 10  2  0
+  3 10  1  0
+  4  5  2  0
+  4  6  1  0
+  4 10  1  0
+  5  7  1  0
+  6  8  2  0
+  7  9  2  0
+  8  9  1  0
+  1 11  1  0
+  3 12  1  0
+  3 13  1  0
+  6 14  1  0
+  7 15  1  0
+  8 16  1  0
+  9 17  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.74
+
+>  <ALOGPS_LOGS>  (1) 
+-1.24
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.82e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB08797
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB08797
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+137.047678473
+
+>  <FORMULA>  (1) 
+C7H7NO2
+
+>  <GENERIC_NAME>  (1) 
+Salicylamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H7NO2/c8-7(10)5-3-1-2-4-6(5)9/h1-4,9H,(H2,8,10)
+
+>  <INCHI_KEY>  (1) 
+SKZKKFZAGNVIMN-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.224969535328583
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxybenzamide
+
+>  <JCHEM_LOGP>  (1) 
+1.1703207886666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.448510774907184
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.211132878199551
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7578607061378482
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+37.1173
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+salicylamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+137.136
+
+>  <PRODUCTS>  (1) 
+Exaprin; Extra Strength Pain Reliever; Green Guard Pain and Ache Relief; Medi First Pain Relief; Medi First Plus Pain Zapper; Pain Free; Pain Reliever; Pain Stopper Extra; Pain Stoppers; Pain Stoppers Regular; Pain Terminator; Zee Pain Aid
+
+>  <SMILES>  (1) 
+NC(=O)C1=CC=CC=C1O
+
+$$$$

@@ -2,7 +2,8 @@ import numpy as np
 import scipy.sparse as sp
 import pickle
 import csv
-from data.utils import get_side_effect_index_from_text, get_drug_index_from_text
+from data.utils import get_side_effect_index_from_text, \
+    get_drug_index_from_text
 
 
 RAW_DATA_PATH = "/Users/nyxfer/Docu/FM-PSEP/data/raw_data/"
@@ -137,8 +138,8 @@ sp.save_npz(WRITE_DATA_PATH + "node_feature/drug-mono-feature.npz", adj)
 # save graph info
 # #####################################################
 def save_to_pkl(path, obj):
-    with open(path, 'wb') as g:
-        pickle.dump(obj, g)
+    with open(path, 'wb') as ff:
+        pickle.dump(obj, ff)
 
 
 save_to_pkl(WRITE_DATA_PATH+"index_map/drug-map.pkl", drug_map)
@@ -147,3 +148,27 @@ save_to_pkl(WRITE_DATA_PATH+"index_map/combo_map.pkl", combo_map)
 save_to_pkl(WRITE_DATA_PATH+"index_map/mono_map.pkl", mono_map)
 
 save_to_pkl(WRITE_DATA_PATH+"graph_info.pkl", (drug_id, protein_id, combo_id, mono_id))
+
+
+# #####################################################
+# chem id to drugbank id
+# #####################################################
+hhh = []
+with open("./data/index_map/drug links.csv", "r") as f:
+    reader = csv.reader(f)
+    next(reader)
+    for drug_info in reader:
+        # if drug_info[6] and drug_info[-7]:
+        #     hhh.append([drug_info[0], drug_info[6], drug_info[-7]])
+        if drug_info[6]:
+            hhh.append([drug_info[0], drug_info[6]])
+
+chem_map_db = {}
+# db_map_smile = {}
+# for db_id, smiles, chem_id in hhh:
+for db_id, chem_id in hhh:
+    chem_map_db[chem_id] = db_id
+    # db_map_smile[db_id] = smiles
+
+save_to_pkl('./data/index_map/chem-map-db.pkl', chem_map_db)
+# save_to_pkl('./data/index_map/db_map_smile.pkl', db_map_smile)

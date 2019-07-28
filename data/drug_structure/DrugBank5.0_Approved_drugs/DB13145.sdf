@@ -1,0 +1,133 @@
+
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    0.7226   -0.1353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6122   -0.1352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573   -0.9199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4677   -0.9199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8424   -1.5872    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0552    0.3496    0.0000 Pt  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7697    0.7621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6592    0.7621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  4  1  1  0
+  1  6  1  0
+  6  2  1  0
+  3  5  2  0
+  6  8  1  0
+  6  7  1  0
+  4  9  1  0
+  4 10  1  0
+  7 11  1  0
+  7 12  1  0
+  8 13  1  0
+  8 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.84
+
+>  <ALOGPS_LOGS>  (1) 
+-0.35
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.38e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13145
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13145
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+303.018284
+
+>  <FORMULA>  (1) 
+C2H8N2O3Pt
+
+>  <GENERIC_NAME>  (1) 
+Nedaplatin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H3O3.2H3N.Pt/c3-1-2(4)5;;;/h1H2,(H,4,5);2*1H3;/q-1;;;+2/p-1
+
+>  <INCHI_KEY>  (1) 
+GYAVMUDJCHAASE-UHFFFAOYSA-M
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aqupla
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+16
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.4960298484508
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2,2-diamino-1,3-dioxa-2-platinacyclopentan-4-one
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+90.81
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+43.2337
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2,2-diamino-1,3-dioxa-2-platinacyclopentan-4-one
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+303.181
+
+>  <SMILES>  (1) 
+[H][N]([H])([H])[Pt]1(OCC(=O)O1)[N]([H])([H])[H]
+
+>  <SYNONYMS>  (1) 
+(glycolato-O,O')diammineplatinum(II); CDGP; cis-Diammine (glycolato)platinum; cis-diammine(glycolato)platinum; cis-Diammine(glycolato)platinum(II)
+
+$$$$

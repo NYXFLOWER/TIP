@@ -1,0 +1,199 @@
+
+     RDKit          2D
+
+ 42 43  0  0  0  0  0  0  0  0999 V2000
+    3.4656    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    3.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091    3.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091    2.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    1.8777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    1.0527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    2.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    1.8777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    1.0527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1331    0.5678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8781   -0.2169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0531   -0.2169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7982    0.5678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3235    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0380    3.9402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7360    2.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9110    4.2422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  2  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 10 14  1  0
+  4 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 15 18  1  0
+  1 19  1  0
+  1 20  1  0
+  1 21  1  0
+  3 22  1  0
+  5 23  1  0
+  7 24  1  0
+  7 25  1  0
+  7 26  1  0
+  9 27  1  0
+  9 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 16 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+ 18 41  1  0
+ 18 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.68
+
+>  <ALOGPS_LOGS>  (1) 
+-4.44
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.93e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06694
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06694
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+244.193948778
+
+>  <FORMULA>  (1) 
+C16H24N2
+
+>  <GENERIC_NAME>  (1) 
+Xylometazoline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H24N2/c1-11-8-13(16(3,4)5)9-12(2)14(11)10-15-17-6-7-18-15/h8-9H,6-7,10H2,1-5H3,(H,17,18)
+
+>  <INCHI_KEY>  (1) 
+HUCJFAOMUPXHDK-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Otriven; Otrivin; Otrivine; Otrix; Xylomet; Xylostar
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.8526573853075
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(4-tert-butyl-2,6-dimethylphenyl)methyl]-4,5-dihydro-1H-imidazole
+
+>  <JCHEM_LOGP>  (1) 
+3.7755392423333323
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.287868203701459
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+24.39
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+77.81760000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+xylometazoline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+244.3752
+
+>  <PRODUCTS>  (1) 
+4 Way Moisturizing Relief; Aqua Maris Fast Acting Decongestant; Aqua Maris Kids Fast Acting Decongestant; Balminil Decongest; Balminil Nasal Decongestant; Certified Decongestant Nasal Spray .1%; Cold & Allergy Relief; Cold & Allergy Relief With Moisturizers; Cold and Allergy Decongestant Nasal Spray; Decongest Nasal; Decongestant Nasal Spray; Decongestant Nasal Spray - 0.10%; Decongestant Nasal Spray 0.1%; Decongestant Nasal Spray 0.1% USP; Decongestant Nasal Spray 0.1% W/V; Decongestant Nasal Spray With Moisturizers; Decongestant Nose Drops 0.1%; Nasal Decongestant Spray With Moisturizers; Ophtrivin A Ophthalmic Dps; Otrivin Allergy and Cold Decongestant Nasal Spray; Otrivin Cold and Allergy Decongestant Nose Drops; Otrivin Decongestant Nose Drops 0.05%; Otrivin Medicated Cold & Allergy Relief; Otrivin Medicated Cold & Allergy Relief With Moisturizers; Otrivin Medicated Complete Nasal Care; Otrivin Menthol - Asp-liq 0.1%; Otrivin Pediatric Decongestant Nose Drops; Otrivin Pediatric Nasal Spray 0.05%; Otrivin Sinus Relief; Otrivin With M-D Pump; Sinosil Nasal Decongestant; Vaporisateur Nasal Decongestionnant
+
+>  <SALTS>  (1) 
+Xylometazoline hydrochloride
+
+>  <SMILES>  (1) 
+CC1=CC(=CC(C)=C1CC1=NCCN1)C(C)(C)C
+
+>  <SYNONYMS>  (1) 
+Xylomethazoline
+
+$$$$

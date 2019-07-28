@@ -1,0 +1,195 @@
+
+     RDKit          2D
+
+ 41 40  0  0  0  0  0  0  0  0999 V2000
+    0.5001   -1.2788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2146   -0.8663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2143   -0.8663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2146   -0.0413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2143   -0.0413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5001    0.3712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9288    0.3713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5001    1.1962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6433   -0.0412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9288    1.1963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5293   -1.0725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8148    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2437    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2437   -1.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8148    0.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2437    0.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5293   -0.2475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2437   -2.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1003    1.4025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9582    1.4025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  4  2  0
+  6  5  1  0
+  7  5  1  0
+  8  6  1  0
+  9  7  2  0
+ 10  7  1  0
+ 14 11  1  0
+ 15 12  1  0
+ 16 13  1  0
+ 17 11  1  0
+ 17 12  1  0
+ 17 13  1  0
+ 18 14  1  0
+ 19 15  1  0
+ 20 16  1  0
+  1 21  1  0
+  2 22  1  0
+  3 23  1  0
+  4 24  1  0
+  8 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 15 36  1  0
+ 16 37  1  0
+ 16 38  1  0
+ 18 39  1  0
+ 19 40  1  0
+ 20 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.96
+
+>  <ALOGPS_LOGS>  (1) 
+-1.09
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.13e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11079
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11079
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+287.1368874
+
+>  <FORMULA>  (1) 
+C13H21NO6
+
+>  <GENERIC_NAME>  (1) 
+Trolamine salicylate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H6O3.C6H15NO3/c8-6-4-2-1-3-5(6)7(9)10;8-4-1-7(2-5-9)3-6-10/h1-4,8H,(H,9,10);8-10H,1-6H2
+
+>  <INCHI_KEY>  (1) 
+UEVAMYPIMMOEFW-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+41
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.820220670908594
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-[bis(2-hydroxyethyl)amino]ethan-1-ol; 2-hydroxybenzoic acid
+
+>  <JCHEM_LOGP>  (1) 
+1.977263402333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+13.228682517040586
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.7897391795725692
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.285929432184692
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.2951
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+salicylic; triethanolamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+287.312
+
+>  <PRODUCTS>  (1) 
+Actiflex Pain Relief Rub; Alcis Daily Relief Pain Relief; Alcis Topical Pain Relief Cream; Analgesic; Analgesic Cream; Analgesic Cream Extra Strength Odorless; Analgesic Creme Rub; Antiphlogistine Rub A-535 No Odour Fmla Ont; Arthricream; Arthricream with Aloe; Arthritic Pain; Arthritis; Arthritis Creme; Arthritis Extra Strength Roll-ON Lotion; Arthritis Hand CVS; Arthritis Leader; Arthritis Pain Relief Cream; Arthritis Pain Relief Lotion; Arthritis Relief Well At Walgreens; Arthritis Reliev CVS; Arthritis with Aloe CVS; Arthur Itis Cream; Asper-Flex Cream; Aspercreme 10%; Aspercreme Creme Rub 10%; Aspercreme Extra Strength Crm Rub; Aspercreme Pain Relieving; Bengay Muscle Pain No Odour; Blue-Emu Maximum Arthritis Pain Relief Cream; Bluegesic; Blumjk Pain Relief; Camerhoign; Care One Analgesic; ELF Flawless Finish Foundation SPF 15 Oil Free; Ease Pain Away Analgesic Lotion; Ease Pain Away Analgesic Roll-ON Lotion; Exact No Odour Pain Relief Cream; Extra Strength Aspercreme Creme Rub 15%; Flexacreme; Flexacrème Extra-strength; Good Neighbor Pharmacy Arthritis Pain; Health Mart Arthritis Creme; Leader Maximum Strength Pain Relieving Analgesic; Maximum Strength Blue Emu Pain Relief Blu Emu; Mobisyl; Muscul Aid; Myoflex; Myoflex Arthritic Cream; Myoflex Arthritic Cream 15%; Myoflex Deep Therapy; Myoflex Extra Cream; Myoflex Extra Cream 15%; Myoflex Extra Strength - Crm 15%; Myoflex Extra Strength Ice; Myoflex Ice Cold Plus - Gel; Myoflex Ice Plus - Crm; Myoflex Maximum Strength; Myoflex Pain Relieving Cream; Myoflex Platinum; Myoflex Regular Cream - 10%; Myoflex Regular Cream 10%; Myoflex Ultra Strength; No Odour Cream; Odourless Arthritis Relief; Pain Relief Cream; Pain Relief Odor Free; Pain Relief Rub Triethanolamine Salicylate Cream; Permavan External Patch; Regular Strength No Odour Cream; Royflex Analgesic Creme - 10%; Smart Sense Analgesic; Smart Sense Arthritis; Sportscreme; Sunmark Arthricream Rub; Trolamine Salicylate; Ultra Strength No Odour Cream; Ultra Strength Pain Relief Rub; Ultracin T; Up and Up Odor-free Pain Relieving Cream; Vantelin Odorless Pain Relieving
+
+>  <SMILES>  (1) 
+OCCN(CCO)CCO.OC(=O)C1=CC=CC=C1O
+
+$$$$

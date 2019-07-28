@@ -1,0 +1,130 @@
+
+     RDKit          2D
+
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -0.2010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.6177    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7120   -0.6177    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7120   -0.6177    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  1  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  4  8  1  0
+M  ISO  1   1  14
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.78
+
+>  <ALOGPS_LOGS>  (1) 
+0.84
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.12e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09513
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09513
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+62.035604745
+
+>  <FORMULA>  (1) 
+CH4N2O
+
+>  <GENERIC_NAME>  (1) 
+Urea C-14
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)/i1+2
+
+>  <INCHI_KEY>  (1) 
+XSQUKJJJFZCRTK-NJFSPNSNSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.103029304550037
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(¹⁴C)urea
+
+>  <JCHEM_LOGP>  (1) 
+-1.3638338616666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.73196510680673
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.3686972237578967
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+69.11
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.1426
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(¹⁴C)urea
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+62.048
+
+>  <PRODUCTS>  (1) 
+PYtest
+
+>  <SMILES>  (1) 
+N[14C](N)=O
+
+>  <SYNONYMS>  (1) 
+14C-urea; Carbon 14 urea; Carbon-14 urea; Urea (14C); Urea 14 C; Urea C 14; Urea-14C; Urea, C-14
+
+$$$$

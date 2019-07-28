@@ -1,0 +1,174 @@
+
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991   -0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9840    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991    0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8347    1.4211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8045    0.0862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1401    0.8399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6551    1.5074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9907    2.2610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  8  1  0
+  3  1  1  1
+  3 13  1  0
+  2  4  1  0
+  4  3  1  0
+  2  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7 10  1  0
+  8  9  1  0
+  9 15  2  0
+ 10 11  2  0
+ 11 15  1  0
+ 13 12  2  0
+ 14 13  1  0
+ 15 16  1  0
+  1 17  1  0
+  1 18  1  0
+  3 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  6 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 14 27  1  0
+ 16 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.56
+
+>  <ALOGPS_LOGS>  (1) 
+-1.78
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.63e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB02959
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB02959
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+220.08479226
+
+>  <FORMULA>  (1) 
+C11H12N2O3
+
+>  <GENERIC_NAME>  (1) 
+Oxitriptan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H12N2O3/c12-9(11(15)16)3-6-5-13-10-2-1-7(14)4-8(6)10/h1-2,4-5,9,13-14H,3,12H2,(H,15,16)/t9-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+LDCYZAJDBXYCGN-VIFPVBQESA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Levothym; Quietim
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.030658706262532
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-(5-hydroxy-1H-indol-3-yl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.3896984621581003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.795366619375281
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.152663935897665
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.18065085700301
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+99.34
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.18370000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydroxytryptophan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+220.2246
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01780
+
+>  <SMILES>  (1) 
+N[C@@H](CC1=CNC2=C1C=C(O)C=C2)C(O)=O
+
+>  <SYNONYMS>  (1) 
+5-Hydroxy-L-Tryptophan
+
+$$$$

@@ -1,0 +1,227 @@
+158
+     RDKit          2D
+
+ 51 53  0  0  1  0  0  0  0  0999 V2000
+   12.8598    0.2286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9988    1.0426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1501   -1.0116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8502    2.7036    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4213    2.6981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7180   -0.1921    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1504   -1.4434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9740   -1.0250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.7036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9740   -2.7322    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.4661    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.7036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4309    0.2231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4277    1.0481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1406    1.4634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0019    0.2176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2890   -0.1977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1469   -0.1866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8633   -1.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4343   -1.0337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2922   -1.0227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5730    0.2121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5793   -1.4379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8601   -0.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7214   -1.4490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1374    2.2883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -1.4661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -2.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7214   -2.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.0536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 17  2  0
+  3 19  2  0
+  4 27  1  0
+  5 27  2  0
+  6 31  2  0
+ 14  7  1  1
+  7 17  1  0
+  8 20  1  0
+  8 21  1  0
+  9 26  2  0
+  9 28  1  0
+ 10 29  1  0
+ 10 32  1  0
+ 11 29  1  0
+ 11 30  2  0
+ 12 31  1  0
+ 12 32  2  0
+ 13 32  1  0
+ 14 15  1  0
+ 14 19  1  0
+ 15 16  1  0
+ 16 27  1  0
+ 17 18  1  0
+ 18 22  2  0
+ 18 23  1  0
+ 20 24  2  0
+ 20 25  1  0
+ 21 26  1  0
+ 22 24  1  0
+ 23 25  2  0
+ 26 30  1  0
+ 28 29  2  0
+ 28 31  1  0
+  1 33  1  0
+  4 34  1  0
+  7 35  1  0
+  8 36  1  0
+ 10 37  1  0
+ 13 38  1  0
+ 13 39  1  0
+ 14 40  1  0
+ 15 41  1  0
+ 15 42  1  0
+ 16 43  1  0
+ 16 44  1  0
+ 21 45  1  0
+ 21 46  1  0
+ 22 47  1  0
+ 23 48  1  0
+ 24 49  1  0
+ 25 50  1  0
+ 30 51  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.04
+
+>  <ALOGPS_LOGS>  (1) 
+-3.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.61e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00158
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00158
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical; vet_approved
+
+>  <EXACT_MASS>  (1) 
+441.139681375
+
+>  <FORMULA>  (1) 
+C19H19N7O6
+
+>  <GENERIC_NAME>  (1) 
+Folic Acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H19N7O6/c20-19-25-15-14(17(30)26-19)23-11(8-22-15)7-21-10-3-1-9(2-4-10)16(29)24-12(18(31)32)5-6-13(27)28/h1-4,8,12,21H,5-7H2,(H,24,29)(H,27,28)(H,31,32)(H3,20,22,25,26,30)/t12-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+OVBPIULPVIDEAO-LBPRGKRZSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acfol; Fefol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+12
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.05656599350642
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-[(4-{[(2-amino-4-oxo-1,4-dihydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.6822492521481692
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+4.173203635301818
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.3738733533368284
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.0868651603506487
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+208.99000000000004
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+111.01120000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+folate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+441.3975
+
+>  <PRODUCTS>  (1) 
+A.R.T.H. Away Formula; Acide Folique 5 Tab; Acti-folic + Dibencozide Caplets; Active FE; Adult Infuvite Multiple Vitamins; Am Caps; Animi-3; Animi-3 with Vitamin D; Apo Folic Acid Tab 5mg; Av-VITE FB; Avon Nutrivance Vitamin E Plus; B 50 Capsules; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Complex Tablets; B Compound 50mg Tab; B Stress C + Iron & Vite; B-100 Caps; B-100 Complex Tablets; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Complex Tab; B-50 Hi Potency B Vitamins Tab; B-Nexa; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex Tablets; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B50 B Complex Tab; B6, B12 & Folic Acid; B6, B12 & Folic Acid Multi-vitamin Tablets; Bacmin; Balanced B 125 Srt; Balanced B-100 B-complex Vitamins Tab; Balanced B-100 Timed Release; Balanced B-50 B-complex Vitamins Tab; Balanced B-50 B-complex Vitamins, Timed Rele; Balanced B-50 Complex; Balanced B-complex Vit + Vit C&e Tab; Balanced B100; Balanced B50 Complex; Bev 29 Tab; Bev B-150; BiferaRx; Bio-b12; Bio-fen; BioFerr 90; Bseltzer; Bugs Bunny Chew Multi Vit Plus Iron; Bugs Bunny and Friends Multiple Vitamins; C-B Complex; C-Nate DHA; C.R.D.-force; Calcium Folic Acid Plus D Chewable; Carbassist Tablets; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Cedevita Plus Vitamin Supplement; Cedevita Sugar-free Vitamin Supplement; Central-vite 18 Essential; Century Complete; Chela Potassium Plus; Chew.multiple Vits.with Extra C for Children; Chewable Multiple Vit Plus Iron for Children; Chewable Multiple Vitamins Plus Extra C; Chewable Multiple Vitamins for Children; Chewable Multivitamins; Chewable Multivitamins Plus Iron; Children's Chewable Multi Vit W Iron; Children's Chewable Multi Vitamins; Children's Chewable Multi Vitamins With Iron Tablets; Children's Chewable Multi-vitamin; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multiple Vit.plus Iron; Children's Chewable Multiple Vitamins (chewable Tablets); Children's Chewable Multiple Vitamins - Tab; Children's Chewable Multiple Vitamins With Extra Vitamin C (chewable Tablets); Children's Chewable Multiple Vitamins With Iron Tablets (chewable Tablets); Children's Chewable Multivitamin and Multimineral; Children's Vitamins Chewable; Children's Vitamins W Iron Chewable; Childrens Chew Multi Vitamin Tab; Childrens Chewable Multiple Vitamins; Childrens Chewable Multiple Vitamins Plus Fe; Childrens Chewable Multiple Vitamins Tab; Childrens Chewable Vitamins; Chromagen; Ciferex; Cifrazol; CitraNatal 90 DHA; CitraNatal B-Calm; CitraNatal Bloom; CitraNatal DHA; CitraNatal Harmony 3.0; CitraNatal Rx; Co-Veratrol; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Complex-75; Complexe B 75mg; Complexe B Compose 75; Complexe B-75; Concept DHA; Concept OB; Cool B; Daily Energy Brand B-complex; Daily Supplement Packs; Derma-force; DermaNIC; DermacinRx FoliPlus D; DermacinRx PureFolix; Dia-vite; Diaplex; Divista; Durachol; E.S.T. Complex; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Multivitamins and Minerals; EnBrace HR; EnLyte; Energy 80 Prolonged Release Tab; Enrich Core Pack - Children Vitamin and Mineral Supplement; Escavite; Essential B Tablets; Euro-folic 5mg; Extra P.N. Vitamin-mineral Drink Mix; Extra-Virt Plus DHA; Ez-flex; FE C Tab Plus; FaBB Tablets; FeRiva; FeRiva FA; FeRivaFA; Fem - Control; Fem - Protect; Feminex 300 Tab; Feminique W Iron and Calcium Tab; Femitab Tab; Ferralet 90; Fib-C Melts; Flinstones Multiple Plus Iron; Flintstones Multiple Vitamins; Flintstones Multiple Vitamins Plus Iron; Flintstones Multiple Vitamins Tab; Flintstones W Extra C Tab; Floradix Formula Liq; Floriva; Folbic; Folcal DHA; Folcaps; Folcaps Care One; Folcaps Omega-3; Folet One; Folic Acid; Folic Acid & Vitamin C; Folic Acid (1mg Tablet); Folic Acid 0.4 Mg Tablet; Folic Acid 0.4mg; Folic Acid 0.4mg Dietary Supplement; Folic Acid 0.8mg; Folic Acid 1 Mg  -  Tablet; Folic Acid 1 mg; Folic Acid 1mg; Folic Acid 1mg With C 20mg; Folic Acid 1mg With Vitamin C; Folic Acid 400mcg Tab; Folic Acid 800mcg Tab; Folic Acid Capsules 1mg; Folic Acid Ctr Srt 800mcg; Folic Acid Inj 5mg/ml USP; Folic Acid Injection; Folic Acid Injection USP; Folic Acid Plus; Folic Acid Tab 0.4mg USP; Folic Acid Tab 1mg; Folic Acid Tab 1mg USP Chewable; Folic Acid Tab 25mg; Folic Acid Tab 5mg; Folic Acid Tablets 0.8mg; Folic Acid Tablets 5mg; Folic Acid With Vitamin B12 and Vitamin C; Folic Acid-b12 Tab; Folika-D; Folivane-PRx DHA; Folixapure; Foltabs 800; Foltabs Prenatal; Foltrate; Folvite; Folvite Inj 5mg/ml; Folvite Tab 5mg; For Kids Only Chewable Multivit. Plus Iron; For Kids Only Chewable Multivitamins - Tab; Formula Ch. Les.; Formula Cn; Formula D.S.; Formula Inf; Formula Int; Formula L.G.I.; Formula O-care Vitamin and Mineral Supplement; Formula U - Tab; Fortamines 10 Capsules; Fortamines-10 Comprimes; G.A.S. Complex; Gestamine Comprimes; Gesticare DHA; Globucel - Methode; Harvest Of Values All B Complex Tab; Hematogen FA; Hematogen Forte; HemeNatal OB; Hemetab; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Balanced B-100 Complex - Tab; Hi Potency Stress B Tension With C; Hill.vite; Homosistrol Capsules; Homosistrox Capsules; Hypo Vites Tab; INATAL Ultra; Iferex 150 Forte; Inatal Advance; Infuvite Adult Multiple Vitamins; Integra F; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Iron Plus Manganese, B12, Folic Acid & C; Iron Plus Tab; Iron Polysaccharides Folic Acid DHA; Iron Vitamins B6,b12,c,folic Acid Tab; Iron With Vitamins Tab; Isotonix Advanced B-complex Vitamins With Potassium and Magnesium; Isotonix Vitamin B-folic Acid-mineral Supple; Jamp-folic Acid; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kid's Choice Children's Chewable Vitamins - Tab; Kids Stuff Tablets; Kids Stuff With Iron Tablets; Kimchi Vitamin chewable multivitamin; Kindervites; L.I.P. Complex; Lipo-B-C Tab; Liqui B Complex; Liqui B Complex Plus; Liqui Vita; Liquid B Complex 50; Low Potency B Complex Tab; M.V.I. 12; M.V.I. Paediatric; M.V.I. Pediatric; MVC-Fluoride; Macuzin; Mag-A-folic Tab; MagneBind 400 Rx; MaxFe; Maxi 10 Tab; Mega 13 Multivitamin Formula; Methaver; Mini-B Tab; Mnps Formula Supplement; Mr. Tumee Multi-vitamin; Multi #2; Multi 12 Injection; Multi B; Multi Enfants Tab; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin Infusion; Multi Vitamin Plus Iron; Multi Vitamin with Fluoride; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi Vitamins & Minerals; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-Vitamin; Multi-Vitamin With Fluoride; Multi-vitamin Dietary Supplement; Multi-vitamins; Multi-vitamins With Minerals; Multicaps; Multiple Vit Plus Iron Tab; Multiple Vitamins; Multiple Vitamins & Minerals Tablets; Multiple Vitamins Plus Iron Tab; Multiple Vitamins Plus Iron for Women; Multiple Vitamins Tab; Multiple Vitamins With Iron; Multiple Vitamins and Minerals Capsules; Multitabs; Multivitamin; Multivitamin with Fluoride; Multivitamin with fluoride; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamines Plus Fer Pour Enfants (chewable Tablets); Multivitamines Pour Enfants (chewable Tablets); Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Multivitamins for Children; Mvc; Myferon 150 Forte; Myhephron Dialysis and Stress Supplement; Mynephrocaps Dialysis/stress Vitamin Supplement; N.E.U. Complex; N.U.T. Complex; Nata Komplete; NataFort; Natafolik; Natavite; Natelle One; Nephrocaps; Nestabs ONE; Neutral C + Coenzyme Q10 Plus Vitamins & Minerals; Nexa Plus; Nexa Select Rx Prenatal Vitamin with Plant-Based DHA; Niaacinamide Azelaic AC TURMER FA B6 Zinc Ox Copper; Nicomide; Niferex; Nioxin Recharging Complex; Niron Komplete; Novo-folacid 5mg; Nu-folic; NuFera; Nutrifer Plus Tablets; Nutrilite Double X; Nutrol-B-complex; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Ocuvel; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; Orange Flavored Crystal Chews Tab; Orifer F; Ortho D; Orti B; P.N.P. Vitamin Drink; P.R.O. Complex; PM Caps; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV-First; PNV-Select; PRENATE Enhance; PRENATE Restore; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Phytopure; Pnv-dha; Polymine Avec Zinc Et Cuivre; Potassium W Folic Acid Tab; PreNatal 19; PreNatal Vitamins Plus; PreNexa; PrePLUS; PreQue 10; PreTAB; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenaissance; Prenaissance Plus; Prenatal Mega Antioxidant; Prenatal Plus; Prenatal Plus Iron; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Prenate AM; Prenate Elite; Prenate Essential; Prenate Pixie; Prenate Star; Prenavite Forte; Prenavite Forte Tablets; Prenavite Tablets; PureVit DualFe Plus; Q.T. Vitamin and Mineral Drink Mix; Reaphirm Plant Source DHA; Reebok; Reliv So Sense Daily Vitamin Supplement; Reno Caps; Replavite; Revesta; Revit Plus Cap; Right Choice A.M. Multi Formula - Caplet; Se-Care Chewable; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Se-Tan DHA; Se-Tan PLUS; Sodium polysulthionate and folic acid; Somavit Brand Vitamins and Minerals Complex; Sopalamine 3b Plus; Sopalamine/3b Plus C; Spd Tab; Spectrum 2 Cap; Stress B & C  Caplet; Stress B Capsules With Vitamin C; Stress B Complex With C, E & Iron; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Ctr Srt; Stress Formula; Stress Formula + Iron; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Multivitamin Tablets USP; Stress Formula Tab; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Tab With Iron and Vitamin E; Stress Tab With Zinc, Copper and Vitamin E; Stress Vitamin B With C Complex Tablets; Stressmates; Strovite Forte Caplet; Strovite One Caplets; Sun-rype Vitaburst; Super B Compound W 500mg Vit C; Super B12 + Folic Acid; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Pantoplex; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supplement De Vitamines Et Mineraux; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; Surbex-500 With Iron; Sveets; T.R.I. B-plex Src; Tandem - F; Tandem DHA; Tandem OB; Tandem Plus; Tar-end; Tianshi Vital Powder I; Tianshi Vital Powder III; Time Release B 100 Compound  -  Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Tl-hem 150; Tozal; TriAdvance; Tricare Prenatal; Tricon; Trinatal GT; Triveen-PRx RNF; UltimateCare ONE NF; Ultra Hr; Usana Megavitamin Tablets - Tab; VP CH Plus; VP CH Ultra; VP-HEME One; VP-heme OB; Vege 1 Daily Tab; VemaVite-PRx 2 with Fish-Based DHA; Vigo Multivitamins Drops/lozenge; Vimeral Tab; Virt-Caps; Virt-PN Plus; Virt-Vite; Virt-Vite Plus; Vit B Complex Ctr; Vit-HA Multi Vitamin and Zinc Supplement; Vita B Complex Tab; Vita Day Tab; Vita-B; Vita-B-75 Cap; Vita-folic-B Caps; Vita-worth B-complex Tablets; Vitabanks Vitamin Tab; Vitachrom Gc; Vitaflex Dietary Suplement; Vitafol Caplet; Vitafol Nano; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol Ultra; Vital Be-100; Vitalife  -  Capsule; Vitamin B + C Cap; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Complex W C Tab; Vitamin B Compound Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Tablets; Vitamin B-12 With Folic Acid Tablets; Vitamin B12 Plus Tablets W Folic Acid; Vitamin B12-folic Acid; Vitamin B6 & B12 With Folic Acid; Vitaplex; Vitogen B Stress C Vit E Zinc & Cop; Vp-CH-pnv; Vp-ggr-B6; Vp-zel; Vtb Vitamin and Mineral Supplement; Women's Change Formula; Women's Formula; Zatean-CH; Zavara; Zingiber; Zolate; Zoo Chews; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SALTS>  (1) 
+Folate sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00025
+
+>  <SMILES>  (1) 
+NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1
+
+>  <SYNONYMS>  (1) 
+Folacin; Folate; PGA; Pteroyl-L-glutamate; Pteroyl-L-glutamic acid; Pteroyl-L-monoglutamic acid; Pteroylglutamic acid; Vitamin B9; Vitamin Bc; Vitamin M
+
+$$$$

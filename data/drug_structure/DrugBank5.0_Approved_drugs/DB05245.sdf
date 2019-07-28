@@ -1,0 +1,169 @@
+
+     RDKit          2D
+
+ 27 27  0  0  0  0  0  0  0  0999 V2000
+    1.7606    1.7779    0.0000 Ag  0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.5404    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.7597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.6029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  2  4  2  0
+  2  5  1  0
+  2  9  1  0
+  5 15  1  0
+  6 12  1  0
+  7 15  2  0
+  7 16  1  0
+  8 15  1  0
+  8 17  2  0
+  9 10  2  0
+  9 11  1  0
+ 10 13  1  0
+ 11 14  2  0
+ 12 13  2  0
+ 12 14  1  0
+ 16 18  2  0
+ 17 18  1  0
+  6 19  1  0
+  6 20  1  0
+ 10 21  1  0
+ 11 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 16 25  1  0
+ 17 26  1  0
+ 18 27  1  0
+M  CHG  2   1   1   5  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.19
+
+>  <ALOGPS_LOGS>  (1) 
+-1.66
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.87e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB05245
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB05245
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+355.949714262
+
+>  <FORMULA>  (1) 
+C10H9AgN4O2S
+
+>  <GENERIC_NAME>  (1) 
+Silver sulfadiazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H9N4O2S.Ag/c11-8-2-4-9(5-3-8)17(15,16)14-10-12-6-1-7-13-10;/h1-7H,11H2;/q-1;+1
+
+>  <INCHI_KEY>  (1) 
+UEJSSZHHYBHCEL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dermazin; Flamazine; Silvadene; Silverol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.09585918328235
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+silver(1+) ion 4-{[(pyrimidin-2-yl)azanidyl]sulfonyl}aniline
+
+>  <JCHEM_LOGP>  (1) 
+0.38726080800000007
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.989915444982717
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.013677898293487
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+95.17
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.40090000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+silver(1+) ion sulfadiazinate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+357.137
+
+>  <PRODUCTS>  (1) 
+Dermazin Crm 1%; Flamazine C; Flamazine Crm 1%; SSD Cream; Silvadene; Silver Sulfadiazene; Silver Sulfadiazine; Ssd; Ssd (1% Silver Sulfadiazine Cream USP); Ssd Silver Sulfadiazine Crm 1%; Thermazene; Thermazene Silver Sulfadiazine
+
+>  <SMILES>  (1) 
+[Ag+].NC1=CC=C(C=C1)S(=O)(=O)[N-]C1=NC=CC=N1
+
+>  <SYNONYMS>  (1) 
+Silver sulfadiazinate; Silver sulphadiazine; Sulfadiazine silver
+
+$$$$

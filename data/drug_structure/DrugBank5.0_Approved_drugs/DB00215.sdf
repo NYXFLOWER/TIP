@@ -1,0 +1,209 @@
+215
+     RDKit          2D
+
+ 45 47  0  0  1  0  0  0  0  0999 V2000
+    7.9618    1.5353    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -1.0638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1681    1.5162    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2886   -0.3998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0351    0.3853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2284    0.5582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9569    0.0840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2886   -1.7277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9748    1.3433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8721    0.9046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7100   -0.2529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5404    1.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3783    0.2308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2935    1.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9145    2.3013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6150    0.9041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0
+  2  5  1  0
+  2 11  1  0
+  3 12  1  0
+  3 22  1  0
+  3 23  1  0
+  4 24  3  0
+  5  6  1  0
+  5  7  1  0
+  5 10  1  0
+  6  9  1  0
+  7  8  2  0
+  7 13  1  0
+  8 11  1  0
+  8 14  1  0
+  9 12  1  0
+ 10 15  2  0
+ 10 16  1  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  1  0
+ 16 20  2  0
+ 17 18  1  0
+ 18 24  1  0
+ 19 21  2  0
+ 20 21  1  0
+  6 25  1  0
+  6 26  1  0
+  9 27  1  0
+  9 28  1  0
+ 11 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 22 40  1  0
+ 22 41  1  0
+ 22 42  1  0
+ 23 43  1  0
+ 23 44  1  0
+ 23 45  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.58
+
+>  <ALOGPS_LOGS>  (1) 
+-4.74
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.88e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00215
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00215
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+324.163791509
+
+>  <FORMULA>  (1) 
+C20H21FN2O
+
+>  <GENERIC_NAME>  (1) 
+Citalopram
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H21FN2O/c1-23(2)11-3-10-20(17-5-7-18(21)8-6-17)19-9-4-15(13-22)12-16(19)14-24-20/h4-9,12H,3,10-11,14H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+WSEQXVZVJXJVFP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Akarin; Celapram; Ciazil; Cilift; Cipram; Cipramil; Ciprapine; Citabax; Citalec; Citol; Citopam; Citox; Citrol; Dalsan; Elopram; Humorup; Oropram; Pramcit; Recital; Seropram; Talam; Talohexal; Temperax; Vodelax; Zentius; Zetalo
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.39617876167769
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydro-2-benzofuran-5-carbonitrile
+
+>  <JCHEM_LOGP>  (1) 
+3.764304206333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.784977656720883
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+36.26
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+94.0202
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+recital
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+324.3919
+
+>  <PRODUCTS>  (1) 
+Abbott-citalopram; Accel-citalopram Tablets; Act Citalopram; Ag-citalopram; Apo-citalopram; Auro-citalopram; Ava-citalopram; Bio-citalopram; Ccp-citalopram; Celexa; Celexa 10 mg; Celexa 20 mg; Celexa 40 mg; Citalopram; Citalopram Hydrobromide; Citalopram Tablets; Citalopram Tablets USP; Citalopram hydrobromide; Citalopram-10; Citalopram-20; Citalopram-40; Citalopram-odan; Ctp 30; Dom-citalopram; Ecl-citalopram; Ipg-citalopram; Jamp-citalopram; M-citalopram; Manda-citalopram; Mar-citalopram; Mint-citalopram; Mylan-citalopram; Nat-citalopram; Nat-citalopram Tablets; Ng Citalopram; Novo-citalopram; Ntp-citalopram; Nu-citalopram; PHL-citalopram; PMS-citalopram; Pendo-citalopram; Perrigo Citalopram; Priva-citalopram; Q-citalopram; Ran-citalo; Ran-citalopram; Ratio-citalopram; Riva-citalopram; Sandoz Citalopram; Sentralopram AM-10; Septa-citalopram; Teva-citalopram; Van-citalopram
+
+>  <SALTS>  (1) 
+Citalopram Hydrobromide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00147
+
+>  <SMILES>  (1) 
+CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1
+
+>  <SYNONYMS>  (1) 
+Nitalapram 
+
+$$$$

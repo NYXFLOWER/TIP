@@ -1,0 +1,172 @@
+230
+     RDKit          2D
+
+ 28 27  0  0  1  0  0  0  0  0999 V2000
+    5.2224    0.4620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.7755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 11  2  0
+  3  8  1  0
+  4  5  1  1
+  4  7  1  0
+  4  8  1  0
+  5  6  1  0
+  6  9  1  0
+  6 10  1  0
+  7 11  1  0
+  1 12  1  0
+  3 13  1  0
+  3 14  1  0
+  4 15  1  0
+  5 16  1  0
+  5 17  1  0
+  6 18  1  0
+  7 19  1  0
+  7 20  1  0
+  8 21  1  0
+  8 22  1  0
+  9 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 10 27  1  0
+ 10 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.35
+
+>  <ALOGPS_LOGS>  (1) 
+-1.15
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.13e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00230
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00230
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; investigational
+
+>  <EXACT_MASS>  (1) 
+159.125928793
+
+>  <FORMULA>  (1) 
+C8H17NO2
+
+>  <GENERIC_NAME>  (1) 
+Pregabalin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H17NO2/c1-6(2)3-7(5-9)4-8(10)11/h6-7H,3-5,9H2,1-2H3,(H,10,11)/t7-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+AYXYPKUFHZROOJ-ZETCQYMHSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Lyrica; Lyrica Cr
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.08315475224093
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3S)-3-(aminomethyl)-5-methylhexanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.3455846782464078
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.800920428196899
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.229664216443084
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+43.68
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pregabalin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+159.2261
+
+>  <PRODUCTS>  (1) 
+Ach-pregabalin; Act Pregabalin; Apo-pregabalin; Auro-pregabalin; Dom-pregabalin; Gd-pregabalin; Ipg-pregabalin; Jamp-pregabalin; Lyrica; Lyrica CR; M-pregabalin; Mar-pregabalin; Mint-pregabalin; Myl-pregabalin; Mylan-pregabalin; PMS-pregabalin; Pendo-pregabalin; Pregabalin; Pregabalin Accord; Pregabalin Capsules; Pregabalin Mylan; Pregabalin Mylan Pharma; Pregabalin Pfizer; Pregabalin Zentiva; Pregabalin-150; Pregabalin-225; Pregabalin-25; Pregabalin-300; Pregabalin-50; Pregabalin-75; Ran-pregabalin; Ratio-pregabalin; Riva-pregabalin; Sandoz Pregabalin; Teva-pregabalin; Torrent-pregabalin
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01198
+
+>  <SMILES>  (1) 
+CC(C)C[C@H](CN)CC(O)=O
+
+>  <SYNONYMS>  (1) 
+(S)-3-Isobutyl gaba; 3-Isobutyl gaba; CI 1008; S-(+)-3-isobutylgaba
+
+$$$$

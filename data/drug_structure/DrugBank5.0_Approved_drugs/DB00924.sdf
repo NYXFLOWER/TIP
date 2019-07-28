@@ -1,0 +1,203 @@
+924
+     RDKit          2D
+
+ 42 44  0  0  0  0  0  0  0  0999 V2000
+    2.5993   -1.7285    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0282    0.7463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7714    1.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2848    1.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3137   -0.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0282   -0.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3136   -1.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9550    1.9084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1013    1.9084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4406    2.5534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6157    2.5534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3922    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6641    0.5102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7720    2.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2842    2.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2152    0.7570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8410    0.7570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4064    1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499    1.5949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5993   -2.5534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8848   -1.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  1 20  1  0
+  1 21  1  0
+  2  3  1  0
+  2  4  1  0
+  2  6  2  3
+  3  8  2  0
+  3 12  1  0
+  4  9  2  0
+  4 13  1  0
+  5  6  1  0
+  5  7  1  0
+  8 10  1  0
+  8 14  1  0
+  9 11  1  0
+  9 15  1  0
+ 10 11  2  0
+ 12 16  2  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 18  1  0
+ 17 19  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  7 25  1  0
+  7 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 15 32  1  0
+ 16 33  1  0
+ 17 34  1  0
+ 18 35  1  0
+ 19 36  1  0
+ 20 37  1  0
+ 20 38  1  0
+ 20 39  1  0
+ 21 40  1  0
+ 21 41  1  0
+ 21 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.73
+
+>  <ALOGPS_LOGS>  (1) 
+-4.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.89e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00924
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00924
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+275.167399677
+
+>  <FORMULA>  (1) 
+C20H21N
+
+>  <GENERIC_NAME>  (1) 
+Cyclobenzaprine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H21N/c1-21(2)15-7-12-20-18-10-5-3-8-16(18)13-14-17-9-4-6-11-19(17)20/h3-6,8-14H,7,15H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+JURKNVYFZMSNLP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Flexeril; Flexiban
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.94643176140032
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl(3-{tricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,9,11,13-heptaen-2-ylidene}propyl)amine
+
+>  <JCHEM_LOGP>  (1) 
+4.613013258333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.76073861606049
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+3.24
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+102.62380000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cyclobenzaprine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+275.3874
+
+>  <PRODUCTS>  (1) 
+Alti-cyclobenzaprine - Tab 10mg; Amrix; Apo-cyclobenzaprine; Auro-cyclobenzaprine; Ava-cyclobenzaprine; Comfort Pac With Cyclobenzaprine; Cyclo/Mag; Cyclo/Mag 10mg/200mg; CycloTENS Refill Pak; CycloTENS Starter Pak; Cyclobenzaprine; Cyclobenzaprine Hydrochloride; Cyclobenzaprine Hydrochloride Kit; Cyclobenzaprine Hyrochloride; Cyclobenzaprine hydrochloride; Cyclobenzaprine-10  -  Tab 10mg; Dom-cyclobenzaprine; Fexmid; Flexeril   -(10mg); Gapeam Budibac; Jamp-cyclobenzaprine; Mylan-cyclobenzaprine; Nu-cyclobenzaprine-tab 10mg; PHL-cyclobenzaprine; PMS-cyclobenzaprine - Tab 10mg; Q-cyclobenzaprine; Ratio-cyclobenzaprine; Riva-cyclobenzaprine; Tabradol; Teva-cyclobenzaprine; Therabenzaprine-60; Therabenzaprine-90; Therabenzaprine-90-5; Zym-cyclobenzaprine
+
+>  <SALTS>  (1) 
+Cyclobenzaprine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00213
+
+>  <SMILES>  (1) 
+CN(C)CCC=C1C2=CC=CC=C2C=CC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+(3-Dibenzo[a,d]cyclohepten-5-ylidene-propyl)-dimethyl-amine; N,N-dimethyl-5H-dibenzo(a,d)cycloheptene-Δ5,γ-propylamine
+
+$$$$

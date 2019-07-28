@@ -1,0 +1,175 @@
+150
+     RDKit          2D
+
+ 27 28  0  0  1  0  0  0  0  0999 V2000
+    5.9868    1.6183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6286    2.0622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -1.6183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4742    0.0498    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.2904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    0.4938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232    0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.9543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.7793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    1.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0
+  2 13  2  0
+  3  9  1  0
+  3 10  1  0
+  8  4  1  6
+  5  6  1  0
+  5  7  1  0
+  5 10  2  0
+  6  8  1  0
+  7  9  2  0
+  7 11  1  0
+  8 13  1  0
+  9 12  1  0
+ 11 14  2  0
+ 12 15  2  0
+ 14 15  1  0
+  1 16  1  0
+  3 17  1  0
+  4 18  1  0
+  4 19  1  0
+  6 20  1  0
+  6 21  1  0
+  8 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.10
+
+>  <ALOGPS_LOGS>  (1) 
+-2.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.36e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00150
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00150
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical; withdrawn
+
+>  <EXACT_MASS>  (1) 
+204.089877638
+
+>  <FORMULA>  (1) 
+C11H12N2O2
+
+>  <GENERIC_NAME>  (1) 
+L-Tryptophan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+QIVBCDIJIAJPQS-VIFPVBQESA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alti-Tryptophan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.04741401319241
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.0854569138833579
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.1565885064574
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.5439286383469866
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.396082567807317
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+79.11
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.20280000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-tryptophan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+204.2252
+
+>  <PRODUCTS>  (1) 
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; Aminosyn; Aminosyn 10%; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Apo-tryptophan; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; Dom-tryptophan; FreAmine HBC; FreAmine III; HepatAmine; NephrAmine; Novamine; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; PHL-tryptophan; PMS-tryptophan; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; ProSol; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; Renamin (amino Acids) Injection; Teva-tryptophan; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; TrophAmine; Tryptan Cap 500mg; Tryptan Tab 1000mg; Tryptan Tab 250mg; Tryptan Tab 500mg; Tryptan Tab 750mg; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00058; EXPT02064
+
+>  <SMILES>  (1) 
+N[C@@H](CC1=CNC2=CC=CC=C12)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid; (S)-Tryptophan; (S)-α-amino-1H-indole-3-propanoic acid; L-(-)-Tryptophan; L-(−)-tryptophan; L-β-3-indolylalanine; Trp; Tryptophan; W
+
+$$$$

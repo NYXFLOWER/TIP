@@ -1,0 +1,177 @@
+1085
+     RDKit          2D
+
+ 31 32  0  0  1  0  0  0  0  0999 V2000
+    4.1277   -1.4158    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8178   -2.0833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1834    0.7557    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3229    2.0833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7152   -0.1463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0478   -0.6312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7152    0.6787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3827   -0.6312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2631   -0.3763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3027   -1.4158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4297    1.0913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5160    1.9117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7354    1.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3549   -0.0513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 10  1  0
+  2 10  2  0
+  3 11  1  0
+  3 14  1  0
+  3 15  1  0
+  4 13  1  0
+  4 14  2  0
+  5  6  1  0
+  5  7  1  1
+  5  8  1  0
+  6  9  1  1
+  6 10  1  0
+  7 11  1  0
+  9 12  1  0
+ 11 13  2  0
+  5 16  1  0
+  6 17  1  0
+  7 18  1  0
+  7 19  1  0
+  8 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 15 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.15
+
+>  <ALOGPS_LOGS>  (1) 
+-2.00
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.07e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01085
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01085
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+208.121177766
+
+>  <FORMULA>  (1) 
+C11H16N2O2
+
+>  <GENERIC_NAME>  (1) 
+Pilocarpine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H16N2O2/c1-3-10-8(6-15-11(10)14)4-9-5-12-7-13(9)2/h5,7-8,10H,3-4,6H2,1-2H3/t8-,10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+QCHFTSOMWOSFHM-WPRPVWTQSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Diocarpine; Miocarpine; Pilostat; Pilovisc; Timpilo
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.339274631387376
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3S,4R)-3-ethyl-4-[(1-methyl-1H-imidazol-5-yl)methyl]oxolan-2-one
+
+>  <JCHEM_LOGP>  (1) 
+0.949751419333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.608666134549648
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+44.120000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.53419999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pilocarpine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+208.2569
+
+>  <PRODUCTS>  (1) 
+Betoptic/pilo; E-pilo 1 Ophthalmic Solution; E-pilo 2 Ophthalmic Solution; E-pilo 4 Ophthalmic Solution; E-pilo 6 Ophthalmic Solution; E-pilo-1 Oph Soln; E-pilo-2 Oph Soln; E-pilo-4 Oph Soln; E-pilo-6 Oph Soln; Isopto Carpine; Isopto Carpine 0.5%; Isopto Carpine Liq 6%; Minims Pilocarpine Nitrate 2%; Minims Pilocarpine Nitrate 4%; Miocarpine Oph Soln 1%; Miocarpine Oph Soln 2%; Miocarpine Oph Soln 4%; Miocarpine Oph Soln 6%; Miocarpine Ophthalmic Solution 1%; Miocarpine Ophthalmic Solution 2%; Miocarpine Ophthalmic Solution 4%; Miocarpine Ophthalmic Solution 6%; Ocusert Pilo 20; Ocusert Pilo 40; Odan-pilocarpine; PMS-pilocarpine 0.5%; PMS-pilocarpine 1%; PMS-pilocarpine 2%; PMS-pilocarpine 4%; PMS-pilocarpine 6%; Pilocarpine; Pilocarpine 1%; Pilocarpine 2%; Pilocarpine 4%; Pilocarpine 6%; Pilocarpine Hydrochloride; Pilocarpine Hydrochloride 1% - Liq Oph; Pilocarpine Hydrochloride 2% - Liq Oph; Pilocarpine Hydrochloride 4% - Liq Oph; Pilocarpine Hydrochloride Ophthalmic Solution 1% USP; Pilocarpine Hydrochloride Ophthalmic Solution 2% USP; Pilocarpine Hydrochloride Ophthalmic Solution 4% USP; Pilocarpine Hydrochloride Tablets, USP; Pilocarpine hydrochloride; Pilopine Hs 4%; R.O. -carpine 1%; R.O.-carpine 2%; R.O.-carpine 4%; Salagen; Salagen Tablets; Timpilo 2; Timpilo 4
+
+>  <SALTS>  (1) 
+Pilocarpine hydrochloride; Pilocarpine nitrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00382
+
+>  <SMILES>  (1) 
+CC[C@H]1[C@@H](CC2=CN=CN2C)COC1=O
+
+$$$$

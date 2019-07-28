@@ -1,0 +1,209 @@
+417
+     RDKit          2D
+
+ 42 44  0  0  1  0  0  0  0  0999 V2000
+    7.9871    0.3798    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7885   -1.2881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6900   -2.3527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0491   -1.9112    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7760   -0.2954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6117    0.8737    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2025   -0.7001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7885    0.7129    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2025    0.1249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4721   -0.2876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9871   -0.9550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3707    0.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3707   -0.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1395   -0.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1395    0.1973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2420   -1.7397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9912    0.5010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4090    1.0855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0295    1.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    1.2463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2447    2.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.8309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625    2.8393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8652    2.6274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2 13  2  0
+  3 16  1  0
+  4 16  2  0
+  5 17  2  0
+  6 18  1  0
+  6 19  1  0
+  7  9  1  0
+  7 11  1  0
+  7 13  1  0
+ 12  8  1  1
+  8 17  1  0
+  9 12  1  0
+ 10 11  1  0
+ 10 14  1  0
+ 10 15  1  0
+ 11 16  1  6
+ 12 13  1  0
+ 17 18  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  2  0
+ 22 24  2  0
+ 23 24  1  0
+  3 25  1  0
+  8 26  1  0
+  9 27  1  6
+ 11 28  1  0
+ 12 29  1  0
+ 14 30  1  0
+ 14 31  1  0
+ 14 32  1  0
+ 15 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 20 38  1  0
+ 21 39  1  0
+ 22 40  1  0
+ 23 41  1  0
+ 24 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.78
+
+>  <ALOGPS_LOGS>  (1) 
+-2.89
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.54e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00417
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00417
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+350.093642386
+
+>  <FORMULA>  (1) 
+C16H18N2O5S
+
+>  <GENERIC_NAME>  (1) 
+Phenoxymethylpenicillin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H18N2O5S/c1-16(2)12(15(21)22)18-13(20)11(14(18)24-16)17-10(19)8-23-9-6-4-3-5-7-9/h3-7,11-12,14H,8H2,1-2H3,(H,17,19)(H,21,22)/t11-,12+,14-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+BPLBGHOLXOTWMN-MBNYWOFBSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Apo-Pen-VK; Beepen-VK; Betapen-VK; Crystapen V; Distaquaine V; Fenospen; Fenoxypen; Ledercillin VK; Oratren; Ospen; Pen-Oral; Pen-V; Pen-Vee; Pen-Vee K; Penicillin VK; Pfizerpen VK; Phenocillin; Robicillin VK; Rocilin; Uticillin VK; V-Cillin; Veetids
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.37043845426734
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,5R,6R)-3,3-dimethyl-7-oxo-6-(2-phenoxyacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.7632417063333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+11.741506321839815
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.390268054489988
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.869023346985543
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+95.94
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+85.76800000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+penicillin V
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+350.39
+
+>  <PRODUCTS>  (1) 
+Apo Pen Vk; Ledercillin Vk - Tab 400000 Unit; Ledercillin Vk - Tab 800000units; Ledercillin Vk Tab 400000unit; Ledercillin Vk Tab 800000unit; Nadopen V 200; Nadopen V 400; Nadopen V Tab 500000iu; Novo-pen Vk Syr 500000/5ml; Novo-pen-VK 500 Tab; Nu-pen-VK Tablets 300mg; Pen Vee Sus 180mg; Pen Vk-125 Sus 200000unit/5ml; Pen Vk-300 Sus 500000unit/5ml; Pen-VK; Pen-vee Oral Tablets 300 mg; Pen-vee Suspension 180 mg; Pen-vee Suspension 180mg/5ml; Pen-vee Suspension 300 mg; Pen-vee Suspension 300mg/5ml; Pen-vee-oral Tablets 300mg; Penicillin V Potasium; Penicillin V Potassium; Penicilline V 300 Tab; Pvf 250sus; Pvf 500sus; Pvf K500tab; Pvf-K 500 Tablets; V Cillin K 1831 Tablet 250mg
+
+>  <SALTS>  (1) 
+Phenoxymethylpenicillin benzathine; Phenoxymethylpenicillin potassium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00423; DB08415
+
+>  <SMILES>  (1) 
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)COC1=CC=CC=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2S,5R,6R)-3,3-DIMETHYL-7-OXO-6-(2-PHENOXYACETAMIDO)-4-THIA-1- AZABICYCLO(3.2.0)HEPTANE-2-CARBOXYLIC ACID; (2S,5R,6R)-3,3-dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 6-phenoxyacetamidopenicillanic acid; Fenoximetilpenicilina; Oracillin; Penicillin Phenoxymethyl; Penicillin V; Phenoxomethylpenicillin; Phenoxymethyl Penicillin; Phenoxymethylenepenicillinic acid; Phénoxyméthylpénicilline; Phenoxymethylpenicillinum; PV
+
+$$$$

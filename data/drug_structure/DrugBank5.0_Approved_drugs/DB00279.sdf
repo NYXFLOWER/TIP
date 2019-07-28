@@ -1,0 +1,194 @@
+279
+     RDKit          2D
+
+ 35 36  0  0  1  0  0  0  0  0999 V2000
+    4.9509    0.8250    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.8250    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    1.6500    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  2 16  1  0
+  3 21  1  0
+  4 14  1  0
+  4 18  1  0
+  5 17  1  0
+  6 17  2  0
+  7 23  1  0
+ 10  8  1  1
+  9 10  1  0
+  9 11  1  0
+ 10 17  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 16  1  0
+ 13 15  2  0
+ 14 15  1  0
+ 14 16  2  0
+ 18 19  2  0
+ 18 20  1  0
+ 19 21  1  0
+ 20 22  2  0
+ 21 23  2  0
+ 22 23  1  0
+  5 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 19 33  1  0
+ 20 34  1  0
+ 22 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.82
+
+>  <ALOGPS_LOGS>  (1) 
+-4.52
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.95e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00279
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00279
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+650.790038137
+
+>  <FORMULA>  (1) 
+C15H12I3NO4
+
+>  <GENERIC_NAME>  (1) 
+Liothyronine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H12I3NO4/c16-9-6-8(1-2-13(9)20)23-14-10(17)3-7(4-11(14)18)5-12(19)15(21)22/h1-4,6,12,20H,5,19H2,(H,21,22)/t12-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+AUYYCJSJGJYCDS-LBPRGKRZSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Tertroxin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+43.92059819460446
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-[4-(4-hydroxy-3-iodophenoxy)-3,5-diiodophenyl]propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+2.7985049745109825
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+8.491128194663442
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.30246883199208563
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.482304489227028
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+92.78
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+113.42549999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+liothyronine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+650.9735
+
+>  <PRODUCTS>  (1) 
+Cytomel; Levothyroxine and Liothyronine Thyroid; Liothyronine Sodium; Liothyronine sodium; NP Thyroid 120; NP Thyroid 15; NP Thyroid 30; NP Thyroid 60; NP Thyroid 90; Triostat
+
+>  <SALTS>  (1) 
+Liothyronine Sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01074
+
+>  <SMILES>  (1) 
+N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+3,3',5-triiodo-L-thyronine; 3,5,3'-Triiodo-L-thyronine; 3,5,3'-Triiodothyronine; L-3,5,3'-Triiodothyronine; L-T3; O-(4-hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine; T3; Triiodothyronine
+
+$$$$

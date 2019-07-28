@@ -1,0 +1,100 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.5395    0.4125    0.0000 Se  0  0  0  0  0 15  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11135
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11135
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+79.916521828
+
+>  <FORMULA>  (1) 
+Se
+
+>  <GENERIC_NAME>  (1) 
+Selenium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Se
+
+>  <INCHI_KEY>  (1) 
+BUGBHKTXTAQXES-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+B-Traxim Se; Selsaf 2000
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+selanylidene
+
+>  <JCHEM_LOGP>  (1) 
+0.1473
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.1149
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+selanylidene
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+78.96
+
+>  <PRODUCTS>  (1) 
+A.R.T.H. Away Formula; Am Caps; Amd; Avon Nutrivance Vitamin E Plus; Cell-wise; Cell-wise Natural Source; Cellular Formula; Complete Multivitamins and Minerals Tablets Timed Release; Enviroflex - Tab; Food Nutrition Inc. Men's Vitamin and Mineral Supplement; Formula 14 Dietary Supplement; Formula CF; Formula Im-vitamins and Minerals Tab; Formula Inf; Guardyn Tab; Henkel's Vitamin E and Selenium Cap; IV-8 Formula; Icaps; Icaps Time Release; Imm Formula Cap; Itabs Plus; L.G.I.T.; Micro Plus 5 Concentrate; Micro Plus 6    (concentrate); Micro Plus 6   (pediatric); Micro Se; Mineralex; Multi - N.T.O.x Formula - Tab; Multi Nt-OX; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamins & Minerals; Multi-vitamins With Minerals; Multicaps; Multimineral Chelates; Multitabs; Nata Komplete; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; PM Caps; PreQue 10; Prefera OB plus DHA; PreferaOB; PreferaOB plus DHA; Selen-E-400 Tab; Selenium; Selenium 100; Selenium 100 - Caplet; Selenium 200 Mcg; Selenium 200 Mcg Tablets; Selenium Ctr Srt 50mg; Selenium Oxide Tab 50mcg; Selenium Plus; Selenium Tab 200mcg; Selenium Tab 50mcg; Selenium Tablets 100mcg; Selepen; Selepen Inj 40mcg/ml USP; Sincera - Tablets; Somavit Brand Vitamins and Minerals Complex; Spectrum 2 Cap; Strovite Forte Caplet; Strovite One Caplets; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; Vitalife  -  Capsule; Vitamin E + 3 (extra Strength); Vitamin E + 3 Extra Strength With Zinc; Vitamin E 400 I.U. & Selenium 50 Mcg Capsules; Vitamin E With Selenium and Zinc; Vtb Vitamin and Mineral Supplement; Women's Change Formula; Yeast Free Selenium 60mcg
+
+>  <SMILES>  (1) 
+[Se]
+
+>  <SYNONYMS>  (1) 
+Selen; Selenio; Sélénium; Selenium elemental; Selenium metallicum; Selenium, elemental
+
+$$$$

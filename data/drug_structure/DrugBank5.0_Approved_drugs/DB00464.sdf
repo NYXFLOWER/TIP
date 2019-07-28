@@ -1,0 +1,214 @@
+
+     RDKit          2D
+
+ 49 47  0  0  0  0  0  0  0  0999 V2000
+    1.2629    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9874   -0.4183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5384   -0.4183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1760   -0.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8856   -0.4153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5974   -0.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3083   -0.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0196   -0.0038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7307   -0.4144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8857   -1.2548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5989   -1.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2629    0.8366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9874    1.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7020    0.8424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9875    2.0915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9875   -1.2548    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9875   -2.0915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8108   -1.2548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1374   -1.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7307   -1.2757    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  5 10  1  0
+ 10 11  1  0
+  1 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+  2 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 16 19  2  0
+  1 21  1  0
+  3 22  1  0
+  3 23  1  0
+  4 24  1  0
+  4 25  1  0
+  5 26  1  0
+  6 27  1  0
+  6 28  1  0
+  7 29  1  0
+  7 30  1  0
+  8 31  1  0
+  8 32  1  0
+  9 33  1  0
+  9 34  1  0
+  9 35  1  0
+ 10 36  1  0
+ 10 37  1  0
+ 11 38  1  0
+ 11 39  1  0
+ 11 40  1  0
+ 12 41  1  0
+ 12 42  1  0
+ 13 43  1  0
+ 14 44  1  0
+ 14 45  1  0
+ 14 46  1  0
+ 15 47  1  0
+ 15 48  1  0
+ 15 49  1  0
+M  CHG  2  18  -1  20   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.97
+
+>  <ALOGPS_LOGS>  (1) 
+-4.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.98e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00464
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00464
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+316.16842487
+
+>  <FORMULA>  (1) 
+C14H29NaO4S
+
+>  <GENERIC_NAME>  (1) 
+Sodium Tetradecyl Sulfate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H30O4S.Na/c1-5-7-8-13(6-2)9-10-14(11-12(3)4)18-19(15,16)17;/h12-14H,5-11H2,1-4H3,(H,15,16,17);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+FVEFRICMTUKAML-UHFFFAOYSA-M
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Fibro-Vein
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+49
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.25572706151858
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+sodium 7-ethyl-2-methylundecan-4-yl sulfate
+
+>  <JCHEM_LOGP>  (1) 
+5.040855316333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-1.0539651794539706
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.43
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.65099999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+11
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium 7-ethyl-2-methylundecan-4-yl sulfate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+316.43
+
+>  <PRODUCTS>  (1) 
+Sotradecol; Tromboject 1% Inj 10mg/ml; Tromboject 3% Inj 30mg/ml; Trombovar Inj 1%; Trombovar Inj 3%
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00575
+
+>  <SMILES>  (1) 
+[Na+].CCCCC(CC)CCC(CC(C)C)OS([O-])(=O)=O
+
+>  <SYNONYMS>  (1) 
+7-Ethyl-2-methyl-4-undecanol sulfate sodium salt; 7-ethyl-2-methyl-4-undecanolsulfate, sodium salt; Natrii tetradecylis sulfa; Sodium 2-methyl-7-ethylundecanol-4-sulfate; Sodium 7-ethyl-2-methyl-4-undecanol sulfate; Sodium tetradecyl sulphate; Sodium tetradecylsulfate; STS; Tetradecilsulfato sodico; Tetradecyl sodium sulfate; Tetradecyl sulfate de sodium
+
+$$$$

@@ -1,0 +1,143 @@
+1236
+     RDKit          2D
+
+ 15 14  0  0  0  0  0  0  0  0999 V2000
+    1.6500    1.2928    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.1658    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770    1.5948    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2928    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2060    0.1658    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810    1.5948    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.5948    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.7697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  2 10  1  0
+  3 10  1  0
+  4 11  1  0
+  5 11  1  0
+  6 11  1  0
+  7 12  1  0
+  8  9  1  0
+  8 12  1  0
+  9 10  1  0
+  9 11  1  0
+  9 13  1  0
+ 12 14  1  0
+ 12 15  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.44
+
+>  <ALOGPS_LOGS>  (1) 
+-2.13
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.48e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01236
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01236
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+200.007212153
+
+>  <FORMULA>  (1) 
+C4H3F7O
+
+>  <GENERIC_NAME>  (1) 
+Sevoflurane
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H3F7O/c5-1-12-2(3(6,7)8)4(9,10)11/h2H,1H2
+
+>  <INCHI_KEY>  (1) 
+DFEYYRMXOJXZRJ-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.828054808855502
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,1,1,3,3,3-hexafluoro-2-(fluoromethoxy)propane
+
+>  <JCHEM_LOGP>  (1) 
+2.2748387583333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.073239389252553
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.476754249155175
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+9.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+23.303799999999995
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sevoflurane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+200.0548
+
+>  <PRODUCTS>  (1) 
+Sevoflurane; Sevorane AF; Sojourn; Sojourn Sevoflurane; Ultane
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00219
+
+>  <SMILES>  (1) 
+FCOC(C(F)(F)F)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+Sevofluran; Sevoflurano; Sevofluranum
+
+$$$$

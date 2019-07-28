@@ -1,0 +1,204 @@
+863
+     RDKit          2D
+
+ 43 43  0  0  0  0  0  0  0  0999 V2000
+    6.6282   -0.5856    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6934   -1.3677    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.0507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6063    1.1127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7587   -0.5856    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4457   -0.5435    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0041    0.8156    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4348    0.3057    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1456   -1.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3609   -0.8827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0259   -0.8827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2412   -1.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1059   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2809   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8435   -0.8406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2304   -0.2885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5871    0.2214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5434   -0.8406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8326    0.0086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0479   -0.2464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3909    1.3677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  1 15  1  0
+  2 10  1  0
+  2 11  1  0
+  3  8  1  0
+  4  8  2  0
+  5  9  1  0
+  5 17  1  0
+  5 18  1  0
+  6 16  1  0
+  6 19  1  0
+  7 19  1  0
+  7 21  1  0
+  8 20  1  0
+  9 10  1  0
+ 10 13  2  0
+ 11 12  1  0
+ 11 14  2  0
+ 13 14  1  0
+ 15 16  1  0
+ 19 20  2  0
+  6 22  1  0
+  7 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 12 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 15 30  1  0
+ 15 31  1  0
+ 16 32  1  0
+ 16 33  1  0
+ 17 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 18 39  1  0
+ 20 40  1  0
+ 21 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+M  CHG  2   3  -1   8   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.79
+
+>  <ALOGPS_LOGS>  (1) 
+-3.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.95e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00863
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00863
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+314.14126128
+
+>  <FORMULA>  (1) 
+C13H22N4O3S
+
+>  <GENERIC_NAME>  (1) 
+Ranitidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H22N4O3S/c1-14-13(9-17(18)19)15-6-7-21-10-12-5-4-11(20-12)8-16(2)3/h4-5,9,14-15H,6-8,10H2,1-3H3/b13-9+
+
+>  <INCHI_KEY>  (1) 
+VMXUWOKSQNHOCA-UKTHLTGXSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alquen; Gastrolav; Gastrosedol; Kuracid; Ptinolin; Raniberl; Ranicux; Ranidil; Ranidin; Ranidine; Ranidura; Ranigast; Raniplex; Ranisan; Ranitab; Ranitic; Ranitidin; Ranitin; Ranitine; Ranobel; Rantacid; Ranuber; Renatac; Sostril; Tanidina; Toriol; Ulcodin; Zandid; Zantic
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.575230083655015
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl[(5-{[(2-{[(E)-1-(methylamino)-2-nitroethenyl]amino}ethyl)sulfanyl]methyl}furan-2-yl)methyl]amine
+
+>  <JCHEM_LOGP>  (1) 
+0.9814784663333328
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.080816459700243
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.25999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+95.15300000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ranitidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+314.404
+
+>  <PRODUCTS>  (1) 
+7 Select Acid Reducer; Acid Reducer; Acid Reducer 150; Acid Reducer 75; Acid Reducer Maximum Strength; Acid Reducer Maximum Strength Non-prescription; Acid Reducer Regular Strength; Acid Relief; Act Ranitidine; Apo-ranitidine; Apo-ranitidine Tablet 150mg; Apo-ranitidine Tablet 300mg; Aptidine 75; Basic Care Acid Reducer 150; Bci Ranitidine; Being Well Heartburn Relief; Being Well Heartburn Relief Acid Reducer; Berkley and Jensen Acid Reducer; Berkley and Jensen Acid Reducer Maximum Strength; Berkley and Jensen Ranitidine; Care One Acid Reducer; CareOne Acid Reducer; CareOne Acid Relief; Careone Acid Reducer; Cool Mint Acid Reducer; DG Health Acid Reducer; DG Health Acid Reducer Maximum Strength; Deprizine; Dg Health Acid Reducer; Dg Health Heartburn Relief; Dom-ranitidine; Equaline; Equaline Heartburn Relief; Equate Acid Reducer; Equate Ranitidine; Equate Ranitidine Acid Reducer; Exchange Select Acid Reducer; Family Wellness Acid Reducer; Family Wellness Acid Reducer 150; Family Wellness acid reducer; Formu Care Ranitidine; FormuCare Ranitidine; Gabitidine; Good Neighbor Pharmacy Acid Control; Good Neighbor Pharmacy Acid Control 150; Good Neighbor Pharmacy Acid Control 150 Maximum Strength; Good Sense Acid Reducer; Harris Teeter Acid Reducer; Harris Teeter Acid Reducer 150; Health Mart Acid Reducer; Health Mart acid reducer; Healthy Accents Ranitidine; Heartburn Relief; Heartburn Relief 150; Heartburn Relief 150 Maximum Strength; Heartburn Relief Acid Reducer; Heartburn Relief Maximum Strength; Heratburn Relief; Jamp-ranitidine; Kirkland Signature Acid Reducer; Leader Acid Control; Leader Acid Control Acid Reducer; Leader Acid Control Maximum Strength; Major Ranitidine Maximum Strength; Mar-ranitidine; Maximum Strength; Maximum Strength Acid Reducer; Maximum Strength Acid Reducer Without Prescription; Maximum Strength Ranitidine; Maximum Strength Zantac; Med Ranitidine Tablets 150mg; Myl-ranitidine; Mylan-ranitidine; Nu-ranit Tab 150mg; Nu-ranit Tab 300mg; PHL-ranitidine; PMS-ranitidine 150 mg; PMS-ranitidine 300 mg; Pylorid; Ran-ranitidine; Ranitidine; Ranitidine - 150; Ranitidine - 300; Ranitidine - Acid Reducer; Ranitidine 150; Ranitidine 75; Ranitidine Acid Reducer; Ranitidine HYdrochloride; Ranitidine Hydrochloride; Ranitidine Immediate release; Ranitidine Injection USP; Ranitidine Non Prescription; Ranitidine Tablets; Ranitidine Tablets 150mg; Ranitidine Tablets 300mg; Ratio-ranitidine; Regular Strength Acid Reducer; Rexall Heartburn Relief; Riva-ranitidine 150; Riva-ranitidine 300; Riva-ranitidine 75mg; Rx Act Heartburn Relief; Sandoz Ranitidine; Scheinpharm Ranitidine 150 mg; Scheinpharm Ranitidine 300 mg; Sentradine; ShopRite Acid Reducer; ShopRite Acid Reducer Maximum Strength; Signature Care Acid Control; Smart Sense Acid Reducer; Smart Sense Ranitidine; Sunmark Acid Reducer Maximum Strength; Sunmark acid reducer; Teva-ranitidine; Teva-ranitidine Injection; Teva-ranitidine Solution; TopCare Heartburn Relief; TopCare Heartburn Relief 150; Topcare Heartburn Relief 150; Tria-ranitidine 150mg Tablet; Tria-ranitidine 300mg Tablet; Up and Up Acid Reducer Non Prescription Strength; Up and Up Ranitidine; Wal Zan 150; Wal Zan 75; Wal Zan Acid Reducer Maximum Strength; Wal-Zan; Wal-Zan 75; Zantac; Zantac 150; Zantac 150 Acid Reducer; Zantac 75; Zantac Maximum Strength 150 Cool Mint; Zantac Maximum Strength Non-prescription; Zantac Oral Solution 15mg/ml; Zantac Tab 150mg; Zantac Tab 300mg; Zantac-C Cap 150mg; Zantac-C Cap 300mg
+
+>  <SALTS>  (1) 
+Ranitidine bismuth citrate; Ranitidine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00254
+
+>  <SMILES>  (1) 
+CN\C(NCCSCC1=CC=C(CN(C)C)O1)=C/[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+RAN
+
+$$$$

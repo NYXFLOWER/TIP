@@ -1,0 +1,159 @@
+134
+     RDKit          2D
+
+ 20 19  0  0  1  0  0  0  0  0999 V2000
+    2.3642   -1.4436    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5075    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7930    1.8561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642    1.0312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0787    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3642   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7930    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -1.8561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  1  9  1  0
+  2  8  1  0
+  3  8  2  0
+  6  4  1  6
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  2 10  1  0
+  4 11  1  0
+  4 12  1  0
+  5 13  1  0
+  5 14  1  0
+  6 15  1  0
+  7 16  1  0
+  7 17  1  0
+  9 18  1  0
+  9 19  1  0
+  9 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.85
+
+>  <ALOGPS_LOGS>  (1) 
+-0.80
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.39e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00134
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00134
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+149.051049291
+
+>  <FORMULA>  (1) 
+C5H11NO2S
+
+>  <GENERIC_NAME>  (1) 
+L-Methionine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+FFEARJCKVFRZRR-BYPYZUCNSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acimethin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.504513637142168
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-4-(methylsulfanyl)butanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.189326616871282
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.5319210041042344
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.502323343916569
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+37.586000000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-methionine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+149.211
+
+>  <PRODUCTS>  (1) 
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; Aminosyn; Aminosyn 10%; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; Derma-force; Distilpure Msm; Formula Cm; Formula Cw; Formula Cw-caplet; FreAmine HBC; FreAmine III; HepatAmine; Inhibitol - Tab; Medi Msm (methyl Sulfonyl Methane); NephrAmine; Novamine; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; ProSol; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; Renamin (amino Acids) Injection; Selenium Plus; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SALTS>  (1) 
+Methionine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00038
+
+>  <SMILES>  (1) 
+CSCC[C@H](N)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(S)-2-amino-4-(methylthio)butanoic acid; (S)-2-amino-4-(methylthio)butyric acid; (S)-methionine; L-(-)-Methionine; L-a-Amino-g-methylthiobutyric acid; L-α-amino-γ-methylmercaptobutyric acid; Met; Methionine
+
+$$$$

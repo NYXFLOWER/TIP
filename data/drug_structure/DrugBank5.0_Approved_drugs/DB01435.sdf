@@ -1,0 +1,161 @@
+1435
+     RDKit          2D
+
+ 26 27  0  0  1  0  0  0  0  0999 V2000
+    1.6500    0.4990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    0.2690    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695    0.7540    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5146    1.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -0.5560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347    0.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896    1.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5541    0.4990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9995    2.2060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -0.9685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.9685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -1.7935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -1.7935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -2.2060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  2  3  1  0
+  2  5  1  0
+  2  6  1  0
+  3  4  1  0
+  3  8  1  0
+  4  7  2  0
+  4  9  1  0
+  5 10  2  0
+  5 11  1  0
+  6  7  1  0
+ 10 12  1  0
+ 11 13  2  0
+ 12 14  2  0
+ 13 14  1  0
+  7 15  1  0
+  8 16  1  0
+  8 17  1  0
+  8 18  1  0
+  9 19  1  0
+  9 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+ 13 25  1  0
+ 14 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.18
+
+>  <ALOGPS_LOGS>  (1) 
+-0.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.74e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01435
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01435
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+188.094963016
+
+>  <FORMULA>  (1) 
+C11H12N2O
+
+>  <GENERIC_NAME>  (1) 
+Antipyrine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H12N2O/c1-9-8-11(14)13(12(9)2)10-6-4-3-5-7-10/h3-8H,1-2H3
+
+>  <INCHI_KEY>  (1) 
+VEQOALNAAJBPNY-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.403569601512736
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1,5-dimethyl-2-phenyl-2,3-dihydro-1H-pyrazol-3-one
+
+>  <JCHEM_LOGP>  (1) 
+1.2189718436666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.3706652076238215
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+23.550000000000004
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.41680000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+antipyrine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+188.2258
+
+>  <PRODUCTS>  (1) 
+Acella Antipyrine and Benzocaine Otic; Antidouleurs Rezall; Antipyrine and Benzocaine; Antipyrine and Benzocaine Otic; Auralgan; Auralgan Eardrops; Auralgan Solution; Aurax Otic; Aurodex; Formule L2; Oti Cal; Otic Care Antipyrine and Benzocaine; Otozin
+
+>  <SMILES>  (1) 
+CN1N(C(=O)C=C1C)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+2,3-Dimethyl-1-phenyl-5-pyrazolone; Analgesine; Fenazon; Fenazona; Phenazon; Phenazone
+
+$$$$

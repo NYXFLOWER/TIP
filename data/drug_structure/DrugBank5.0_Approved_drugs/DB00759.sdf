@@ -1,0 +1,238 @@
+
+     RDKit          2D
+
+ 56 59  0  0  1  0  0  0  0  0999 V2000
+   -1.4289   -0.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.7522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.7522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.7522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.8978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.3103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.5772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.7228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.4853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.7228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.7522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.9897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.9897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.8978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.7228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.4853    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.7228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.7522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.8978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.4853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.7228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.1647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.5772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 26  1  0
+  1  2  2  0
+  2 27  1  0
+  3 11  1  0
+  3  4  1  0
+  4 12  1  0
+  4 13  1  1
+  3  5  1  0
+  4  6  1  0
+  6 16  1  0
+  5  7  1  0
+  7  8  1  0
+  6  8  2  0
+  8  9  1  0
+  9  2  1  0
+  9 23  2  0
+  7 10  1  0
+ 10  1  1  0
+ 10 32  1  1
+ 10 31  1  0
+ 11 14  1  0
+ 11 15  1  1
+ 12 17  1  0
+ 12 18  2  0
+ 14 19  1  0
+ 14 17  2  0
+ 15 20  1  0
+ 15 21  1  0
+ 17 22  1  0
+ 22 24  1  0
+ 22 25  2  0
+ 26 28  2  0
+ 27 29  2  0
+ 27 30  1  0
+ 28 29  1  0
+  3 33  1  1
+  5 34  1  0
+  5 35  1  0
+  7 36  1  6
+ 11 37  1  0
+ 13 38  1  0
+ 16 39  1  0
+ 19 40  1  0
+ 20 41  1  0
+ 20 42  1  0
+ 20 43  1  0
+ 21 44  1  0
+ 21 45  1  0
+ 21 46  1  0
+ 24 47  1  0
+ 24 48  1  0
+ 26 49  1  0
+ 28 50  1  0
+ 29 51  1  0
+ 30 52  1  0
+ 31 53  1  0
+ 32 54  1  0
+ 32 55  1  0
+ 32 56  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.56
+
+>  <ALOGPS_LOGS>  (1) 
+-2.52
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.33e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00759
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00759
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+444.153265754
+
+>  <FORMULA>  (1) 
+C22H24N2O8
+
+>  <GENERIC_NAME>  (1) 
+Tetracycline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H24N2O8/c1-21(31)8-5-4-6-11(25)12(8)16(26)13-9(21)7-10-15(24(2)3)17(27)14(20(23)30)19(29)22(10,32)18(13)28/h4-6,9-10,15,25,27-28,31-32H,7H2,1-3H3,(H2,23,30)/t9-,10-,15-,21+,22-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+OFVLGDICTFRJMM-WESIUVDSSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Achromycin; Liquamycin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+9
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+43.0269057235486
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(4S,4aS,5aS,6S,12aS)-4-(dimethylamino)-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a-octahydrotetracene-2-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+-3.5476153931003833
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+4.670540135524194
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-2.2437223466266376
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.243558682468391
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+181.61999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+114.1883
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetracycline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+444.4346
+
+>  <PRODUCTS>  (1) 
+Achromycin Ont Oph 1%; Achromycin V; Achromycin V Cap 250mg; Acnecycline; Actisite; Apo Tetra Tabs 250mg; Dermacline; Diabecline; Dyabetex; FIRST Marys Mouthwash Compounding; Jaa Tetra Tab 250mg; Medicycline Cap 250mg; Novo-tetra 250mg; Novo-tetra Sus 125mg/5ml; Nu-tetra Capsules 250mg; Pylera; Sumycin; Tetra-abc; TetraNext; TetraStem; Tetracycline; Tetracycline 1% Onguent Ophthalmic; Tetracycline Cap 250mg; Tetracycline Hydrochloride; Tetracycline-ABC; Tetracyn Cap 250mg; Viabecline; Viabecline First Aid Antibiotic; VitaStem
+
+>  <SALTS>  (1) 
+Tetracycline hydrochloride; Tetracycline phosphate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00572
+
+>  <SMILES>  (1) 
+[H][C@@]12C[C@@]3([H])C(=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@H]2N(C)C)C(=O)C1=C(O)C=CC=C1[C@@]3(C)O
+
+>  <SYNONYMS>  (1) 
+(4S,4aS,5aS,12aS)-4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide; Abramycin; Anhydrotetracycline; Deschlorobiomycin; Tetracyclin; Tétracycline; Tetracyclinum; Tetrazyklin; Tsiklomitsin
+
+$$$$

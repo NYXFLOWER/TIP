@@ -1,0 +1,136 @@
+1563
+     RDKit          2D
+
+ 10  9  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.8019    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.3251    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -1.1039    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8481    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  7  1  0
+  3  7  1  0
+  4  6  1  0
+  5  6  1  0
+  6  7  1  0
+  4  8  1  0
+  5  9  1  0
+  6 10  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.88
+
+>  <ALOGPS_LOGS>  (1) 
+-0.58
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.34e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01563
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01563
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit; vet_approved
+
+>  <EXACT_MASS>  (1) 
+163.919862461
+
+>  <FORMULA>  (1) 
+C2H3Cl3O2
+
+>  <GENERIC_NAME>  (1) 
+Chloral hydrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H3Cl3O2/c3-2(4,5)1(6)7/h1,6-7H
+
+>  <INCHI_KEY>  (1) 
+RNFNDJAIBTYOQL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aquachloral Supprettes; Somnote
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.882383768726879
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2,2,2-trichloroethane-1,1-diol
+
+>  <JCHEM_LOGP>  (1) 
+0.6923550136666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.47153111794237
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.509396531155064
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.0687194371693485
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+29.245699999999992
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chloral hydrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+165.403
+
+>  <PRODUCTS>  (1) 
+Analgesic Balm; Apo-chloral Hydrate Syrup; Calmitol Itching Relief Ont; Chloral Hydrate Capsules 500mg; Chloral Hydrate Syrup Odan; Novo-chlorhydrate Cap 500mg; PMS-chloral Hydrate Capsules 500mg; PMS-chloral Hydrate Syrup 100mg/ml
+
+>  <SMILES>  (1) 
+OC(O)C(Cl)(Cl)Cl
+
+>  <SYNONYMS>  (1) 
+1,1,1-trichloro-2,2-dihydroxyethane; 1,1,1-trichloro-2,2-ethanediol; 2,2,2-trichloro-1,1-ethanediol; chloral monohydrate; Chloralhydrat; Trichloracetaldehyd-hydrat; trichloroacetaldehyde hydrate
+
+$$$$

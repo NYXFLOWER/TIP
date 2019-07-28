@@ -1,0 +1,158 @@
+1626
+     RDKit          2D
+
+ 25 25  0  0  1  0  0  0  0  0999 V2000
+    3.0791    0.4909    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.3967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  4  1  0
+  1  5  1  0
+  2  3  1  0
+  3  6  2  0
+  3  7  1  0
+  4 11  1  0
+  6  8  1  0
+  7  9  2  0
+  8 10  2  0
+  9 10  1  0
+ 11 12  3  0
+  2 13  1  0
+  2 14  1  0
+  4 15  1  0
+  4 16  1  0
+  5 17  1  0
+  5 18  1  0
+  5 19  1  0
+  6 20  1  0
+  7 21  1  0
+  8 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 12 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.05
+
+>  <ALOGPS_LOGS>  (1) 
+-3.20
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.98e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01626
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01626
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+159.104799421
+
+>  <FORMULA>  (1) 
+C11H13N
+
+>  <GENERIC_NAME>  (1) 
+Pargyline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H13N/c1-3-9-12(2)10-11-7-5-4-6-8-11/h1,4-8H,9-10H2,2H3
+
+>  <INCHI_KEY>  (1) 
+DPWPWRLQFGFJFI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Eutonyl
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.78096849205872
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+benzyl(methyl)(prop-2-yn-1-yl)amine
+
+>  <JCHEM_LOGP>  (1) 
+2.142725628999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.1342045861758
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+3.24
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.18090000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pargyline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+159.2276
+
+>  <SALTS>  (1) 
+Pargyline hydrochloride
+
+>  <SMILES>  (1) 
+CN(CC#C)CC1=CC=CC=C1
+
+$$$$

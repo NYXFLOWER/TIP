@@ -1,0 +1,178 @@
+531
+     RDKit          2D
+
+ 29 29  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -2.2540    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    0.6040    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    1.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376   -0.1106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126   -0.1106    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4106    1.0165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4106    1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    2.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8396    1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876   -0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7126   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0
+  2 14  1  0
+  3  4  1  0
+  3  5  2  0
+  3  6  1  0
+  3  7  1  0
+  4 10  1  0
+  6 11  1  0
+  6 12  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 11 13  1  0
+ 12 14  1  0
+  7 15  1  0
+  8 16  1  0
+  8 17  1  0
+  9 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 11 22  1  0
+ 11 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 14 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.76
+
+>  <ALOGPS_LOGS>  (1) 
+-1.24
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.51e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00531
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00531
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+260.02481966
+
+>  <FORMULA>  (1) 
+C7H15Cl2N2O2P
+
+>  <GENERIC_NAME>  (1) 
+Cyclophosphamide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H15Cl2N2O2P/c8-2-5-11(6-3-9)14(12)10-4-1-7-13-14/h1-7H2,(H,10,12)
+
+>  <INCHI_KEY>  (1) 
+CMSMOCZEIVJLDB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cytoxan; Endoxan; Neosar; Procytox; Revimmune; Sendoxan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.72239445062275
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[bis(2-chloroethyl)amino]-1,3,2λ⁵-oxazaphosphinan-2-one
+
+>  <JCHEM_LOGP>  (1) 
+0.09654768666666613
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.776543121426041
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.5659085300702769
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+41.57
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.47810000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cyclophosphamide, (+-)-
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+261.086
+
+>  <PRODUCTS>  (1) 
+Cyclophosphamide; Cytoxan Pws for Inj 1000mg/vial; Cytoxan Pws for Inj 2000mg/vial; Cytoxan Tab 25mg; Cytoxan Tab 50mg; Procytox 1000mg/vial; Procytox 2000mg/vial; Procytox 200mg/vial; Procytox 500mg/vial; Procytox Pws 500mg; Procytox Tab 25mg; Procytox Tab 50mg; Procytox Tablets 50mg; Procytox Vial 1000mg; Procytox Vial 200mg; Procytox for Injection 2000mg Pws IV
+
+>  <SALTS>  (1) 
+Cyclophosphamide monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00408
+
+>  <SMILES>  (1) 
+ClCCN(CCCl)P1(=O)NCCCO1
+
+>  <SYNONYMS>  (1) 
+(+-)-Cyclophosphamide; (RS)-Cyclophosphamide; 2-[Bis(2-chloroethylamino)]-tetrahydro-2H-1,3,2-oxazaphosphorine-2-oxide; Anhydrous cyclophosphamide; Bis(2-chloroethyl)phosphoramide cyclic propanolamide ester; Ciclofosfamida; Ciclofosfamide; Cyclophosphamid; Cyclophosphamide; Cyclophosphamide anhydrous; Cyclophosphamidum; Cytophosphane; Ledoxina; N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide
+
+$$$$

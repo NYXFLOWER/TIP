@@ -1,0 +1,260 @@
+661
+     RDKit          2D
+
+ 71 72  0  0  1  0  0  0  0  0999 V2000
+    2.3645   -2.0478    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.8728    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9812    1.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8062    2.5708    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2686    1.8563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1435    0.4273    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    0.4273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0310    1.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8561    1.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9685    0.4273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0936    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8561    2.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5061    2.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3311    2.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7436    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7436    3.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5686    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5686    3.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9812    2.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8062    1.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2187    3.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  1 28  1  0
+  2 23  1  0
+  2 31  1  0
+  3 27  1  0
+  3 32  1  0
+  4 30  1  0
+  4 33  1  0
+  5 12  1  0
+  5 18  1  0
+  5 20  1  0
+  6 15  3  0
+  7  8  1  0
+  7  9  1  0
+  7 11  1  0
+  7 15  1  0
+  8 13  1  0
+  8 14  1  0
+  9 10  1  0
+ 10 12  1  0
+ 11 16  2  0
+ 11 17  1  0
+ 16 19  1  0
+ 17 21  2  0
+ 18 22  1  0
+ 19 23  2  0
+ 21 23  1  0
+ 22 24  1  0
+ 24 25  2  0
+ 24 26  1  0
+ 25 27  1  0
+ 26 29  2  0
+ 27 30  2  0
+ 29 30  1  0
+  8 34  1  0
+  9 35  1  0
+  9 36  1  0
+ 10 37  1  0
+ 10 38  1  0
+ 12 39  1  0
+ 12 40  1  0
+ 13 41  1  0
+ 13 42  1  0
+ 13 43  1  0
+ 14 44  1  0
+ 14 45  1  0
+ 14 46  1  0
+ 16 47  1  0
+ 17 48  1  0
+ 18 49  1  0
+ 18 50  1  0
+ 20 51  1  0
+ 20 52  1  0
+ 20 53  1  0
+ 21 54  1  0
+ 22 55  1  0
+ 22 56  1  0
+ 25 57  1  0
+ 26 58  1  0
+ 28 59  1  0
+ 28 60  1  0
+ 28 61  1  0
+ 29 62  1  0
+ 31 63  1  0
+ 31 64  1  0
+ 31 65  1  0
+ 32 66  1  0
+ 32 67  1  0
+ 32 68  1  0
+ 33 69  1  0
+ 33 70  1  0
+ 33 71  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.23
+
+>  <ALOGPS_LOGS>  (1) 
+-5.06
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.94e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00661
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00661
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+454.283157714
+
+>  <FORMULA>  (1) 
+C27H38N2O4
+
+>  <GENERIC_NAME>  (1) 
+Verapamil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C27H38N2O4/c1-20(2)27(19-28,22-10-12-24(31-5)26(18-22)33-7)14-8-15-29(3)16-13-21-9-11-23(30-4)25(17-21)32-6/h9-12,17-18,20H,8,13-16H2,1-7H3
+
+>  <INCHI_KEY>  (1) 
+SGTNSNPWRIOYBX-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Bosoptin; Isoptin; Verisop; Vermin; Vermine; Verogalid; Verogalid ER; Verpamil; Vertab; Vetrimil; Zolvera
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+51.6951341668482
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-(3,4-dimethoxyphenyl)-5-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}-2-(propan-2-yl)pentanenitrile
+
+>  <JCHEM_LOGP>  (1) 
+5.043185821000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.67844357225492
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.95
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+132.6479
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+13
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+veraβ
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+454.6016
+
+>  <PRODUCTS>  (1) 
+Alti-verapamil - 120mg; Alti-verapamil - 80mg; Apo-verap SR; Apo-verap Tab 80mg; Apo-verap Tablet 120mg; Calan; Calan SR; Covera-HS; Dom-verapamil SR 240mg Tablets; Isoptin Inj 2.5mg/ml; Isoptin SR; Isoptin Tab 120mg; Isoptin Tab 80mg; Med Verapamil Tablets; Mylan-verapamil; Mylan-verapamil SR; Novo-veramil; Novo-veramil SR; Nu-verap SR; Nu-verap Tab 120mg; Nu-verap Tab 80mg; PHL-verapamil SR; PMS-verapamil SR; Penta-verapamil - 120mg; Penta-verapamil - 80mg; Pro-verapamil SR; Riva-verapamil SR; Tarka; Taro-verapamil Tab 120mg; Taro-verapamil Tab 80mg; Trandolapril and Verapamil Hydrochloride; Trandolapril and Verapamil Hydrochloride ER; Verapamil; Verapamil Hydrochloride; Verapamil Hydrochloride Injection USP; Verapamil Hydrochloride PM; Verapamil Injection 2.5mg/ml; Verapamil SR; Verapamil Tab 80mg; Verapamil hydrochloride; Verapamil-120 Tab; Verelan; Verelan PM
+
+>  <SALTS>  (1) 
+Verapamil hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00335
+
+>  <SMILES>  (1) 
+COC1=C(OC)C=C(CCN(C)CCCC(C#N)(C(C)C)C2=CC(OC)=C(OC)C=C2)C=C1
+
+>  <SYNONYMS>  (1) 
+Iproveratril; Vérapamil; Verapamil; Verapamilo; Verapamilum
+
+$$$$

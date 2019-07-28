@@ -1,0 +1,147 @@
+793
+     RDKit          2D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+    3.7934    3.0938    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6188    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -2.2688    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -3.0938    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  2  7  1  0
+  3  9  1  0
+  4 11  1  0
+  5  6  1  0
+  5 12  1  0
+  6  7  2  0
+  6  8  1  0
+  7 10  1  0
+  8  9  2  0
+  9 11  1  0
+ 10 11  2  0
+ 12 13  1  0
+ 13 14  3  0
+  8 15  1  0
+ 10 16  1  0
+ 12 17  1  0
+ 12 18  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.69
+
+>  <ALOGPS_LOGS>  (1) 
+-4.78
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.01e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00793
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00793
+
+>  <DRUG_GROUPS>  (1) 
+approved; withdrawn
+
+>  <EXACT_MASS>  (1) 
+359.837241291
+
+>  <FORMULA>  (1) 
+C9H4Cl3IO
+
+>  <GENERIC_NAME>  (1) 
+Haloprogin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H4Cl3IO/c10-6-4-8(12)9(5-7(6)11)14-3-1-2-13/h4-5H,3H2
+
+>  <INCHI_KEY>  (1) 
+CTETYYAZBPJBHE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aloprogen; Halotex; Mycanden; Mycilan; Polik
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.81779081943042
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,2,4-trichloro-5-[(3-iodoprop-2-yn-1-yl)oxy]benzene
+
+>  <JCHEM_LOGP>  (1) 
+4.8453
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.962264068206132
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+9.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+66.87900000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+haloprogin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+361.391
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01011
+
+>  <SMILES>  (1) 
+ClC1=CC(Cl)=C(Cl)C=C1OCC#CI
+
+>  <SYNONYMS>  (1) 
+Haloprogin; Haloprogina; Haloprogine; Haloproginum
+
+$$$$

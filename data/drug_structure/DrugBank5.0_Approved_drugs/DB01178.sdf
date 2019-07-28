@@ -1,0 +1,173 @@
+1178
+     RDKit          2D
+
+ 29 30  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -1.8563    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6188    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8099   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  3  2  0
+  2  4  2  0
+  2  7  1  0
+  2  8  1  0
+  5 11  2  0
+  6  7  1  0
+  6 11  1  0
+  6 12  1  0
+  7 10  1  0
+  8  9  1  0
+  9 11  1  0
+ 10 13  2  0
+ 10 14  1  0
+ 13 15  1  0
+ 14 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+  7 18  1  0
+  8 19  1  0
+  8 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 15 28  1  0
+ 16 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.84
+
+>  <ALOGPS_LOGS>  (1) 
+-2.23
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.61e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01178
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01178
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <EXACT_MASS>  (1) 
+273.022641652
+
+>  <FORMULA>  (1) 
+C11H12ClNO3S
+
+>  <GENERIC_NAME>  (1) 
+Chlormezanone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H12ClNO3S/c1-13-10(14)6-7-17(15,16)11(13)8-2-4-9(12)5-3-8/h2-5,11H,6-7H2,1H3
+
+>  <INCHI_KEY>  (1) 
+WEQAYVWKMWHEJO-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Fenaprim; Trancopal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.893445086323045
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(4-chlorophenyl)-3-methyl-1λ⁶,3-thiazinane-1,1,4-trione
+
+>  <JCHEM_LOGP>  (1) 
+0.9171674296666675
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+19.072128640163584
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.471632039008525
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.45
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.88000000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+muskel
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+273.736
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00865
+
+>  <SMILES>  (1) 
+CN1C(C2=CC=C(Cl)C=C2)S(=O)(=O)CCC1=O
+
+>  <SYNONYMS>  (1) 
+(±)-chlormezanone; Chlormethazanone; Chlormezanone; Chlormezanonum; Clormezanona
+
+$$$$

@@ -1,0 +1,97 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cr  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11136
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11136
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+51.940511904
+
+>  <FORMULA>  (1) 
+Cr
+
+>  <GENERIC_NAME>  (1) 
+Chromium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Cr
+
+>  <INCHI_KEY>  (1) 
+VYZAMTAEIAYCRO-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+chromium
+
+>  <JCHEM_LOGP>  (1) 
+-0.156
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chromium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+51.9961
+
+>  <PRODUCTS>  (1) 
+Accelerator; Actichrom; Acv; Advanced 2000 Capsules; Amd; Bio-chrome; Biosculpt; Calcium Complex High Grade; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Carbaway; Chela-chromium 200; Chelated Chromium 200 Mcg; Chelated Chromium Capsules; Chelated Chromium Gtf 500mcg Tab; Chromatone  -  Tab 100mcg; Chrome Zme (ii); Chromease Tab; Chromemate; Chromium; Chromium 200 Mcg  -  Tablet; Chromium 200mcg; Chromium 200mcg Tablets; Chromium 500 - Caplet; Chromium 500 Mcg Tablet; Chromium Amf; Chromium Chelate 500 Mcg; Chromium Ctr Srt 200mcg; Chromium Gtf + Calcium; Chromium Gtf 200mcg; Chromium Gtf 500 Mcg; Chromium Gtf 500mcg; Chromium Gtf Capsules 200mcg; Chromium Gtf Tab 500mcg; Chromium-life Dietary Supplement; Complete Multivitamins and Minerals Tablets Timed Release; DermaNIC; Dp 2000; Envive; Fb Formula; Formula Ant-cel; Formula C.I. Tab; Formula L.L.; Formula T.B.-1; Formule 3000; Glyco-aide Tab; Gtf Chromium; Gtf Support Caplet; Image Caps; Inhibitol - Tab; Inositol Nicotinate Plus CR; Ionochrome Cap 10mcg; Kanga-V Multivitamins & Minerals; L.G.I.T.; L.I.P. Complex; M T E 4 Concentrate Inj; M.T.E.-4; M.T.E.-4 Concentrated; Micro CR; Micro Plus 4 Regular Strength; Micro Plus 5 Concentrate; Micro Plus 6    (concentrate); Micro Plus 6   (pediatric); Mineralex; Mte 4 Inj; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamins & Minerals; Multi-vitamins With Minerals; Multicaps; Multimineral Chelates; Multiple Trace Metal Additive Solution; Multitabs; N.U.T. Complex; Niachrom Capsule; Nl 99; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; P.E. 99 - Tab 100mcg; Q.T. #1 Supplement; Q.T. Vitamin and Mineral Drink Mix; S.S. Formula; Slm3.com; Somavit Brand Vitamins and Minerals Complex; Spd Tab; Spectrum 2 Cap; Strovite Forte Caplet; Strovite One Caplets; T.F.B. Formula; Tlns Formula; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; Ultra C; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; Vitachrom Gc; Vitaflex Dietary Suplement; Vitalife  -  Capsule; Vtb Vitamin and Mineral Supplement; Wms 1
+
+>  <SALTS>  (1) 
+Chromic citrate; Chromic nitrate; Chromium gluconate; Chromium nicotinate; Chromous sulfate
+
+>  <SMILES>  (1) 
+[Cr]
+
+$$$$

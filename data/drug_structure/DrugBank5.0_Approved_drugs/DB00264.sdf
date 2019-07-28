@@ -1,0 +1,208 @@
+264
+     RDKit          2D
+
+ 44 44  0  0  1  0  0  0  0  0999 V2000
+    3.0791    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.9188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.0938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    4.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -4.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 11  1  0
+  2  5  1  0
+  3 18  1  0
+  3 19  1  0
+  4  6  1  0
+  4  7  1  0
+  5  6  1  0
+  5  8  1  0
+  7  9  1  0
+  7 10  1  0
+ 11 14  2  0
+ 11 15  1  0
+ 12 13  1  0
+ 12 16  2  0
+ 12 17  1  0
+ 13 18  1  0
+ 14 16  1  0
+ 15 17  2  0
+  2 20  1  0
+  4 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+  9 30  1  0
+ 10 31  1  0
+ 10 32  1  0
+ 10 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 17 39  1  0
+ 18 40  1  0
+ 18 41  1  0
+ 19 42  1  0
+ 19 43  1  0
+ 19 44  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.80
+
+>  <ALOGPS_LOGS>  (1) 
+-2.82
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.02e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00264
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00264
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+267.183443671
+
+>  <FORMULA>  (1) 
+C15H25NO3
+
+>  <GENERIC_NAME>  (1) 
+Metoprolol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H25NO3/c1-12(2)16-10-14(17)11-19-15-6-4-13(5-7-15)8-9-18-3/h4-7,12,14,16-17H,8-11H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+IUBSYMUCCVWXPE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Corvitol; Minax; Selokeen; TOPROL; Toprol-XL; TOPROLXL
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.89589107426743
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-[4-(2-methoxyethyl)phenoxy]-3-[(propan-2-yl)amino]propan-2-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.7586571139999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.087971415863102
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.666166605708499
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+50.72
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.69760000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+1-(isopropylamino)-3-[4-(2-methoxyethyl)phenoxy]propan-2-ol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+267.3639
+
+>  <PRODUCTS>  (1) 
+Apo Metoprolol (type L) Tab 50mg; Apo Metoprolol Tab 100mg; Apo Metoprolol Tab 50mg; Apo-metoprolol; Apo-metoprolol (type L) Tab 100mg; Apo-metoprolol SR; Ava-metoprolol; Ava-metoprolol (type L); Betaloc Durules Tab 200 mg; Betaloc IV Inj 1 mg/ml; Betaloc Tab 100 mg; Betaloc Tab 50 mg; Co Metoprolol-L Tablets 100mg; Co Metoprolol-L Tablets 50mg; Dom-metoprolol-B - Tab 50mg; Dom-metoprolol-B Tab 100mg; Dom-metoprolol-L; Dutoprol; Gen-metoprolol Tablets 100mg; Gen-metoprolol Tablets 50mg; Hypertensolol; Jamp-metoprolol-L; Lopresor 100mg; Lopresor 50mg; Lopresor Inj 1.0mg/ml; Lopresor SR 100mg; Lopresor SR 200 mg; Lopressor; Lopressor HCT; Metoprolol; Metoprolol - 25; Metoprolol SR; Metoprolol Succinate; Metoprolol Succinate E/r; Metoprolol Succinate ER; Metoprolol Succinate Extended-release; Metoprolol Succinate and Hydrochlorothiazide; Metoprolol Tartate; Metoprolol Tartrate; Metoprolol Tartrate Injection USP; Metoprolol Tartrate Injection, USP; Metoprolol Tartrate and Hydrochlorothiazide; Metoprolol Tartrate and Hydrochlorothiazide 100 mg-25 mg; Metoprolol Tartrate and Hydrochlorothiazide 100 mg-50 mg; Metoprolol Tartrate and Hydrochlorothiazide 50 mg-25 mg; Metoprolol succinate; Metoprolol tartrate; Metoprolol-100 Tab 100mg; Metoprolol-50 Tab 50mg; Metoprolol-L; Mylan-metoprolol (type L); Ntp-metoprolol; Nu-metop Tab 100mg; Nu-metop Tab 50mg; Nu-metoprolol; Nu-metoprolol (type L); Nu-metoprolol SR; PMS-metoprolol-B Tablets - 100mg; PMS-metoprolol-B Tablets - 50mg; PMS-metoprolol-L; PMS-metoprolol-L SR; Pendo-metoprolol-L; Penta-metoprolol Tablets; Q-metoprolol (type L); Riva-metoprolol L; Sandoz Metoprolol (type L); Sandoz Metoprolol SR; Teva-metoprolol; Toprol XL; Toprolxl XL
+
+>  <SALTS>  (1) 
+Metoprolol fumarate; Metoprolol succinate; Metoprolol tartrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00208
+
+>  <SMILES>  (1) 
+COCCC1=CC=C(OCC(O)CNC(C)C)C=C1
+
+>  <SYNONYMS>  (1) 
+(RS)-Metoprolol; 1-(isopropylamino)-3-[4-(2-methoxyethyl)phenoxy]propan-2-ol; DL-metoprolol
+
+$$$$

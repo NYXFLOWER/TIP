@@ -1,0 +1,172 @@
+996
+     RDKit          2D
+
+ 29 29  0  0  0  0  0  0  0  0999 V2000
+    4.7934    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934    0.1106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9058    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1433    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4289   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8578   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4289   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8578   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1433   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5558    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3808    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  2 12  2  0
+  3 11  1  0
+  4  5  1  0
+  4  6  1  0
+  4 10  1  0
+  4 11  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8  9  1  0
+ 10 12  1  0
+  1 13  1  0
+  3 14  1  0
+  3 15  1  0
+  5 16  1  0
+  5 17  1  0
+  6 18  1  0
+  6 19  1  0
+  7 20  1  0
+  7 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.88
+
+>  <ALOGPS_LOGS>  (1) 
+-1.60
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.34e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00996
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00996
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+171.125928793
+
+>  <FORMULA>  (1) 
+C9H17NO2
+
+>  <GENERIC_NAME>  (1) 
+Gabapentin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H17NO2/c10-7-9(6-8(11)12)4-2-1-3-5-9/h1-7,10H2,(H,11,12)
+
+>  <INCHI_KEY>  (1) 
+UGJMXCAKCUNAIE-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.924949589301477
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-[1-(aminomethyl)cyclohexyl]acetic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.2730330706628035
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.631304562358616
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.91459783435351
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+46.328300000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+gabapentin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+171.2368
+
+>  <PRODUCTS>  (1) 
+Act Gabapentin; Apo-gabapentin; Apo-gabapentin Capsules; Auro-gabapentin; Auro-gabapentin Tablets; Bci Gabapentin; Bio-gabapentin; Dipentocaine Topical Cream Compounding Kit; Dom-gabapentin; Fanatrex; Gabapentin; Gabapentin Capsules; Gabapentin Capsules USP; Gabapentin Kit; Gabapentin Tablets USP; Gapeam Budibac; Gd-gabapentin; Gralise; Gralise Starter Pack; Ipg-gabapentin; Jamp-gabapentin; Jamp-gabapentin Tablets; Mar-gabapentin; Mar-gabapentin Tabs; Mint-gabapentin; Mylan-gabapentin; Neurontin; Neurontin 600mg; Neurontin 800mg; Neurontin Cap 100mg; Neurontin Cap 300mg; Neurontin Cap 400mg; Ntp-gabapentin; Nu-gabapentin Capsules; PHL-gabapentin; PMS-gabapentin; Pendo-gabapentin; Priva-gabapentin; Pro-gabapentin; Ran-gabapentin; Ratio-gabapentin; Riva-gabapentin; SmartRx Gaba Kit; SmartRx Gaba-V Kit; Taro-gabapentin; Teva-gabapentin; Therapentin-60; Therapentin-90; Topical Nerve Pain; Van-gabapentin
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00015
+
+>  <SMILES>  (1) 
+NCC1(CC(O)=O)CCCCC1
+
+>  <SYNONYMS>  (1) 
+Gabapentine; Gabapentino; Gabapentinum
+
+$$$$

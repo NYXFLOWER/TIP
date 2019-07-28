@@ -1,0 +1,183 @@
+432
+     RDKit          2D
+
+ 31 32  0  0  1  0  0  0  0  0999 V2000
+    4.9205    1.2428    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.3699    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0955    2.6718    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465   -1.0026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1816   -2.4548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7970   -2.3685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.3073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.7824    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.3073    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.5448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665   -1.7873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4115   -1.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -1.7873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764   -2.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.5448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.9574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.9574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0
+  2 20  1  0
+  3 20  1  0
+  4 11  1  0
+  4 14  1  0
+ 12  5  1  1
+  6 15  1  0
+  7 17  2  0
+  8 19  2  0
+ 11  9  1  6
+  9 16  1  0
+  9 17  1  0
+ 10 17  1  0
+ 10 19  1  0
+ 11 13  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 14 15  1  1
+ 16 18  2  0
+ 18 19  1  0
+ 18 20  1  0
+  5 21  1  0
+  6 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 16 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.45
+
+>  <ALOGPS_LOGS>  (1) 
+-1.65
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.69e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00432
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00432
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+296.062006087
+
+>  <FORMULA>  (1) 
+C10H11F3N2O5
+
+>  <GENERIC_NAME>  (1) 
+Trifluridine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H11F3N2O5/c11-10(12,13)4-2-15(9(19)14-8(4)18)7-1-5(17)6(3-16)20-7/h2,5-7,16-17H,1,3H2,(H,14,18,19)/t5-,6+,7+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+VSQQQLOSPVPRAZ-RRKCRQDMSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Thilol; Triflumann; Triherpine; Virophta
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.074149718395166
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-(trifluoromethyl)-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+-0.7546264969999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.907878998150686
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.59857689451916
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9780835895525817
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+99.09999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.3445
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+trifluridine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+296.1999
+
+>  <PRODUCTS>  (1) 
+Apo-trifluridine Ophthalmic Solution; Lonsurf; Sandoz Trifluridine; Trifluridine; Viroptic
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01275
+
+>  <SMILES>  (1) 
+OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(C(=O)NC1=O)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+5-(Trifluoromethyl)deoxyuridine; 5-Trifluoromethyl-2-deoxyuridine; F₃T; TFT; Trifluoromethyldeoxyuridine; Trifluorothymidine; Trifluridin; Trifluridina; Trifluridine; Trifluridinum
+
+$$$$

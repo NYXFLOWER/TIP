@@ -1,0 +1,179 @@
+884
+     RDKit          2D
+
+ 28 28  0  0  0  0  0  0  0  0999 V2000
+    2.8075    1.4134    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9344    1.1114    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6325   -0.0156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    2.1278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    1.0009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6489    1.5239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3469    0.3969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0896    2.1886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0776    1.9238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910   -1.7761    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200    0.6989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054    0.2864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -0.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -1.7761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -2.1886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  8  2  0
+  1 11  1  0
+  2  6  1  0
+  2  7  1  0
+  2  9  2  0
+  2 11  1  0
+  3 11  1  0
+ 10 15  2  0
+ 10 17  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+  3 18  1  0
+  4 19  1  0
+  5 20  1  0
+  6 21  1  0
+  7 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+ 14 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+ 17 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.75
+
+>  <ALOGPS_LOGS>  (1) 
+-1.43
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.04e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00884
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00884
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+283.001074735
+
+>  <FORMULA>  (1) 
+C7H11NO7P2
+
+>  <GENERIC_NAME>  (1) 
+Risedronate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H11NO7P2/c9-7(16(10,11)12,17(13,14)15)4-6-2-1-3-8-5-6/h1-3,5,9H,4H2,(H2,10,11,12)(H2,13,14,15)
+
+>  <INCHI_KEY>  (1) 
+IIDJRNMFWXDHID-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Benet
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.907355631641288
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+[1-hydroxy-1-phosphono-2-(pyridin-3-yl)ethyl]phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.323865664200742
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+1.4431961069705728
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.6802531022191398
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.912099290314398
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+148.18
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+57.1247
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+risedronate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+283.1123
+
+>  <PRODUCTS>  (1) 
+Actonel; Actonel Dr; Actonel Plus Calcium; Actonel Sachet Kit; Apo-risedronate; Atelvia; Auro-risedronate; Dom-risedronate; Jamp-risedronate; Mylan-risedronate; Ntp-risedronate; PHL-risedronate; PMS-risedronate; PMS-risedronate Plus Calcium; Pendo-risedronate; Q-risedronate; Ratio-risedronate; Risedronate; Risedronate Sodium; Risedronate-35; Riva-risedronate; Sandoz Risedronate; Teva-risedronate
+
+>  <SALTS>  (1) 
+Risedronate sodium; Risedronate sodium hemi-pentahydrate; Risedronate sodium monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00410; DB02782
+
+>  <SMILES>  (1) 
+OC(CC1=CN=CC=C1)(P(O)(O)=O)P(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+Acide risédroniqe; Acido risedronico; Acidum risedronicum; Risedronic acid; Risedronsäure
+
+$$$$

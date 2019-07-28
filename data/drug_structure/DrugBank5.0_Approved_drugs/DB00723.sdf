@@ -1,0 +1,184 @@
+723
+     RDKit          2D
+
+ 32 32  0  0  1  0  0  0  0  0999 V2000
+    3.0791    1.3159    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.5717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.1409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.5717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.3967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2  9  1  0
+  2 14  1  0
+  3 11  1  0
+  3 15  1  0
+  4  6  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  2  0
+  7 10  1  0
+  9 12  1  0
+ 10 11  2  0
+ 11 13  1  0
+ 12 13  2  0
+  1 16  1  0
+  4 17  1  0
+  4 18  1  0
+  5 19  1  0
+  6 20  1  0
+  8 21  1  0
+  8 22  1  0
+  8 23  1  0
+ 10 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 14 29  1  0
+ 15 30  1  0
+ 15 31  1  0
+ 15 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.41
+
+>  <ALOGPS_LOGS>  (1) 
+-1.36
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.21e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00723
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00723
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+211.120843415
+
+>  <FORMULA>  (1) 
+C11H17NO3
+
+>  <GENERIC_NAME>  (1) 
+Methoxamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H17NO3/c1-7(12)11(13)9-6-8(14-2)4-5-10(9)15-3/h4-7,11,13H,12H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+WJAJPNHVVFWKKL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Mexan; Vasoxine; Vasoxyl
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.787344957938593
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-1-(2,5-dimethoxyphenyl)propan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+0.5699118033333335
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.605220064184017
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.278000429724608
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+64.71
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+57.8391
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+methoxamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.2576
+
+>  <PRODUCTS>  (1) 
+Vasoxyl Inj 20mg/ml
+
+>  <SALTS>  (1) 
+Methoxamine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00062
+
+>  <SMILES>  (1) 
+COC1=CC(C(O)C(C)N)=C(OC)C=C1
+
+>  <SYNONYMS>  (1) 
+Méthoxamédrine; Methoxamin; Méthoxamine; Methoxaminum; Metossamina; Metoxamina; Pseudomethoxamine
+
+$$$$

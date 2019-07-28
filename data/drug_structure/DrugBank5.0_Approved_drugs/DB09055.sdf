@@ -1,0 +1,146 @@
+ 
+     RDKit          2D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+   26.5035  -17.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5035  -18.8204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2180  -19.2329    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9325  -18.8204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9325  -17.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2180  -17.5829    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6580  -19.2394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7890  -17.5829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0845  -17.9897    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7890  -16.7580    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2180  -20.0578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  1  6  1  0
+  4  7  1  0
+  1  8  1  0
+  8  9  1  0
+  8 10  2  0
+  3 11  1  0
+  2 12  1  0
+  5 13  1  0
+  7 14  1  0
+  7 15  1  0
+  7 16  1  0
+  9 17  1  0
+M  CHG  2   3   1  11  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.75
+
+>  <ALOGPS_LOGS>  (1) 
+-1.11
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.20e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09055
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09055
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+154.037842061
+
+>  <FORMULA>  (1) 
+C6H6N2O3
+
+>  <GENERIC_NAME>  (1) 
+Acipimox
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H6N2O3/c1-4-2-7-5(6(9)10)3-8(4)11/h2-3H,1H3,(H,9,10)
+
+>  <INCHI_KEY>  (1) 
+DJQOOSBJCLSSEY-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acipicap
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+17
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.82590873277935
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-carboxy-2-methylpyrazin-1-ium-1-olate
+
+>  <JCHEM_LOGP>  (1) 
+-2.521175933019461
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+-0.0995479403513535
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.7088938503300706
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+77.13
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+36.7817
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+acipimox
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+154.125
+
+>  <SMILES>  (1) 
+CC1=[N+]([O-])C=C(N=C1)C(O)=O
+
+$$$$

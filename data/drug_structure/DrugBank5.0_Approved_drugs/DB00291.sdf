@@ -1,0 +1,193 @@
+291
+     RDKit          2D
+
+ 38 38  0  0  0  0  0  0  0  0999 V2000
+    2.3645    3.8405    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.8405    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.5847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.4280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.4280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.7597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2 18  1  0
+  3 19  1  0
+  4 19  2  0
+  5  6  1  0
+  5 10  1  0
+  5 11  1  0
+  6 12  2  0
+  6 13  1  0
+  7  8  1  0
+  7  9  1  0
+  8 14  2  0
+  8 15  1  0
+  9 16  1  0
+ 10 17  1  0
+ 11 18  1  0
+ 12 14  1  0
+ 13 15  2  0
+ 16 19  1  0
+  3 20  1  0
+  7 21  1  0
+  7 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 15 32  1  0
+ 16 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.81
+
+>  <ALOGPS_LOGS>  (1) 
+-3.59
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.73e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00291
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00291
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+303.079284271
+
+>  <FORMULA>  (1) 
+C14H19Cl2NO2
+
+>  <GENERIC_NAME>  (1) 
+Chlorambucil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H19Cl2NO2/c15-8-10-17(11-9-16)13-6-4-12(5-7-13)2-1-3-14(18)19/h4-7H,1-3,8-11H2,(H,18,19)
+
+>  <INCHI_KEY>  (1) 
+JCKYGMPEJWAADB-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Celkeran; Chloraminophène
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.982298958361955
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-{4-[bis(2-chloroethyl)amino]phenyl}butanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.9371549819999987
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.455549351160488
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+1.7171649065281474
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.54
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+79.6828
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chlorambucil
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+304.212
+
+>  <PRODUCTS>  (1) 
+Leukeran
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00115
+
+>  <SMILES>  (1) 
+OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl
+
+>  <SYNONYMS>  (1) 
+4-(p-bis(β-chloroethyl)aminophenyl)butyric acid; 4-[p-[bis(2-chloroethyl)amino]phenyl]butyric acid; Chloraminophen; N,N-di-2-chloroethyl-γ-p-aminophenylbutyric acid; Phenylbutyric Acid Nitrogen Mustard; γ-[p-di(2-chloroethyl)aminophenyl]butyric acid
+
+$$$$

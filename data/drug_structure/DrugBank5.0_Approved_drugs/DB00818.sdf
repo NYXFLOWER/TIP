@@ -1,0 +1,179 @@
+818
+     RDKit          2D
+
+ 31 31  0  0  0  0  0  0  0  0999 V2000
+    3.7935    1.1096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  2  4  1  0
+  2  9  1  0
+  2 10  1  0
+  3  5  1  0
+  3 11  1  0
+  3 12  1  0
+  4  6  2  0
+  4  7  1  0
+  5  6  1  0
+  5  8  2  0
+  7 13  2  0
+  8 13  1  0
+  1 14  1  0
+  2 15  1  0
+  3 16  1  0
+  7 17  1  0
+  8 18  1  0
+  9 19  1  0
+  9 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.81
+
+>  <ALOGPS_LOGS>  (1) 
+-3.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.58e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00818
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00818
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+178.135765198
+
+>  <FORMULA>  (1) 
+C12H18O
+
+>  <GENERIC_NAME>  (1) 
+Propofol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H3
+
+>  <INCHI_KEY>  (1) 
+OLBCVFGFOZPWHH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Anepol; Anespro; Anesvan; Critifol; Disoprivan; Dormofol; Fresofol; Gobbifol; Hipnolam; Hypro; IV-Pro; Lipuro; Oleo-Lax; Plofed; Profol; Profolen; Propofabb; Propofil; Propogen; Propolipid; Propovan; Propoven; Provive; Recofol; Safol; Trivam; Troypofol; Unifol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.605886657507078
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2,6-bis(propan-2-yl)phenol
+
+>  <JCHEM_LOGP>  (1) 
+4.159698795666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.983675578646347
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.982850070085555
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.42049999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+propofol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+178.2707
+
+>  <PRODUCTS>  (1) 
+Act Propofol; Diprivan; Diprivan 1%; PMS-propofol; Propofol; Propofol Injection; Propofol-II Injection
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01201; EXPT02558; DB05893
+
+>  <SMILES>  (1) 
+CC(C)C1=CC=CC(C(C)C)=C1O
+
+>  <SYNONYMS>  (1) 
+Disoprofol; Propofol; Propofolum
+
+$$$$

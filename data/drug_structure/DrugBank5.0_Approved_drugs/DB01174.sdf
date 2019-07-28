@@ -1,0 +1,179 @@
+1174
+     RDKit          2D
+
+ 29 30  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.1658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.3092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.0717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3166    0.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    2.3092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7291    1.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3166    2.3092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2 10  2  0
+  3 14  2  0
+  4  9  1  0
+  4 14  1  0
+  5 10  1  0
+  5 14  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  1  0
+  6 10  1  0
+  7 11  1  0
+  8 12  2  0
+  8 13  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+  4 18  1  0
+  5 19  1  0
+  7 20  1  0
+  7 21  1  0
+ 11 22  1  0
+ 11 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 15 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.40
+
+>  <ALOGPS_LOGS>  (1) 
+-2.93
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.76e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01174
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01174
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+232.08479226
+
+>  <FORMULA>  (1) 
+C12H12N2O3
+
+>  <GENERIC_NAME>  (1) 
+Phenobarbital
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H12N2O3/c1-2-12(8-6-4-3-5-7-8)9(15)13-11(17)14-10(12)16/h3-7H,2H2,1H3,(H2,13,14,15,16,17)
+
+>  <INCHI_KEY>  (1) 
+DDBREPKUVSBGFI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Luminal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.61014800211105
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione
+
+>  <JCHEM_LOGP>  (1) 
+1.4063301279999993
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.80257581047636
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.136713113493377
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+75.27
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.746300000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phenobarbital
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+232.2353
+
+>  <PRODUCTS>  (1) 
+B-Donna; Barbilixir Elx 4mg/ml; Belladonna Alkaloids with Phenobarbital; Belladonna Alkaloids with Phenobartbital; Bellergal Spacetabs; Bellergal Tab; Diclophen; Dilantin W Phenobarbital 15mg; Dilantin W Phenobarbital 30mg Cap; Donnatal; Donnatal Elixir; Donnatal Extentabs; Donnatal Extentabs Srt; Donnatal Tab; Me-PB-Hyos; Phenaphen No 2 Cap; Phenaphen No 3 Cap; Phenaphen No 4 Cap; Phenaphen No.2 Cap; Phenaphen No.3 Cap; Phenaphen No.4 Cap; Phenobarb; Phenobarb Elixir; Phenobarbital; Phenobarbital 100mg Tab; Phenobarbital Sodium; Phenobarbital Sodium Injection 120mg/ml; Phenobarbital Sodium Injection 30mg/ml; Phenobarbital Sodium Injection, USP; Phenobarbital Tab 15mg; Phenobarbital Tab 30mg; Phenobarbital Tab 60mg; Phenobarbital Tablet 100mg; Phenobarbital Tablet 15mg; Phenobarbital Tablet 30mg; Phenobarbital Tablet 60mg; Phenohytro; Quadrapax; Re-PB Hyos Elixir; Se-donna Pb Hyos; Tedral Tab
+
+>  <SALTS>  (1) 
+Phenobarbital sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00184
+
+>  <SMILES>  (1) 
+CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+5-ethyl-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione; 5-Ethyl-5-phenyl-pyrimidine-2,4,6-trione; 5-Ethyl-5-phenylbarbituric acid; 5-ethyl-5-phenylpyrimidine-2,4,6(1H,3H,5H)-trione; 5-Phenyl-5-ethylbarbituric acid; Phenobarbitol; Phenobarbitone; Phenobarbituric Acid; Phenylethylbarbiturate; Phenylethylbarbituric Acid
+
+$$$$

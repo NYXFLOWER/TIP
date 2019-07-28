@@ -1,0 +1,193 @@
+131
+     RDKit          2D
+
+ 37 39  0  0  1  0  0  0  0  0999 V2000
+    6.9922    2.1365    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9010    0.6808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8071    1.0969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8647    2.5471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3238    1.6527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4759    1.4682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6604    2.6202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5084    2.8048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.3570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -1.6848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1959    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.4335    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.6710    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6321    1.0955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1182    1.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    0.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9025    1.5058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5707    1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.6084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -1.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.4335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  6  1  0
+  1  7  1  0
+  1  8  2  0
+  2 16  1  0
+  2 17  1  0
+ 14  3  1  6
+ 15  4  1  6
+  5 18  1  0
+ 16  9  1  1
+  9 19  1  0
+  9 20  1  0
+ 10 20  2  0
+ 10 21  1  0
+ 11 19  1  0
+ 11 23  2  0
+ 12 22  2  0
+ 12 23  1  0
+ 13 22  1  0
+ 14 15  1  0
+ 14 16  1  0
+ 15 17  1  0
+ 17 18  1  6
+ 19 21  2  0
+ 21 22  1  0
+  3 24  1  0
+  4 25  1  0
+  6 26  1  0
+  7 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 16 32  1  0
+ 17 33  1  0
+ 18 34  1  0
+ 18 35  1  0
+ 20 36  1  0
+ 23 37  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.13
+
+>  <ALOGPS_LOGS>  (1) 
+-2.02
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.31e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00131
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00131
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+347.063084339
+
+>  <FORMULA>  (1) 
+C10H14N5O7P
+
+>  <GENERIC_NAME>  (1) 
+Adenosine monophosphate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+UDMBCSSLTHHNCD-KQYNXXCUSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+My-B-Den
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+10
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+29.99861349032206
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+{[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-4.788289391565842
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+6.281813567799993
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.2265723729422926
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.965390321358218
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+186.07000000000002
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+74.06850000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+adenylate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+347.2212
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00011; EXPT00512
+
+>  <SMILES>  (1) 
+NC1=C2N=CN([C@@H]3O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]3O)C2=NC=N1
+
+>  <SYNONYMS>  (1) 
+5'-Adenosine monophosphate; 5'-Adenylic acid; 5'-AMP; Adenosine 5'-(dihydrogen phosphate); Adenosine 5'-monophosphate; Adenosine 5'-phosphate; Adenosine phosphate; Adenosine-5'-Monophosphate; Adenosine-5'-monophosphoric acid; Adenylate; Adenylic acid; AMP; Phosaden; Phosphaden
+
+$$$$

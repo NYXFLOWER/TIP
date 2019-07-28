@@ -1,0 +1,97 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Cu  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09130
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09130
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+62.929601079
+
+>  <FORMULA>  (1) 
+Cu
+
+>  <GENERIC_NAME>  (1) 
+Copper
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Cu
+
+>  <INCHI_KEY>  (1) 
+RYGMFSIKBFXOCR-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+copper
+
+>  <JCHEM_LOGP>  (1) 
+0.156
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+copper
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+63.546
+
+>  <PRODUCTS>  (1) 
+A.R.T.H. Away Formula; Actyform; B & J Formula Dietary Supplement; C.A.G. Tab; Cal Mag Plus - Tab; Calcium Plus; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calplus; Carti-aide Tab; Cell-wise; Cell-wise Natural Source; Cellular Formula; Chela Copper Tab 3mg; Chela Zinc Plus; Chelated Copper Supplement  - Tab 2mg; Chelazome Copper Cap 5mg; Chewable Calcium Plus Magnesium and Minerals; Children's Chewable Multi-vitamin Complete With Minerals; Complete Multivitamins and Minerals Tablets Timed Release; Copper (gluconate) 2 Mg Tablets; Copper 3mg Plus Iron & Zinc Tab; Copper Chelate - 5mg Tab; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Multivitamins and Minerals; Escavite; Food Nutrition Inc. Men's Vitamin and Mineral Supplement; Formula A.R.-th Dietary Supplement; Formula EC; Formula O-care Vitamin and Mineral Supplement; Formula R Mineral Supplement; Fortifi-plus; Guardyn Tab; Hemarexin Tab; Hypo Vites Tab; Icaps; Icaps Time Release; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Iron Plus Tab; Itabs Plus; Kanga-V Multivitamins & Minerals; L.G.I.T.; M T E 4 Concentrate Inj; M.T.E.-4; M.T.E.-4 Concentrated; M.T.E.-6 Concentrated; Macuzin; Micro Cu; Micro Plus 4 Concentrate; Micro Plus 4 Regular Strength; Micro Plus 5 Concentrate; Micro Plus 6    (concentrate); Micro Plus 6   (pediatric); Micro Plus 6 (regular); Mte 4 Inj; Multi #2; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin-mineral Formula; Multimineral Chelates; Multiple Trace Metal Additive Solution; Multiple Vitamin Plus Minerals Tab; Multiple Vitamins W Minerals Tab; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multivitamines Et Mineraux; Multivitamins W Minerals Extra Strength; Nata Komplete; Nutrifer Plus Tablets; Nutrilite Double X; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Ocuvel; One A Day Multiple Vit W Minerals; One A Day Tab; Osteo Formula; P.R.O. Complex; ParaGard T 380A; Phytopure; PreNatal Vitamins Plus; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Proscare; Q.T. Vitamin and Mineral Drink Mix; Reaphirm Plant Source DHA; Revival 1 Tab; Somavit Brand Vitamins and Minerals Complex; Stress Tab With Zinc, Copper and Vitamin E; Strovite Forte Caplet; Super 7 Vitamin and Mineral Supplement; Super Cal Mag Plus; Super Daily No 2; Tozal; Trace Minerals Et/and B12 Tab; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; V-V Dietary Supplement; Vege 1 Daily Tab; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitality Brand Calcium Plus Tab; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitamune; Vitaplex; Vitogen B Stress C Vit E Zinc & Cop; Women's Formula; Zinc 50mg Tab; Zinc Amino Acid Chelate Tab; Zinc Chelate 20mg With Copper Chelate; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SMILES>  (1) 
+[Cu]
+
+>  <SYNONYMS>  (1) 
+cobre; cuivre; cuprum; Kupfer
+
+$$$$

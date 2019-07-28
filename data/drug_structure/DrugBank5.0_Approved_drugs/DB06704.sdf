@@ -1,0 +1,155 @@
+
+     RDKit          2D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  1  6  1  0
+  5  7  1  0
+  3  8  1  0
+  8  9  1  0
+  9 10  2  3
+ 10 11  1  0
+ 10 12  1  0
+  1 13  1  0
+  2 14  1  0
+  4 15  1  0
+  6 16  1  0
+  8 17  1  0
+  8 18  1  0
+ 11 19  1  0
+ 11 20  1  0
+ 12 21  1  0
+ 12 22  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.53
+
+>  <ALOGPS_LOGS>  (1) 
+-3.50
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.78e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06704
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06704
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+274.991940755
+
+>  <FORMULA>  (1) 
+C8H10IN3
+
+>  <GENERIC_NAME>  (1) 
+Iobenguane
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H10IN3/c9-7-3-1-2-6(4-7)5-12-8(10)11/h1-4H,5H2,(H4,10,11,12)
+
+>  <INCHI_KEY>  (1) 
+PDWUPXJEEYOOTR-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.92774033036308
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(3-iodophenyl)methyl]guanidine
+
+>  <JCHEM_LOGP>  (1) 
+1.6402546463333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+11.270847308527944
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+64.39999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.31569999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+meta iodobenzylguanidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+275.0896
+
+>  <SALTS>  (1) 
+Iobenguane I 123; Iobenguane I 131; Iobenguane sulfate; Iobenguane sulfate I 123; Iobenguane sulfate I 131
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09497
+
+>  <SMILES>  (1) 
+NC(N)=NCC1=CC(I)=CC=C1
+
+>  <SYNONYMS>  (1) 
+((3-iodophenyl)methyl)guanidine; 3-iodobenzylguanidine; m-iodobenzylguanidine; Metaiodobenzylguanidine; mIBG
+
+$$$$

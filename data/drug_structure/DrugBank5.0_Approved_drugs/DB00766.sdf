@@ -1,0 +1,167 @@
+766
+     RDKit          2D
+
+ 23 24  0  0  1  0  0  0  0  0999 V2000
+    3.8486    1.1438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9106   -1.1472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5515   -1.5889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961    1.1908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640    0.0638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0640    0.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8486   -0.1912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.8922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.0604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3336    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1036   -0.9757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1586    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5711    1.1908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  1 11  1  0
+  2 10  2  0
+  3 12  1  0
+  4 12  2  0
+  5 14  1  0
+  6  7  1  0
+  6  8  1  0
+  6 10  1  0
+  7  9  1  0
+  8 11  1  0
+  8 12  1  6
+  9 10  1  0
+ 11 13  2  0
+ 13 14  1  0
+  3 15  1  0
+  5 16  1  0
+  7 17  1  6
+  8 18  1  0
+  9 19  1  0
+  9 20  1  0
+ 13 21  1  0
+ 14 22  1  0
+ 14 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.16
+
+>  <ALOGPS_LOGS>  (1) 
+0.23
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.37e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00766
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00766
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+199.048072403
+
+>  <FORMULA>  (1) 
+C8H9NO5
+
+>  <GENERIC_NAME>  (1) 
+Clavulanate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H9NO5/c10-2-1-4-7(8(12)13)9-5(11)3-6(9)14-4/h1,6-7,10H,2-3H2,(H,12,13)/b4-1-/t6-,7-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+HZZVJAQRINQKSD-PBFISZAISA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.127806374561942
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3Z,5R)-3-(2-hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.521207563
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+15.522017294386345
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.316908146355913
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.572438391835412
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+87.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.252500000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+clavulanate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+199.1608
+
+>  <PRODUCTS>  (1) 
+Amoxi-clav; Amoxicillan and clavulanate potassium; Amoxicillin and Clavulanate Potassium; Amoxicillin/Clavulanate Potassium; Apo-amoxi Clav; Apo-amoxi Clav 125mg/31.25mg Per 5ml; Apo-amoxi Clav 250/125; Apo-amoxi Clav 250mg/62.5mg Per 5ml; Apo-amoxi Clav 500/125; Apo-amoxi Clav 875/125; Augmentin; Augmentin Es-600; Augmentin XR; AugmentinXR; Clavulin 125 F Oral Sus; Clavulin 200; Clavulin 250 F Oral Sus; Clavulin 250 Tab; Clavulin 400; Clavulin 500 F Tab; Clavulin 875; Novo-clavamoxin 125; Novo-clavamoxin 250; Novo-clavamoxin 875; PMS-amclav-200; PMS-amclav-400; PMS-amclav-875; Ratio-aclavulanate; Ratio-aclavulanate 125 F; Ratio-aclavulanate 250 F; Timentin
+
+>  <SALTS>  (1) 
+Clavulanate potassium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00049
+
+>  <SMILES>  (1) 
+[H][C@@]12CC(=O)N1[C@@H](C(O)=O)\C(O2)=C\CO
+
+>  <SYNONYMS>  (1) 
+(2R,3Z,5R)-3-(2-HYDROXYETHYLIDENE)-7-oxo-4-oxa-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; (Z)-(2R,5R)-3-(2-Hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo(3.2.0)heptane-2-carboxylic acid; acide clavulanique; ácido clavulánico; Acidum clavulanicum; Antibiotic MM 14151; Clavulanic Acid; Clavulansäure; MM 14151
+
+$$$$

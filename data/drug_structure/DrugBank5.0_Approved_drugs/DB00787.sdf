@@ -1,0 +1,178 @@
+787
+     RDKit          2D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    6.0807    0.7122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4006    2.4506    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.2422    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.0811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -1.5700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.3186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.0811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2734    0.5420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -0.9061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.7311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3370    1.4963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1443    1.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 15  1  0
+  2 13  2  0
+  3 16  1  0
+  4  9  1  0
+  4 10  1  0
+  4 12  1  0
+  5  9  1  0
+  5 14  1  0
+  6 11  1  0
+  6 12  2  0
+  7 13  1  0
+  7 14  2  0
+  8 14  1  0
+  9 11  2  0
+ 11 13  1  0
+ 15 16  1  0
+  3 17  1  0
+  5 18  1  0
+  8 19  1  0
+  8 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 12 23  1  0
+ 15 24  1  0
+ 15 25  1  0
+ 16 26  1  0
+ 16 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.95
+
+>  <ALOGPS_LOGS>  (1) 
+-1.39
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.08e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00787
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00787
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+225.086189243
+
+>  <FORMULA>  (1) 
+C8H11N5O3
+
+>  <GENERIC_NAME>  (1) 
+Aciclovir
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15)
+
+>  <INCHI_KEY>  (1) 
+MKUXAQIIEYXACX-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Zovir
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.50793372513306
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-9-[(2-hydroxyethoxy)methyl]-6,9-dihydro-3H-purin-6-one
+
+>  <JCHEM_LOGP>  (1) 
+-1.0319567660000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.11725876431052
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.986608032207476
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.6261777857739976
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+114.75999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.6334
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zovirax
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+225.2046
+
+>  <PRODUCTS>  (1) 
+Acyclovir; Acyclovir Sodium; Acyclovir Sodium Injection; Acyclovir Sodium for Injection; Acyclovir-200; Acyclovir-400; Acyclovir-800; Alti-acyclovir - 400mg; Alti-acyclovir - 800mg; Alti-acyclovir - Tab 200mg; Apo-acyclovir; Apo-acyclovir - Tab 200mg; Apo-acyclovir - Tab 400mg; Mylan-acyclovir; Ntp-acyclovir; Nu-acyclovir - Tab 200mg; Nu-acyclovir - Tab 400mg; Nu-acyclovir - Tab 800mg; Ratio-acyclovir; Sitavig; Teva-acyclovir; Xerese; Zovirax; Zovirax 400; Zovirax 800; Zovirax Cap 200mg; Zovirax Tab 200mg
+
+>  <SALTS>  (1) 
+Aciclovir Sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00567; EXPT00406; DB05347
+
+>  <SMILES>  (1) 
+NC1=NC(=O)C2=C(N1)N(COCCO)C=N2
+
+>  <SYNONYMS>  (1) 
+Acycloguanosine; Acyclovir
+
+$$$$

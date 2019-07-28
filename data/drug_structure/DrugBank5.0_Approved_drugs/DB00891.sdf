@@ -1,0 +1,171 @@
+891
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    2.4751    0.5404    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.7597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  4  1  0
+  1  7  1  0
+  4 10  1  0
+  5 10  2  0
+  5 17  1  0
+  6 11  1  0
+  7  8  2  0
+  7  9  1  0
+  8 12  1  0
+  9 13  2  0
+ 10 14  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+  4 18  1  0
+  6 19  1  0
+  6 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 12 23  1  0
+ 13 24  1  0
+ 14 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+ 17 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.84
+
+>  <ALOGPS_LOGS>  (1) 
+-3.03
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.35e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00891
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00891
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+249.057197301
+
+>  <FORMULA>  (1) 
+C11H11N3O2S
+
+>  <GENERIC_NAME>  (1) 
+Sulfapyridine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H11N3O2S/c12-9-4-6-10(7-5-9)17(15,16)14-11-3-1-2-8-13-11/h1-8H,12H2,(H,13,14)
+
+>  <INCHI_KEY>  (1) 
+GECHUMIMRBOMGK-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.968242879877224
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-N-(pyridin-2-yl)benzene-1-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+1.0087702490000003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.238491401911986
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.6339334750348344
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+85.08
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+65.74720000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ronin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+249.289
+
+>  <PRODUCTS>  (1) 
+Dagenan Tab 500mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00491
+
+>  <SMILES>  (1) 
+NC1=CC=C(C=C1)S(=O)(=O)NC1=CC=CC=N1
+
+>  <SYNONYMS>  (1) 
+Sulfapiridina; Sulfapyridin; Sulfapyridine; Sulfapyridinum; Sulphapyridine
+
+$$$$

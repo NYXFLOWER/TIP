@@ -1,0 +1,199 @@
+477
+     RDKit          2D
+
+ 40 42  0  0  0  0  0  0  0  0999 V2000
+    6.4919   -0.7592    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.6957   -2.3625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6957   -0.7784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3239    1.5978    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6957    0.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0098    0.4098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0098    1.2018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3817   -1.1744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0098   -1.1744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3817   -1.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0098   -1.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0898   -0.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -0.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0898   -2.3899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -2.3899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6380    1.2018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3239    2.3899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8075   -1.1579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841   -1.1579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8075   -1.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841   -1.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0
+  2 10  1  0
+  2 11  1  0
+  3  5  1  0
+  3  8  1  0
+  3  9  1  0
+  4  7  1  0
+  4 16  1  0
+  4 17  1  0
+  5  6  1  0
+  6  7  1  0
+  8 10  2  0
+  8 12  1  0
+  9 11  2  0
+  9 13  1  0
+ 10 14  1  0
+ 11 15  1  0
+ 12 18  2  0
+ 13 19  2  0
+ 14 20  2  0
+ 15 21  2  0
+ 18 20  1  0
+ 19 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  7 27  1  0
+ 12 28  1  0
+ 13 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 16 32  1  0
+ 16 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 17 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 21 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.18
+
+>  <ALOGPS_LOGS>  (1) 
+-4.88
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.17e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00477
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00477
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+318.095747015
+
+>  <FORMULA>  (1) 
+C17H19ClN2S
+
+>  <GENERIC_NAME>  (1) 
+Chlorpromazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H19ClN2S/c1-19(2)10-5-11-20-14-6-3-4-7-16(14)21-17-9-8-13(18)12-15(17)20/h3-4,6-9,12H,5,10-11H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+ZPEIMTDSQAKGNT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aminazine; Chlorderazin; Chloropromazine; Chlorpromados; Chlorpromanyl; Contomin; Largactil; Thorazine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.10071114378624
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+[3-(2-chloro-10H-phenothiazin-10-yl)propyl]dimethylamine
+
+>  <JCHEM_LOGP>  (1) 
+4.535000242333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.196976785801306
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.75630000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chlorpromazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+318.864
+
+>  <PRODUCTS>  (1) 
+Apo Chlorpromazine; Chlorprom Tab 100mg; Chlorprom Tab 25mg; Chlorprom Tab 50mg; Chlorpromanyl 20 Syr; Chlorpromanyl 40 Drops Syr 44.5mg/ml; Chlorpromazine; Chlorpromazine HCl Inj 25mg/ml USP; Chlorpromazine HCl Inj 27.9mg/ml; Chlorpromazine HCl Inj USP; Chlorpromazine Hydrochloride; Chlorpromazine Hydrochloride Injection; Chlorpromazine Tab 25mg; Chlorpromazine Tablets B.P. 100mg; Chlorpromazine Tablets B.P. 25mg; Chlorpromazine Tablets B.P. 50mg; Chlorpromazine hydrochloride; Largactil 100; Largactil 25; Largactil 50; Largactil Drops 40mg/ml; Largactil Sup 100mg; Novo-chlorpromazine 200mg; Novo-chlorpromazine Tab 10mg; Teva-chlorpromazine
+
+>  <SALTS>  (1) 
+Chlorpromazine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00482
+
+>  <SMILES>  (1) 
+CN(C)CCCN1C2=CC=CC=C2SC2=C1C=C(Cl)C=C2
+
+>  <SYNONYMS>  (1) 
+3-(2-chloro-10H-phenothiazin-10-yl)-N,N-dimethyl-1-propanamine; 3-(2-chlorophenothiazin-10-yl)-N,N-dimethyl-propan-1-amine; Chlorpromazinum; Clorpromazina; CPZ; N-(3-dimethylaminopropyl)-3-chlorophenothiazine
+
+$$$$

@@ -1,0 +1,244 @@
+
+     RDKit          2D
+
+ 59 62  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991    0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9840    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991   -0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2136    3.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6985    3.7125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4685    2.2604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2755    2.0889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5304    1.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2136    4.3799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4685    5.1646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9165    5.7777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2755    5.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7234    5.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  2  0
+  1  2  1  0
+  2  9  2  0
+  2  3  1  0
+  3 14  2  0
+  3  4  1  0
+  4 11  2  0
+  4  5  1  0
+  5 17  2  0
+  5  6  1  0
+  6 15  1  0
+ 18  7  1  0
+  7  8  1  0
+  7 10  2  0
+  9 10  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 21 18  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 19 22  1  0
+ 20 29  1  0
+ 29 25  2  0
+ 25 21  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 25 26  1  0
+ 26 28  1  0
+ 26 27  2  0
+ 29 30  1  0
+ 30 33  1  0
+ 30 31  1  0
+ 30 32  1  0
+  1 34  1  0
+  6 35  1  0
+  8 36  1  0
+  9 37  1  0
+ 10 38  1  0
+ 11 39  1  0
+ 12 40  1  0
+ 13 41  1  0
+ 14 42  1  0
+ 18 43  1  0
+ 18 44  1  0
+ 22 45  1  0
+ 22 46  1  0
+ 23 47  1  0
+ 23 48  1  0
+ 24 49  1  0
+ 24 50  1  0
+ 24 51  1  0
+ 28 52  1  0
+ 31 53  1  0
+ 31 54  1  0
+ 31 55  1  0
+ 32 56  1  0
+ 32 57  1  0
+ 32 58  1  0
+ 33 59  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.98
+
+>  <ALOGPS_LOGS>  (1) 
+-4.63
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.05e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00275
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00275
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+446.206638728
+
+>  <FORMULA>  (1) 
+C24H26N6O3
+
+>  <GENERIC_NAME>  (1) 
+Olmesartan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C24H26N6O3/c1-4-7-19-25-21(24(2,3)33)20(23(31)32)30(19)14-15-10-12-16(13-11-15)17-8-5-6-9-18(17)22-26-28-29-27-22/h5-6,8-13,33H,4,7,14H2,1-3H3,(H,31,32)(H,26,27,28,29)
+
+>  <INCHI_KEY>  (1) 
+VTRAEEWXHOVJFV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Erastapex; Golme; Olmetec; WinBP
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+47.46109228955917
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-(2-hydroxypropan-2-yl)-2-propyl-1-({4-[2-(1H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl}methyl)-1H-imidazole-5-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+2.1421836780318553
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+4.960543714059866
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.9103581952252084
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.5694484713200865
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+129.81
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+137.3237
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+olmesartan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+446.5016
+
+>  <PRODUCTS>  (1) 
+AMLODIPINE and OLMESARTAN medoxomil; Ach-olmesartan; Ach-olmesartan Hctz; Act Olmesartan; Act Olmesartan Hct; Amlodipine and Olmesartan Medoxomil; Amlodipine and olmesartan Medoxomil; Amlodipine and olmesartan medoxomil; Amlodipine besylate and Olmesartan medoxomil; Amlodipine besylate and Olmesartran medoxomil; Apo-olmesartan; Apo-olmesartan/hctz; Auro-olmesartan; Azor; Benicar; Benicar HCT; Benicar Hct; Gln-olmesartan; Jamp-olmesartan; Jamp-olmesartan Hctz; Med-olmesartan; OLMESARTAN MEDOXOMIL and HYDROCHLOROTHIAZIDE; Olmesartan; Olmesartan Medoxmil and Hydrochlorothiazide; Olmesartan Medoxomil; Olmesartan Medoxomil / Amlodipine Besylate / Hydrochlorothiazide; Olmesartan Medoxomil / Hydrochlorothiazide; Olmesartan Medoxomil and Hydrochlorothiazide; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 20/5/12.5 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/10/12.5 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/10/25 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/5/12.5 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/5/25 mg; Olmesartan medoxomil; Olmetec; Olmetec Plus; PMS-olmesartan; PMS-olmesartan-hctz; Sandoz Olmesartan; Teva-olmesartan/hctz; Tribenzor
+
+>  <SALTS>  (1) 
+Olmesartan medoxomil
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00223
+
+>  <SMILES>  (1) 
+CCCC1=NC(=C(N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)C(O)=O)C(C)(C)O
+
+>  <SYNONYMS>  (1) 
+4-(1-hydroxy-1-methylethyl)-2-propyl-1-{[2'-(1H-tetrazol-5-yl)biphenyl-4-yl]methyl}-1H-imidazole-5-carboxylic acid; 4-(hydroxy-1-methylethyl)-2-propyl-1-{[2'-(1H-tetrazol-5-yl)-1,1'-biphenyl-4-yl]methyl}-1H-imidazole-5-carboxylic acid
+
+$$$$

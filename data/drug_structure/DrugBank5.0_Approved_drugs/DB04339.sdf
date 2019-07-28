@@ -1,0 +1,156 @@
+
+     RDKit          2D
+
+ 20 19  0  0  1  0  0  0  0  0999 V2000
+    4.6184    2.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  2  9  1  0
+  9 10  1  0
+  9 11  2  0
+  1 12  1  0
+  1 13  1  0
+  2 14  1  0
+  3 15  1  0
+  3 16  1  0
+  5 17  1  0
+  5 18  1  0
+  7 19  1  0
+ 10 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.20
+
+>  <ALOGPS_LOGS>  (1) 
+-0.92
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.16e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB04339
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB04339
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+179.025228471
+
+>  <FORMULA>  (1) 
+C5H9NO4S
+
+>  <GENERIC_NAME>  (1) 
+Carbocisteine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H9NO4S/c6-3(5(9)10)1-11-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+GBFLZEXEOZUWRN-VKHMYHEASA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Actithiol; Lisomucil; Muciclar; Mucodyne; Mucolex; Rhinathiol; Transbronchin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.69360801434916
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2-amino-3-[(carboxymethyl)sulfanyl]propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.2974090328132886
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+4.05264718605501
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.8428031112426706
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.14390391869584
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+100.62
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+39.1068
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+carbocisteine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+179.194
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00835; DB02476
+
+>  <SMILES>  (1) 
+N[C@@H](CSCC(O)=O)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(L)-2-Amino-3-(carboxymethylthio)propionic acid; (R)-S-(carboxymethyl)cysteine; L-3-((carboxymethyl)thio)alanine; L-carbocysteine; S-(carboxymethyl)-(R)-cysteine; S-carboxymethyl-L-cysteine; S-carboxymethylcysteine
+
+$$$$

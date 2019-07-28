@@ -1,0 +1,176 @@
+
+     RDKit          2D
+
+ 31 31  0  0  0  0  0  0  0  0999 V2000
+   -2.8578    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+  6 11  1  0
+ 11 12  1  0
+  9 13  1  0
+  1 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  2 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  4 22  1  0
+  5 23  1  0
+  5 24  1  0
+  7 25  1  0
+  8 26  1  0
+ 10 27  1  0
+ 12 28  1  0
+ 13 29  1  0
+ 13 30  1  0
+ 13 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.33
+
+>  <ALOGPS_LOGS>  (1) 
+-3.42
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.80e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13908
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13908
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+178.1357652
+
+>  <FORMULA>  (1) 
+C12H18O
+
+>  <GENERIC_NAME>  (1) 
+Amylmetacresol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H18O/c1-3-4-5-6-11-8-7-10(2)9-12(11)13/h7-9,13H,3-6H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+CKGWFZQGEQJZIL-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+31
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.14700805372812
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-methyl-2-pentylphenol
+
+>  <JCHEM_LOGP>  (1) 
+4.4747979330000005
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.390061886363817
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.474276031993935
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+56.525299999999994
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+amylmetacresol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+178.275
+
+>  <PRODUCTS>  (1) 
+Antibacterial Throat Lozenges; Benylin Antiseptic Throat Lozenges; Cepacol Children's Fruity Strawberry; Cepacol Children's Sweet Honey Lemon; Cepacol Sensations; Cepacol Sensations Cooling; Cepacol Sensations Ginger Flavour; Cepacol Sensations Sore Throat & Blocked Nose; Cepacol Sensations Sore Throat & Cough; Cepacol Sensations Warming; Strepsils; Strepsils - Loz; Strepsils 1 - Loz; Strepsils Cherry; Strepsils Cool; Strepsils Sore Throat Blocked Nose; Strepsils Strawberry Sugarfree; Strepsils Warm
+
+>  <SMILES>  (1) 
+CCCCCC1=CC=C(C)C=C1O
+
+>  <SYNONYMS>  (1) 
+5-methyl-2-pentylphenol; 6-amyl-m-cresol; 6-n-amyl-m-cresol; 6-n-pentyl-m-cresol; 6-pentyl-m-cresol; Amyl metacresol; amylmetacresolum
+
+$$$$

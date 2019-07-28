@@ -1,0 +1,191 @@
+1620
+     RDKit          2D
+
+ 38 39  0  0  1  0  0  0  0  0999 V2000
+    2.3645    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1 11  1  0
+  1 12  1  0
+  2  7  2  0
+  2 17  1  0
+  3  4  1  0
+  3  6  1  0
+  3  7  1  0
+  4  5  1  0
+  6  8  2  0
+  6  9  1  0
+  7 10  1  0
+  8 13  1  0
+  9 14  2  0
+ 10 15  2  0
+ 13 16  2  0
+ 14 16  1  0
+ 15 18  1  0
+ 17 18  2  0
+  3 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  8 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.85
+
+>  <ALOGPS_LOGS>  (1) 
+-2.80
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.77e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01620
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01620
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+240.16264865
+
+>  <FORMULA>  (1) 
+C16H20N2
+
+>  <GENERIC_NAME>  (1) 
+Pheniramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H20N2/c1-18(2)13-11-15(14-8-4-3-5-9-14)16-10-6-7-12-17-16/h3-10,12,15H,11,13H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+IJHNSHDBIRRJRN-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+AVIL
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.409848442993137
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl[3-phenyl-3-(pyridin-2-yl)propyl]amine
+
+>  <JCHEM_LOGP>  (1) 
+2.9809062386666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.484963287532704
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+16.130000000000003
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.04550000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pheniramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+240.3434
+
+>  <PRODUCTS>  (1) 
+Allergy Eye Drops; Antitussive Decong Antihistamine Syr; Bronchodex D Cap; Bronchodex Pediatrique; Bronchosirum Pour Enfants; CVS Pharmacy Cold and Sore Throat Lemon Flavor; Caldomine Dh Adulte; Caldomine Dh Enfant; Calmylin Ace; Care One Flu and Sore Throat; Centracol DM - Syr; Centracol Pediatrique - Syr; Citron Chaud Cumberland Pws; Citron Chaud DM Cumberland Pws; Citron Chaud DM Option + Pws; Citron Chaud Extra Fort; Citron Chaud Réguliern DM; Cold & Flu; Cold & Flu Super Strength; Cold Decongestant Long Acting Cap; Cold Stix; Cold Stix - Hot Lemon, Sugar-free; Sweetened With Xylitol; Cold Stix Super Strength; Cold Stix-extra Strength; Cold Stix-regular Strength; Colds & Coughs; Cough & Cold; Diopticon A Liq; Diorouge Liq; Dristan Mentholated Nasal Spray; Dristan Nasal Mist; Equaline Flu and Sore Throat; Extra Strength Pharmacitron; Eye Allergy Relief; Flu and Sore Throat; Flu and Sore Throat Multi Symptom; Flu and Sore Throat Soothing Warm Relief; Flu-away-extra Strength; Flu-away-regular Strength; Good Neighbor Pharmacy Flu and Sore throat; Good Sense Flu and Sore Throat; Hot Lemon Cold and Flu Relief Extra Strength; Hot Lemon Cold and Flu Relief Regular Strength; Hot Lemon Cough and Cold Relief DM; Hot Lemon Cough and Colds Relief DM; Hot Lemon Extra Strength; Hot Lemon Regular - Pwr; Hot Lemon Relief - Extra Strength; Hot Lemon Relief Extra Strength; Hot Lemon Relief Pck-pws; Hot Lemon Relief Powder; Hot Lemon Relief Powder Extra Strength; Hot Lemon Relief Powder Regular Strength; Hot Lemon Relief Regular Strength; Hot Lemon Relief for Cold Symptoms Ext Str; Hot Lemon Relief for Cold Symptoms Pws; Hot Lemon Relief for Symptoms Of Cold and Flu; Hot Lemon Relief for Symptoms Of Cold and Flu Extra Strength; Hot Lemon Relief for Symptoms Of Cold and Flu Forte; Hot Lemon Relief for Symptoms Of Cold and Flu Regular Strength; Hot Lemon Relief for Symptoms Of Cough and Cold; Hot Lemon Relief-extra Strength Pck-pws; Hot Lemon for Colds Powder; Hot Liquid Relief for Symptoms Of Cold and Cough; Hot Liquid Relief for Symptoms Of Flu and Sore Throat; Naphazoline HCI And Pheniramine Maleate; Naphazoline Hydrochloride and Pheniramine Maleate; Naphcon A; Neo Citran A Powder; Neo Citran Extra Strength; Neo Citran Nutrasweet; Neo Citran Powder; Neocitran Cold & Cough Night; Neocitran Cold & Sore Throat Night; Neocitran Extra Strength Cold & Sinus Night; Neocitran Extra Strength Cold & Sinus Night - Apple Cinnamon; Odan-vernacon; Opcon-A; Opti-tears Allergy; Pharmacitron; Pharmacol DM Syr; Pharminicol DM Syrup; Pulmorphan; Pulmorphan Pediatrique; Quality Choice Cold and Sore Throat Lemon Flavor; Reactine Eye Drops; Rhume Et De LA Grippe (extra-fort); Robitussin Ac; Robitussin Syrup With Codeine; Rx Act Flu and Sore Throat; Scot-Tussin Original Multi-Symptom Cold and Allergy Relief; Scot-Tussin Original SF Multi-Symptom; Soothe Allergy; Tantacol DM Syr; Theraflu Cold and Flu; Theraflu Cold and Sore Throat; Theraflu Flu and Sore Throat; Theraflu Nighttime Cold and Flu; Theraflu Sinus and Cold; Top Care Flu and Sore Throat; TopCare Cold and Sore Throat Lemon Flavor; Topcare Cold and Sore Throat Lemon Flavor; Triaminic Expectorant Dh Syrup; Triaminic Time Release Tab; Triaminicin Colds & Flu Caplets; Trisulfaminic Sus; Trisulfaminic Tab; Tussaminic C Forte Syrup; Tussaminic C Pediatric Syrup; Tussaminic Dh Forte Syrup; Tussaminic Dh Pediatric Syrup; Visine A Multi-Action Eye Allergy Relief; Visine for Allergy With Antihistamine; Wal Flu Flu and Sore Throat; Walgreens Wal-Flu Cold and Sore Throat Lemon Flavor
+
+>  <SALTS>  (1) 
+Pheniramine maleate
+
+>  <SMILES>  (1) 
+CN(C)CCC(C1=CC=CC=C1)C1=CC=CC=N1
+
+>  <SYNONYMS>  (1) 
+Feniramina; Pheniraminum
+
+$$$$

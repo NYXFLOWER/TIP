@@ -1,0 +1,103 @@
+1592
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    2.0000    0.0000    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01592
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01592
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+55.934942133
+
+>  <FORMULA>  (1) 
+Fe
+
+>  <GENERIC_NAME>  (1) 
+Iron
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Fe
+
+>  <INCHI_KEY>  (1) 
+XEEYBQQBJWHFJM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ed-In-Sol; Fe-40; Feosol; Feostat; Fer-In-Sol; Feratab; Ferate; Fergon; Ferralet; Ferretts; Ferro sanol; Ferro-Caps; Ferro-Time; Ferrousal; Siderol; Simron; Slow Fe; Yieronia
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+iron
+
+>  <JCHEM_LOGP>  (1) 
+-0.77
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+iron
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+55.845
+
+>  <PRODUCTS>  (1) 
+AUROVELA Fe; Active FE; Actyform; Alsimine W Vitamins A D; Appedrine; Ascofer Cap 275mg; Aurovela 24 Fe; Aurovela Fe 1/20; B Stress C + Iron & Vite; Bacmin; Bev 29 Tab; BioFerr 90; Bugs Bunny Chew Multi Vit Plus Iron; C-Nate DHA; Calcium Et Magnesium Plus Vitamine D/fe/zn; Calcium Vitamin D Iron Mag; Central-vite 18 Essential; Century Complete; Chelated Iron 25mg - Caplet; Chelated Iron Supplement - Tab; Chewable Multiple Vit Plus Iron for Children; Chewable Multiple Vitamins Plus Iron Tab; Chewable Multivitamins Plus Iron; Children Choice Multivitamin W Iron Chew Tab; Children's Chewable Multi Vit W Iron; Children's Chewable Multi Vitamins With Iron Tablets; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multiple Vit.plus Iron; Children's Chewable Multiple Vitamins With Iron Tablets (chewable Tablets); Children's Chewable Multivitamin and Multimineral; Children's Vitamins W Iron Chewable; Childrens Chewable Multiple Vitamins Plus Fe; Childrens Chewable Multivitamins W Iron; Childrens Multiple Vit and Min Chew Tab; Chromagen; CitraNatal 90 DHA; CitraNatal B-Calm; CitraNatal Bloom; CitraNatal DHA; CitraNatal Harmony 3.0; CitraNatal Rx; Citranatal Harmony 2.1; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Concept DHA; Concept OB; Copper 3mg Plus Iron & Zinc Tab; Dexatrim Tablets; Dexiron; Dynam Ampoule Et Tablet; Enrich Core Pack - Children Vitamin and Mineral Supplement; Escavite; Everyday Multiple Vitamins With Iron; Exact-Rx SODIUM SULFACETAMIDE and SULFER 10%/5% Cleanser; Extra-Virt Plus DHA; FE C Tab; FE C Tab Plus; Fe-chelate Tab; FeRiva FA; Fem - Control; Feminex 300 Tab; Feminique W Iron and Calcium Tab; Femitab Tab; Fera Liq 16.7mg/15ml; Ferinsol Drops; Ferion Tab; Fero Grad 500; Fero Grad Filmtab; Ferra Naka Plus Vitamins; Ferralet 90; Ferrous Fumarate Sct Tab 300mg; Ferrous Fumarate Tab 200mg; Ferrous Gluconate; Ferrous Gluconate Tab 300mg; Ferrous Gluconate Tablet 300mg; Ferrous Sulfate; Ferrous Sulfate Ect 300mg; Ferrous Sulfate Tab 300mg; Ferrous Sulfate Tab 325mg USP; Ferrous Sulfate Tablets 300mg; Ferrous Sulphate; Fertinic Syr 35mg/5ml; Fertinic Tab 300mg; Fib-C Melts; Flinstones Multiple Plus Iron; Flintstones Multiple Vitamins Plus Iron; Floradix Formula Liq; Floravit - Syr; Folcal DHA; Folcaps Care One; Folcaps Omega-3; Folet One; Folivane-PRx DHA; Foltabs Prenatal; For Kids Only Chewable Multivit. Plus Iron; Formula Fm Vitamins & Minerals Tab; Formula Int; Formule No 204 Profil Tab; Fortiplex; Garfield Chewable Multivits Plus Iron Tab; Gestamine Comprimes; Gesticare DHA; Gildess 24 Fe; Gnc Timed Release Womens Iron Fmla-src 30mg; HAILEY Fe 1/20; Hemarexin Tab; Hematogen; Hematogen FA; Hematogen Forte; Heparos Ampoules Buvables; Hi Potency B Complex W Chelated Minerals; Hormodausse Plus Calc Et D Tab; Hypo Vites Tab; INATAL Ultra; Iberet 500; Iferex 150; Iferex 150 Forte; Inatal Advance; Infufer; Integra F; Integra Plus; Iron; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Iron 30mg Tablets; Iron 35mg Sustained Release Dietary Supplement; Iron Amino Chelate Tab 37mg; Iron Ascorbate Caps; Iron Cap 50mg Time Release; Iron Chelate 25 mg; Iron Chews; Iron Complex; Iron Dietary Supplement; Iron II; Iron Plus Manganese, B12, Folic Acid & C; Iron Plus Tab; Iron Tab; Iron Vitamins B6,b12,c,folic Acid Tab; Iron W Zinc Chelated W Liver Tab; Iron With Vitamins Tab; Junel Fe 24; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kanga-kid Vitamins & Iron; Kids Chewable Iron; Kids Stuff With Iron Tablets; LARIN Fe 1.5/30; LARIN Fe 1/20; LOESTRIN Fe 1.5/30 28 Day; LOESTRIN Fe 1/20 28 Day; Livron Plus Ampoule; Lysamine Diet Supp Amp-tab; Maltlevol 12 Liq; Maltlevol Liq; MaxFe; Maxaron Forte; Menocal Tab; Mgk; Microgestin Fe; Mor-vites Tab; Multi #2; Multi Rol; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin Drops with Fluoride with Iron; Multi Vitamin Plus Iron; Multi Vitamin, Iron and Fluoride; Multi Vitamin-mineral Formula; Multi Vitamins & Minerals; Multi-Vitamin Drops with Fluoride and Iron; Multi-Vitamin Fluoride and Iron Drops; Multi-vitamins With Minerals; Multimineral Chelates; Multiple Vit Plus Iron Tab; Multiple Vitamin Plus Minerals Tab; Multiple Vitamins & Minerals Tablets; Multiple Vitamins Plus Iron Tab; Multiple Vitamins Plus Iron for Women; Multiple Vitamins W Minerals Tab; Multiple Vitamins With Iron; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multivit Et Fer Ampoules Et Comprimes; Multivitamines Et Mineraux; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamines Plus Fer Pour Enfants (chewable Tablets); Multivitamins W Iron; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Nata Komplete; NataFort; Natavite; Natelle One; Neo-vites & Minerals Tab; Nestabs ONE; Nexa Plus; Nexa Select Rx Prenatal Vitamin with Plant-Based DHA; Nexesta Fe; Niron Komplete; Norethindrone Acetate and Ethinyl Estradiol and Ferrous Fumarate; Novo-ferrosulfa Ect 300mg; Novo-ferrosulfa Tab 300mg(fct); Novo-fumar 200mg; NuFera; Nutrifer Plus Tablets; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; One A Day Advance Adults; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; Orange Flavored Crystal Chews Tab; Orifer F; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV-Select; PRENATE Enhance; PRENATE Restore; Paramettes Chewable Multivitamins Plus Iron; Paramettes Chewable Multivits With Iron Tab; Paramettes Multivits Plus Iron Tab (teens); Paramettes Syrup; Permathene-12  -  Caplet; Phosthenine Vitamines Et Fer (ampoules Buvable); Phytofortis + Calcium A-D; Phytopure; Pnv-dha; Polysaccharide-Iron; PreNatal 19; PreNatal Vitamins Plus; PreNexa; PrePLUS; PreQue 10; PreTAB; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenaissance; Prenaissance Plus; Prenatal Chelated Mineral; Prenatal Plus; Prenatal Plus Iron; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Prenate Elite; Prenavite Forte; Prenavite Forte Tablets; Prenavite Tablets; Prevencal 600 + D Et Fer; PureVit DualFe Plus; Q.T. Vitamin and Mineral Drink Mix; Reaphirm Plant Source DHA; Revitex Ampoules Et Comprimes; Revival 1 Tab; Scheinpharm Ferrous Fumarate - 300mg; Se-Care Chewable; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Se-Tan DHA; Se-Tan PLUS; Somarexin and C 1000; Spectrum 2 Cap; Stom #2; Stress B Complex With C, E & Iron; Stress Formula + Iron; Stress Tab With Iron and Vitamin E; Strovite Forte Caplet; Sulfate Ferreux 300mg Tab; Super Daily No 2; Super Vitalex Ampoule Buvable; Supplement De Fer; Supravite 10ml Ampoule; Supravite Bouteille 250ml; Supravite C 1000; Supravite Stress Avec Vit E Et Fer; Surbex-500 With Iron; Swical-energy-2; Tandem; Tandem - F; Tandem DHA; Tandem OB; Tandem Plus; Timed Release Iron 35mg; Timed Release Iron 50mg; Timed Release Iron 50mg Tablets; Tini-cal Ampoules; Tl-hem 150; Toni Com Liq; Tonicol Et A-D-C Ampoules/comprimes; TriAdvance; Tricare Prenatal; Tricon; Trinatal GT; Triveen-PRx RNF; UltimateCare ONE NF; Ultra Enerforce; Usana Iron 28 Supplement; VP CH Plus; VP CH Ultra; Vege 1 Daily Tab; VemaVite-PRx 2 with Fish-Based DHA; Venofer; Viamon Ampoules Et Comprimes; Vimeral Tab; Virt-PN Plus; Virt-Pn; Virt-Pn DHA; Vita - Gl Capsules; Vita Day Tab; Vitafer - Liq; Vitafol Caplet; Vitafol Nano; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol Ultra; Vitamine Du Groupe B Plus Fer - Liq; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitaplex; Vitogen Multiple Vitamins W Iron; Vitreat Chewable Vitamins Plus Iron; Vp-CH-pnv; Women's Formula; Zatean-CH
+
+>  <SALTS>  (1) 
+Ferrous ascorbate; Ferrous fumarate; Ferrous gluconate; Ferrous glycine sulfate; Ferrous succinate; Ferrous sulfate; Ferrous sulfate dihydrate
+
+>  <SMILES>  (1) 
+[Fe]
+
+>  <SYNONYMS>  (1) 
+Carbonyl iron; Electrolytic iron; Fe; Ferrum metallicum; Iron powder; Iron, carbonyl; Iron, electrolytic; Iron, elemental; Iron, reduced; Reduced iron
+
+$$$$

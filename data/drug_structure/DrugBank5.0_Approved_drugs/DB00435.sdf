@@ -1,0 +1,106 @@
+
+     RDKit          2D
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+   -0.4125    0.0034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.0034    0.0000 N   0  0  0  0  0  2  0  0  0  0  0  0
+  1  2  2  0
+M  RAD  1   2   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB00435
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00435
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+29.997988627
+
+>  <FORMULA>  (1) 
+NO
+
+>  <GENERIC_NAME>  (1) 
+Nitric Oxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/NO/c1-2
+
+>  <INCHI_KEY>  (1) 
+MWUXSHHQAYIFBG-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.6908497027346385
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+nitroso
+
+>  <JCHEM_LOGP>  (1) 
+-0.3514
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9121689657156256
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+34.14
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+2.8858
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitric oxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+30.0061
+
+>  <PRODUCTS>  (1) 
+INOmax; Inomax; Kinox; Nitric Oxide Nitrogen Mix; Noxivent
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01142
+
+>  <SMILES>  (1) 
+[N]=O
+
+>  <SYNONYMS>  (1) 
+EDRF; endothelium-derived relaxing factor; Mononitrogen monoxide; nitrogen monooxide
+
+$$$$

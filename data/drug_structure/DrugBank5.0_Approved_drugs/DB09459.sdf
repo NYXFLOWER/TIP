@@ -1,0 +1,142 @@
+
+     RDKit          2D
+
+ 16 15  0  0  1  0  0  0  0  0999 V2000
+   16.8205   -7.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5349   -5.6502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3916   -6.8877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9638   -6.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1060   -5.6502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2492   -7.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8205   -6.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5349   -6.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1060   -6.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2492   -6.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1
+  8  2  1  1
+  3  9  1  0
+  4 10  1  0
+  5  9  2  0
+  6 10  2  0
+  7  8  1  0
+  7  9  1  0
+  8 10  1  0
+  1 11  1  0
+  2 12  1  0
+  3 13  1  0
+  4 14  1  0
+  7 15  1  0
+  8 16  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.27
+
+>  <ALOGPS_LOGS>  (1) 
+0.03
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.61e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09459
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09459
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+150.016437924
+
+>  <FORMULA>  (1) 
+C4H6O6
+
+>  <GENERIC_NAME>  (1) 
+Tartaric acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H6O6/c5-1(3(7)8)2(6)4(9)10/h1-2,5-6H,(H,7,8)(H,9,10)/t1-,2-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+FEWJPZIEWOKRBE-JCYAYHJZSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.32706332503022
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3R)-2,3-dihydroxybutanedioic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.8287998886666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+4.792876457889947
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.7190410038171646
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.330574673439462
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+115.06
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+26.2134
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L(+)-tartaric acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+150.0868
+
+>  <PRODUCTS>  (1) 
+Baros Effervescent Granules; Bicaruvas; Brioschi Childrens Effervescent Antacid; Brioschi Effervescent Antacid; E-Z-gas 2 Granules; Gingera Effervescent Antacid; Unik Zoru Pwr; Unik Zoru Tab; Urasal Granules
+
+>  <SMILES>  (1) 
+O[C@H]([C@@H](O)C(O)=O)C(O)=O
+
+$$$$
