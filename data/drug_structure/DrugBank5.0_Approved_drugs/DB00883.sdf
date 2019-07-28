@@ -1,0 +1,164 @@
+883
+     RDKit          2D
+
+ 24 25  0  0  1  0  0  0  0  0999 V2000
+    4.8295   -0.6610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2641    0.6703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0857    1.4511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0092   -1.4492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1494    2.4054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4441    1.0071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9472   -2.4054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -1.0076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8930    1.6212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2021   -1.6208    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0488    0.4154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0488   -0.4096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8295    0.6669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2641   -0.6646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3109    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7791    0.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  1 15  1  0
+  2 11  1  0
+  2 16  1  0
+  3  9  1  0
+ 13  3  1  1
+  4 10  1  0
+ 14  4  1  6
+  5  9  1  0
+  6  9  2  0
+  7 10  1  0
+  8 10  2  0
+ 11 12  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 16  1  0
+ 11 17  1  1
+ 12 18  1  1
+ 13 19  1  0
+ 14 20  1  0
+ 15 21  1  0
+ 15 22  1  0
+ 16 23  1  0
+ 16 24  1  0
+M  CHG  4   5  -1   7  -1   9   1  10   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.87
+
+>  <ALOGPS_LOGS>  (1) 
+-2.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.38e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00883
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00883
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+236.028065242
+
+>  <FORMULA>  (1) 
+C6H8N2O8
+
+>  <GENERIC_NAME>  (1) 
+Isosorbide Dinitrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8N2O8/c9-7(10)15-3-1-13-6-4(16-8(11)12)2-14-5(3)6/h3-6H,1-2H2/t3-,4+,5-,6-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+MOYKHGMNXAOIAT-JGWLITMVSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Carvasin; Dilatrate-SR; Flindix; Isoket; Isorbid; Isordil; Nitrosorbide; Sorbidilat
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.072878323946657
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3S,3aS,6R,6aS)-6-(nitrooxy)-hexahydrofuro[3,2-b]furan-3-yl nitrate
+
+>  <JCHEM_LOGP>  (1) 
+0.44329140599999994
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.8961390622848167
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+128.56
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.77140000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(3S,3aS,6R,6aS)-6-(nitrooxy)-hexahydrofuro[3,2-b]furan-3-yl nitrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+236.1363
+
+>  <PRODUCTS>  (1) 
+BiDil; Cedocard-SR Srt 20mg; Cedocard-SR Srt 40mg; Coradur Tab 20mg; Coronex; Coronex 5mg Sublingual Tablets; Dilatrate SR; Isdn; Isordil 10 Titradose Tab 10mg; Isordil 10 Titradose Tablets 10mg; Isordil 30 Titradose Tab 30mg; Isordil 30 Titradose Tablets 30mg; Isordil Sublingual Tab 5mg; Isordil Sublingual Tablets 5mg; Isordil Titradose; Isosorbide; Isosorbide 10 Tab 10mg; Isosorbide 30 Tab 30mg; Isosorbide Dinitrate; Isosorbide Sublingual; Isosorbide Tab 30mg; Isosorbide-5 Tab 5mg; Isosorrbide Dinitrate; Novo-sorbide Tab 10mg; Novo-sorbide Tab 30mg; Nu-isdn Tablets; PMS-isosorbide Tab 10mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00455
+
+>  <SMILES>  (1) 
+[H][C@]12OC[C@H](O[N+]([O-])=O)[C@@]1([H])OC[C@H]2O[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+D-Isosorbide dinitrate; Dianhydrosorbitol 2,5-dinitrate; ISDN; Isosorbide 2,5-dinitrate; Sorbide nitrate; Sorbidnitrate
+
+$$$$

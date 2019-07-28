@@ -1,0 +1,116 @@
+
+     RDKit          2D
+
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    1.2375    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 Se  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+  1  5  1  0
+  3  6  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11127
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11127
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+129.916915758
+
+>  <FORMULA>  (1) 
+H2O3Se
+
+>  <GENERIC_NAME>  (1) 
+Selenious acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/H2O3Se/c1-4(2)3/h(H2,1,2,3)
+
+>  <INCHI_KEY>  (1) 
+MCAHWIHFGHIESP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.838760516259596
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+selenous acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.2765
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.85751541308702
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.928731587215967
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+19.687
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+selenious acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+128.97
+
+>  <PRODUCTS>  (1) 
+Formula-SE; Golf Vitamin and Mineral Supplement; I-care Multivitamin and Multimineral Tablets; M.T.E.-6 Concentrated; Micro Plus 6 (regular); Multitrace-5; Neutral C + Coenzyme Q10 Plus Vitamins & Minerals; Nutrilite Double X; Prolynium Vitamin and Mineral Supplement; Q.T. Vitamin and Mineral Drink Mix; Selenium; Selenium Supplement; Super 7 Vitamin and Mineral Supplement; Super-cell; Tianshi Vital Powder I; Tianshi Vital Powder II; V-V Dietary Supplement; Vege 1 Daily Tab; Women's Formula
+
+>  <SALTS>  (1) 
+Sodium selenite
+
+>  <SMILES>  (1) 
+O[Se](O)=O
+
+>  <SYNONYMS>  (1) 
+selenige Säure; Selenous acid
+
+$$$$

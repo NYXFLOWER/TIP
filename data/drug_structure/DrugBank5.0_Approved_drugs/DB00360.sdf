@@ -1,0 +1,188 @@
+ 
+     RDKit          2D
+
+ 32 33  0  0  1  0  0  0  0  0999 V2000
+   16.7212  -13.4281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7212  -12.5957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0019  -13.8495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4407  -13.8392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9950  -12.1812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4407  -12.1777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2756  -13.4349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1463  -13.4281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2619  -12.6025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1463  -12.5957    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4407  -11.3590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8590  -13.8392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5699  -12.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8676  -12.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5597  -11.4172    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1516  -12.2600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8848  -13.4796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  4  8  2  0
+  5  9  1  0
+  6 10  1  0
+  6 11  2  0
+  8 12  1  0
+  9 13  1  0
+ 13 14  1  0
+ 13 15  1  6
+ 14 16  1  1
+ 14 17  1  0
+  7  9  1  0
+  8 10  1  0
+  3 18  1  0
+  5 19  1  0
+  7 20  1  0
+  7 21  1  0
+  9 22  1  1
+ 10 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 15 28  1  0
+ 16 29  1  0
+ 16 30  1  0
+ 16 31  1  0
+ 17 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.82
+
+>  <ALOGPS_LOGS>  (1) 
+-2.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.03e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00360
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00360
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+241.117489371
+
+>  <FORMULA>  (1) 
+C9H15N5O3
+
+>  <GENERIC_NAME>  (1) 
+Sapropterin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H15N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3-4,6,12,15-16H,2H2,1H3,(H4,10,11,13,14,17)/t3-,4+,6-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+FNKQXYHWGSIFBK-RPDRRWSUSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+BH4; Biopten
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.614788687228117
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(6R)-2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-3,4,5,6,7,8-hexahydropteridin-4-one
+
+>  <JCHEM_LOGP>  (1) 
+-2.3211264380000003
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.535021591887933
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.118296743982478
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.61390038556909
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+132
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+68.6334
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+6R-5,6,7,8-tetrahydrobiopterin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+241.2471
+
+>  <PRODUCTS>  (1) 
+Kuvan
+
+>  <SALTS>  (1) 
+Sapropterin dihydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01297; EXPT00691; DB02692
+
+>  <SMILES>  (1) 
+[H][C@@]1(CNC2=C(N1)C(=O)NC(N)=N2)[C@@H](O)[C@H](C)O
+
+>  <SYNONYMS>  (1) 
+(−)-(6R)-2-amino-6-((1R,2S)-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4(3H)-pteridinone; (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin; (6R)-L-erythro-tetrahydrobiopterin; 2-Amino-6-(1,2-dihydroxypropyl)-5,6,7,8-tetrahydoro-4(1H)-pteridinone; 5,6,7,8-Tetrahydrobiopterin; 6R-5,6,7,8-tetrahydrobiopterin; 6R-BH4; 6R-L-5,6,7,8-tetrahydrobiopterin; R-THBP; Sapropterina; sapropterinum; Tetrahydrobiopterin
+
+$$$$

@@ -1,0 +1,159 @@
+122
+     RDKit          2D
+
+ 21 20  0  0  0  0  0  0  0  0999 V2000
+    4.5080    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7936    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  1  8  1  0
+  3  9  1  0
+  3 10  1  0
+  4 11  1  0
+  4 12  1  0
+  4 13  1  0
+  5 14  1  0
+  5 15  1  0
+  5 16  1  0
+  6 17  1  0
+  6 18  1  0
+  6 19  1  0
+  7 20  1  0
+  7 21  1  0
+M  CHG  1   2   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.59
+
+>  <ALOGPS_LOGS>  (1) 
+-1.59
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.61e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00122
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00122
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+104.107539075
+
+>  <FORMULA>  (1) 
+C5H14NO
+
+>  <GENERIC_NAME>  (1) 
+Choline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1
+
+>  <INCHI_KEY>  (1) 
+OEYIOHPDSNJKLS-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.565613058013364
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2-hydroxyethyl)trimethylazanium
+
+>  <JCHEM_LOGP>  (1) 
+-4.662269162805079
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.968714076810006
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.249884462803304
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+42.194
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+choline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+104.1708
+
+>  <PRODUCTS>  (1) 
+Advanced 2000 Capsules; Alertonic; American Eagle Energizer Plus Vitamin Supplement Drink; American Plus Energy & Vitamin Drink; B 50 Capsules; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Compound 50mg Tab; B-100 Caps; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Hi Potency B Vitamins Tab; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B-plus - Tab; B50 Complex; Balanced B 125 Srt; Betacol; Bev 29 Tab; Bev B-150; Bev-lipo-1000; Biosculpt; Choline & Inositol Caps; Choline 250 mg; Choline 250mg; Choline Bitartrate 100mg-tab; Choline Bitartrate 500 Mg  -  Tablet; Choline Caps 350mg; Choline Ctr Srt 400mg; Choline Tab 250mg; Choline and Inositol 250mg/250mg; Cholinex Tab 200mg; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complexe B Compose 75; Daily Energy Brand B-complex; DayClear COUGH COLD AND FLU; DayClear SINUS PAIN AND PRESSURE; Derma-force; Dp 2000; Essential B Tablets; Fem - Pmt; First Aid Shot Therapy Hangover Relief; First Aid Shot Therapy Pain Relief; First Aid Shot Therapy Pain relief; Folic Acid Plus; Formula Cm; Formula Lf; Forty Plus Vitamin Supplement; Fusion PM Formula Tab; Gabavale-5; Gabazolamine; Gabazolamine-0.5; Gabazolpidem-5; Gabitidine; Gaboxetine; Gesticare DHA; Gnc Choline/inositol 250mg Tablets; Harvest Of Values All B Complex Tab; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Stress B Tension With C; Insur-all Vitamin Supplement; Kroger Cough Cold and Flu; Kroger NiteTime Cold and Flu; Kroger Sinus Pain and Pressure; Lipo-B-C Tab; Lipotropics 600 Tab; Liqui B Complex; Liqui B Complex Plus; Liqui Vita; Liquid B Complex 50; Low Potency B Complex Tab; Mangadyn; Mega 13 Multivitamin Formula; Mini-B Tab; Multi B; Multi Tabs; Multi Vitamin-mineral Formula; Multicaps; Multiple Vitamins and Minerals Capsules; Multitabs; Nata Komplete; Nrg Plus Liq; Onccor; One A Day Multiple Vit W Minerals; One A Day Tab; Orti B; Palm Spring's PM Form Tab; Phytopure; Pour Ma Santé; Prenatal, DHA; Red American Eagle Vitamin Supplement Drink; Senophylline; Sentradine; Sentraflox AM-10; Sentralopram AM-10; Sentravil PM-25; Sentrazolam AM; Sentrazolpidem PM-5; Sentroxatine; Spectrum 2 Cap; Stom #2; Strazepam; Stress B & C  Caplet; Stress B Capsules With Vitamin C; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress Ctr Srt; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Vitamin B With C Complex Tablets; Stressmates; Super B Compound W 500mg Vit C; Super Daily No 2; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super-pote Vitamin Supplement; Teejel Gel; Texaclear Congestion and Pain Sinus Relief; Texaclear Daytime Cough Cold/flu; Texaclear Night Time Cough Cold/flu; Time Release B 100 Compound  -  Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Trazamine; Trilisate Tab; Ultra Hr; Usana Megavitamin Tablets - Tab; Vanapain; Vanapain PM; Vasula Tab; Vege 1 Daily Tab; Vit B Complex Ctr; Vit-HA Multi Vitamin and Zinc Supplement; Vita B Complex Tab; Vita-B; Vita-worth B-complex Tablets; Vitalife  -  Capsule; Vitamin B + C Cap; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Suppl; Vitamin B Complex W C Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Tablets; Vitaplex; Women's Formula
+
+>  <SALTS>  (1) 
+Choline bitartrate; Choline salicylate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00020
+
+>  <SMILES>  (1) 
+C[N+](C)(C)CCO
+
+>  <SYNONYMS>  (1) 
+Bilineurine; Choline ion; N-trimethylethanolamine; N,N,N-trimethylethanol-ammonium; trimethylethanolamine
+
+$$$$

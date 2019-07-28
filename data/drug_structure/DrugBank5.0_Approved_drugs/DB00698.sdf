@@ -1,0 +1,174 @@
+
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    2.1217    0.1602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4543   -0.3247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6696   -0.0697    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4981    0.7372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2865    0.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9539    0.5072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6213    0.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3664    1.7768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5414    1.7768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4060    0.7372    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0191    1.2893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5775   -0.0697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7092   -1.1093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5342   -1.1093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7891   -0.3247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1217    0.9852    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0191   -1.7768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  5  9  2  0
+  7 10  1  0
+ 10 11  1  0
+ 10 12  2  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+  1 15  1  0
+  1 16  2  0
+ 14 17  2  0
+  4 18  1  0
+  8 19  1  0
+  9 20  1  0
+ 13 21  1  0
+ 13 22  1  0
+ 15 23  1  0
+M  CHG  2  10   1  11  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.03
+
+>  <ALOGPS_LOGS>  (1) 
+-2.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.15e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00698
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00698
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+238.033819309
+
+>  <FORMULA>  (1) 
+C8H6N4O5
+
+>  <GENERIC_NAME>  (1) 
+Nitrofurantoin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H6N4O5/c13-6-4-11(8(14)10-6)9-3-5-1-2-7(17-5)12(15)16/h1-3H,4H2,(H,10,13,14)/b9-3+
+
+>  <INCHI_KEY>  (1) 
+NXFQHRVNIOXGAQ-YCRREMRBSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Furabid; Niftran; Siraliden; Urantoin; Urolong
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.492577064204383
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]imidazolidine-2,4-dione
+
+>  <JCHEM_LOGP>  (1) 
+-0.2214499923333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.720212696603358
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.233088918437387
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.246445730643217
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+118.04999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.1099
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitrofurantoin sodium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+238.159
+
+>  <PRODUCTS>  (1) 
+Auro-nitrofurantoin; Furadantin; Macrobid; Macrodantin; Macrodantin (100 Mg); Macrodantin (50 Mg); Macrodantin Cap 100mg; Macrodantin Cap 25mg; Macrodantin Cap 50mg; Nephronex Tab 50mg; Nitrofurantion; Nitrofurantion Macrocrystals; Nitrofurantoin; Nitrofurantoin (macrocrystals); Nitrofurantoin (monohydrate/macrocrystals); Nitrofurantoin 50 Tab 50mg; Nitrofurantoin Macrocrystals; Nitrofurantoin Monohydrate Macrocrystalline; Nitrofurantoin Monohydrate/; Nitrofurantoin Monohydrate/ Macrocrystalline; Nitrofurantoin Monohydrate/Macrocrystalline; Nitrofurantoin Monohydrate/Macrocrystals; Nitrofurantoin monohydrate macrocrystals; Nitrofurantoine 100 Tab 100mg; Novo-furan 100mg; Novo-furan Sus 25mg/5ml; Novo-furan Tab 50mg; Nu-nitrofurantoin Tablets; PMS-nitrofurantoin; Teva-nitrofurantoin
+
+>  <SALTS>  (1) 
+Nitrofurantoin monohydrate; Nitrofurantoin sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00191
+
+>  <SMILES>  (1) 
+[O-][N+](=O)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O
+
+>  <SYNONYMS>  (1) 
+1-((5-nitro-2-furanyl)methylene)amino-2,4-imidazolidenedione; 1-((5-nitrofurfurylidene)amino)hydantoin; 5-Nitrofurantoin; N-(5-Nitrofurfurylidene)-1-aminohydantoin; Nitrofurantoin anhydrous; Nitrofurantoin macrocrystal; Nitrofurantoin macrocrystalline; Nitrofurantoin, macrocrystalline; Nitrofurantoin, macrocrystals; nitrofurantoina; nitrofurantoine; nitrofurantoinum; Nitrofurantoinum anhydrous
+
+$$$$

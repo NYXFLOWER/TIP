@@ -1,0 +1,187 @@
+
+     RDKit          2D
+
+ 38 38  0  0  0  0  0  0  0  0999 V2000
+    0.1191   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1191   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9441   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1191    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5954    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7059   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6388   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6388   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9243   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9243    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6388    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6388    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3533    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3533   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0678   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0678    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1397    0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6548   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1397   -0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8298    0.0000    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  2  6  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+  8 14  1  0
+ 14 15  2  0
+ 13 16  1  0
+ 10 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+  9 19  1  0
+ 18 20  1  0
+  1 21  1  0
+  1 22  1  0
+  1 23  1  0
+  3 24  1  0
+  3 25  1  0
+  3 26  1  0
+  4 27  1  0
+  4 28  1  0
+  5 29  1  0
+  6 30  1  0
+  6 31  1  0
+  7 32  1  0
+  7 33  1  0
+  7 34  1  0
+ 16 35  1  0
+ 16 36  1  0
+ 16 37  1  0
+ 19 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.26
+
+>  <ALOGPS_LOGS>  (1) 
+-1.82
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.88e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11106
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11106
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+347.059302
+
+>  <FORMULA>  (1) 
+C11H18BrN5O3
+
+>  <GENERIC_NAME>  (1) 
+Pamabrom
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H7BrN4O2.C4H11NO/c1-11-4-3(9-6(8)10-4)5(13)12(2)7(11)14;1-4(2,5)3-6/h1-2H3,(H,9,10);6H,3,5H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+ATOTUUBRFJHZQG-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+38
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.653365662564756
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-amino-2-methylpropan-1-ol; 8-bromo-1,3-dimethyl-2,3,6,9-tetrahydro-1H-purine-2,6-dione
+
+>  <JCHEM_LOGP>  (1) 
+0.25542813799999975
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.213069745290104
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.21999789706707806
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+69.30000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.2496
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-amino-2-methyl-1-propanol; 8-bromo-1,3-dimethyl-9H-purine-2,6-dione
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+348.201
+
+>  <PRODUCTS>  (1) 
+BackAid Max; Cramp Tabs; Diurex; Diurex Max; Diurex Water Caplets; Diurex Water Capsules; Extra Strength Multi-symptom Pms Relief; Extra Strength Tylenol Menstrual Caplets; Fem Relief; Femadrine; Green Guard PMS Relief; Leader Premenstrual; Medi First Cramp; Medi First Plus Cramp; Menstrual Pain Relief; Menstrual Pain Relief Maximum Strength; Menstrual Pain Relief Maximum Strength / Multi Symptom; Menstrual Pain Relief Maximum Strength, Multi-Symptom; Menstrual Relief; Menstrual Relief Maximum Strength; Menstrual Relief Maximum Strength Multi Symptom; Menstrual Relief Multi-Symptom; Menstrual relief maximum strength; Midol Extra Strength Pms; Midol Pms; Midol Pms Extra Strength Tab; Midol Teen; Multi-Symptom Menstrual Pain Relief; Multi-symptom Pms Relief; Multi-symptom Pms Relief Caplets; PMS Formula Maximum Strength; PMS Midol Complete; PMS Relief Extra Strength; PMS Relief Maximum Strength; Pain Aid PMF; Painaid Pmf Premenstrual Formula; Pamprin Cramp Menstrual Pain Relief; Pamprin Extra Strength Caplets; Pamprin Multisymptom Menstrual Pain Relief; Pamprin Pms Caplets; Pamprin Tab; Pre Menstrual relief maximum strength; Premsyn pms Premenstrual Pain Relief; Premsyn pms Premenstrual Syndrome Relief; Relievol Pms Extra Strength Caplets; Relievol Pms Regular Strength Tablets; Syncol; Trendar Pms Caplet; Trendar Pms Tablets
+
+>  <SMILES>  (1) 
+CC(C)(N)CO.CN1C2=C(N=C(Br)N2)C(=O)N(C)C1=O
+
+$$$$

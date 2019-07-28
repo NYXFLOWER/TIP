@@ -1,0 +1,228 @@
+557
+     RDKit          2D
+
+ 53 55  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -4.1746    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.0130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    3.6631    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6995    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.0495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -4.1746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -4.1746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.2506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0
+  2 14  1  0
+  2 25  1  0
+  3 26  1  0
+  4  6  1  0
+  4  7  1  0
+  4 10  1  0
+  5  8  1  0
+  5  9  1  0
+  5 11  1  0
+  6  8  1  0
+  7  9  1  0
+ 10 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 12 16  1  0
+ 13 17  2  0
+ 13 18  1  0
+ 15 19  1  0
+ 16 20  2  0
+ 17 21  1  0
+ 18 22  2  0
+ 19 23  2  0
+ 20 23  1  0
+ 21 24  2  0
+ 22 24  1  0
+ 25 26  1  0
+  3 27  1  0
+  6 28  1  0
+  6 29  1  0
+  7 30  1  0
+  7 31  1  0
+  8 32  1  0
+  8 33  1  0
+  9 34  1  0
+  9 35  1  0
+ 10 36  1  0
+ 11 37  1  0
+ 11 38  1  0
+ 14 39  1  0
+ 14 40  1  0
+ 15 41  1  0
+ 16 42  1  0
+ 17 43  1  0
+ 18 44  1  0
+ 19 45  1  0
+ 20 46  1  0
+ 21 47  1  0
+ 22 48  1  0
+ 24 49  1  0
+ 25 50  1  0
+ 25 51  1  0
+ 26 52  1  0
+ 26 53  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.43
+
+>  <ALOGPS_LOGS>  (1) 
+-3.61
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.14e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00557
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00557
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+374.176105825
+
+>  <FORMULA>  (1) 
+C21H27ClN2O2
+
+>  <GENERIC_NAME>  (1) 
+Hydroxyzine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H27ClN2O2/c22-20-8-6-19(7-9-20)21(18-4-2-1-3-5-18)24-12-10-23(11-13-24)14-16-26-17-15-25/h1-9,21,25H,10-17H2
+
+>  <INCHI_KEY>  (1) 
+ZQDWXGKKHFNSQK-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Atarax; Hyzine; Masmoran; Rezine; Vistaject-50; Vistazine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+41.985323357132714
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(2-{4-[(4-chlorophenyl)(phenyl)methyl]piperazin-1-yl}ethoxy)ethan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+3.4129695053333338
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.121227712832777
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.817691974573146
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+35.940000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+107.07420000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydroxyzine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+374.904
+
+>  <PRODUCTS>  (1) 
+Apo Hydroxyzine Cap 10mg; Apo Hydroxyzine Cap 25mg; Apo Hydroxyzine Cap 50mg; Atarax Cap 10mg; Atarax Cap 25mg; Atarax Cap 50mg; Atarax Im Sol 50mg/ml; Atarax Syrup 2mg/ml; Hydoxyzine Pamoate; HydrOXYzine Hydrochloride; HydrOXYzine hydrochloride; Hydroxyzine; Hydroxyzine HCl; Hydroxyzine Hydrochloride; Hydroxyzine Hydrochloride Injection; Hydroxyzine Hydrochloride Injection USP; Hydroxyzine Hydrochloride Injection, USP; Hydroxyzine Pamoate; Hydroxyzine hydrochloride; Hydroxyzine-10; Hydroxyzine-25; Hydroxyzine-50; Multipax Cap 10mg; Multipax Cap 25mg; Novo-hydroxyzin; Nu-hydroxyzine; PMS Hydroxyzine Cap 10mg; PMS Hydroxyzine Cap 25mg; PMS Hydroxyzine Cap 50mg; PMS Hydroxyzine Syr 10mg/5ml; Riva-hydroxyzin 10mg Capsules; Riva-hydroxyzin 25mg Capsules; Riva-hydroxyzin 50mg Capsules; Vistaril
+
+>  <SALTS>  (1) 
+Hydroxyzine hydrochloride; Hydroxyzine pamoate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00688
+
+>  <SMILES>  (1) 
+OCCOCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=C(Cl)C=C1
+
+>  <SYNONYMS>  (1) 
+Hidroxizina; Hydroksyzyny; Hydroxine; Hydroxizine; Hydroxizinum; Hydroxycine; Hydroxyzin; Hydroxyzinum
+
+$$$$

@@ -1,0 +1,166 @@
+
+     RDKit          2D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    1.6436    0.3570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2526    0.2537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3626   -0.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1351   -2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5004   -1.3997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6411   -2.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9106   -1.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9362   -1.4148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9807   -0.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1407   -0.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7243   -1.1707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  4  1  0
+  7  4  1  0
+  7  6  1  0
+  8  6  1  0
+  9  1  1  0
+  9  2  1  0
+  9  7  1  0
+ 10  3  1  1
+ 10  5  1  0
+ 10  8  1  0
+ 10  9  1  0
+ 11  8  2  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  2 15  1  0
+  2 16  1  0
+  2 17  1  0
+  3 18  1  0
+  3 19  1  0
+  3 20  1  0
+  4 21  1  0
+  4 22  1  0
+  5 23  1  0
+  5 24  1  0
+  6 25  1  0
+  6 26  1  0
+  7 27  1  6
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.85
+
+>  <ALOGPS_LOGS>  (1) 
+-2.24
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.80e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01744
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01744
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+152.120115134
+
+>  <FORMULA>  (1) 
+C10H16O
+
+>  <GENERIC_NAME>  (1) 
+Camphor
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H16O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7H,4-6H2,1-3H3/t7-,10+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+DSSYKIVIOFKYAU-XCBNKYQSSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.73508541789034
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+>  <JCHEM_LOGP>  (1) 
+2.5529855899999996
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.485708558665737
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+17.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.492000000000004
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+D-camphor
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+152.2334
+
+>  <PRODUCTS>  (1) 
+701 Dieda Zhengtong Yaogao Medicated Plaster; 999 Itch Relief; Abridge Cold Sore Treatment; Aching Head Rub; Air Sinsin Pas; Air Sinsinpas-EX; Allure Ice Cold Analgesic; Allure Vaporizing Chest Rub; Amar Vaporizing Chest Rub; Amoray Care Chest Rub; Amrut Balm; Amrutanjan Relief Cold Rub; Amrutanjan Relief Pain Balm; Anbesol Cold Sore Therapy; Anbesol Liquid; Anbesol Maximum Strength Liquid; Anti-Intch Well at Walgreens; Anti-Itch; Antibiotic Cold Sore Ointment; Antiphlamine Coin Plaster; Antiphlogistine Rub A 535 Extra Strength; Antiphlogistine Rub A535; Apanol Alcanfor; Apanol Athletics; Apanol Muscle Rub; Apeaz Ultra; Arctic Blast Pain Drops; Arex Sinsin Pas; Arneu; Arnica Ice Cooling; Artho Pharma Pain Relief; Arthritis Pain Reliever Herbalife; Arthritis Pain Relieving Cream; Arthritis Plus Gel; Arthritis and Joint Pain Relief Thayers; Arthro Rheuma Cream; Arthrocare Lotion; Artrex; Asana Kisser; Ass Kisser; Assured; Assured Ice Cold Topical Analgesic; Assured Vaporizing Chest Rub; Athletic Liniment; Atopalm Moisturizing Muscle Rub; Au Kah Chuen Skin Lotion; Aurisan Dps; Avapta; Avedana Medicated Chest Rub; Avedana Pain Relieving Roll On; Avon Healthy Remedies Menthol & Camphor Soothing Relief Gel; Axe Brand Medicated; Back Pain Relieving Oil; Balm Stick; Balminil Camphorub; Balminil Nasal Ointment; Banana Boat Medicated Lip Balm; Band-aid Brand Anti-itch Gel; Band-aid Brand Anti-itch Spray; Barox S; Bengay Ultra Strength Non Greasy Pain Relieving; Berri-Freez Plus; Best Choice Cold Sore Treatment; Bio-ice; Bio-mega; BioMega Cold Pain Therapy; Biofreeze; Biotemper; Bite Relief; Blistex Dct; Blistex Lip; Blistex Lip Medex; Blistex Med Lip Conditioner Spf15 Ont; Blistex Medicated; Blue Ice Fermented Cod Liver Oil Calm Balm; Blue Ice Topical Analgesic; Blue Star; Blue Star Medicated; Bon Balm Penetrating Pain Relief; Boroleum for Nasal Soreness; Breathiezzz; Bronchodex Vapo Ont; Bronchodex-rub; Bronchophan Onguent Vaporisant; Bronco Rub; Broncolin; Budpak Medicated Anti Itch; CAMPHO-PHENIQUE ANTISEPTIC Gel; CAMPHOR (SYNTHETIC) and PHENOL; CAMPHOR, EUCALYPTUS OIL and MENTHOL; CARMEX original lip balm EXTERNAL ANALGESIC; CBD Clinic - Massage Oil - Level 1; CBD Clinic - Massage Oil - Level 3; CBD Clinic - Mild To Moderate Muscle and Joint Pain Relief; CBD Clinic Deep Muscle and Joint Pain Relief; CBD Clinic Pro Sport - Deep Muscle and Joint Pain; CBD Clinic Pro Sport - Pain Stick; CBD Medic - Active Sport Extreme Relief; CBD Medic - Arthritis Deep Relief; CBD Medic - Intense Powerful Relief; CVS Camphor Phenol Gel; CVS Chest Rub; CVS Health Medicated Chest Rub; CVS Health Muscle Rub Ultra Strength; CVS Medicated Chest Rub Roll-On; CVS Medicated Pain; CVS Medicated Pain Relieving; CVS Vapor Steam; Cajun Hot Ice Muscle and Joint Pain Rub; Cal Mo Dol Ont; Calmadol; Calmitol Itching Relief Ont; Cam Sun (huile Therapeutique); Camocare Pain Relieving Cream; Campho Phenique Cold Sore Treatment; Campho Rex; Campho-Phenique Antiseptic; Campho-Phenique Cold Sore Treatment; Campho-Phenique Pain Relieving Antiseptic Liquid; Camphomex; Camphor; Camphor Spirit; Camphor Spirit Liq; Camphor Spirit Liq 10%; Camphor, Menthol; Camphorated Oil 20%; Camphorated Oil Liniment; Camphorated Ointment Compound; Camphorated Opium Tincture; Camphorated Para Chlorophenol Liq; Camphotrex; Care One Pain Relief; CareAll Medicated Chest Rub; CareOne Cold Sore Treatment; Carmatis Ont; Carmex Classic Lip Balm Medicated; Carmex Lip Balm; Carmex Lip Ointment; Caustinerf; Chan Yat Hing She Kun Wool Lok Medicated Oil; ChapIce Camphor Phenol Gel; ChapIce Medicated Balm; Chapstick Medicated; Chapstick Medicated Lip Balm - Jar; Chapstick Medicated Lip Balm - Stk; Chapstick Medicated Lip Balm - Tube; Chase Coldsorex; CheeZheng Pain Relieveing Plaster; Cheezheng Pain Relieving; Chest Rub; Chest Rub Ont; Chest Rub Vaporizing; Chest Rub Vaporizing Action; Chestrub; Chigarid; Childrens Benadryl Itch Cooling; China-Gel Topical Pain Reliever; Choice Personal Care Vapor Rub; Cirlutone; Cm Systems 2 Gel; Cold Rub; Cold Sore Lotion; Cold Sore Treatment; Coral Analgesic; Coralite Muscle Joint; Coralite Pain Relief; Coralite Ultra Strength Pain Relief; Cough Suppressant and Topical Analgesic; Crampy Belly Rub; Creo Grippe Enfants Sup; Creo Grippe Sup Adultes; Creo-rectal Adulte; Creo-rectal Enfants/children; Creo-rectal Nourrisson; Cresophene Liq; Cvs Anti Itch; DDM Camphor Spirit; DDM Instant Antiseptic Pain Relief; Dancers Select; De La Cruz Camphor; Deep Remedy; Demo Cineol Inj; Demo-cineol Adultes/adults; Demo-cineol Enfants/children; Dentalgar Liq; Dermasarra; Dieda Fengshi Gao Medicated Plaster; Doctor Hoys Natural Pain Relief; DoctorRelief; Dollar General Medicated Pain Relief Patch; Dr Bob Arnots Pain; Dr Bob Arnots Pain Pen; Dr Waltons Vapor Rub; Dr. J.I.s Arthritis Plus Gel; Dr. JIs Arthritis Plus; Dr. OH BALM; Dr. OH PATCH; Dr. Sheffield Vapor Cream; Dr.oh Patch; Dragon; Dream Cream; Dry and Itchy Skin Relief Thayers; Dynamiclear ORO; E Mei Shan Medicated; Eagle Medicated Aromatic; Earths Best Cold Relief Vapor; Earths Care Anti-itch; Earths Care Arnica Compound; Earths Care Muscle and Joint Rub; Earths Care Pain Relieving; Eau Resolutive Soker; Equaline Cold Sore Treatment; Equaline muscle rub ultra strength; Equate Pain Relieving; Equate Pain Relieving Ultra Strength; Equate Vaporizing; Eucamint; External Analgesic; Extra Strength Hua Tuo Medicated Plaster; Family Care Back Pain Therapy; Family Care Pain Relief; Family Care Thera Flex Pain; Family Care Ultra Strength Pain Relief; Fast Freeze; Fastrin Aches and Pain Deep Relief; Flex24 Pain; Flex24 Pain Pen; Flex24 Performance; Flex24 Performance Pen; Flexall Plus; Flower O Life Pain Relieving Balm; Formula A; Freds Antiseptic Instant Pain Relief; Frozen Ice Fast Pain Relief; GADADERM Frozen Ice Advance Pain Relief; Genuine Efficascent; Ginsenggo; Glenalgesic Blue Gel; Goldies Pain Off; Good Neighbor Pharmacy Anti-Itch Steroid Free; Good Neighbor Pharmacy Muscle Rub Ultra Strength; Good Sense Muscle; Gouttes Dentaires; Gouttes Pour Mal D'oreilles; Gutong Tiegao Pain Relieving; HEB Camphor Phenol; HUMCO Camphor Spirit; HealQu Warm Therapy Gel; Health Mart Pain Relief; Health Mart muscle; Health Smart Blue Ice Topical Analgesic; Health Smart Vaporizing Chest Rub; Healthy Accents Cold Sore Treatment; Healthy Accents muscle ultra strength; Heat Rub; Heet Liniment Liq; HemoTreat; Herbal Heat; Herbal Pain Relieving; Herbalgy; Ho Liang Kee; Hot Ice Soothing Analgesic; Hua Tuo Huo Lu Oil; Hua Tuo Medicated Plaster Extra Strength; Huo Pao Tieh Ta Feng Shin Kao; Hysan Hua Tuo Huo Lu; Hysan Huo Lu Medicated; Hysan Pain Reliever; Ice Cold Analgesic; Ice Cold Analgesic Gel; Ice Quake Plus; Ice Quake Roll On; Icy Cold Cool Pain Relieving; Icy Hot Advanced Relief; Icy Hot Arthritis; Icy Hot No Mess Vapor Cough Suppresant; Icy Hot No Mess Vapor Cough Suppresant for Kids; Inflammation OTC Bruise Relief; Inflammation OTC Deep Pain Care Cold; Inno Rheuma Cream; Instant Antiseptic Pain Relief; Instant Therapy; Invisible Pain; Itch Nix; Ivy Dry; Ivy-Dry Super; Jack and Jill Rub; Jamp-cough Suppositories Adult; Jamp-suppositories Children; Jin Gu Wang; Jivamukti; Joint Analgesic Plaster; Joint Comfort; Joint Formula 88 MAX PLUS; JointFlex; Jointflex; Joints and Muscles Pain Relieving; Jun Wai Lung Medicine Pain relieving; KGS Bao Zhen Gao Medicated Plaster Extra Strength; KGS Zhitong Gao Medicated Plaster Extra Strength; Kama Sutra Pleasure Balm; Katinko Pain And Itch Relieving; Kaz Inhalant; KeVUENO Pain Relieving; Kerasal NeuroCream; Kinkan; Kiss Therapy Medicated Lip Balm; Kroger Cold Sore Treatment; Kymaro Roll on Relief; LEADER Camphor Spirit; La Vaquita; La Vaquita Extra Strength; Leader Camphor Phenol Gel; Leader Medicated Relief Patch; Leader Pain Relieving Rub Ultra; Leader Ultra Strength Muscle Rub; Leader Ultra Strength Muscle Rub Topical Analgesic; Leg Strong Trifusion; Lekon Herbal Patch Green; Liniment Soker; Lip Conditioner Lip Balm; Lorpur; Lotion Pour Feux Sauvages; Lucky Blue Ice; Lucky SuperSoft Muscle and Joint; Lusti Therapeutic Ice Analgesic Rub; MHS Pain Relief Oil; MHS Tendon Liniment; MHS Wong Family Iron Palm Jow; MMA Elite Pain Relief; Magic For Pain Relief; Magical Muscle Oil; Major Camphor and Phenol; Makesense With Aloe Vera and Vitamin E; Manteca Maslac; Marco Rub Camphorated Ont; Masterbalm; Mata Balm; Max-Relief with Boswellia and Aloe Vera; MaxRelief Arnica; Mecca Ointment; Med Aid Chest Rub; Medi-quik First Aid Spray; Medicated Analgesic Cream; Medicated Balm Arthritis Pain Relieving Cream; Medicated Blistex Dct Lip Balm; Medicated Chest; Medicated Chest Rub; Medicated Chest Rub - Ont; Medicated Chest Rub - Ont Top; Medicated Chest Rub Family Wellness; Medicated Lip Balm; Medicated Lipbalm; Medicated Pain; Medicated Pain Relief Patch; Medicated Pain Relief Patches; Medicated Vapourizer Fluid; Medistik Ice; Meijer Cold Sore Treatment; Meijer Muscle Ultra; Men-Phor; Mentholatum; Mentholatum Cherry Vaporizing Rub; Mentholatum Extra Strength Ont; Mentholatum Nighttime Vaporizing Rub; Mentholatum No Mess Vaporizing Rub; Mentholatum Original; Mentholatum for Kids Cough Suppressant; Meridian Balm; Migranow; Mini Pain Relief; Miracle Ice; Miracle Ice Arthritis Pain Reliever; Miracle Ice Therapeutic; Miracle Ice Ultra Strength; Monkey Holding Peach Brand External Analgesic Balm; Motion Medicine; Mrx Liq; Muellergesic; Muscle; Muscle Ease; Muscle Mist; Muscle Rub Maximum Strength; Muscle Rub Non Greasy Pain Relieving; Muscle Rub Ultra; Muscle Rub Ultra Strength CVS; Muscle and Joint HRX Pain Relieving; Muscle rub; MuscleCare Professional Therapy Pain Relieving; My Omega 3 Rub; MyOmega OMEGA 3PLUS PAIN RELIEF RUB; MyOmega Omega 3plus Targeted Relief; Nan San MUSFLEX External Analgesic; NanoFreeze; Nasal Decongestant; Natur 911; Natures Realm Vaporizing Chest Rub; Naturland Inno Rheuma Cream; Naturland Sports Cream; Neuro Support Plus Foot Balm; Neutrogena Anti-itch Moisturizer; No Touch Application Chest Rub Well at Walgreens; No Touch Chest Rub; Novarnica; Novarnica Foot Pain Reliever; NovoPain; O24 Essential Oil Pain Relieving; O24 Pain Neutralizer; OFF Bite and Itch Relief First Aid Antiseptic; Omega 3 Targeted Relief; Omega Pain Relieving; One Gel Sport Pain relieving; Onguent Camphre Menthol Alsi; Opium Camphre Tanin Tab; Orajel Cold Sore Moisturelock; Orajel Multi-action Cold Sore Medicine; Orajel for Codl Sores Relief and Concealer; Oralgar Dps; Ortho-Nesic; Ortho-Nesic With Capsaicin; Pain Reileving Herbal Oil; Pain Relief; Pain Relief Cream; Pain Relief Herbal; Pain Relief Herbal balm; Pain Relief Patches; Pain Relief Rub; Pain Relief Rub Iampur; Pain Relief Tincture; Pain Relief Well At Walgreens; Pain ReliefPatches Patches; Pain Relieving; Pain Relieving Balm; Pain Relieving Chi Len Oil; Pain Relieving Iampur; Pain Relieving MUSFLEX; Pain Relieving Po Tong Oil; Pain Relieving Roll-On; Pain Relieving Ultra Strength; Pain releiving Well at Walgreens; Pain-A-Trate Extra Strength Pain-Relieving; Pain-A-trate Cream; Pain-ease; Pain-oleum - Liniment; Painathol-MC Cool Penetrating Pain Relieving; Painzaway Balm; Paraid Pain Relief; Parche Leon Milagroso; Paregorique; Perfect Purity Vaporizing Chest Rub; Perform; Phoenix Balm; Phquirogel; Plaster MandAHerbalPlaster; Pomada Dragon Pain Relieving; Pommade Au The Des Bois; Preferred Plus Medicated Lip Balm; Premier Value Cold Sore Treatment; Pro-Flex; Professional Therapy Muscle Care Pain Relieving Gel by Dr. Chris Oswald Maximum Strength; Professional Therapy Muscle Care Pain Relieving Ointment by Dr. Chris Oswald Maximum Strength; Professional Therapy MuscleCare; Professional Therapy MuscleCare Extra Strength; Professional Therapy MuscleCare Pain Relieving; Professional Therapy MuscleCare Turbo; Professional Therapy MuscleCare pain relieving gel Extra Strength; Prostaderm; Quali Cold; Quality Choice Camphor Spirit; Ramedica; Red Flower Oil; Red Oil; Reed Therapeutics Pain Relieving Therapy; Refined Gou Pi Pain Relieving Plaster; Rejuvaflex Natural Pain Relieving; Relexo Oil; Relief Balm; Retadolor; Retadolor Penetrating Cool Therapy; Rhino-vaccin; Rhuli Gel; Rhulief Pain Relieving Balm; Rite Aid Cold Sore Treatment; Rite Aid Pharmacy congestion relief vaporizing steam; Rite Aid Ultra Strength Muscle Rub; Royal King Pain Relief Patch; Rubbex Creme; SINSINPAS Pain Relieving Patch; Safeway Cold Sore Treatment; Salonpas; Salonpas - Pls Top; Salonpas DEEP Relieving; Salonpas Gel-patch; Salonpas Medicated Plaster; Salonpas Pain Relieving; Sarna; Sarna P; Satogesic; Satohap; Savex 15 Ont SPF-15; Savex Ont; Savex With Paba; Savex With Sunscreen Ont; Sc Pain Relief Balm; Seldicine (Massage Cream); Select Brand Medicated Vaporizing Steam; Shang Shi Zhi Tong Gao; Shang Shi Zhi Tong Pain Relieving Plaster; Shanghai Shang Shi Zhi Tong Gao Pain Relieving; Shao Lin Gao Pain Relieving Plaster; Shelo NABEL Hielo Mineral; Shelo NABEL Pomada Arnica; Shelo NABEL TherapyGel; Sheng Chun Pain Relief; Shennong Analgesic Plaster; ShopKo Cold Sore Treatment; Shopko Camphor Phenol Gel; Shopko Medicated Lip Treatment; Shu Jin Lu; SierraSil Pain Relief; Sigform Herbal Muscle; Sigform Herbal Muscle Mist; Sinsin Mulpas; Sinsinpap Cool; Smart Pro Medicated Analgesic Pain Relieving Cataplasm; Smart Sense Cold Sore Treatment; Smart Sense Ultra Strength; Sno Swedish Arctic Gel Relief; Sno Swedish Arctic Gel Support; Sof Skin Vaporizing Chest Rub and Cough Suppressant; Solstice Medicine Company Pain Relief; Sombra Warm Therapy; Sore No More; Sore No More Warm Therapy; Spirit Of Camphor; Sport Rub  -  Cream; Sports Balm; Sting Kure - Liq; Sting-eze-liq; StingEze Insect Bite Relief; StingEze Max Insect Bite Relief; StingEze with Aloe for kids; Strain Pain Relieving Cream; Sunmark Camphor Spirit; Sunmark muscle rub; Suppress Ointment; THAYERS TOPICAL PAIN RELIEVER MEDICATED SUPERHAZEL with ALOE VERA FORMULA; THAYERS TOPICAL PAIN RELIEVER SUPERHAZEL with ALOE VERA FORMULA; TOKUHON-A External Analgesic Pain Relieving Medicated; TOKUHON-A External Pain Relieving Medicated; TapouT Muscle Recovery; Tapout Muscle Recovery Rapid Pain Relief; Tetramex; Thai Herbal Balm Lavender; Thera Patch; Thera Wise Natural Vapor Rub; Therapatch Vapor - Chest; Therapatch Vapour - Nose & Chin; Therapeutic Heat Lotion; Therapeutic Soothing Ice Gel; Thunas Salve for Rheumatic Pains; Tianhe Gutong Tiegao; Tianhe Gutong Tiegao (in Polyisobutylene Carrier); Tianhe Zhuanggu Gao; Tianhe Zhuifeng Gao; Tiger Balm; Tiger Balm Arthritis Rub; Tiger Balm Muscle Rub Pain Relieving; Tiger Balm Neck and Shoulder Rub; Tiger Balm Red Extra Strength; Tiger Balm Ultra Strength; Tiger Balm White Regular Strength; Tokuhon Medicated Plaster; Tong Luo Qu Tong Gao; Top Medicated; Top Medicated Pain Relieving; TopCare Cold Sore Treatment; Topcare Pain Relieving 40ct; TopiCool Pain Relief with Cats Claw; Topical Analgesic Gel; Triaminic Night Time Rub; Triaminic Vapour Patch; Triple Power Pain Relief; True Essentials Pain Relief Roll On; Ultra Strength Pain Relief; Ultra Strength Pain Relief Balm; Up and Up Cold Sore Treatment; VIVA Patch; Valtrum Soothing Topical Analgesic; Valtrum US Aerobic Sport IMMEDIATE ACTION; Valtrum US Soothing Topical Analgesic; Vantelin Cool Pain Relieving; Vapor Plus; Vaporex; Vaporisateur Medicamente; Vaporizing; Vaporizing Chest; Vaporizing Chest Rub; Vaporizing Chest Rub Cough Supressant; Vaporizing Colds Rub; Vaporizing Colds Rub - Ont; Vaporx Balm; Vapour Rub; Vapourizing Chest Rub; Vaproizing; Vaseline Brand Lip Therapy Medicated Tube; Vicks Vapo Rub; Vicks VapoRub; Vicks VapoRub Lavender Scent; Vicks VapoRub childrens; Vicks VapoSteam; Vicks Vaporub; Vida Mia Instant Antiseptic Pain Relief; Vital Vapor; Vitapirena; Walgreens Camphor Phenol Gel; Walgreens Chest Rub; Walgreens Cold Sore Treatment; Walgreens Medicated Pain Relieving; Walgreens Muscle Rub Ulra Strength; Weeks and Leo Medicated Vaporizing Steam; Welby Medicated Relief Patch; Western Family Cold Sore Treatment; Western Family Pain Relieving; White Flower Analgesic Balm; White Flower Analgesic Balm Floral Scented; White Flower Ointment; White Flower Strain Relief; Wok Lok Pain Relieving Oil; Womens Relief Balm; Womens Sports Balm; Wong Lop Kong Medicated; Wong To Yick External Analgesic; XtraCare Vaporizing Chest Rub; Yao Shen Gao Pain Relieving Plaster; Yu Long You Pain Relieving; Yunnan Baiyao Arthritis Pain Relief; ZYCAZIN Antiseptic Liquid; Zang Qi; Zepol Topical Analgesic; Zheng Gu Shui; Zhenweilong Huoluo You External Analgesic; Zhuang Gu Feng Shi Pain Relieving Plaster; Zhuang Gu She Xiang Zhi Tong Gao; Zhuanggu Shexiang Zhitonggao Pain Relieving Plaster; Zihua Embrocation Cooling Pain Relief; Zihuadick Pain relieving; amoray premium Vaporizing Inhaler; bB Medicated Pain Relieving Oil
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00827
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@@](C)(C(=O)C1)C2(C)C
+
+>  <SYNONYMS>  (1) 
+(+)-bornan-2-one; (+)-Camphor; (1R,4R)-camphor; (1R)-(+)-camphor; (R)-(+)-camphor; (R)-camphor; Camphor D-form; Camphor oil; Camphor(D); Camphora; D-Camphor; Dextrocamphor; Natural camphor; Synthetic camphor
+
+$$$$

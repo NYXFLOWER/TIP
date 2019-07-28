@@ -1,0 +1,109 @@
+ 
+     RDKit          2D
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+   17.4487   -8.4975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2737   -8.4975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11091
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11091
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+34.005479308
+
+>  <FORMULA>  (1) 
+H2O2
+
+>  <GENERIC_NAME>  (1) 
+Hydrogen peroxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/H2O2/c1-2/h1-2H
+
+>  <INCHI_KEY>  (1) 
+MHAJPDPJQMAIIY-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.2910556974533414
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+peroxol
+
+>  <JCHEM_LOGP>  (1) 
+-0.447202414
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+14.397218846455527
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.520607090216412
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.189015938635916
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+5.1292
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydrogen peroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+34.0147
+
+>  <PRODUCTS>  (1) 
+3% Hydrogen Peroxide Well at Walgreens; Antiseptic Oral Cleanser; Aplicare Hydrogen Peroxide; Blossom HP 3; CURAD Hydrogen Peroxide; Comfort; DOP Hydrogen Peroxide 3%; Dio Whitening; Divas; Dynarex HP 3; ECOLAB Hydrogen Peroxide; Eco Whitening; First Aid Only Hydrogen Peroxide; GNP Hydrogen Peroxide 3 Percent; GOOD NEIGHBOR PHARMACY Hydrogen Peroxide Wipes; Green Guard Hydrogen Peroxide First Aid; Health Mart Hydrogen Peroxide 3 Percent; Hioxyl Cream; Humco Hydrogen Peroxide; Hydrogen Peroxide; Hydrogen Peroxide (topical Solution B.P. 20 Volume); Hydrogen Peroxide (topical Solution U.S.P. 10 Volume); Hydrogen Peroxide 20vol; Hydrogen Peroxide 3 Percent; Hydrogen Peroxide 3 Percent ReadyInCase; Hydrogen Peroxide 3 Topical; Hydrogen Peroxide 6%; Hydrogen Peroxide Antiseptic; Hydrogen Peroxide First Aid Antiseptic; Hydrogen Peroxide Lil Drug Store Products; Hydrogen Peroxide Liq 10vol; Hydrogen Peroxide Liq 6%; Hydrogen Peroxide Solution 3%; Hydrogen Peroxide Top Sol 3% 10vol Anti; Hydrogen Peroxide Topical Sol USP 3%; Hydrogen Peroxide Topical Solution 3%; Hydrogen Peroxide Topical Solution USP; Hydrogen peroxide; Iris; Kimvent Oral Care Q2 Kit with CHG; Kimvent Oral Care Q4 Kit; Kimvent Oral Care Suction Swab pack; Kimvent Q2 oral care kit; LEADER Hydrogen Peroxide Wipes; MedPak Peroxide Oral Rinse; MediFirst Hydrogen Peroxide; Medline Peroxi Fresh Mouthwash; Orajel Alcohol Free Antiseptic Rinse For All Mouth Sores; Orajel Antiseptic Rinse For All Mouth Sores; Orajel Antiseptic Rinse for Mouth Sores; Orajel Perioseptic Rinse - 1.5%; Oral Care Q4 Kit; Oral Cleansing and Suctioning System, Q2; Oral Cleansing and Suctioning System, q2; Oral Cleansing and Suctioning System, q4; Periogel; Perioselect Hydrogen Peroxide Solution 1.7%; Perox-A-Mint Solution; Peroxyde D'hydrogene 10 Vol Soln; Peroxyl Mouth Sore Mild Mint; Pharmacys Prescription; Preferred Plus Pharmacy 3 percent Hydrogen Peroxide Wipes; Premium Whitening; Pro Brighten Tooth whitening Gel; Q2 Oral Care Kit; QCare Oral Cleansing and Suctioning System; QCare Oral Cleansing and Suctioning System, Q2; QCare Oral Cleansing and Suctioning System, Q4; QCare Oral Cleansing and Suctioning System, Q8; QCare Oral Cleansing and Suctioning System, q2; QCare Rx Oral Cleansing and Suctioning System; QCare Rx Oral Cleansing and Suctioning System, Q2; QCare Rx Oral Cleansing and Suctioning System, Q4; SMART SENSE Hydrogen Peroxide; Short Term Oral Care System; Short Term Oral Swab System; Single Use System with Perox-A-Mint solution; Smart Sense Hydrogen Peroxide Solution; Sore Mouth Cleanser; Suction Swab System with Perox-A-Mint Solution - Suction Swab; Suction Swab System with Perox-A-Mint Solution - Suction Swab and Suction Toothbrush; Suction Swabs with Perox-A-Mint Solution; Suction Toothbrush with Perox-A-Mint Solution; Suction Toothbrushes with Perox-A-Mint Solution; Sunmark Hydrogen Peroxide 3 Percent; The Natural Dentist Rinse; Tooth Whole White; Toothette Oral Care Single Use System with Antiseptic Oral Rinse; Usana Peroxide Antiseptic Mouthwash; Water Jel Hydrogen Peroxide; White Labs; Your Label Here Hydrogen Peroxide First Aid; maxim Hydrogen Peroxide
+
+>  <SMILES>  (1) 
+OO
+
+$$$$

@@ -1,0 +1,163 @@
+1086
+     RDKit          2D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+    3.0791    1.3654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.3654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.3472    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0
+  1 11  1  0
+  2 10  2  0
+  3  7  1  0
+  4  5  2  0
+  4  6  1  0
+  4 10  1  0
+  5  8  1  0
+  6  9  2  0
+  7  8  2  0
+  7  9  1  0
+ 11 12  1  0
+  3 13  1  0
+  3 14  1  0
+  5 15  1  0
+  6 16  1  0
+  8 17  1  0
+  9 18  1  0
+ 11 19  1  0
+ 11 20  1  0
+ 12 21  1  0
+ 12 22  1  0
+ 12 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.20
+
+>  <ALOGPS_LOGS>  (1) 
+-1.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.85e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01086
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01086
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+165.078978601
+
+>  <FORMULA>  (1) 
+C9H11NO2
+
+>  <GENERIC_NAME>  (1) 
+Benzocaine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H11NO2/c1-2-12-9(11)7-3-5-8(10)6-4-7/h3-6H,2,10H2,1H3
+
+>  <INCHI_KEY>  (1) 
+BLFLLBZGZJTVJG-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Anacaine; Anaesthesin; Anbesol Baby; Dermoplast
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.45894048959027
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl 4-aminobenzoate
+
+>  <JCHEM_LOGP>  (1) 
+1.5046047806666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.7762371036930076
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.32
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+47.532300000000006
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+benzocaine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+165.1891
+
+>  <PRODUCTS>  (1) 
+10 Person ANSI; 20/20 Topical Anesthetic; 25 Person ANSI; 3M Nexcare Cold Sore Treatment; 50 Person ANSI; 7 Select Oral Pain Maximum Strength Relief; ACME FIRST AID Contains 404 PIECES; ARC FIRST AID Contains 1000 PIECES; ARC FIRST AID Contains 404 PIECES; ATOPALM Oral Pain Relief; Acella Antipyrine and Benzocaine Otic; Actisep; Adazin; Advance Topical Anesthetic Gel; Adventure First Aid .5 Tin; Adventure First Aid Water Resistant; Adventure Medical Kits Dental Medic; Aeroaid Antiseptic First Aid; Aeroburn Burn First Aid; Aerowipe; Aftertest Pain Relief; Aidplus Sting Relief Prep Pad; Alcohol Prep Pad with Benzocaine; Alcohol Prep Pads; Alcohol Prep Pads with Pain Relief; Alcohol Prep Swab with Pain Relief; Alcohol Swab with Benzocaine; Alcohol Swabs with Benzocaine; Allegenal-M; Alpha-Caine Topical Anesthetic; Americaine; Anal Swabs 20%; Anbesol Baby Gel 7.5%; Anbesol Cold Sore Therapy; Anbesol Extra Strength Gel - 20%; Anbesol Gel; Anbesol Jr; Anbesol Liquid; Anbesol Maximum Strength; Anbesol Maximum Strength Liquid; Anbesol Regular Strength; Anesgerm; Anestenka; Anesthetic; Angidol Cherry Flavor; Angidol Honey Lemon Flavor; Anivy; Anti Itch; Antibiotic Cold Sore Ointment; Antibiotic Lozenges; Antipyrine and Benzocaine; Antipyrine and Benzocaine Otic; Antiseptic; Antiseptic First Aid; Antiseptic Medicated CVS; Appedrine; Arkodyne; Assist II Anorectal (Hemorrhoidal); Assured Feminine Anti-itch; Astra-dent Topical Anesthetic Gel; Auralgan; Auralgan Eardrops; Auralgan Solution; Aurax Otic; Aurisan Dps; Aurodex; Auto 157; BENZOCAINE and RESORCINOL; Baby Anbesol; Baby Anestenka; Baby Orajel Nighttime Formula; Baby SensiGel; Baby SensiGel Night Time Formula; Baby Teething Oral Pain Reliever; Bactimicina for Sore Throat; Balminil Loz; Balzarol Ont; BeeGentle Topical Anesthetic; BencoCaine Topical Anesthetic; Benz O Sthetic; Benzal Vagisil Creme Regular Strength; Benzo Jel; Benzo-Jel; Benzo-Jel Bubble Gum; Benzo-Jel Cherry; Benzo-Jel Mint; Benzo-Jel Pina Colada; Benzo-Jel Raspberry; Benzo-Jel STRAWBERRY; Benzocaine; Benzocaine Bubble Gum; Benzocaine Cherry; Benzocaine Mint; Benzocaine Pina Colada; Benzocaine Raspberry; Benzocaine Strawberry; Benzocaine and Benzethonium; Benzocaine and Triclosan; Benzocaine, Menthol, Zinc Chloride; Benzodent; Best Health Sore Throat Relief Cherry Flavor; Bionet Lozenge; Bite Relief; Bite and Sting Medicated Relief Pads CVS; Bite and Sting Relief Well at Walgreens; Bite relief Scherer Labs; Blistex Foille Medicated First Aid; Blt 1; Boil Ease; Boil Ease Pain Relieving Ointment; Boy Butter Desensitizing Lubricant; Boy Butter Extreme Desensitizing Lubricant; Brace Relief; Budpack Feminine Anti-itch; Budpak Baby Teething Oral Pain Reliever; Budpak Feminine Anti-Itch; Budpak Oral Maximum Strength; Burkhart Topical Anesthetic; Burn O Sol Spray; Burncare Cream 5.0%; Burncare Kit; Bye Bye Bite Lot; Bye Bye Burn Lot; CARMEX COLD SORE treatment External Analgesic; CVS Adult Enema; CVS Fast Acting Baby Teething; CVS Itch Relief and Repellent; CVS Maximum Strength Boil Relief; CVS Oral Anesthetic; CVS Pharmacy Instant Toothache; CVS Pharmacy Maximum Strength; CVS Pharmacy Mouth Sore; CVS Pharmacy Mouth Sore Gel; CVS Pharmacy Nighttime Oral Pain Relief; CVS Pharmacy Sensitive Medicated Cream; CVS Pharmacy Toothache and Gum Reliever; CVS Pharmacy Toothache reliever; CVS Sore Throat Mixed Berry Flavor; Caine Tips Oral Pain Relief Swabs; CaineTips; Candee Caine Topical Anesthetic; Cepacol Citrus Extra Strength Lozenges; Cepacol Dual Relief; Cepacol Extra Strength Lozenge; Cepacol Extra Strength Orange Citrus Lozenge; Cepacol Extra Strength Sore Throat Tangerine; Cepacol Extra Strength Sore Throat and Cough; Cepacol Extra Strength Sore Throat cherry; Cepacol Extra Strength Sore Throat honey lemon; Cepacol Extra Strength Sore Throat mixed berry; Cepacol Extra Strength Sore Throat sugar free cherry; Cepacol Fizzlers; Cepacol Instamax Sore Throat Arctic Cherry; Cepacol SORE THROAT AND COUGH; Cepacol Sensations Cooling; Cepacol Sensations Hydra; Cepacol Sensations Sore Throat Cooling ice cool; Cepacol Sensations Sore Throat Hydra citrus splash; Cepacol Sensations Warming; Cepacol Sore Throat; Cepacol Sore Throat Extra Strength Sucrose-free Lozenge (cherry Flavour); Cepacol Sore Throat Maximum Numbing Cherry; Cepacol Sore Throat Maximum Numbing Citrus; Cepacol Sore Throat Maximum Numbing Honey Lemon; Cepacol Sore Throat Maximum Numbing Sugar Free Cherry; Cepacol Sore Throat Plus Coating; Cepacol Sore Throat Plus Cough; Cepacol Sore Throat and Cough; Cepacol Ultra Sore Throat; Cepastat Sore Throat and Cough; Certus Sting Relief Prep Pad; Cetacaine Anesthetic; Cetacaine Liquid; Cetacaine Spray; Cetacaine Topical Anesthetic; Cherry Sore Throat Lozenge; Cherry Sore Throat Lozenges; Cherry Sore Throat Lozenze; Cherry Sore Throat Relief Lozenge; Cherry Throat Relief Lozenges; Chigg Away; Chiggerex 2X Medicated; Chloraseptic Sore Throat Liquid Center; Chloraseptic Sore Throat Max Liquid Center; Chloraseptic Total Sore Throat and Cough; Chloraseptic Total Sore Throat and Cough, Sugar Free; Chloraseptic Warming Sore Throat; Climax Control Benzocaine; Coghlan s Sting Relief; Cold Sore Lotion; Cold Sore Treatment; Colgate Orabase; ComfortCaine Topical Anesthetic; Comfortcaine Topical Anesthetic; Comfortox Benzocaine; Cut Care Insect Bite Antiseptic and Pain Relieving Wipe; Cut Cleaner; Cutiecaine; Cvs Maximum Strength; Defend; DenTek Instant Pain Relief Maximum Strength; Dental City Topical Anesthetic; Dental Relief; Dentalgar Liq; Denti-Care Denti-Freeze Topical Anesthetic Bubblegum; Denti-Care Denti-Freeze Topical Anesthetic Cherry; Denti-Care Denti-Freeze Topical Anesthetic Mint; Denti-Care Denti-Freeze Topical Anesthetic Raspberry; Denti-Care Denti-Freeze Topical Anesthetic Strawberry; Denti-care Denti-freeze Topical Anesthetic Gel; Denti-care Topical Anesthetic Gel; Denti-care Topical Anesthetic Liquid Spray; Denture Orajel Gel; DermaWound Wound Care Venous Stasis; Dermacaine-R; Dermaphy Ont; Dermoplast First Aid; Dermoplast Pain Relieving; Dermoplast Pain Relieving Antibacterial; Desensitizing cream; Detane Gel 7.5%; Dexatrim Tablets; Docusol Plus; Dollar General Health Oral Pain Reliever; Dollar General Toothache Relief; Dukal Sting Relief Pad; ENEMEEZ Plus; Eclipse Topical Analgesic FA; Ejectdelay Gel; Emercol Loz; Emercreme No4 Ont Efa; Endless Love For Men; Endocaine Spray 20%; Endospray; Equaline Vagicaine Maximum Strength; Equate vagicaine maximum strength; Extra Strength Cepacol Sore Throat; Ez Access; FIDELIS Topical Anesthetic; FIRST AID Contains 303 PIECES; Family Wellness; Finafta; Finafta Baby; Finafta MultiOral; Fire Out; First Aid; First Aid Antiseptic; First Aid Antiseptic Well at Walgreens; First Aid Only Sting Relief Pad; First Aid Pads CVS; First Degree Burn; Foille Ont; GAUKE Sting Relief Pad; GENUINE FIRST AID Emergency Preparedness Contains 167 PIECES HARDCASE; GOOD NEIGHBOR PHARMACY FIRST AID Contains 202 PIECES; GPS Topical Anesthetic; Gelato Topical Anesthetic; Gercillin; Gingicaine Gel 20%; Gingicaine Gel Strawberry; Gingicaine Liq Top Anesthetic; Good Neighbor Pain Relief; Good Neighbor Pharmacy Cold Sore Treatment; Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces; Good Neighbor Pharmacy First Aid; Good Sense Vagicaine Anti Itch; Goodsense Oral Pain Relief; Gouttes Dentaires; Gouttes Pour Mal D'oreilles; Goyescas 7 Syrups Sore Throat Relief; Goyescas Broncovac 5 Sore Throat Relief; Green Guard Antiseptic First Aid; Green Guard Burn First Aid; Gumnumb Topical Anesthetic; Gumsol; Health-Tec Topical Anesthetic; Heb Severe Toothache; Henry Schein Topical Anesthetic Gel; Herbasoul Male Genital Desensitizer Cream; Honey Lemon Sore Throat Lozenges; Honey Lemon Throat Drops; HurriCaine; HurriCaine Topical Anesthetic; HurriCaine Topical Anesthetic Gel; HurriCaine Topical Anesthetic Liquid; Hurricaine Dry Handle Swab; Hurricaine Topical Anesthetic Spray; Image Essentials Vagicaine; Insect Bite Relief; Insect Sting Relief Pad; Insect Sting Relief Wipes; Insect String Relief pad; Instant First Aid CVS; Instant Toothache Pain Relief; Intense CVS Intense Toothache; Iodent Maximum Strength Oral Analgesic; Ioline; Iolite; Ipana 20% Benzocaine Topical; Isopropyl Alcohol with Benzocaine; Jianze Sting Relief Pads; Jiffy Toothache Drops; Johnson and Johnson Burn Crm 5.0%; KMart Smart Sense; Kama Sutra Pleasure Balm; Kank-A; Kank-A Mouth Pain; Kanka Softbrush; Kroger Maximum Strength; Kroger Toothache Pain Relief; Lanacane Anti Itch Maximum Strength; Lanacane Anti Itch Original Strength; Lanacane Anti-bacterial First Aid Spray; Lanacane First Aid; Lanacane Maximum Strength Anti Bacterial First Aid Spray; Lanacane Maximum Strength Anti-Itch; Laryngets Loz; Leader Anti-Itch Maximum Strength; Leader Anti-Itch Regular Strength; Leader Oral Analgesic; Leader Oral Pain Relief Anesthetic; Little Colds Sore Throat Relief Melt Aways; Little Ouchies Little Remedies Pain Relief; Lollicaine Bubble Gum; Lollicaine Cherry; Lollicaine Mint; Lollicaine Pina Colada; Lucky Oral Pain Relief; MK Sting Relief Pads; MS Topical Anesthetic; Magic STAMINA; Maintain; Major Oral Pain Relief Maximum Strength; MakeSense Feminine Anti-itch; Makesense Junior Pain Relief; Makesense Pain Relief; Male Desensitizer Pleasure Balm; Mandelay Male Genital Desensitizer; Mark 3; Maximum Strength Feminine Anti-Itch Family Wellness; Medi-First Sting Relief Wipes; Medi-first Antiseptic First Aid; Medi-first Burn First Aid; Medi-first Ivy-Rid First Aid; Medi-first Protective Coating Bandage; Medicaine Sting and Bite; Medicaine Swabs; Meditowel Antibacterial First Aid; Meijer Maximum Strength Oral Pain Relief; Mend19 Wound Care Venous Stasis; Mixed Berry Sore Throat Lozenge; Mixed Berry Sore Throat and Cough Lozenge; Mixed Berry Sore Throat and Cough Lozenges; Mixed Berry Sore Throat and Cough lozenge; Mixed Berry sore throat and cough lozenge; Monistat Care Instant Itch Relief; Mouth Sore Medication; Mouth Sore Relief Applicator; Mouth Sore Relief Professional Strength; My Fair Baby Instant Pain Relief; NRG Topical Anesthetic; Nene Dente; NeuroMed FA; NeutraCaine; North Burn; North First Aid Antiseptic; OFF Bite and Itch Relief First Aid Antiseptic; One Touch Advanced Topical Anesthetic Bubble Gum; One Touch Advanced Topical Anesthetic Cherry; One Touch Advanced Topical Anesthetic Gel Cool Mint; One Touch Advanced Topical Anesthetic Strawberry Ice; One Touch Topical Anesthetic Gel; OneTouch Revolution Topical Anesthetic; Opahl; Opahl Dye Free; OraLabs Cold Sore Treatment; Orabase Benzocaine Purple Ice; Oragel Liq 205mg/gm; Orajel Cold Sore Moisturelock; Orajel Denture; Orajel Denture Pain Relief; Orajel Denture Plus; Orajel Extra Strength; Orajel Instant Pain Relief MAXIMUM; Orajel Instant Pain Relief Maximum; Orajel Instant Pain Relief Maximum Strength; Orajel Instant Pain Relief Regular; Orajel Instant Pain Relief Regular Strength; Orajel Instant Pain Relief SEVERE; Orajel Instant Pain Relief Severe; Orajel Instant Pain Relief Severe PM; Orajel Instant Pain Relief for Severe Toothache Maximum Strength; Orajel Instant Pain Relief for Toothache Maximum Strength; Orajel Instant Pain Reliver for Canker Sores Extra Strength Pain Relief; Orajel Instant Relief for Teething Pain; Orajel Instant Relief for Teething Pain Cooling Cucumber; Orajel Instant Relief for Teething Pain Daytime Nighttime Twin Pack; Orajel Instant Relief for Teething Pain Longer Lasting; Orajel Maximum Strength; Orajel Mouth-aid; Orajel Multi-action Cold Sore Medicine; Orajel Nighttime Instant Relief for Teething Pain Longer Lasting Extra Strength; Orajel Regular Strength; Orajel Severe Toothache Maximum Strength Fast-Acting Formula; Orajel Ultra Canker Sore Medicine; Orajel for All Mouth Sores Maximum Strength; Orajel for Codl Sores Relief and Concealer; Orajel for Cold Sores; Orajel for Cold Sores Single Dose; Orajel for Toothache Maximum Strength; Oral Analgesic Maximum Strength; Oral B Instant Pain Relief; Oral Gel Maximum Strength; Oral Pain Relief; Oral Pain Relief Anesthetic Anesthetic; Oral Pain Reliever; Oralgar Dps; Orasep; Oti Cal; Otic Care Antipyrine and Benzocaine; Otozin; Outgro; Oxipor Lotion; Pac-Dent Top Gel; Pain Prescriptives Topical Analgesic FA; Pain Relief; Pain Relief Alcohol Swabs; Panocaine Gel; Pastilles Antiseptiques Jener; Pastilles Merol; Patterson Dental Topical Anesthetic; Pennacaine; Permathene-12  -  Caplet; Physicians Care Sting Relief Pad; Pleasure Balm Kama Sutra; Plush anesthetics B; Preboost; Precaine B; Precaine B Bubblegum; Precaine B Chocolate Mint; Precaine B Chocolate Vanilla; Primo Topical Anesthetic; Pro-caine Topical Anesthetic Gel; ProStat Antiseptic First Aid; ProStat Burn First Aid; ProStat Protective Coating Bandage First Aid; Procicept B Benzocaine 20%; Projel-20; Prolong; Protection; Pulmosirum Pastille; PureLife Topical Anesthetic; Pyrocaine Burn; Quality Choice Maximum Strength Oral Pain Relieving; Quality Choice Vaginal Anti-Itch Maximum Strength; Ready America First Aid Outdoor- 107 Pieces; Rectogel HC; Red Cross Canker Sore; Red Cross Oral Pain Relief; Rexall Feminine Maximum Strength Anti-itch; Rexall Maximum Strength; Rite Aid Baby Care; Rite Aid Liquid Anesthetic Oral Pain Relief; Rite Aid Maximum Strength; Rite Aid Oral Pain Reliever; Rite Aid Original Strength Vagicaine; Rite Aid Professional Strength; Rougier Swab Insect Bite Relief Swabs; Salinocaine; SalivaCAINE; Sally Hansen Microwavable Eybrow, Face and Lip Wax Kit; Sally Hansen Ouch-Relief Numbing Wipes; Sally Hansen Ouch-Relief Wax Kit; Sally Hansen Ouch-Relief Wax Strip Kit; SensiGel; Sensicaine TM Extra Topical Anesthetic; Severe Oral Pain Reliever; Sheffield Baby Teething Gel; Sheffield Pain Relief; Shunga Male Genital Desensitizer; Shunga Sensation Balm; Signature Care Vagicaine; Sirop Dentition; Slim-mint Gum; Smart Sense Vagicaine Maximum Strength; Solarcaine First Aid Cream; Solarcaine First Aid Spray; Sooth-a-Sting; Soothe-A-sting; Sore Throat Logenzes Sore Throat; Sore Throat Lozenges Menthol Flavour; Sore Throat Relief Cherry Flavor; Sore Throat and Cough; Sore Throat and Cough Lozenge; Sore throat and cough lozenge; Stay Hard; Sting Eze; Sting Kure - Liq; Sting Relief; Sting Relief Medicated Pad; Sting Relief Pad; Sting Relief Pads; Sting and Bite; Sting-Kill; Sting-eze-liq; StingEze Insect Bite Relief; StingEze Max Insect Bite Relief; StingEze with Aloe for kids; Swabplus Anesthetic Swabs; Swabplus Tooth & Gum Pain Relief Swabs; Tanac; Tanac Liquid; Tempo Sting Relief Pad; Terrasil Boil Pain Relief; Throat Lozenges; Throat Relief Lozenges; Tiger Supply Inc Topical Anesthetic; Tokisan Sore Throat Relief; Top Quality Mfg. Topical Anesthetic; TopCare Sore Throat Cherry Flavor; TopCare Sore Throat Honey Lemon Flavor; Topcare Maximum Strength; Topex BUBBLE GUM; Topex Banana; Topex Bubble Gum; Topex Cherry; Topex Mint; Topex Pina Colada; Topex Raspberry; Topex Strawberry; Topicaine - Top Gel 20%; Topicaine Gel 20%; Topical Anesthetic; Topical Anesthetic Banana; Topical Anesthetic Bubble Gum; Topical Anesthetic Cherry; Topical Anesthetic Mint; Topical Anesthetic Pina Colada; Topical Anesthetic Raspberry; Topical Anesthetic Strawberry; Topicale Gel Pump Pina Colada; UEC Medical Insect Sting Relief; UltraCare Oral Anesthetic Cool Mint; UltraCare Oral Anesthetic Orange Cream; Ultracare Anesthetic Bubble Gum; Ultracare Anesthetic Butter Rum; Ultracare Anesthetic Creme de Menthe; Ultracare Anesthetic Pina Colada; Ultracare Anesthetic Walterberry; Up and up vagicaine; VAGISIL Anti-Itch Creme Regular Strength; VAGISIL Anti-Itch Medicated Creme Maximum Strength; VAGISIL Anti-Itch Medicated Creme Regular Strength; VH Essentials Sensitive Medicated Cream; Vacuant Plus; Vagi care; Vagi-Cure Advanced Sensitive Medicated; Vagi-cure (maximum Strength); Vagi-cure (regular Strength); Vagicaine; Vagicaine Maximum Strength; Vagicaine Maximum Strength Anti-Itch Cream; Vagisil Anti Itch Maximum Strength; Vagisil Anti Itch Original Strength; Viroxyn Professional Use; Walgreens Baby Teething; Walgreens Cold Sore Treatment; Walgreens Intense Toothache; Walgreens Maximum Strength; Walgreens Pain Relieving for Boils; Walgreens Severe Oral Pain Reliever; Walgreens Severe Toothache Relief; Well at Walgreens Anti-Itch Maximum Strength; WinCo Foods Maximum Strength Oral Analgesic; Your Logo Here Antiseptic First Aid; Your Logo Here Bandage Aid; Your Logo Here Burn First Aid; Your Logo Here Poison Ivy First Aid; Zap Liquid; Zap Topical Anesthetic Gel; Zap Topical Anesthetic Spray; Zap Topical Anesthetic Spray Aerosol; Zapotol Dentidol Oral Analgesic; Zilactin Baby (teething Gel); Zilactin Tooth and Gum Pain Reliever; Zilactin Toothache Swab; Zilactin-B; Zip Topical Anesthetic Gel Mint; Zip Topical Anesthetic Gel Strawberry; anal GLIDE; endless Love FOR MEN; iSmile Topical Anesthetic
+
+>  <SALTS>  (1) 
+Benzocaine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00539
+
+>  <SMILES>  (1) 
+CCOC(=O)C1=CC=C(N)C=C1
+
+>  <SYNONYMS>  (1) 
+4-aminobenzoic acid ethyl ester; Amben ethyl ester; Ethyl Aminobenzoate; Ethyl p-Aminobenzoate; Ethyl p-Aminophenylcarboxylate; p-(Ethoxycarbonyl)aniline; p-Carbethoxyaniline; p-Ethoxycarboxylic Aniline
+
+$$$$

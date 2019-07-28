@@ -1,0 +1,152 @@
+
+     RDKit          2D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+   -0.4184   -0.0308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3052   -0.4424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4218    0.7888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1248   -0.4424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0083   -0.0343    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3052   -1.2689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2950    1.2003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1317    1.1968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1248   -1.2689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0083    0.7888    0.0000 Bi  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4184   -1.6872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7182    1.2003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  3  8  2  0
+  4  9  2  0
+  5 10  1  0
+  6 11  2  0
+ 10 12  1  0
+  7 10  1  0
+  9 11  1  0
+  4 13  1  0
+  6 14  1  0
+  9 15  1  0
+ 11 16  1  0
+ 12 17  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.37
+
+>  <ALOGPS_LOGS>  (1) 
+-0.78
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.97e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01294
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01294
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+361.999166889
+
+>  <FORMULA>  (1) 
+C7H5BiO4
+
+>  <GENERIC_NAME>  (1) 
+Bismuth Subsalicylate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H6O3.Bi.H2O/c8-6-4-2-1-3-5(6)7(9)10;;/h1-4,8H,(H,9,10);;1H2/q;+3;/p-3
+
+>  <INCHI_KEY>  (1) 
+ZREIPSZUJIFJNP-UHFFFAOYSA-K
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Maalox Multi-Action
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.668776506424715
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-hydroxy-2H,4H-benzo[d]1,3-dioxa-2-bismacyclohexan-4-one
+
+>  <JCHEM_LOGP>  (1) 
+1.1142999999999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.301070756672548
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.1045116510314266
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+55.760000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.7177
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pepto-bismol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+362.0926
+
+>  <PRODUCTS>  (1) 
+7 Select Pink Bismuth; 7-Select Pepto Bismol; Being Well stomach relief original strength; Bismatrol; Bismed Chewable Tablets; Bismed Liq 17.66mg/ml; Bismol; Bismuth; Bismuth (cherry Flavour); Bismuth (original Formula); Bismuth + Antacid (chewable Tablets); Bismuth Caplets; Bismuth Chewable Tablets; Bismuth Chewables; Bismuth Liq 17.6mg/ml; Bismuth Liquid; Bismuth Subsalicylate 262 mg; Bismuth Subsalicylate Caplets; Bismuth Subsalicylate Liquid; Bismuth Subsalicylate Liquid Extra Strength; Bismuth Subsalicylate Maximum Strength Stomach Relief; Bismuth Subsalicylate Suspension 17.6mg/ml; Bismuth Tablets With Calcium Carbonate; Bismuth Tabs; Bismuth subsalicylate; Bismutina; Bismylate-bismuth Subsalicylate Sus 17.6gm/ml; CVS Health Anti-Diarrheal Vanilla; Careone Stomach Relief; Cherry Flavour Pepto-bismol Tab; Chewable; Chewable Bismuth Tablets With Calcium Carbonate; Chewable Stomach Relief; Circle K Stomach; Desempacho Cucharadas; Dg Health Stomach Relief Maximum Strength; Equaline Stomach Relief; Equate Stomach Relief Maximum Strength; Equate Stomach Relief Regular Strength; Estomaquil Polvo; Estomax; Extra Strength Bismuth; Extra Strength Bismuth Subsalicylate Liquid; Extra-strength Bismuth; Family Care Stomach Relief; Flanadol Pronto Bismuth; GNP Pink Bismuth; Geri-pectate Peppermint Flavor; Geri-pectate Vanilla Flavor; Good Sense Stomach Relief; Good Sense Stomach Relief original strength; Green Relief; Health Mart Stomach Relief; Health Mart Stomach relief; Healthy Accents Stomach Relief; Healthy Accents Stomach Relief Original Strength; Ka Pec; Kao-Bis; Kao-tin Peppermint Flavor; Kaopectate; Kaopectate Extra Strength Peppermint Flavor Anti Diarrheal; Kaopectate Regular Strength Cherry Flavor; Kaopectate Regular Strength Peppermint Flavor Anti Diarrheal; Kaopectate Regular Strength Vanilla Flavor Anti Diarrheal; Kola-Pectin DS; Leader Stomach Relief; Leader Stomach Relief original strength; Maximum Strength; Maximum Strength Stomach Relief; Maximum strength Stomach Relief; Mcneil Stomach Relief; Medi-First Pep-T-Med; Medique Diotame; Moore Medical Bismuth; Original Formula Stomach Relief; Pepbis Regular; Pepsis Relief; Peptic Relief; Peptic Relief Cherry; Peptic Relief Maximum Strength; Peptic Relief original strength; Pepto Bismol; Pepto Bismol Caplet - 262mg/caplet; Pepto Bismol Liquid 17.6mg/ml; Pepto Relief; Pepto-Bismol; Pepto-Bismol InstaCool; Pepto-Bismol Max Strength; Pepto-Bismol To Go; Pepto-Bismol and Pepto-Bismol To Go; Pepto-bismol Chewables; Pepto-bismol Extra; Pepto-bismol Tab; Pepto-bismol Tablets; Pepto-bismol With Instacool; Percy Medicine; Personnel Sous-salicylate Bismuth 17.6mg/ml; Pink Bismuth; Pink Bismuth Maximum Strength; Pink Bismuth Plus Antacid Relief Tablets; Pink Bismuth Regular Strength; Pink Bismuth Rose Liq 17.6mg/ml; Pink Bismuth Subsalicylate Liq 17.6mg/ml; Pink Bismuth-liq 17.6mg/ml; Pink-Bismuth; Pleasant Relief Liq 1.7%; QC Quality Choice Pink Bismuth Stomach Relief; Regular Strength Bismuth; Rexall Bismuth; Rolaids Upset Stomach Relief; Rx Act Stomach Relief; ShopRite Stomach Relief; Soothe; Soothe Maximum Strength; Sound Body Stomach Relief; Stomach Lil Drug Store Products; Stomach Relief; Stomach Relief Cherry; Stomach Relief Chewable Flavoured Tablets; Stomach Relief Chewable Tablets; Stomach Relief Maximum Strength; Stomach Relief Maximum Strength ReadyInCase; Stomach Relief Multi-Symptom; Stomach Relief Original; Stomach Relief Original Formula; Stomach Relief Original Strength; Stomach Relief Regular Strength; Stomach Relief Regular Strength ReadyInCase; Stomach relief; Stomach relief chewables; Stomak-care Multi Action; Sun Mark Stomach Relief; Sunmark Stomach Relief; Sunmark Stomach Relief Maximum Strength; Sunmark Stomach relief; Sunmark stomach relief; Threda; Topcare Stomach Relief; Topcare Stomach Relief Original Strength; Topcare stomach relief original strength; Up and Up 5-symptom Digestive Relief; Up and Up Digestive Relief; Up and Up Stomach Relief; Upset Stomach Relief; Upset Stomach Relief to Go; Watkins Settelz
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB01402
+
+>  <SMILES>  (1) 
+O[Bi]1OC(=O)C2=CC=CC=C2O1
+
+>  <SYNONYMS>  (1) 
+2-Hydroxy-benzo[1,3,2]dioxabismin-4-one; Bismuth oxide salicylate; Bismuth oxysalicylate; pink bismuth; Wismutsubsalicylat
+
+$$$$

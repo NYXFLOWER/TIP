@@ -1,0 +1,487 @@
+
+     RDKit          2D
+
+183184  0  0  0  0  0  0  0  0999 V2000
+    3.9788   -2.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1868   -1.7548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6974   -1.0900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9862   -1.4868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4843   -0.2871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646    0.5130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5859    1.2749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3576    1.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0456    1.1137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7005    0.3764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8354    0.8977    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2711    0.1956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2317   -0.6333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5216   -1.0072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8415   -0.5781    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0694    0.4629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1798    1.2932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4255   -0.2916    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2034   -0.0041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6392    0.7330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5141    1.5412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4460    1.0107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7299   -0.6945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2162   -1.4146    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5893   -0.4152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4596   -0.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6804   -1.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1090   -1.7837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3797   -2.5407    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4794   -0.9415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3258   -1.1130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7705   -1.7548    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2942   -2.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4902   -2.4277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2467   -1.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9001   -1.1932    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1256   -0.3428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5492    0.2466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8918   -0.0992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0640    0.6861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8301    0.9297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0672    0.1703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0023    1.7150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5068    2.3788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1459    3.1413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3717    3.3791    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7685    1.9586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9407    2.7439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6267    3.5170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7068    2.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0744    3.7259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7726    4.1933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7845    5.0019    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3008    2.4457    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1287    1.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4440    1.2179    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7228    1.1187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5425    1.3961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3695    1.1902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0984    1.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0656    0.6790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5505    0.3333    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7844    0.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0001    0.2582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6122   -0.6956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1968   -1.2766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9724   -0.9938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1088   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8630    0.0766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4811   -0.4376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3448   -1.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5904   -1.5080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8460   -0.9391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6739   -1.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3984   -2.1485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9077   -1.9680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4610   -2.6317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6535   -3.4649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3480   -3.8794    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7356   -2.7534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9693   -2.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8061   -3.8306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4191    0.6800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5625    1.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6800    1.0988    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 12 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 19 23  1  0
+ 23 24  2  0
+ 23 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 26 30  1  0
+ 30 31  2  0
+ 30 32  1  0
+ 32 33  1  0
+ 33 34  1  0
+ 34 35  1  0
+ 35 36  1  0
+ 36 37  1  0
+ 37 38  2  0
+ 37 39  1  0
+ 39 40  1  0
+ 40 41  1  0
+ 41 42  2  0
+ 41 43  1  0
+ 43 44  1  0
+ 44 45  1  0
+ 45 46  1  0
+ 43 47  1  0
+ 47 48  1  0
+ 48 49  2  0
+ 48 50  1  0
+ 50 51  1  0
+ 51 52  1  0
+ 52 53  1  0
+ 50 54  1  0
+ 54 55  1  0
+ 55 56  2  0
+ 55 57  1  0
+ 57 58  1  0
+ 58 59  1  0
+ 59 60  1  0
+ 59 61  1  0
+ 57 62  1  0
+ 62 63  1  0
+ 63 64  2  0
+ 63 65  1  0
+ 65 66  1  0
+ 66 67  1  0
+ 67 68  2  0
+ 68 69  1  0
+ 69 70  2  0
+ 70 71  1  0
+ 71 72  2  0
+ 67 72  1  0
+ 65 73  1  0
+ 73 74  1  0
+ 74 75  2  0
+ 74 76  1  0
+ 76 77  1  0
+ 77 78  1  0
+ 78 79  1  0
+ 76 80  1  0
+ 80 81  1  0
+ 33 81  1  0
+ 81 82  2  0
+ 39 83  1  0
+ 83 84  1  0
+ 83 85  1  0
+  1 86  1  0
+  1 87  1  0
+  1 88  1  0
+  2 89  1  0
+  2 90  1  0
+  3 91  1  0
+  4 92  1  0
+  4 93  1  0
+  4 94  1  0
+  5 95  1  0
+  5 96  1  0
+  6 97  1  0
+  6 98  1  0
+  7 99  1  0
+  7100  1  0
+  8101  1  0
+  8102  1  0
+ 11103  1  0
+ 12104  1  0
+ 13105  1  0
+ 13106  1  0
+ 14107  1  0
+ 14108  1  0
+ 15109  1  0
+ 15110  1  0
+ 18111  1  0
+ 19112  1  0
+ 20113  1  0
+ 21114  1  0
+ 21115  1  0
+ 21116  1  0
+ 22117  1  0
+ 25118  1  0
+ 26119  1  0
+ 27120  1  0
+ 27121  1  0
+ 28122  1  0
+ 28123  1  0
+ 29124  1  0
+ 29125  1  0
+ 32126  1  0
+ 33127  1  0
+ 34128  1  0
+ 34129  1  0
+ 35130  1  0
+ 35131  1  0
+ 36132  1  0
+ 39133  1  0
+ 40134  1  0
+ 43135  1  0
+ 44136  1  0
+ 44137  1  0
+ 45138  1  0
+ 45139  1  0
+ 46140  1  0
+ 46141  1  0
+ 47142  1  0
+ 50143  1  0
+ 51144  1  0
+ 51145  1  0
+ 52146  1  0
+ 52147  1  0
+ 53148  1  0
+ 53149  1  0
+ 54150  1  0
+ 57151  1  0
+ 58152  1  0
+ 58153  1  0
+ 59154  1  0
+ 60155  1  0
+ 60156  1  0
+ 60157  1  0
+ 61158  1  0
+ 61159  1  0
+ 61160  1  0
+ 62161  1  0
+ 65162  1  0
+ 66163  1  0
+ 66164  1  0
+ 68165  1  0
+ 69166  1  0
+ 70167  1  0
+ 71168  1  0
+ 72169  1  0
+ 73170  1  0
+ 76171  1  0
+ 77172  1  0
+ 77173  1  0
+ 78174  1  0
+ 78175  1  0
+ 79176  1  0
+ 79177  1  0
+ 80178  1  0
+ 83179  1  0
+ 84180  1  0
+ 84181  1  0
+ 84182  1  0
+ 85183  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.89
+
+>  <ALOGPS_LOGS>  (1) 
+-4.21
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.44e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00781
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00781
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+1202.749927302
+
+>  <FORMULA>  (1) 
+C56H98N16O13
+
+>  <GENERIC_NAME>  (1) 
+Polymyxin B Sulfate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C56H98N16O13/c1-7-32(4)13-11-12-16-44(75)63-36(17-23-57)51(80)72-46(34(6)74)56(85)68-39(20-26-60)48(77)67-41-22-28-62-55(84)45(33(5)73)71-52(81)40(21-27-61)65-47(76)37(18-24-58)66-53(82)42(29-31(2)3)69-54(83)43(30-35-14-9-8-10-15-35)70-49(78)38(19-25-59)64-50(41)79/h8-10,14-15,31-34,36-43,45-46,73-74H,7,11-13,16-30,57-61H2,1-6H3,(H,62,84)(H,63,75)(H,64,79)(H,65,76)(H,66,82)(H,67,77)(H,68,85)(H,69,83)(H,70,78)(H,71,81)(H,72,80)
+
+>  <INCHI_KEY>  (1) 
+WQVJHHACXVLGBL-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aerosporin; Metamyxin; Polomyxin B; Poly-Rx; Polyfax; Polyxx
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+18
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+129.7126527307148
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+18
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+N-[3-amino-1-({1-[(3-amino-1-{[6,9,18-tris(2-aminoethyl)-15-benzyl-3-(1-hydroxyethyl)-12-(2-methylpropyl)-2,5,8,11,14,17,20-heptaoxo-1,4,7,10,13,16,19-heptaazacyclotricosan-21-yl]carbamoyl}propyl)carbamoyl]-2-hydroxypropyl}carbamoyl)propyl]-6-methyloctanamide
+
+>  <JCHEM_LOGP>  (1) 
+-7.2491706079999965
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+5
+
+>  <JCHEM_PKA>  (1) 
+12.036667759940395
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.57313014624903
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.230227871316954
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+490.6599999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+313.2155000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+29
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+polymyxin B sulfate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+1203.4767
+
+>  <PRODUCTS>  (1) 
+10 Person ANSI; 25 Person ANSI; 50 Person ANSI; 7 Select First Aid Triple Antibiotic; ACME FIRST AID Contains 404 PIECES; ACME Small Cuts and Burns; ARC FIRST AID Contains 1000 PIECES; ARC FIRST AID Contains 404 PIECES; Aerosoothe; Aerosporin Sterile Powder; Aftate Triple Antibiotic; Ak-poly-bac; American Red Cross First Aid Kit; Antibiotic; Antibiotic Application; Antibiotic Cold Sore Ointment; Antibiotic Cream; Antibiotic Cream Plus Pain Relief; Antibiotic Cream Plus Pain Relief for Kids; Antibiotic Cream for Kids; Antibiotic Drops; Antibiotic Ear (Neo/Polym/HC); Antibiotic Ear Drops; Antibiotic Eye Drops; Antibiotic Lozenges; Antibiotic Maximum Strength; Antibiotic Ointment; Antibiotic Ointment USP; Antibiotic Original Strength; Antibiotic Plus Pain Relief; Antibiotic Plus Pain Relief Cream; Antibiotic Plus Pain Relief Maximum Strength; Antibiotic and Pain Relief; Antibiotic and Pain Relief Maximum Strength; Antibiotic and pain relief maximum strength; Antibiotic plus Pain Relief; Antibiotic, Pain and Scar; Antibiotique Onguent; Atopalm First Aid Triple Antibiotic; Atopalm First Aid Triple Antibiotic Protection Moisturizing and Pain Relief; Bacimyxin Onguent; Bacitracin; Bacitracin Zinc; Bacitracin Zinc and Polymyxin B Sulfate; Bacitracin Zinc, Neomycin Sulfate and Polymyxin B Sulfate; Band-aid Brand Adhesive Bandages Plus Antibiotic; Band-aid-S-1; Berkley and Jensen Triple Antibiotic; Bioderm Ointment; Biotic-Plus; Budpak Triple Antibiotic Maximum Strength; CVS Cuts and Scrapes Refill Pack; CVS Health Medication and Topical Refill Pouch; CVS Health Triple Antibiotic; CVS Health Triple Antibiotic with Pain Relief; CVS Triple Antibiotic; Cardinal Health First Aid Antibiotic; Care One Maximum Strength First Aid Antibiotic; CareALL Triple Antibiotic; Careone Antibiotic Plus Pain Relief; Careone Original Strength Triple Antibiotic; Careone Triple Antibiotic; Childrens Double Antibiotic with Pain Relief; Circle K Triple Antibiotic; Complete Antibiotic Ointment; Cortisporin; Cortomycin; Cuadriderma; Cvp Triple Antibiotic; DAYMARK FAK-35 First Aid; DG Health Antibiotic; DG Health Poly Antibiotic; DG Health Triple Antibiotic; Dioptrol Ointment; Dioptrol Suspension; Diosporin Ointment; Double Antibiotic; Double Antibiotic Plus Pain Relief Maximum Strength; Doubleantibioticointment; Dr Bells Pomade; Dr Teals Triple Antibiotic; Ecolab Triple Antibiotic; Equaline Antibiotic Plus Pain Relief; Equaline Antibiotic Plus Pain Relief for Kids; Equaline First Aid Antibiotic; Equaline Triple Antibiotic; Equaline Triple Antibiotic Plus; Equate Antibiotic Plus Pain Relief; Equate First Aid Antibiotic; Equate First Aid Antibiotic Pain Relieving; Equate First Aid Antibiotic Plus Pain Relief; Eurosporin; Exchange Select First Aid Triple Anitbiotic Pain Relieving; Exchange Select triple antibiotic; Face Values Triple Antibiotic; Family Care Triple Antibiotic; Family Care Triple Antibiotic Plus Pain Relief; Family Wellness; Family Wellness Antiseptic and Pain Relief; Family Wellness Triple Antibiotic Plus Pain Relief; Family wellness; First Aid Antibiotic; First Aid Antibiotic Ointment; First Aid Antibiotic Plus Pain Relief Maximum Strength; First Aid Pocket Pack - 40 Pieces; First Aid Triple Antibiotic; First Aid Triple Antibiotic Pain and Scar; First Aid Triple Antibiotic and Pain Relief Maximum Strength; First Aid Triple Antibiotic with Pain Reliever; First Aid Value Pack - 77 Pieces; Fonow; Formucare Triple Antibiotic Original Strength; Fulton Street Market Triple Antibiotic Original Strength; GENUINE FIRST AID Emergency Preparedness Contains 167 PIECES HARDCASE; GFA First Aid; GFA First Aid 16 Unit Metal Case; GFA First Aid 24 Unit Metal Case; GFA First Aid 36 Unit Metal Case; GFA First Aid Kit Essentials - 33 Pieces; Genuine First Aid - Auto First Aid; Genuine First Aid - Home First Aid; Genuine First Aid Industrial First Aid; Genuine Triple Antibiotic; Gercillin; Good Neighbor Pharmacy Antibiotic and Pain Relief; Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces; Good Neighbor Pharmacy First Aid; Good Neighbor Pharmacy Triple Antibiotic; Good Neighbor Pharmacy Triple Antibiotic Plus Pain Relief; Good Sense First Aid Antibiotic; Good Sense Triple Antibiotic; Good Sense Triple Antibiotic and Pain Relief; GoodSense Antibiotic plus Pain Relief; Goodsense First Aid Antibiotic; H E Buddy Antibiotic Maximum Strength Plus Pain Relief; Harris Teeter Poly Antibiotic; Harris Teeter Triple Antibioitic; Harris Teeter Triple Antibiotic Plus Pain Relief; Healthy Accents Triple Antibiotic; Healthy Accents triple antibiotic; Jampolycin; Kaiser Permanente Double antibiotic; LEADER Triple Antibiotic; Lanabiotic Ont; Large ANSI First Aid Kit; Laryngets Loz; Leader First Aid Antibiotic; Leader Triple Antibiotic; Leader Triple Antibiotic Plus; Lidomyxin; Lidosporin Cream; Lidosporin Ear Drops; Lincoln; Live Better Triple Antibiotic; Live Better Triple Antibiotic plus Pain Relief; LiveBetter Antibiotic Plus Pain Relief; Lucky SuperSoft First Aid; Makesense First Aid; Market Basket First Aid Triple Antibiotic; Maxitrol; Medi-First; MediChoice Triple Antibiotic; Medpride First Aid; Meijer Antibiotic Plus Pain Relief; Meijer Triple Antibiotic; Meijer Triple Antibiotic Plus; Meijer Triple Antibiotic Plus Pain Relief; Methedex; Mountain Series Weekender Medical; Multi Antibiotic with Pain Relief Maximum Strength; NEOMYCIN and POLYMYXIN B SULFATES and HYDROCORTISONE; Neo Bace Ophthalmic Ointment; Neo Polycin; Neo Polycin HC; Neo-poly-bac; Neo-poly-bac Hydro; Neo-poly-dex; Neo-polycin; Neo-polycin HC; Neocidin; Neomycin Polymyxin B Sulfates and Dexamethasone; Neomycin Sulfate, Polymyxin B Sulfate and Bacitracin Zinc; Neomycin Sulfate, Polymyxin B Sulfate and Dexamethasone; Neomycin and Polymyxin B Sulfates; Neomycin and Polymyxin B Sulfates and Bacitracin Zinc; Neomycin and Polymyxin B Sulfates and Bacitracin Zinc with Hydrocortisone Acetate; Neomycin and Polymyxin B Sulfates and Dexamethasone; Neomycin and Polymyxin B Sulfates and Gramicidin; Neomycin and Polymyxin B Sulfates and Hydrocortisone; Neomycin and Polymyxin B Sulfates, Bacitracin Zinc and Hydrocortisone; Neomycin and Polymyxin B Sulfates, Bacitracin Zinc, and Hydrocortisone; Neomycin and Polymyxin B Sulfates, and Bacitracin Zinc; Neomycin and Polymyxin B sulfates, Bacitracin zinc; Neomycin and polymyxin B sulfates and bacitracin zinc; Neomycin, Polymyxin B Sulfates and Hydrocortisone; Neosporin; Neosporin Antibiotic Cream; Neosporin Eye-ear Solution; Neosporin G.U.; Neosporin Irrigating Solution; Neosporin Ointment; Neosporin Ophthalmic Ointment; Neosporin Original; Neosporin Pain Itch Scar; Neosporin Plus Pain Relief; Neosporin Plus Pain Relief First Aid Antibiotic Pain Relieving For Kids; Neosporin Plus Pain Relief First Aid Antibiotic/Pain Relieving; Neosporin Plus Pain Relief Neo To Go First Aid Antibiotic Pain Relieving; Neosporin Plus Pain Relief Neo to Go; Neotopic Ointment; North Triple Antibiotic; Npd; Odan-spor; Odan-spor-HC; Odan-trol; Omnisporin; Onguent Antibiotique; Ophthocort Ont; Optimyxin; Optimyxin Ophthalmic Ointment; Original Antibiotic Cream; Our Family Triple Antibiotic; Ozonol Antibiotic Plus - Ointment; Ozonol Antibiotic Plus Ont; Ozonol Antibiotics Plus; PMS-polytrimethoprim; POLYMYXIN B SULFATE and TRIMETHOPRIM SULFATE; Paraid Triple Antibiotic; Pentrexcilina Triple Antibiotic; Polvos de Sulpha First Aid Antibiotic; Poly Antibiotic; Poly Bacitracin; Polycidin Eye, Ear Drops; Polycidin Ophthalmic Ointment; Polycin; Polyderm Antibiotic Ointment; Polyderm Ointment USP; Polymyxin B; Polymyxin B Sulfate and Trimethoprim; Polymyxin B Sulfate and Trimethoprim Sulfate; Polymyxin B for Injection USP; Polysporin; Polysporin Antibiotic Burn Cream; Polysporin Antibiotic Cream; Polysporin Antibiotic Ointment; Polysporin Burn Formula Cream; Polysporin Cold Sore Ointment; Polysporin Complete; Polysporin Cream; Polysporin Eye and Ear Drops Sterile; Polysporin First Aid Antibiotic; Polysporin Plus Pain Relief; Polysporin Plus Pain Relief Ear Drops; Polysporin Sterile Ophthalmic Ointment; Polysporin Topical First Aid Antibiotic Ointment; Polysporin Triple Antibiotic Ointment; Polysporin for Kids; Polysporin for Stitches; Polytopic; Polytopic Cream; Polytopic Ont; Polytrim; Polytrim Ophthalmic Solution; Pomada De La Campana Triple Antibiotic Pain Relief; Premier Value Antibiotic Plus Pain Relief; Premier Value Triple Antibiotic; Premier Value Triple Antibiotic Plus; ProCoMycin; ProcureTriple Antibiotic Triple Antibiotic; Publix antibiotic; Publix antibiotic plus Pain Relief; Publix antibiotic plus pain relief; Pulmosirum Pastille; Quality Choice Maximum Strength Triple Antibiotic; Quality Choice Triple Antibiotic; Quality Choice Triple Antibiotic Plus Pain Reliever; Ready America First Aid Outdoor- 107 Pieces; Ready America First Aid Pocket - 33 Pieces; Refill 2; Repara Triple Antibiotic; Safeway Antibiotic Plus Pain Relief; Sandoz Cortimyxin; Sandoz Polytrimethoprim; Schein Triple Antibiotic; Select Medical Products Triple Antibiotic; Sheffield Triple Antibiotic; Sheffield Triple Antibiotic Plus Pain Relief; ShopRite Triple Antibiotic; Shopko Antibiotic Plus Pain Relief; Shopko Triple Antibiotic; Shopko Triple Antibiotic Plus; Shopko Triple Antibiotic plus Pain Relief; Shoprite Triple Antibiotic; Signature Care First Aid Antibiotic; Signature Care Triple Antibiotic; Small Cuts and Burns; Smart Sense Antibiotic Maximum Strength; Smart Sense Triple Antibiotic; Smart Sense antibiotic plus pain relief; Smart Sense triple antibitotic plus pain relief; Standard ANSI First Aid; Sterisporin; Sunmark Antibiotic Plus Pain Relief; Sunmark Double Antibiotic; Sunmark Triple Antibiotic; Sunmark Triple Antibiotic Plus Pain Relief; Synalar Bi-otic Solution; TheraPlusPlus Plus; TopCare Antibiotic Plus Pain Relief; TopCare Triple Antibiotic; TopCare Triple Antibiotic Plus Pain Relief; Topical Antibiotic Ointment; Tribiotic; Tribioticlc Lc Lc; Trimethoprim sulfate and Polymyxin B sulfate; Triple Antibiotic; Triple Antibiotic CVS; Triple Antibiotic Extra Strength; Triple Antibiotic First Aid; Triple Antibiotic First Aid Antibiotic; Triple Antibiotic GRX; Triple Antibiotic HC; Triple Antibiotic Maximum Strength; Triple Antibiotic Ointment; Triple Antibiotic Plus; Triple Antibiotic Plus Maximum Strength; Triple Antibiotic Plus Pain Relief; Triple Antibiotic Plus Pain Relief Maximum Strength; Triple Antibiotic and Pain Relief Maximum Strength; Triple Antibiotic plus Pain Relief Maximum Strength; Triple Antibiotic plus pain relief; Triple Antibiotic with Pain Relief Maximum Strength; Triple Antiobiotic; Tripleantibioticointmentandpainrelief; ULTRA SEAL Triple Antibiotic; Up and Up Antibiotic; Up and Up Antibiotic Plus Pain Relief; Up and Up First Aid Antibiotic Pain Relieving; Up and Up multi action antibiotic; Wal-Sporin; Walgreens Maximum Strength Triple Antibiotic With Pain Relief; Walgreens Triple Antibiotic; Walgreens Wal-Sporin First Aid Antibiotic; WalgreensTriple Antibiotic; Water-Jel 3-in-1 Antibiotic; Well At Walg Triple Antibiotic Well At Walgreens; Western Family Antibiotic Plus Pain Relief; Western Family Triple Antibiotic; Western Family Triple Antibiotic plus Pain Relief; WinCo Maximum Strength Triple Antibiotic; WinCo Original Strength Triple Antibiotic
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01190
+
+>  <SMILES>  (1) 
+CCC(C)CCCCC(=O)NC(CCN)C(=O)NC(C(C)O)C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(CC(C)C)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CCN)NC1=O)C(C)O
+
+>  <SYNONYMS>  (1) 
+Polimixina B; Polymyxin B; Polymyxin-B-Sulfat; Polymyxine B; Polymyxine B (sulfate de); Polymyxini B sulfas; Polymyxinum B
+
+$$$$

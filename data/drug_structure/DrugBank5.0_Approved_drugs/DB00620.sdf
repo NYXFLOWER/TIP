@@ -1,0 +1,236 @@
+620
+     RDKit          2D
+
+ 55 58  0  0  1  0  0  0  0  0999 V2000
+    4.1400   -0.1892    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6263    1.0402    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9559    0.4163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1864   -0.4087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3013    0.4021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1317    2.0434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.5144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    0.0038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993   -0.8212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849   -1.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703   -0.8212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799    0.2553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849    0.4163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799   -1.0726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703    0.0038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3614   -0.4087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9196   -1.2393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -2.0929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    0.8288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -2.5283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9130   -2.0986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5482    0.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6435   -0.4619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550   -0.7739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1413   -2.5521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4634    1.5596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3730   -1.2095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -2.1046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 11  1  1  6
+ 12  2  1  6
+ 15  3  1  1
+ 16  4  1  1
+  5 22  2  0
+  6 26  1  0
+  7 28  2  0
+  8  9  1  0
+  8 12  1  0
+  8 13  1  0
+  8 19  1  1
+  9 10  1  0
+  9 14  1  0
+ 10 11  1  0
+ 10 18  1  0
+ 11 15  1  0
+ 11 17  1  0
+ 12 16  1  0
+ 12 22  1  0
+ 13 15  1  0
+ 14 16  1  0
+ 17 21  1  0
+ 17 23  1  1
+ 17 24  1  0
+ 18 20  1  0
+ 20 21  1  0
+ 21 25  2  0
+ 22 26  1  0
+ 24 27  2  0
+ 25 28  1  0
+ 27 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  6 32  1  0
+  9 33  1  6
+ 10 34  1  1
+ 13 35  1  0
+ 13 36  1  0
+ 14 37  1  0
+ 14 38  1  0
+ 15 39  1  0
+ 16 40  1  0
+ 18 41  1  0
+ 18 42  1  0
+ 19 43  1  0
+ 19 44  1  0
+ 19 45  1  0
+ 20 46  1  0
+ 20 47  1  0
+ 23 48  1  0
+ 23 49  1  0
+ 23 50  1  0
+ 24 51  1  0
+ 25 52  1  0
+ 26 53  1  0
+ 26 54  1  0
+ 27 55  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.84
+
+>  <ALOGPS_LOGS>  (1) 
+-2.67
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.47e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00620
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00620
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+394.179166801
+
+>  <FORMULA>  (1) 
+C21H27FO6
+
+>  <GENERIC_NAME>  (1) 
+Triamcinolone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H27FO6/c1-18-6-5-12(24)7-11(18)3-4-13-14-8-15(25)21(28,17(27)10-23)19(14,2)9-16(26)20(13,18)22/h5-7,13-16,23,25-26,28H,3-4,8-10H2,1-2H3/t13-,14-,15+,16-,18-,19-,20-,21-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+GFNANZIMVAIWHM-OBYCQNJPSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aristocort; Delphicort; Flutex; Kenacort; Omcilon-A; Oracort; Tri-Nasal; Triacet; Triacort; Triaderm; Tricortone; Trilone; Tristoject
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+39.79413250441519
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,2S,10S,11S,13R,14S,15S,17S)-1-fluoro-13,14,17-trihydroxy-14-(2-hydroxyacetyl)-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-3,6-dien-5-one
+
+>  <JCHEM_LOGP>  (1) 
+0.241693246333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.40199652732899
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.751342957737346
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.3242114589177625
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+115.06
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+99.38279999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+triamcinolone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+394.4339
+
+>  <PRODUCTS>  (1) 
+24 Hour Nasal Allergy; AllerNaze; Allergy Nasal; Apo-triamcinolone AQ; Aristocort - Syr Orl 0.4mg/ml; Aristocort - Tab 4mg; Aristocort C; Aristocort C Crm 0.5%; Aristocort D - Crm Top 0.025%; Aristocort D Crm 0.025%; Aristocort Forte - Liq Ia Im Isy 40mg/ml; Aristocort Forte Inj 40mg/ml; Aristocort Inj Intralesional 25mg/ml; Aristocort Inj Intralesional-25mg/ml; Aristocort R; Aristocort R Crm 0.1%; Aristocort R Ont 0.1%; Aristocort Syr 2mg/5ml; Aristocort Tab 2mg; Aristocort Tab 4mg; Aristocort-tab 2mg; Aristoform R Crm 0.1%; Aristospan; Aristospan Sus 20mg/ml; Azmacort; CareOne Allergy Relief; Childrens Nasacort Allergy 24HR; DermacinRx Silazone Pak; DermacinRx Trizapak; Dermasorb TA Complete Kit; Dermazone; Equaline nasal allergy; Equate Nasal Allergy; Good Neighbor Pharmacy 24 Hour Nasal Allergy; Good Sense Nasal Allergy; Harris Teeter Nasal Allergy; Health Mart 24 hour nasal allergy; Healthy Accents Nasal Allergy; Interarticular Joint Kit; Juulissa Pharmapak; Kenacomb Cream; Kenacomb Mild Cream; Kenacomb Mild Ointment; Kenacomb Ointment; Kenacomb Ont; Kenalog; Kenalog Cream 0.1%; Kenalog In Orabase 0.1%; Kenalog Ointment 0.1%; Kenalog Ont 0.1%; Kenalog-10; Kenalog-10 Injection 10mg/ml; Kenalog-40; Kenalog-40 Injection 40mg/ml; Leader Nasal Allergy; Mecomb Crm 0.1%; NASAL Allergy 24 Hour; Nasacort; Nasacort AQ; Nasacort Allergy 24HR; Nasal Allergy; Nasal Spray Allergy 24hr; Nystatin and Triamcinolone; Nystatin and Triamcinolone Acetonide; Oracort Dental Paste 0.1%; Oralone; Pediaderm TA; Physician EZ Use Joint Tunnel and Trigger Kit; Ratio-triacomb; ReadySharp Triamcinolone; ReadySharp-K; Scheinpharm Triamcine-A Inject.sus-40mg/ml; Shoprite Nasal Allergy; Signature Care Nasal Allergy; SilaLite Pak; Silazone-II; Smart Sense Nasal Allergy; Syynerra Pak; Theraderm Cream; Topcare Nasal Allergy; Treziopak; Triaderm Crm 0.025%; Triaderm Crm 0.1%; Triaderm Ont 0.025%; Triaderm Ont 0.1%; Triamcinolone Acetonide; Triamcinolone Acetonide Glucocorticoid; Triamcinolone Acetonide Injectable Suspension USP; Triamcinolone Acetonide Nasal; Triamcinolone Acetonide Suspension; Triamcinolone Diacetate Sus 40mg/ml; Triamcinolone Diacetate Suspension; Triamcinolone acetonide; Trianex; Trianex 0.05%; Triderm; Triesence; Triloan II SUIK; Triloan SUIK; Up and Up Nasal Allergy; Viaderm Kc Crm; Viaderm Kc Ont
+
+>  <SALTS>  (1) 
+Triamcinolone acetonide; Triamcinolone diacetate; Triamcinolone hexacetonide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00422
+
+>  <SMILES>  (1) 
+[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+
+>  <SYNONYMS>  (1) 
+11β,16α,17α,21-tetrahydroxy-9α-fluoro-1,4-pregnadiene-3,20-dione; 9-fluoro-11β,16α,17,21-tetrahydroxypregna-1,4-diene-3,20-dione; 9α-fluoro-11β,16α,17,21-tetrahydroxypregna-1,4-diene-3,20-dione; 9α-fluoro-11β,16α,17α,21-tetrahydroxypregna-1,4-diene-3,20-dione; 9α-fluoro-16α-hydroxyprednisolone; Fluoxyprednisolone; Tiamcinolonum; Triamcinolona; Triamcinolonum
+
+$$$$

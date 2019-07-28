@@ -1,0 +1,163 @@
+
+     RDKit          2D
+
+ 20 20  0  0  1  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8974   -1.9370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8974   -1.9370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674   -0.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4521   -0.2300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.2695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.2695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8109   -0.0724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0964   -0.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3819   -0.0724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3819    0.7526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6674   -0.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+ 12  1  1  0
+  7  2  1  0
+  6  3  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+ 12  7  1  0
+  8  9  1  0
+ 10  9  1  1
+ 12 10  1  0
+ 10 11  1  0
+  2 13  1  0
+  3 14  1  0
+  8 15  1  0
+  9 16  1  0
+  9 17  1  0
+ 10 18  1  0
+ 11 19  1  0
+ 12 20  1  1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.58
+
+>  <ALOGPS_LOGS>  (1) 
+0.14
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.45e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00126
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00126
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+176.032087988
+
+>  <FORMULA>  (1) 
+C6H8O6
+
+>  <GENERIC_NAME>  (1) 
+Vitamin C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ascoltin; Ascorbicap
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.93252509217066
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(5R)-5-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2,5-dihydrofuran-2-one
+
+>  <JCHEM_LOGP>  (1) 
+-1.9135588756666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+11.19770144834119
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.359917442787388
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.979728932431362
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+107.22
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+37.0321
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+vitamin C
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+176.1241
+
+>  <PRODUCTS>  (1) 
+A & C Powder; Acerotab; Acetabolan III Vitamin and Mineral Supplement; Acetabolan-II Vitamin and Mineral Supplement; Acti-MN + B1 + C Caplet; Acti-megascorb Crystals Pwr; Acti-scorb 1000 Caplet 1000mg; Acti-scorb 500 Caplet 500mg; Active FE; Adc Comprimes; Adrenergy Tablets; Adult Infuvite Multiple Vitamins; All Natural Source Juicy Orange Vitamin C; Allbee With C 550 Cap; Allbee With Vitamin C Cap; Am Caps; Amd; Animal Shaped Chew Vit C Tab 250mg; Antlerviron; Appedrine; Armax; Ascor L 500; Ascorbate C-500; Ascorbex 500 Tab; Ascorbic 500 Tab 500mg; Ascorbic Acid; Ascorbic Acid 500mg; Ascorbic Acid Cap 500mg; Ascorbic Acid Inj 500mg/ml; Ascorbic Acid Injection USP 500 mg/ml; Ascorbic Acid Powder; Ascorbic Acid Tab 1000mg; Ascorbic Acid Tab 100mg; Ascorbic Acid Tab 100mg Orange Flavor; Ascorbic Acid Tab 250mg; Ascorbic Acid Tab 250mg Orange Flavor; Ascorbic Acid Tab 500mg; Ascorbic Acid Tab 500mg USP W Non-med Cherry; Astral C Tab; Avon Nutrivance Vitamin E Plus; B & J Formula Dietary Supplement; B C Antistress Cap; B Complex 500 Tab; B Complex Plus C 300mg Tab; B Complex W C Forte Cap; B Complex W C and B12 Inj; B Complex W Vit C W Non-med Yeast&liver Tab; B Complex W Vitamin C Fortis Cap; B Complex With C 300mg; B Complex With C 300mg Tab; B Complex With C 550mg; B Plus C 300mg Timed Release; B Stress C + Iron & Vite; B Totum 500; B Virol; B With C 500 Cap; B-2 100mg With C 20mg; B-complex With Vitamin C, Biotin, Folic Acid; B-plex; B-plus - Tab; B.G. Plus Formula; BABOR Baborganic Biological Enzyme Cleanser; Bacmin; Balanced B-complex Vit + Vit C&e Tab; Beminal W C Fortis Inj; Beminal With C Fortis Cap; Beminal With C Fortis Pws; Beta-carotene 10,000 Iu With Vitamins C & E; Betac Ascorbic Acid Injection, USP 500mg/ml; Betafant Tab; Bev C 1725 Tab 1000mg; Bio C 300 Tab; Bio C 600 Tab; Bio Efferlife Vitamin C 1000mg; Bio Flavono C Tab 100mg; Bio-cee Dietary Supplement; BioFerr 90; Biovim Tab; Biovita; Bodysmarts With Vitamins A, C and E; Bseltzer; Buffered Vitamin C 1000mg; Buffered Vitamin C Plus Magnesium; Buffered Vitamin C Powder With Ca Mg and K; Buffered Vitamin C Pwr W Cal-mag-potassium; Bugs Bunny Chew Multi Vit Plus Iron; Bugs Bunny and Friends Multiple Vitamins; C 1000; C 106 Tab; C 3000; C 350; C 500 Complete Tab 500mg; C 500 Mg Chewable; C 500mg Ascorbic Acid; C Forte; C Rola Tab 100mg; C Vite 100 Tab 100mg; C Vite 150 Tab 150mg; C Wafer 500 Chewable 500mg; C-1000 Plus Zinc & Potassium; C-1000 Tab 1000mg; C-1000 Tr Srt 1000mg; C-500 Caplet; C-500 Liq 50mg/ml; C-B Complex; C-Nate DHA; C-apnto-B6 Vitamins W Magnesium Tab; C-crystals With Calcium; C-curity-vitamin C Cap; C-force; C-plus - Tab; C-rolla-250 Tab 250mg Chewable; C.A.G. Tab; C.H.V. Formula; C1000 W Flavanoids Tab; C500 Tab; Cal & Mag Hvp Chel Plus C Potass & Zinc Tab; Cal Mag Drink With Vitamin C; Cal-mag Complete With Zinc, C and D; Cal-mag Vitamin C and Zinc Tab; Calcium Ascorbate 1000 Mg  -  Tablet; Calcium Ascorbate 1000mg; Calcium Ascorbate Cap 850mg; Calcium Ascorbate Crystals 1250mg/0.25tsp; Calcium Ascorbate Crystals Vitamin C 1gm/ml; Calcium Ascorbate Ctr Srt 450mg; Calcium Ascorbate Fcc; Calcium Ascorbate Powder; Calcium Ascorbate Pwr; Calcium Ascorbate Pwr 1.3gm/1.25ml; Calcium Ascorbate Tab 500mg; Calcium Ascorbate Tab 550mg; Calcium Complex High Grade; Calcium Magnesium Avec Vitamine C; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium With Vitamins C and D Tab; Calmax; Calplus; Carbassist Tablets; Carbaway; Carti-aide Tab; Cataplex A-C Tab; Cataplex C Tab 5.7mg; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Ce Vi Sol Dps; Cedevita Plus Vitamin Supplement; Cedevita Sugar-free Vitamin Supplement; Cell-wise; Cell-wise Natural Source; Cellular Formula; Central-vite 18 Essential; Century Complete; Chela-manganese 50 Plus; Chelated Cal-mag(2:1)with Zn Vit.c and D; Chelated Cal/mag/zn With Vitamins; Chew C Berry Tablets - 125mg; Chew.multiple Vits.with Extra C for Children; Chewable Acerola C 500mg; Chewable C Tab 100mg; Chewable C Vitamin 300 Mg With Acerola; Chewable Multiple Vit Plus Iron for Children; Chewable Multiple Vitamins Plus Extra C; Chewable Multiple Vitamins Plus Iron Tab; Chewable Multiple Vitamins Tab; Chewable Multiple Vitamins for Children; Chewable Multivitamins; Chewable Multivitamins Plus Iron; Chewable Vit C 100mg; Chewable Vitamin C 100mg; Chewable Vitamin C 100mg - Tab; Chewable Vitamin C 250 mg; Chewable Vitamin C 250mg; Chewable Vitamin C 250mg With Orange Juice; Chewable Vitamin C 500mg; Chewable Vitamin C 500mg Tab; Chewable Vitamin C Tab 1000mg; Chewable Vitamin C Tab 250mg; Chewable Vitamin C Tab. 500 Mg Grape Flavour; Chewable Vitamin C Wafers 500mg; Chewable Wafers Vitamin C 500 Mg  -  Tablet; Children Choice Multivit Chewable Tab; Children Choice Multivitamin W Iron Chew Tab; Children Pediatric Vitamins Drops; Children Vitamin Drops; Children's Chewable Multi Vit W Iron; Children's Chewable Multi Vitamins; Children's Chewable Multi Vitamins With Iron Tablets; Children's Chewable Multi-vitamin; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multiple Vit.plus Iron; Children's Chewable Multiple Vitamins (chewable Tablets); Children's Chewable Multiple Vitamins - Tab; Children's Chewable Multiple Vitamins With Extra Vitamin C (chewable Tablets); Children's Chewable Multiple Vitamins With Iron Tablets (chewable Tablets); Children's Chewable Multivitamin and Multimineral; Children's Vitamins Chewable; Children's Vitamins W Iron Chewable; Childrens Chew Multi Vitamin Tab; Childrens Chewable Multiple Vitamins; Childrens Chewable Multiple Vitamins Plus Fe; Childrens Chewable Multiple Vitamins Tab; Childrens Chewable Multivitamins; Childrens Chewable Multivitamins W Iron; Childrens Chewable Vitamin Tab; Childrens Chewable Vitamins; Childrens Multiple Vit and Min Chew Tab; Chromagen; CitraNatal 90 DHA; CitraNatal B-Calm; CitraNatal Bloom; CitraNatal DHA; CitraNatal Rx; Citron Chaud Cumberland Pws; Citron Chaud DM Cumberland Pws; Citron Chaud DM Option + Pws; Citron Chaud Extra Fort; Cmp Plex; Cold & Flu; Cold and Sinus; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Comprime De Vitamine C 250mg; Concept DHA; Concept OB; Contac Extend-C Sustained Release Capsules; Cran C; Croq-vit Pour Enfants; Cyroplex; Cyruta Tab; D Pantothenic 500mg With 100mg C; Daily Support C; Derma-force; Dexatrim Tablets; Dia-vite; Diaplex; Dinosaurs Im-rap; Dr Cellapy SR Premium; Dual Mix; Duo Cvp Cap 200mg; Dynam Ampoule Et Tablet; E.S.T. Complex; E.V.C. Vitamins Tab; EC + Complex; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Calcium 500mg + Vitamin D3 440 Iu + Vitamin C 125mg; Efferlife Multivitamins and Minerals; Effervescent Vit C 1000mg; Effervescent Vitamin C Powder With Ca and mg; Eky Efferlife Vitamin C 1000mg With Zinc; EnBrace HR; EnLyte; Energy 80 Prolonged Release Tab; Enrich Core Pack - Children Vitamin and Mineral Supplement; Enviroflex - Tab; Envive; Enzogenol; Escavite; Ester - C; Ester C; Ester C 1000 mg; Ester C 1000mg; Ester C 500 Tab; Ester C Calcium Ascorbate Cap; Ester C Capsule; Ester C Powder; Ester C Tab Chewable; Ester C Vitamin C and Calcium Pws; Ester-C; Ester-C (1000 Mg); Ester-C 500; Ester-C 500 mg; Ester-C 500mg; Ester-C 600 mg; Ester-C 787mg; Ester-C Calcium Ascor Tab; Ester-C Calcium Ascorbate Capsules; Ester-C Calcium Ascorbate Tab; Ester-C Calcium Ascorbate Tablets; Ester-C Powder; Ester-C Tablet; Ester-C Vitamin C With Calcium; Ester-C With Non-medicinal Bioflavonoids, Quercetin, and Grape Seed Extract; Evc - Liq; Evc Liquid Vitamins A,c,b6 With Beta Caro&zn; Everyday Multiple Vitamins; Everyday Multiple Vitamins With Iron; Exitox Tab 200mg; Extra C 1000; Extra C 500; Extra P.N. Vitamin-mineral Drink Mix; Extra Strength Pharmacitron; Extra-Virt Plus DHA; FE C Tab; FE C Tab Plus; FeRiva; FeRiva FA; FeRivaFA; Fem - Control; Fem - Pmt; Fem - Protect; Feminex 300 Tab; Feminique W Iron and Calcium Tab; Femitab Tab; Fero Grad 500; Ferra Naka Plus Vitamins; Ferralet 90; Fib-C Melts; Flinstones Multiple Plus Iron; Flintstones Multiple Vitamins; Flintstones Multiple Vitamins Plus Iron; Flintstones Multiple Vitamins Tab; Flintstones W Extra C Tab; Floravit - Syr; Floriva; Floriva Plus; Folcal DHA; Folcaps Care One; Folcaps Omega-3; Folet One; Folic Acid & Vitamin C; Folic Acid 1mg With C 20mg; Folic Acid 1mg With Vitamin C; Folic Acid Plus; Folic Acid With Vitamin B12 and Vitamin C; Folivane-PRx DHA; Foltabs Prenatal; Food Nutrition Inc. Men's Vitamin and Mineral Supplement; For Kids Only Chewable Multivit. Plus Iron; For Kids Only Chewable Multivitamins - Tab; Formula # 2 Pwr 15mg/g; Formula 14 Dietary Supplement; Formula A.R.-th Dietary Supplement; Formula B; Formula C-500 Caplet; Formula CF; Formula Cn; Formula Csp With Vitamins A C and Zinc Loz; Formula Cw; Formula Cw-caplet; Formula F.E.S. Vitamins Tab; Formula Fm Vitamins & Minerals Tab; Formula Im-vitamins and Minerals Tab; Formula Imgrd - Tab; Formula Inf; Formula Lf; Formula No. 2 Plus K Liq; Formula O; Formula Osg; Formula R Tab; Formula Tc Vitamin C Tab 200mg USP; Formula Vitamin C Tab 15mg; Formule 7561 Caps; Formule No 204 Profil Tab; Fortamines 10 Capsules; Fortamines-10 Comprimes; Fortifi-plus; Fortistress Tab; Forty Plus Vitamin Supplement; Fruity Bita C Tablets 125mg; Fusion Activator Formula Tab; G.A.S. Complex; Garfield Chewable Multivits Plus Iron Tab; Gemvites Jr Tab Chewable; Gestamine Comprimes; Gesticare DHA; Glyco-aide Tab; Gnc Timed Release Vitamin C 1500mg Tablets; Gnc Timed Release Vitamin C Tablets 500mg; Golf Vitamin and Mineral Supplement; Good Health Formula; Good Night/pm Formula Tab; Grippalin & C Tab; Guardyn Tab; Hemarexin Tab; Hematogen; Hematogen FA; Hematogen Forte; Hi Potency B52 B Complex Tab; Hi Potency Stress B Tension With C; Hi-potent-C - Cap; High Potency Vitamin B Complex + C Tab; Hill.vite; Homosistrol Capsules; Homosistrox Capsules; Hot Lemon Cold and Flu Relief Extra Strength; Hot Lemon Cold and Flu Relief Regular Strength; Hot Lemon Extra Strength; Hot Lemon Regular - Pwr; Hot Lemon Relief - Extra Strength; Hot Lemon Relief Pck-pws; Hot Lemon Relief Powder; Hot Lemon Relief Powder Extra Strength; Hot Lemon Relief Powder Regular Strength; Hot Lemon Relief Regular Strength; Hot Lemon Relief for Cold Symptoms Ext Str; Hot Lemon Relief for Cold Symptoms Pws; Hot Lemon Relief for Symptoms Of Cold and Flu; Hot Lemon Relief for Symptoms Of Cold and Flu Extra Strength; Hot Lemon Relief for Symptoms Of Cold and Flu Forte; Hot Lemon Relief for Symptoms Of Cold and Flu Regular Strength; Hot Lemon Relief for Symptoms Of Cough and Cold; Hot Lemon Relief-extra Strength Pck-pws; Hot Lemon for Colds Powder; Hvp Chelated Cal/mag With Zinc and Vitamins C and D; Hy C 3000 Anatabs; Hypo Vites Tab; I-care Multivitamin and Multimineral Tablets; INATAL Ultra; Iberet 500; Icaps; Icaps Time Release; Imedeen; Imm Formula; Imm Formula Cap; Inatal Advance; Infa Drops Multivitamins; Infant Multivitamin Drops; Infant's Multiple Vitamin Drops; Infantol Drops; Infants' Vitamin Drops; Infuvite Adult Multiple Vitamins; Insur-all Vitamin Supplement; Integra F; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Iron Complex; Iron Plus Manganese, B12, Folic Acid & C; Iron Plus Tab; Iron Polysaccharides Folic Acid DHA; Iron Vitamins B6,b12,c,folic Acid Tab; Itabs Plus; J.T. Formula; Kama Caze Syrup; Kamu Jay Liq 300mg/tsp; Kamu Jay Tab 150mg; Kanga C; Kanga Sport Vitamins B & C Plus Minerals; Kanga-B Vitamin B Group + C; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kanga-kid Vitamin C; Kenwood Liquid Supplement; Kid's Choice Children's Chewable Vitamins - Tab; Kidmag Vitamins W Magnesium Tab; Kids Stuff Tablets; Kids Stuff With Iron Tablets; Kimchi Vitamin chewable multivitamin; Kindervites; L.G.I.T.; L.I.P. Complex; Lemon Time; Leritone Junior; Life Vit C Timed Release Tab 1000mg; Life Vit C Timed Release Tab 500mg; Lipo-B-C Tab; Liqud Vitamin C; Liqui Infant Vitamins; Liqui Vita; Liquid Vitamin C; Liquid Vitamin C 500mg; Livron Plus Tab; Lysamine Diet Supp Amp-tab; M.V.I. 12; M.V.I. Paediatric; M.V.I. Pediatric; MVC-Fluoride; Macuzin; Mangadyn; MaxFe; Maxaron Forte; Maxi 10 Tab; Maxi 6 Liq; Mega 13 Multivitamin Formula; Mega C 1000 Complex Tab 1000mg; Mega C 500 Complex; Mega C 500 Complex Tab 500mg; Mega C Acid Inj 500mg/ml; Mega C500 Complex Tab 500mg; Mega-C-acid Plus; Mega-C-sodium Inj 250mg/ml; Megavites Tab; Meplex T 750; Metreton Tab; Milk Calcium With Vitamins C, D, and Phosphorous; Mor-vites Tab; MoviPrep; Moviprep; Mr. Tumee Multi-vitamin; Mr. Tumee Worms; Multi #2; Multi - N.T.O.x Formula - Tab; Multi 12 Injection; Multi Enfants Tab; Multi Nt-OX; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin Drops with Fluoride; Multi Vitamin Drops with Fluoride and Iron; Multi Vitamin Drops with Fluoride with Iron; Multi Vitamin Infusion; Multi Vitamin Plus Iron; Multi Vitamin and Fluoride; Multi Vitamin with Fluoride; Multi Vitamin, Iron and Fluoride; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi Vitamins & Minerals; Multi Vite Liq Junior; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-Vit with Fluoride; Multi-Vit with Fluoride and Iron; Multi-Vitamin; Multi-Vitamin Drops with Fluoride and Iron; Multi-Vitamin Fluoride; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multi-Vitamin with Fluoride; Multi-fruits Chewable Vitamin C 500mg Tablet; Multi-min Electro C Pow Plus B2; Multi-vitamin Dietary Supplement; Multi-vitamines Enfants Comprime; Multi-vitamins; Multi-vitamins With Minerals; MultiVitamin Drops with Fluoride and Iron; Multicaps; Multiple Vit Plus Iron Tab; Multiple Vitamin Plus Minerals Tab; Multiple Vitamin Tab; Multiple Vitamins; Multiple Vitamins & Minerals Tablets; Multiple Vitamins Plus Iron Tab; Multiple Vitamins Plus Iron for Women; Multiple Vitamins Tab; Multiple Vitamins W Minerals Tab; Multiple Vitamins With Iron; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multitabs; Multivit Et Fer Ampoules Et Comprimes; Multivitamin; Multivitamin Drops with Fluoride; Multivitamin and Mineral; Multivitamin with Fluoride; Multivitamin with fluoride; Multivitamines; Multivitamines Et Mineraux; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamines Plus Fer Pour Enfants (chewable Tablets); Multivitamines Pour Enfants (chewable Tablets); Multivitamins W Iron; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Multivitamins for Children; Munit-E Tablet; Mvc; Myhephron Dialysis and Stress Supplement; Mynephrocaps Dialysis/stress Vitamin Supplement; N.E.U. Complex; N.U.T. Complex; Nata Komplete; NataFort; Natavite; Natelle One; Natura Magnesium Plus Vitamin C; Natural Fruit Chew  C 250mg Tangy Orange Flavour; Natural Source C 250 Tab 250mg Chewable; Neo Citran A Powder; Neo Citran Powder; Neo Vites Tab; Neo-vites & Minerals Tab; Nephrocaps; Nestabs ONE; Neutral C + Coenzyme Q10 - Cap; Neutral C + Coenzyme Q10 Plus Vitamins & Minerals; Neutral C With Echinacea & Lemon Bioflavonoids - Cap; Nexa Plus; Nexa Select Rx Prenatal Vitamin with Plant-Based DHA; Niacinamide 250mg With 50mg C; Niacinamide 250mg With Vitamin C; Niferex; Nighttime Extra Strength Contac Complete Cough, Cold & Flu Plus Vitamin C; Niron Komplete; No440 Cap; Now; Now Ester-C 1000; Now Ester-C Caps; Now Ester-C Complex; Now Ester-C Powder; NuFera; Nutrifer Plus Tablets; Nutrilite Double X; Nutrol C Cap 150mg; Nutrol C Tab 150mg; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Obagi; Ocuvel; Ocuvite Vitamin and Mineral Supplement; Ocuvite Vitamin and Mineral Supplement Capsules; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; One A Day With Non-medicinal Echinacea; Opti-manganese + B1 + C Caplet; Optivite Vitamin and Mineral Supplement Tablet; Orange C Tablets 150mg; Orange Chewable; Orange Flavored Crystal Chews Tab; Orifer F; Original Bioscal Forte Multi-vitamin Supplement Capsules; Orti C; Osteo Formula Tab; Osteo Tablets; P.N.P. Vitamin Drink; P.R.O. Complex; PM Caps; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV-First; PNV-Select; PRENATE Enhance; PRENATE Restore; Paramettes Chewable Multivitamins Plus Iron; Paramettes Chewable Multivits With Iron Tab; Paramettes Multivits Plus Iron Tab (teens); Paramettes Syrup; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Penta-thion Pwr; Perfect Harvest; Permathene-12  -  Caplet; Pharmacitron; Phytomin C Tab 500mg; Phytomin-C 500 Tab 500mg; Phytoplex B Liq; Phytopure; Pneumodyn Tab; Pnv-dha; Poly-VI-sol Drops; Polymine Avec Zinc Et Cuivre; Powertech Vitamin and Mineral Supplement; PreNatal 19; PreNatal Vitamins Plus; PreNexa; PrePLUS; PreQue 10; PreTAB; PreferaOB ONE; PreferaOB One; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenaissance; Prenatal Mega Antioxidant; Prenatal Plus; Prenatal Plus Iron; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Prenate Elite; Prenate Essential; Prenate Pixie; Prenate Star; Prenavite Forte; Prenavite Forte Tablets; Prenavite Tablets; Prevital Tab; Pro-ace; Procosa II; PureVit DualFe Plus; Q.T. Vitamin and Mineral Drink Mix; Reaphirm Plant Source DHA; Redoxon-cal; Reebok; Release; Reliv So Sense Daily Vitamin Supplement; Remedium - Liq Orl; Reno Caps; Replavite; Revit Plus Cap; Revit Tab; Revival 1 Tab; Rhume Et De LA Grippe (extra-fort); Right Choice A.M. Multi Formula - Caplet; Rocky Mountain Oj's Chewable Vitamin C Tab; S.H. Drink Mix; Sago-C-500 Tab 500mg; Samson; Scorbatate; Se-Care Chewable; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Se-Tan DHA; Se-Tan PLUS; Selenium Plus; Sincera - Tablets; Sodium Ascor Crystal 888.8mg/gm USP; Softgel Vit.c 200mg From Ester-C Br.ca Asc.; Soin Solaire Complete SPF30; Somarexin and C 1000; Somavit Brand Vitamins and Minerals Complex; Sopalamine 3b Plus; Sopalamine/3b Plus C; Spd Tab; Spectra 301 Vitamin and Mineral Supp; Spectrum 2 Cap; Stress B & C  Caplet; Stress B Capsules With Vitamin C; Stress B Complex With C, E & Iron; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Ctr Srt; Stress Formula; Stress Formula + Iron; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Multivitamin Tablets USP; Stress Formula Tab; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Tab; Stress Tab With Iron and Vitamin E; Stress Tab With Zinc, Copper and Vitamin E; Stress Tablets; Stress Vitamin B With C Complex Tablets; Stressmates; Strovite Forte Caplet; Strovite One Caplets; Sun-rype Vitaburst; Super 7 Vitamin and Mineral Supplement; Super B Compound W 500mg Vit C; Super B.P. Vitamin C; Super C 1000mg; Super C 500mg Tab; Super C Crystals W Calcium; Super C With Non-medicinal Rosehips Tab; Super Charged Energy; Super Citro Cee Srt 500mg; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Pantoplex; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super-A Vitamins With Selenium Dietary Supplement; Super-cell; Super-pote Vitamin Supplement; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supplement De Vitamine C; Supplement De Vitamines Et Mineraux; Supplements De Vitamines Et Mineraux; Supravite C 1000; Supravite Pour Enfants; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; Surbex 500 Filmtab; Surbex-500 With Iron; Surbex-500 With Zinc; Sustained Release Vitamin C 500mg; Sveets; Sveets Orange Burst; Swiss Camu C Tab 150mg; Synergisti-C; Synergistic Manganese Capsules; Tandem DHA; Tandem OB; Tandem Plus; Tar-end; Tender Age Multi Vitamins; Tender Age Vit Adc Drops; Tgi Tab 50mg; Theraplex Acp; Thiamine HCl 100mg W C 20mg; Thymunase Tab; Tianshi Beneficial Capsules; Time Rel Vit C Tab 1000mg; Time Release C 500mg; Timed C 1000 + Caplet 1000mg; Timed Release C 1000mg Srt; Timed Release C 1000mg Tab; Timed Release Ester-C 1000mg; Timed Release Vit. C-1000 Caplet; Timed Release Vitamin C 500 mg; Timed Release Vitamin C Tablet With Bioflavanoids; Timed Release and Esterified Vitamin C-500; Timedose Vitamin C 1000mg; Timedose Vitamin C Tab 500mg; Tl-hem 150; Tonicol Et A-D-C Ampoules/comprimes; Tonimol Cap Liq; Total Flu; Tozal; Tri Adrenopan; Tri Vi Flor Tab; Tri-VI-sol Drops; Tri-Vit With Fluoride And Iron Drops; Tri-Vit with Fluoride Drops; Tri-Vitamin with Fluoride; TriAdvance; Tricare Prenatal; Tricon; Trinatal GT; Triple Vitamin Drops with Fluoride; Triple-Vitamin Drops with Fluoride; Triveen-PRx RNF; Tropicana Calcium & Vitamin C Supplement; Tropicana Calcium and Vitamin C Supplement; Tropicana Vitamin C Supplement; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; UltimateCare ONE NF; Ultra Hr; Usana Megavitamin Tablets - Tab; Usana Procosa Tablets; V-V Dietary Supplement; VITAMINS A, C, D and FLUORIDE; VP-HEME One; Vasodyn Tab; Vasula Tab; Vege 1 Daily Tab; VemaVite-PRx 2 with Fish-Based DHA; Vi-daylin Adc Vitamins Drops for Infants; Viamon Ampoules Et Comprimes; Vigo Multivitamins Drops/lozenge; Vimeral Tab; Virt-Caps; Virt-PN Plus; Virt-Pn; Virt-Pn DHA; Virt-Vite Plus; Vit B Complex Plus Vit C 550mg; Vit C Chew Tab 250mg; Vit C Chew Tab 300mg; Vit C Chew Tab 500mg; Vit C Ctr 1000mg; Vit C Ctr 500mg; Vit C Sustained Release Tab 1000mg; Vit C Tab 1000mg; Vit C Tab 250mg; Vit C Tab 500mg; Vit C Timed Release Tab 500mg; Vit C W Calc-mag and Potass Powder; Vit-HA Multi Vitamin and Zinc Supplement; Vit.c With N-M.bioflav.rose Hips and Rutin; Vita B + C 500 Tab; Vita C 550 Ampoules Buvables 550mg/amp; Vita C Tab 150mg; Vita Day Tab; Vita-worth Vitamin C Tablets 500mg; Vitachrom Gc; Vitaday Tab; Vitafant; Vitaflex Dietary Suplement; Vitafol Caplet; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol Ultra; Vital Be-100; Vitalife  -  Capsule; Vitalis; Vitamin B + C Cap; Vitamin B Complex + C 300mg Cap; Vitamin B Complex + C 600mg Tab; Vitamin B Complex Plus 300mg Vitamin C; Vitamin B Complex Plus C 300mg Timed Release; Vitamin B Complex W C 300mg Tab; Vitamin B Complex W C Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Compound With Vitamin C Fortis Capsule Dtc; Vitamin B Cpd W Vit C Tab; Vitamin C; Vitamin C  Chew Sug Fr 500mg; Vitamin C & Zinc Tab; Vitamin C + Zinc Tab; Vitamin C 1000; Vitamin C 1000 Mg  -  Tablet; Vitamin C 1000 Mg Chewable  -  Tablet; Vitamin C 1000 Mg Timed Release  -  Tablet; Vitamin C 1000 mg; Vitamin C 1000mg; Vitamin C 1000mg Cap; Vitamin C 1000mg Dietary Supplement; Vitamin C 1000mg From Ester-C Brand Ca Asc.; Vitamin C 1000mg Time Release; Vitamin C 1000mg Time Release Form; Vitamin C 1000mg Timed Release Tablets; Vitamin C 1000mg W/ Non-medicinal Echinacea; Vitamin C 1000mg W/rose Hips Timed Release Tablet; Vitamin C 100mg Capsules; Vitamin C 1500mg - Tab; Vitamin C 1500mg Time Released Srt; Vitamin C 1500mg Timed Release Tablet; Vitamin C 250 Mg Chewable  -  Tablet; Vitamin C 250 mg; Vitamin C 250mg Chewable; Vitamin C 250mg With Non-medicinal Echinacea & Lemon Bioflavonoids; Vitamin C 250mg With Non-medicinal Rose Hips; Vitamin C 250mg With Non-medicinal Rose Hips Dietary Supplement; Vitamin C 350 Tab 350mg; Vitamin C 400mg Tab; Vitamin C 500 Mg  Tab; Vitamin C 500 Mg (mixed Citrus Flavour); Vitamin C 500 Mg Chewable  -  Tablet; Vitamin C 500 Mg With Rosehips; Vitamin C 500 Tab Chewable; Vitamin C 500mg; Vitamin C 500mg (chewable Orange); Vitamin C 500mg Caps Time Release; Vitamin C 500mg Src Time Release; Vitamin C 500mg Tab; Vitamin C 500mg Tablets; Vitamin C 500mg Time Release; Vitamin C 500mg Timed Release; Vitamin C 500mg Timed Release Tab USP; Vitamin C 500mg Timed Release Tablets; Vitamin C 500mg With Non-medicinal Echinacea; Vitamin C 500mg With Non-medicinal Rose Hips; Vitamin C 600mg; Vitamin C 60mg; Vitamin C Ascorbic Acid Tab 1000mg; Vitamin C Calcium Pwr; Vitamin C Cap 1000mg; Vitamin C Chewable 250mg; Vitamin C Chewable 500mg; Vitamin C Crystals; Vitamin C Crystals 5gm/5ml; Vitamin C Crystals Pwr 4000mg/tsp; Vitamin C Extra Time Released Tab 1800mg; Vitamin C Orange Chewable Tab 500mg USP; Vitamin C Powder; Vitamin C Src 500mg Timed Release; Vitamin C Srt 1.5gm; Vitamin C Srt 1000mg; Vitamin C Srt 1500mg; Vitamin C Srt 500mg; Vitamin C Sustained Release Tabs 1000mg; Vitamin C Tab 1000mg; Vitamin C Tab 1000mg Chewable; Vitamin C Tab 1000mg Timed Release; Vitamin C Tab 1000mg USP; Vitamin C Tab 100mg; Vitamin C Tab 100mg Chewable; Vitamin C Tab 100mg Chewable Orange; Vitamin C Tab 1500mg Timed Release; Vitamin C Tab 250mg; Vitamin C Tab 250mg Chewable; Vitamin C Tab 250mg Chewable Orange; Vitamin C Tab 250mg USP; Vitamin C Tab 250mg Watkins; Vitamin C Tab 500 mg; Vitamin C Tab 500mg; Vitamin C Tab 500mg Chewable; Vitamin C Tab 500mg Chewable Orange; Vitamin C Tab 500mg Orange Flavor; Vitamin C Tab 500mg Orange Flavoured Chewable; Vitamin C Tab 500mg USP; Vitamin C Tab USP; Vitamin C Tablets 1000mg; Vitamin C Tablets 1500mg Timed Release; Vitamin C Tablets 250mg; Vitamin C Tablets 500mg; Vitamin C Tablets Chewable 250mg; Vitamin C Tablets Chewable 500mg; Vitamin C Tablets Sustained Release 500mg; Vitamin C Tablets Time Release 1000mg; Vitamin C Tablets Time Release 500mg; Vitamin C Tablets USP 500mg; Vitamin C Timed Release Tab 1000mg; Vitamin C Timed Release Tab 1500mg; Vitamin C Timed Release Tab 500mg; Vitamin C Ultra Fine Pwr 1000mg/tsp; Vitamin C and Calcium Tab; Vitamin C and Zinc Lozenges; Vitamin C-force 1000mg Tablets; Vitamin C-force 500mg Tablets; Vitamin E + 3 (extra Strength); Vitamin E + 3 Extra Strength With Zinc; Vitamin and Mineral Supplement Capsules; Vitamine C  250 Mg Masticable  -  Tablet; Vitamine C  250 Mg USP  -  Tablet; Vitamine C  500 Mg Raisin  -  Tablet; Vitamine C  500 Mg USP  -  Tablet; Vitamine C - Liq Orl 50mg/ml; Vitamine C 1000 Action Prolongee; Vitamine C 1000 Tab 1000mg; Vitamine C 1000mg-liq; Vitamine C 100mg 5 Fruits-tab; Vitamine C 100mg Tab Masticable; Vitamine C 150 mg; Vitamine C 250mg Tab Masticable; Vitamine C 500; Vitamine C 500 Action Prolongee; Vitamine C 500mg 5-fruits - Tab; Vitamine C 500mg 5-fruits Tab; Vitamine C Cap 500mg; Vitamine C Croquable Tab 500mg; Vitamine C Liq 500mg/10ml; Vitamine C Tab 100mg; Vitamine C Tab 100mg Masticables; Vitamine C Tab 100mg USP; Vitamine C Tab 250mg; Vitamine C Tab 500mg; Vitamine C Timed Release Tab 500mg; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitamines Pour Bebes Et Enfants; Vitamune; Vitaplex; Vitarich C; Vitogen B Compound W C Fortis Capsules; Vitogen B Stress C Vit E Zinc & Cop; Vitogen B Stress C600; Vitogen Multiple Vitamins Tab; Vitogen Multiple Vitamins W Iron; Vitreat Chewable Vitamin Tab; Vitreat Chewable Vitamins Plus Iron; Vtb Vitamin and Mineral Supplement; Women's Change Formula; Women's Formula; Women's Support Tablets; Z-force Vitamin and Mineral Supplement; Zinc 50mg W Vitamin C; Zinc Lozenge With Vitamin C; Zinc Lozenges With Vitamin C; Zinc Lozenges With Vitamin C In A Nonmedicinal Base With Echinacea Lozenge; Zinc Lozenges With Vitamin C and Non-medicinal Echinacea; Zinc Plus Extra C; Zinc Plus Lozenges; Zinc Plus Vitamins C & B6 Lozenges; Zinc With C - Loz; Zinc With C Lozenge; Zinc With Vitamin C Lozenges; Zinc and Vitamin C Lozenges; Zinc-C Lozenges; Zinc-C-lozenges; Zoo Chews; Zymain Tab; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SALTS>  (1) 
+Calcium ascorbate; Magnesium ascorbate; Niacinamide ascorbate; Sodium ascorbate; Zinc ascorbate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00001; APRD00084; EXPT00568; DB11167; DB11316; DB11170; DB09541; DB11317
+
+>  <SMILES>  (1) 
+[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO
+
+>  <SYNONYMS>  (1) 
+acide ascorbique; ácido ascórbico; acidum ascorbicum; acidum ascorbinicum; Ascorbate; Ascorbic Acid; Ascorbicap; Ascorbinsäure; L-(+)-ascorbic acid; L-Ascorbate; L-Ascorbic Acid
+
+$$$$

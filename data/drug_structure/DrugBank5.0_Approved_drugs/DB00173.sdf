@@ -1,0 +1,151 @@
+173
+     RDKit          2D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    3.8596    0.1235    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -1.2043    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  1  9  1  0
+  2  7  1  0
+  2  9  2  0
+  3  7  1  0
+  3 10  2  0
+  4  8  2  0
+  4 10  1  0
+  5  8  1  0
+  6  7  2  0
+  6  8  1  0
+  1 11  1  0
+  5 12  1  0
+  5 13  1  0
+  9 14  1  0
+ 10 15  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.38
+
+>  <ALOGPS_LOGS>  (1) 
+-1.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.15e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00173
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00173
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+135.054495185
+
+>  <FORMULA>  (1) 
+C5H5N5
+
+>  <GENERIC_NAME>  (1) 
+Adenine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)
+
+>  <INCHI_KEY>  (1) 
+GFFGJBXGBJISGV-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Leuco-4
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.291219062634632
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+7H-purin-6-amine
+
+>  <JCHEM_LOGP>  (1) 
+-0.5734702306666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.29344091776159
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.320371483757757
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+80.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+38.2195
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+vitamin B4
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+135.1267
+
+>  <PRODUCTS>  (1) 
+Additive Solution Formula 3 As-3; Additive Solution Sodium Adenine Glucose Mannitol (sagm); Anticoagulant Cit Phos Dex Adenine Sol USP; As 3; CPDA-1 Blood Collection System; Cpd Adenine Cpda 1; Cpda-1; Haemonetics Additive Solution Formula 3 (AS-3); LeukoTrap SOLX A Additive; Leukosep - Solx A Additive Solution; Leukotrap - AS-3 Solution; Leukotrap WB System; Nutricel Additive Solution - AS-3; Rejuvesol; Sag-M; Sag-mannitol Solution; TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1)
+
+>  <SALTS>  (1) 
+Adenine hydrochloride; Adenine sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00012; EXPT00520
+
+>  <SMILES>  (1) 
+NC1=C2NC=NC2=NC=N1
+
+>  <SYNONYMS>  (1) 
+6-Aminopurine; Adenin; Vitamin B4
+
+$$$$

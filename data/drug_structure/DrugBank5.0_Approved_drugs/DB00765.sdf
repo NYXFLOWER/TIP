@@ -1,0 +1,171 @@
+765
+     RDKit          2D
+
+ 27 27  0  0  1  0  0  0  0  0999 V2000
+    3.7935    2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  3 14  1  0
+  5  4  1  1
+  5  6  1  0
+  5  8  1  0
+  5  9  1  0
+  6  7  1  0
+  7 10  2  0
+  7 11  1  0
+ 10 12  1  0
+ 11 13  2  0
+ 12 14  2  0
+ 13 14  1  0
+  1 15  1  0
+  3 16  1  0
+  4 17  1  0
+  4 18  1  0
+  6 19  1  0
+  6 20  1  0
+  8 21  1  0
+  8 22  1  0
+  8 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.91
+
+>  <ALOGPS_LOGS>  (1) 
+-1.90
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.48e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00765
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00765
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+195.089543287
+
+>  <FORMULA>  (1) 
+C10H13NO3
+
+>  <GENERIC_NAME>  (1) 
+Metyrosine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H13NO3/c1-10(11,9(13)14)6-7-2-4-8(12)5-3-7/h2-5,12H,6,11H2,1H3,(H,13,14)/t10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+NHTGHBARYWONDQ-JTQLQIEISA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+19.898168653060495
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-(4-hydroxyphenyl)-2-methylpropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.0558642369962035
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.29383753269354
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.0631347229761277
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.926935245424286
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.55
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+51.81050000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+metyrosine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+195.2151
+
+>  <PRODUCTS>  (1) 
+Demser
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01112
+
+>  <SMILES>  (1) 
+C[C@](N)(CC1=CC=C(O)C=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(-)-alpha-Methyl-L-tyrosine; (–)-α-methyl-L-tyrosine; (S)-alpha-Methyltyrosine; Methyltyrosine; Metirosin; Metirosina; Métirosine; Metirosine; Metirosinum; α-methyl-L-p-tyrosine; α-methyl-p-tyrosine; α-methyl-para-tyrosine; α-MPT
+
+$$$$

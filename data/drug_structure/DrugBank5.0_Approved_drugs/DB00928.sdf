@@ -1,0 +1,176 @@
+928
+     RDKit          2D
+
+ 29 30  0  0  1  0  0  0  0  0999 V2000
+    4.1497   -1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0301   -0.8057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5848   -2.5128    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2002   -2.4265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0533    0.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    0.2492    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7678    1.4868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1967    1.4868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    2.7243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8148   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0697   -1.8453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8947   -1.8453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822   -0.5758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3797   -2.5128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7678    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1967    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    1.8993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  1 13  1  0
+ 10  2  1  1
+ 11  3  1  1
+  4 14  1  0
+  5 15  2  0
+ 13  6  1  6
+  6 15  1  0
+  6 16  1  0
+  7 15  1  0
+  7 17  2  0
+  8 16  2  0
+  8 17  1  0
+  9 17  1  0
+ 10 11  1  0
+ 10 13  1  0
+ 11 12  1  0
+ 12 14  1  1
+  2 18  1  0
+  3 19  1  0
+  4 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 16 29  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.45
+
+>  <ALOGPS_LOGS>  (1) 
+-1.30
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.21e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00928
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00928
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+244.080769514
+
+>  <FORMULA>  (1) 
+C8H12N4O5
+
+>  <GENERIC_NAME>  (1) 
+Azacitidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H12N4O5/c9-7-10-2-12(8(16)11-7)6-5(15)4(14)3(1-13)17-6/h2-6,13-15H,1H2,(H2,9,11,16)/t3-,4-,5-,6-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+NMUSYJAQQFHJEW-KVTDHHQDSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.495491785582875
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydro-1,3,5-triazin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+-3.065332952
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.93287832032706
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.551469540858907
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.381533241656815
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+140.97
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.1932
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+azacitidine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+244.2047
+
+>  <PRODUCTS>  (1) 
+Azacitidine; Azacitidine for Injection; Reddy-azacitidine; Vidaza
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00809
+
+>  <SMILES>  (1) 
+NC1=NC(=O)N(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+>  <SYNONYMS>  (1) 
+Azacitidina; Azacitidinum
+
+$$$$

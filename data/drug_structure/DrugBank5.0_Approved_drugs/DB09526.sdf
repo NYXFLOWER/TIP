@@ -1,0 +1,145 @@
+
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+   16.7886  -10.1525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7886   -6.8525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7886   -9.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7886   -7.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5032   -8.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5032   -8.0900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0742   -8.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0742   -8.0900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  2  4  1  0
+  3  5  2  0
+  3  7  1  0
+  4  6  2  0
+  4  8  1  0
+  5  6  1  0
+  7  8  2  0
+  1  9  1  0
+  2 10  1  0
+  5 11  1  0
+  6 12  1  0
+  7 13  1  0
+  8 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.71
+
+>  <ALOGPS_LOGS>  (1) 
+-0.06
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.55e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09526
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09526
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+110.036779436
+
+>  <FORMULA>  (1) 
+C6H6O2
+
+>  <GENERIC_NAME>  (1) 
+Hydroquinone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H6O2/c7-5-1-2-6(8)4-3-5/h1-4,7-8H
+
+>  <INCHI_KEY>  (1) 
+QIGBRXMKCJKVMJ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Eldoquin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.751706760439285
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+benzene-1,4-diol
+
+>  <JCHEM_LOGP>  (1) 
+1.3661151726666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.553013032476033
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.676283592749463
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.887165947200477
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+30.0198
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+α-hydroquinone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+110.1106
+
+>  <PRODUCTS>  (1) 
+AGELESS Total Skin Bleaching Serum; AMBI Fade Normal Skin; AMBI Fade Oily Skin; Accelerated Dark Spot Corrector; Aclaro Hydroquinone; Activator Light; Active 4; Advanced Dual Complex Fade Maximum Strength Plus; Advanced Lightning; Advanced Skin Lightening Cream; Advanced Skin Lightening Serum; African Formula Black; African Formula Carrot; African Formula Skin Lightening; African Gold Skin Discoloration Fade Crm 2%; Alphaquin HP; Ambi Extra Skin Discoloration Fade Cream; Banishing Cream; Black Opal Advance Dual Complex Fade Gel; Black Opal Advanced Dual Phase Fade Creme; Body Fade Creme Maximum Strength; Brighten Lightening; Caro Light; Celazome Fade Shades Lightening Cream w/ Glycolic Acid; Clairissime Clear Complexion Lotion; Clarite 4; Clear Action; Clear Essence Advance Complex Fade Gel; Clear Essence Medicated Fade Cream; Clear Essence Skin Lightening Gel; Clear Essence Skin Lightening Milk; Clear-N-Smooth; Condition and Enhance Blender Skin Lightener and Blending; Condition and Enhance Clear Skin Bleaching and Corrector; Condition and Enhance System Travel-size Non-surgical; Conditioning Gel; Continuum Unifying Lotion I; Continuum Unifying Lotion II; Corrector 2; Corrector 4; Corrector Light; Creme Blanchissante - Crm 2%; Crusader Skin Lightening; Crusader Ultra Skin Lightening; Daily Fade Maximum Strength SPF15; Dermablend Advanced Fade Cream With Sunscreen and Moisturizing Aha; Dermablend Chromatone Fade Cream With Sunscreen; Dermaclair Skin Lightening; Dermisa Skin Fade; Dr. Throwers Pbc No. 1; Dr. Throwers Skin Lightening Moisturizing; Drula Fade Cream Extra-medicated; Drula Fade Cream Medium-medicated; Drula Fade Cream Normal-medicated; Drula Fade Cream Superforte Medicated; Dual Action Skin Lightener; Eb5 Age Spot Formula; Elastiderm Decolletage Skin Lightening Complex Chest and Neck; Eldopaque Crm 2%; Eldopaque Forte Crm 4%; Eldoquin; Eldoquin Forte; Enlighten Me; Esoterica Daytime with Moisturizers and Sunscreen; Esoterica Daytime with Sunscreen; Esoterica Facial Cream; Esoterica Nighttime with Moisturizers; Esoterica Regular Cream; Esoterica Scented-fortified With Sunscreen; Esoterica Sunscreen Fade Cream; Esoterica Unscented; Esoterica Unscented Fortified W.sun Screen; Essential Fade Complex; Exence White; Exuviance Intense Lightening Complex; Fade Away Extra Care; Fade Dark Spots Daytime Treatment; Fade Dark Spots Nighttime Treatment; Fading Fluid; Glyquin Xm; Glytone Clarifying; Glytone Clarifying SunVanish with Sunscreen; Glytone skin bleaching fading; Gold Cosmetics Adi Clear; Gold Cosmetics Bleach Cream; Gold Cosmetics Bleach Cream Forte; HQ Plus Brightening Cream VI Derm; Hot Movate; Hqra-otc; Hydro-Q; Hydroquinone; Hydroquinone 4%; Hydroquinone Time Release; Hydroquinone with sunscreens; Hyperpigmentation Treatment; I-max Lightening 5; I-max Lightening L; Idole Beauty; Idole Black; Idole Carrot; Idole Intense; Idole Lemon; Idole Natural Organic; Idole Natural Organic Skin Lightening; Idole Skin Lightening; Image MD Lightening Rx; Jouvence Crm 2%; Light The Way; Lightener; LumaSilk Emulsion Level 02; LumaSilk Emulsion Level 03; Lustra; Lustra-AF; MELAMIN Skin Bleaching and Correcting; MELAMIN Skin Bleaching and Correcting Hydroquinone; MELAMIX Skin Lightener and Blending; Meaningful Beauty Dark Spot Correcting Treatment; Medicated Fade Creme with Sunscreen; Medisilke Night; Meditowel Illuminating Skin Brightening; Melpaque HP; Melquin 3; Metasol; Metasol Skin Lightening; Miracle Fade; Movate Carrot; Movate Lemon; Movate Skin Lightening; Movate Skin Lightening Lemon; Nadinola Skin Disc.fade Crm for Dry Skin 2%; Nadinola Skin Disc.fade Crm for Oily Skin 2%; Nadinola Skin Discoloration Fade Cream-S.C.f; NeoStrata HQ Skin Lightening; Neostrata Canada Hq Plus Cream; Neostrata Hq Plus Lightening Cream; Neova Complex HQ Plus; Nu-derm Blender Skin Lightener and Blending; Nu-derm Clear Skin Bleaching and Corrector; Nu-derm Sunfader Skin Lightener With Sunscreen (SPF 15) Paba Free; Nu-derm System Normal-dry Skin Transformation; Nu-derm System Normal-dry Skin Transformation Trial; Nu-derm System Normal-oily Skin Transformation; Nu-derm System Normal-oily Skin Transformation Trial; Nuderm Sunfader; Nuquin Hp; Obagi; Obagi - C; Obagi C Rx System C Clarifying Serum; Obagi Nu-Derm; Obagi Nu-Derm Sunfader; Obagi Protocols Clear; Obagi-C Rx System C-therapy Night; PA Plus Advanced Dark Spot Correcting Serum; Palmer's Skin Success Fade Cream-for Dry Skn; Palmer's Skin Success Fade Cream-for Oily Sk; Palmer's Skin Success Fade Cream-normal Skin; Perrigo Hydroquinone with sunscreens; Pharmaskincare Parfait Lightening Serum; Pharmaskincare Serum Skin Lightening; Phaze 13 Light N' Block Pigment Cream; Piona; Porcelana Day Skin Lightening; Porcelana Medicated Fade Cream - Orig. Fmla; Porcelana Medicated Fade Crm Sunscreen Fmla; Porcelana Night Skin Lightening; Precious Beauty Skin Lightening; Proactiv Skin Lightening; Proactiv Solution Dark Spot Corrector; Pure Valley Miracle Age Spot; REVERSE Lightening Regimen for the Appearance of Stubborn Dark Marks, Patches and Age Spots; Recover Lightening Complex with 4% Hydroquinone; Rejuvaderm medispa fading; Restoration Serum Epione; Rodan & Fields Proactiv Solution: Skin Lightening Lotion; Rodan and Fields Skin Lightening Treatment; SH 18 Whitening; SH18 Skin Lightening; SH18 Ultra Harmonie Carrot Beauty; Scarlight MD; Seequin 2; Seequin 4; Seequin 4 Ids; Sh18; Skin Beautifying Milk; Skin Lightening Accelerator Pack; Skin Lightening Complex; Skin Lightening Cream; Skin Lightening Rodan Fields; Skin Lightening Treatment; Skinprint 3D Clear Peel; Skinprint ClearTone with 2% Hydroquinone; Skinprint ClearTone with 8% Hydroquinone; Skinprint Recover Lightening Complex with 2% Hydroquinone; Solaquin; Solaquin Forte; Sunbalance; Top White; Top White Skin Lightening; Topiclear; Topiclear Carrot; Topiclear Cocoa Butter; Topiclear Cocoa Butter beauty; Topiclear Lemon; Topiclear Paris; Topiclear Paris Beauty; Topiclear Skin Lightening; Topiclear Xtra beauty; Topiclear Xtra lemon beauty; Total White Brightening; Tri-luma; Ultra Glow Fade; Ultra Glow Fade with Aloe Vera; Ultra Glow Skin Tone Cream Dry Skin Aloe Vera; Ultra Glow Skin Tone Cream Normal Skin Aloe Vera; Ultra Glow Skin Tone Cream Oily Skin Aloe Vera; Ultra Glow Skin Tone Cream for Normal Skin; Ultra Glow Skin Tone Cream for Oily Skin; Ultraplus Skin Lightening Cream - 2%; Ultraquin 4% Hydroquinone Cream With Sunscreens; Unblemish; Vantex Skin Bleaching Crm W Sunscreen 2%; Viquin Forte With Moisturizing Aha - Crm; Vividly Brilliant Perfecting; ZO MEDICAL MELAMIN-C Skin Bleaching and Correcting with Vitamin C Hydroquinone; Zarina Skin Lightening Cream With Sunscreening Filter; Zo Medical Zo Multi-therapy Hydroquinone System; eB5 Age Sport Formula; gloTriple Action Serum
+
+>  <SMILES>  (1) 
+OC1=CC=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+1,4-benzenediol; 4-Hydroxyphenol; benzene-1,4-diol; p-Benzenediol; p-Hydroquinone; p-hydroxyphenol; quinol
+
+$$$$

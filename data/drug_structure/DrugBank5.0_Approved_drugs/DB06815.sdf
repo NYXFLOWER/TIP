@@ -1,0 +1,160 @@
+
+     RDKit          2D
+
+ 25 26  0  0  0  0  0  0  0  0999 V2000
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 Zn  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  2  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 11 16  1  0
+ 16 17  1  0
+  3 18  1  0
+  4 19  1  0
+  5 20  1  0
+  6 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+M  CHG  4   1  -1   2   1  16   1  17  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.60
+
+>  <ALOGPS_LOGS>  (1) 
+-3.67
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.80e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06815
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06815
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+315.931865468
+
+>  <FORMULA>  (1) 
+C10H8N2O2S2Zn
+
+>  <GENERIC_NAME>  (1) 
+Pyrithione zinc
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2C5H5NOS.Zn/c2*7-6-4-2-1-3-5(6)8;/h2*1-4,8H;/q;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+OTPSWLRZXRHDNX-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.815813889179296
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+bis[(1-oxidopyridin-1-ium-2-yl)sulfanyl]zinc
+
+>  <JCHEM_LOGP>  (1) 
+-0.7343999999999999
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.4993682297133225
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+50.92
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.96900000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+bis[(1-oxidopyridin-1-ium-2-yl)sulfanyl]zinc
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+317.722
+
+>  <PRODUCTS>  (1) 
+2 In 1; 2 In 1 Anti-dandruff Shampoo and Conditioner; 2 In 1 Conditioning Dandruff Shampoo; 2 In 1 Conditioning Dandruff Treatment Shampoo; 2 In 1 Dandruff Relief Shampoo & Conditioner; 2 In 1 Dandruff Shampoo Plus Conditioner for Men; 2 In 1 Dandruff Shampoo and Conditioner for Dry Scalp; 2 in 1 Antidandruff; 2 in 1 Dandruff; 2in1 Dandruff and Conditioner; Actiprep; Active Control; Actrol Dandruff Shampoo; Actrol Dandruff Shampoo - 1.2%; Actrol Dandruff Shampoo 1.2%; Add More Hair; Advance Techniques Keep Clear 2-IN-1 Anti-dandruff Shampoo; Advance Techniques Keep Clear 2-in-1 Anti-Dandruff; Advance Techniques Keep Clear Anti-Dandruff Treatment; Advanced Seborrheic Dermatitis Therapy; Alberto VO5 2 in 1 Dandruff; American Crew; American Crew Anti-Dandruff plus Sebum Control; American Crew Classic Anti-dandruff Shampoo; Anti Dandruff Formula Shampoo; Anti-dandruff; Anti-dandruff 2 In 1 Shampoo & Conditioner; Anti-dandruff Shampoo; Anti-dandruff Shampoo and Conditioner Howl; AntiDandruffShampoo; Antidandruff; Apex Crown Anti Dandruff; Assured; At One With Nature Dry and Itchy Scalp; Australian Gold Defense Zone Anti-Dandruff Step 2; Australian Gold Defense Zone Anti-dandruff Leave-in Treatment; Australian Gold Metro 365 Medicated 2 in 1 Anti-Dandruff; Australian Gold Metro 365 Medicated Leave-In Treatment Step 3; Aveda Scalp Remedy Anti-dandruff Styling Tonic; Aveeno Active Naturals Nourish Plus Dandruff Control Anti Dandruff; Aveeno Active Naturals Nourish Plus Dandruff Control Anti Dandruff 2 in 1 Shampoo and Conditioner; Aveeno Active Naturals Nourish Plus Dandruff Control Anti Dandruff Conditioner; Avon Advance Techniques Anti-dandruff Shampoo; Avon Techniques Anti-dandruff Shampoo Plus Conditioner; Axe 2 in 1 Armor AntiDandruff 2 in 1; Axe AntiDandruff Styling; Axe Armor AntiDandruff 2 in 1; Axe Feeze AntiDandruff; Axe Freeze AntiDandruff; Axe Freeze Itch Relief 2-IN-1 Cooling Anti-dandruff; Axe Shampoo Armour Anti-dandruff; Axe Shampoo Signature Daily Dandruff Defense Anti-dandruff; Axe Signature Daily Dandruff Defense Anti-Dandruff; Bain De Terre Alpine Mist Dandruff Shp-1%; Bain Exfoliant Hydratant; Ballvic Sebo; Balmers Cooling Zone 31; Basic Essentials Dandruff (clean and Conditioner) 2 In 1 Everyday Clean; Basic Essentials Dandruff Dry Scalp; Basic Essentials Dandruff Everyday Clean; Being Well Body 2in1 Dandruff and Conditioner; Being Well Body Dry Scalp Care; Biokera; Biolage Scalptherapie Antidandruff Shampoo; Biolage Scalptherapie Antidandruff Treatment; Biolage Scalpthérapie Antidandruff Conditioner; Bioxsine Series; Blade Howl Anti-dandruff; Bonnoir Hair Medi; Brylcreem Anti-dandruff; Careline Anti-Dandruff; Carione Rg; Cellcurin Hair ReGen; Cellcurin Hair ReGen Sham poo; Certified Hair Care Dandruff Shampoo - All Hair Types; Chevance; Chill Blast; Classic Clean 2 In 1 for Normal Hair; Classic Control Antidandruff; Clean Apple; Clean Scalp Shampooing; Clear 2 in 1 Scalp Comfort AntiDandruff; Clear Complete Care AntiDandruff; Clear Complete Care Nourishing AntiDandruff; Clear Complete Scalp Care AntiDandruff Conditioner; Clear Complete Scalp Care Antidandruff; Clear Men 2 in 1 Clean and Refresh AntiDandruff; Clear Men 2 in 1 Complete Care AntiDandruff; Clear Men 2 in 1 Dry Scalp Hydration AntiDandruff; Clear Men Citrus Fresh Hydration AntiDandruff; Clear Men Clean and Refresh AntiDandruff; Clear Men Cool Sport Mint AntiDandruff; Clear Men Deep Clean Hydration AntiDandruff; Clear Men Ocean Mineral AntiDandruff; Clear Men Scalp & Hair Anti-dandruff; Clear Men Scalp Therapy 2 In 1 Clean & Refresh Anti-dandruff; Clear Men Scalp Therapy 2 In 1 Complete Care Anti-dandruff; Clear Men Scalp Therapy 2 In 1 Dry Scalp Hydration Anti-dandruff; Clear Men Scalp Therapy 2 In 1 Scalp Comfort Anti-dandruff; Clear Men Scalp Therapy Clean & Refresh Anti-dandruff; Clear Men Scalp Therapy Cool Sport Mint Anti-dandruff; Clear Men Scalp Therapy Strong & Full Anti-dandruff; Clear Men Strong and Full AntiDandruff; Clear Scalp & Hair Therapy Complete Care Anti-dandruff; Clinical Solutions Daily Scalp Treatment; Clinical Solutions Leave-ON Dandruff Treatment; Control Anti-Dandrudff; Cvs Pharmacy Dandruff; Cyzone Be Sexy; Cyzone Be Sexy BS Tech Zinc Pyrithione And Silicones; Cyzone Trax Coolture Dermo Cool; Damoae Therapy; Dan Con Pert Plus Extra Body Fine Oily Hair; Dan-gard; Dandruff; Dandruff 2 In 1 Shampoo and Conditioner; Dandruff 2 In 1 Shampoo and Conditioner Clean Apple; Dandruff 2 In 1 Shampoo and Conditioner Daily Clean for Normal Hair; Dandruff 2 In 1 Shampoo and Conditioner Dry Scalp Recovery; Dandruff 2 In 1 Shampoo and Conditioner Itchy Scalp; Dandruff 2 In 1 Shampoo and Conditioner Shiny Smooth; Dandruff Conditioner; Dandruff Conditioner Daily Clean for Normal Hair; Dandruff Conditioner Dry Scalp Recovery; Dandruff Conditioner Pyrithione Zinc Cream; Dandruff Control / Anti-dandruff Shampoo; Dandruff Control Crm Rinse Conditioner 1%; Dandruff Control Pert Plusnormal Or Dry Hair; Dandruff Control Shampoo; Dandruff Control Shampoo 2%; Dandruff Daily Care; Dandruff Relief Shampoo; Dandruff Remedy Shp Liq 1.45%; Dandruff Shampoo; Dandruff Shampoo (classic Or Fresh Or Smooth & Silky 2 In 1); Dandruff Shampoo (classic Or Fresh/cool & Fresh Or Silky Shine 2 In 1); Dandruff Shampoo (dry Scalp Or Classic 2 In 1); Dandruff Shampoo Classic Clean; Dandruff Shampoo Daily Clean for Normal Hair; Dandruff Shampoo Dry Scalp Recovery; Dandruff Shampoo Plus Conditioner; Dandruff Shampoo Scalp Treatment; Dandruff Shampoo and Conditioner Classic Clean 2 In 1; Dandruff Shampoo and Conditioner With Cucumber and Lemongrass Extracts; Dandruff Shampoo for Dry Scalp Care; Dandruff Shampoo for Normal/oily Hair; Dandruff Treatment Cond. Shp 1%; Dandruff Treatment Shampoo - Dry Scalp; Dandruff Treatment Shampoo Reg 1%; Daylogic 2 in 1 Dandruff Classic Scent; Daylogic 2in1 Dandruff Classic Clean; Daylogic 2in1 Dandruff Dry Scalp Care; Daylogic Dandruff Classic Clean; Daylogic Dry Scalp Dandruff; Daylogic Refresh Dandruff; Denorex Everyday Strength; Derma Doctor Born to be Mild Cleanser; Derma Doctor Calm Cool and Corrected; Dermazinc Cream; Dermazinc Shampoo; Dermazinc Spray; Design Essentials Peppermint - Aloe Therapeutics; Dg Body 2 In 1 Classic; Dg Body 2 In 1 Dry Scalp Care; Dg Body 2 In 1 Green Apple; Dg Body 2 In 1 Simply Clean; Dg Body Simply Clean; Dhs Zinc; Dhs Zinc Dandruff Shp; Dial For Men Dandruff Control Hair and Body Wash; Doll Lash; Dong Sung Monelyn; Dove Dermacare Scalp Dryness and Itch Relief Anti-Dandruff; Dove Dermacare Scalp Dryness and Itch Relief Anti-Dandruff Conditioner; Dove Dermacare Scalp Invigorating Mint 2 In 1 Anti-Dandruff; Dove Dermacare Scalp Invigorating Mint Anti-Dandruff; Dove Dermacare Scalp Pure Daily Care 2 In 1 Anti-Dandruff; Dove Dermacare Scalp Pure Daily Care Anti-Dandruff; Dove Men Plus Care Anti Dandruff; Dove Men+care Fortifying Shampoo + Conditioner Anti-dandruff 2 In 1; Down Under Natural's Dry Scalp Shampoo Antidandruff; Dr.ZUMI SCALP; Dry Scalp; Dry Scalp Care; Dry Scalp Care Dandruff MD; Dry Scalp Care Dandruff Shampoo; Dry Scalp Dandruff; Dual Senses Scalp Regulation AntiDandruff Shampoo; Easter Scalp; Ecologique; Ecosom; Elementz; Enchante Shampooing Antipelliculaire; Epoch Ava Puhi Moni; Equaline Classic Clean; Equaline Classic Clean 2 In 1; Equaline Dandruff Classic Clean; Equaline Dandruff Dry Scalp 2 in 1; Equaline Dandruff Refresh; Equaline Dry Scalp 2 In 1; Equate Beauty Color Safe Dandruff; Equate Classic Spice 2 in 1 Dandruff; Equate Dry Scalp 2 In 1 Dandruff; Equate Dry Scalp Dandruff; Equate Everyday Clean; Equate Everyday Clean 2in1 Dandruff; Equate Green Apple 2 in 1 Dandruff; Equate beauty Color Safe Dandruff Conditioner; Eron Healing Tonic; Esika Men 2 En 1 Antidandruff Multi-action; Esika Men Dandruff Maximum Strength; Esika Men Effective Control; Esika Men Maximum Strength; Esika Men Multi-action 2-IN-1; Esika Vital With Active Z 2-IN-1 Dandruff Control; Essaim Dandruff Shampoo; Everday Clean Dandruff; Everyday Clean; Everyday Clean 2 In 1 Dandruff Shampoo Plus Conditioner; Everyday Clean 2 in 1; Everyday Clean Dandruff; Everyday Clean Dandruff Shampoo; FOLLIGEN hgH RENOVATING; Folligen; Folligen Plus; Four Season; Free and Clear; Fresh Mint Dandruff; Fructis Anti-dandruff Shampoo Clean & Fresh; Fructis Anti-dandruff Shampoo Clean & Fresh 2 In 1; Fructis Anti-dandruff Shampoo Dry Scalp; Fructis Anti-dandruff Shampoo Intense Cleanse Scrub; Fructis Anti-dandruff Shampoo Mint Cleanse; Fructis Shampooing Antipelliculaire; Fructis Shampooing Antipelliculaire 2 En 1; Fruitopia; GKhair Anti-Dandruff; Garnier Fructis Antidandruff Clean and Fresh; Garnier Fructis Antidandruff Clean and Fresh 2 in 1; Garnier Fructis Antidandruff Dry Scalp; Garnier Fructis Antidandruff Intense Cleanse; Garnier Fructis Antidandruff Mint Cleanse; Gentle Therapy; Gillette Anti-dandruff Shampoo; Hair; Hair and Scalp Lotion 1%; Hair and Scalp anti-dandruff; HairQ; Hairfitness Anti-dandruff Shampoo; Hairjoy; Halsa Pyrithione Zinc Dandruff; Halsa Pyrithione Zinc Dandruff - Dry Scalp Care; Halsa anti Dandruff moisturizes and restores; Happy Cappy; Head & Shoulders Active Sport 2 In 1 Men; Head & Shoulders Active Sport Men; Head & Shoulders Citrus Breeze; Head & Shoulders Citrus Breeze 2 In 1; Head & Shoulders Classic Clean; Head & Shoulders Classic Clean 2 In 1; Head & Shoulders Damage Repair 2 In 1; Head & Shoulders Damage Rescue; Head & Shoulders Damage Rescue 2 Minute Repair Dry Scalp & Hair Treatment; Head & Shoulders Damage Rescue 2in1; Head & Shoulders Dandruff Conditioner; Head & Shoulders Dandruff Shampoo; Head & Shoulders Deep Clean 2 In 1 Men; Head & Shoulders Deep Clean Men; Head & Shoulders Dry Scalp Care; Head & Shoulders Dry Scalp Care 2 Minute Moisturizer Scalp & Hair Treatment; Head & Shoulders Dry Scalp Care 2in1; Head & Shoulders Extra Strength; Head & Shoulders Extra Strength Men; Head & Shoulders Extra Volume; Head & Shoulders Extra Volume 2in1; Head & Shoulders Full & Strong; Head & Shoulders Full & Strong 2 In 1; Head & Shoulders Full & Strong 2 Minute Strengthener Scalp & Hair Treatment; Head & Shoulders Full & Strong Conditioner; Head & Shoulders Full & Thick 2in1 Men; Head & Shoulders Full & Thick Men; Head & Shoulders Green Apple; Head & Shoulders Green Apple 2in1; Head & Shoulders Instant Cooling Relief; Head & Shoulders Instant Cooling Relief 2in1; Head & Shoulders Instant Cooling Relief Conditioner; Head & Shoulders Instant Fresh; Head & Shoulders Instant Fresh 2in1; Head & Shoulders Instant Hydration; Head & Shoulders Instant Hydration 2in1; Head & Shoulders Instant Hydration 5 Day Moisture Infusion Treatment; Head & Shoulders Instant Hydration Conditioner; Head & Shoulders Instant Oil Control; Head & Shoulders Instant Oil Control 2in1; Head & Shoulders Intensive Solutions; Head & Shoulders Itchy Scalp Care; Head & Shoulders Itchy Scalp Care 2 In 1; Head & Shoulders Moisture Care; Head & Shoulders Moisture Care 2in1; Head & Shoulders Moisture Care Cowash; Head & Shoulders Moisture Care Recovery Treatment; Head & Shoulders Nourishing Hair & Scalp Care; Head & Shoulders Nourishing Hair & Scalp Care 2in1; Head & Shoulders Nourishing Hair & Scalp Care Conditioner; Head & Shoulders Ocean Fresh; Head & Shoulders Ocean Lift; Head & Shoulders Ocean Lift 2 In 1; Head & Shoulders Purely Gentle Scalp Care; Head & Shoulders Purely Gentle Scalp Care 2in1; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Classic Clean; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Deep Moisture; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Dry Scalp Care; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Green Apple; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Itchy Scalp Care; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Smooth & Silky; Head & Shoulders Pyrithione Zinc Dandruff Conditioner Volume Boost; Head & Shoulders Pyrithione Zinc Dandruff Shampoo 2in1 Deep Moisture; Head & Shoulders Pyrithione Zinc Dandruff Shampoo 2in1 Invigorating Scalp Care; Head & Shoulders Pyrithione Zinc Dandruff Shampoo 2in1 Men Old Spice Pure Sport; Head & Shoulders Pyrithione Zinc Dandruff Shampoo 2in1 Men Old Spice Swagger; Head & Shoulders Pyrithione Zinc Dandruff Shampoo 2in1 Tea Tree; Head & Shoulders Pyrithione Zinc Dandruff Shampoo Deep Moisture; Head & Shoulders Pyrithione Zinc Dandruff Shampoo Invigorating Scalp Care; Head & Shoulders Pyrithione Zinc Dandruff Shampoo Men Old Spice Pure Sport; Head & Shoulders Pyrithione Zinc Dandruff Shampoo Men Old Spice Swagger; Head & Shoulders Pyrithione Zinc Dandruff Shampoo Tea Tree; Head & Shoulders Pyrithione Zinc Dandruff Shampoo Volume Boost; Head & Shoulders Refresh 2 In 1 Men; Head & Shoulders Refresh Men; Head & Shoulders Shp Crm 2%; Head & Shoulders Smooth & Silky; Head & Shoulders Smooth & Silky 2 In 1; Head & Shoulders Total Care 2in1; Head & Shoulders Total Care All-IN-1 Men; Head And Shoulders 2 in 1 Smooth and silky; Head Remedy; Head Remedy Dandruff Conditioner; Head and Shoulder Men Old Spice; Head and Shoulders; Head and Shoulders 2in1 Citrus Breeze; Head and Shoulders 2in1 Classic Clean; Head and Shoulders 2in1 Dry Scalp Care; Head and Shoulders 2in1 Green Apple; Head and Shoulders 2in1 Hair Endurance for Men; Head and Shoulders 2in1 Instant Oil Control; Head and Shoulders 2in1 Instant Relief; Head and Shoulders 2in1 Itchy Scalp Care; Head and Shoulders 2in1 Men with Old Spice; Head and Shoulders 2in1 Moisture Care; Head and Shoulders 2in1 Ocean Lift; Head and Shoulders 2in1 Purely Gentle Scalp Care; Head and Shoulders 2in1 Refresh; Head and Shoulders 2in1 Refresh Men; Head and Shoulders 2in1 Smooth and Silky; Head and Shoulders Active Sport; Head and Shoulders Active Sport 2in1; Head and Shoulders Breakege Prevention; Head and Shoulders Citrus Breeze; Head and Shoulders Classic Clean; Head and Shoulders Classic Clean Dandruff; Head and Shoulders Clinical Solutions Leave-On Dandruff Treatment; Head and Shoulders Complete Scalp Care 2in1; Head and Shoulders Conditioner Classic Clean; Head and Shoulders Conditioner Damage Rescue; Head and Shoulders Conditioner Dry Scalp; Head and Shoulders Conditioner Full and Strong; Head and Shoulders Conditioner Green Apple; Head and Shoulders Conditioner Instant Hydration; Head and Shoulders Conditioner Instant Relief; Head and Shoulders Conditioner Itchy Scalp; Head and Shoulders Conditioner Smooth and Silky; Head and Shoulders Damage Rescue; Head and Shoulders Damage Rescue 2in1; Head and Shoulders Dandruff Moisturizing Action; Head and Shoulders Deep Moisture; Head and Shoulders Deep Moisture 2in1; Head and Shoulders Deep Moisture Hair and Scalp Conditioner; Head and Shoulders Dry Scalp; Head and Shoulders Dry Scalp Care; Head and Shoulders Dry Scalp Care 2in1; Head and Shoulders Dry Scalp Care Hair and Scalp Conditioner; Head and Shoulders Dual Sachets Classic Clean; Head and Shoulders Dual Sachets Full and Strong; Head and Shoulders Dual Sachets Green Apple; Head and Shoulders Dual Sachets Instant Relief; Head and Shoulders Dual Sachets Smooth and Silky; Head and Shoulders Extra Strength; Head and Shoulders Extra Strength Men; Head and Shoulders Extra Volume; Head and Shoulders Extra Volume 2in1; Head and Shoulders Full and Strong; Head and Shoulders Full and Strong 2in1; Head and Shoulders Green Apple; Head and Shoulders Green Apple 2in1; Head and Shoulders Hair and Scalp Conditioner Classic Clean; Head and Shoulders Hair and Scalp Conditioner Green Apple; Head and Shoulders Hair and Scalp Conditioner Instant Relief; Head and Shoulders Instant Fresh; Head and Shoulders Instant Fresh 2in1; Head and Shoulders Instant Hydration; Head and Shoulders Instant Hydration 2 in 1; Head and Shoulders Instant Hydration Hair and Scalp Conditioner; Head and Shoulders Instant Oil Control; Head and Shoulders Instant Oil Control Conditioner; Head and Shoulders Instant Relief; Head and Shoulders Itchy Scalp; Head and Shoulders Itchy Scalp 2in1; Head and Shoulders Itchy Scalp Care; Head and Shoulders Itchy Scalp Care Hair and Scalp Conditioner; Head and Shoulders MEN Old Spice Pure Sport; Head and Shoulders Men 2in1 Old Spice Fiji; Head and Shoulders Men 2in1 Old Spice Pure Sport; Head and Shoulders Men Active Sport; Head and Shoulders Men Active Sport 2in1; Head and Shoulders Men Deep Clean; Head and Shoulders Men Deep Clean 2in1; Head and Shoulders Men Full and Thick; Head and Shoulders Men Full and Thick 2in1; Head and Shoulders Men Old Spice; Head and Shoulders Men Refresh; Head and Shoulders Men Refresh 2in1; Head and Shoulders Men Total Care All in 1; Head and Shoulders Moisture Care; Head and Shoulders Moisture Care Cowash; Head and Shoulders Nourishing Hair and Scalp Care; Head and Shoulders Nourishing Hair and Scalp Care 2in1; Head and Shoulders Nourishing Hair and Scalp Care Conditioner; Head and Shoulders Ocean Lift; Head and Shoulders Ocean Lift 2in1; Head and Shoulders Old Spice Swagger; Head and Shoulders Old Spice Swagger 2in1; Head and Shoulders Purely Gentle Scalp Care; Head and Shoulders Purely Gentle Scalp Care 2in1; Head and Shoulders Repair and Protect; Head and Shoulders Repair and Protect 2in1; Head and Shoulders Repair and Protect Hair and Scalp Conditioner; Head and Shoulders Sensitive Scalp Care; Head and Shoulders Sensitive Scalp Care 2in1; Head and Shoulders Smooth and Silky; Head and Shoulders Smooth and Silky 2in1; Head and Shoulders Tea Tree; Head and Shoulders Tea Tree 2in1; Head and Shoulders Treatment Damage Rescue 2 Minute Repair; Head and Shoulders Treatment Dry Scalp Care 2 Minute Moisturizer; Head and Shoulders Treatment Full and Strong 2 Minute Strengthener; Head and Shoulders Volume Boost; Head and Shoulders Volume Boost 2in1; Head and Shoulders breakage prevention; Head and Shoulders hair loss prevention; Head and Shoulders menthol fresh; Head and Shoulders renewing clean; Head and Shoulders smooth and silky; Head and ShouldersVolume Boost Hair and Scalp Conditioner; Heads & Shoulders Damage Repair; Heads & Shoulders Ocean Fresh 2 In 1; Heb Dandruff; Herbal Essences, No Flakin Way Antidandruff Shampoo; Herbal Shampoo and Scalp Treatment for Dandruff Control; Herbaliste; Hyvee Care Classic Clean 2 in 1 Dandruff; Hyvee Care Classic Clean Dandruff; Hyvee Care Dry Scalp Dandruff; Intense Clear; Intense Clear Pure; Itchy Scalp; Jason Dandruff Relief Treatment 2 in 1; Jean Murrat Shampooing Anti-pelliculaire; Jhirmack Distinctions Silver Plus Dandruff; Keep Clear Antidandruff Shp 1%; Kenra Dandruff Shampoo; KeraCare Dry and Itchy Scalp Anti-Dandruff; Kerastase Specifique Bain Exfoliant Hydratant; Kiehls Since 1851 Scalp Purifying Dandruff; Kms California Head Remedy Dandruff Shampoo; Kms Daily Fixx Dandruff Shampoo; L OCCITANE Anti-Dandruff Sensitive Scalp; LEudine Anti-dandruff; LOreal Paris Hair Expert Ever Fresh Sulfate Free Antidandruff; LOreal Professionnel Paris Instant Clear Antidandruff; Lancell Huitomo Hair Loss Prevention Hair Grower Clean Formula; Lancell hair loss prevention hair grower clean formula; Lbel Homme Antidandruff; Life -shampooing Et Revitalisant Antipelliculaire Classique - 2 En 1; Life Brand Itchy Dry Scalp Anti-dandruff Shampoo; Life Combat Anti-dandruff; Life Dandruff Shampoo; Lucky 2in1 Classic; Lucky Classic; Lucky Dry Hair; MD CELL Scalp; MOJELIM Dr; Mane n Tail Daily Control 2 in 1 Anti Dandruff Shampoo Conditioner; Mane n Tail Daily Control Anti-Dandruff; Matrix Biolage ScalpSync Antidandruff; Matrix Essentials Actrol Dandruff Shampoo; Medaclear; Medecean Seborrhea; Melaleuca Shampooing Antipelliculaire Pellicules Grasses, Cuir Chevelu Gras-rene Furterer; Members Mark Gentle Dandruff; Men Expert Anti-dandruff 2 In 1; Mizani Scalp Care Antidandruff; Mizani Scalp Care Conditioner Antidandruff Conditioner; Mo-tech; Natural 17 Anti-Dandruff; Naturaltech Purifying Anti-dandruff; Ndm Scalp; Neutrogena Tgel Daily Control 2 in 1; Nioxin Scalp Optimizing Cleanser Advanced Thinning; Nioxin Scalp Optimizing Conditioner Advanced Thinning; Nioxin Scalp Recovery Medicating Cleanser; Nioxin Scalp Recovery Moisturizing Condtioner; Nioxin Scalp Recovery Soothing Serum; No More Dandruff Hair and Scalp Conditioner; No More Dandruff Shampoo; Normal Dandruff Treatment Shampoo; Ocean Breeze 2 In 1 Dandruff Sea Mineral Scent; Oily Hair Dandruff Zerran International; Old Spice Pure Sport Plus 2in1 Anti-dandruff; Old Spice Steel Courage 2in1 Anti Dandruff; Old Spice Stronger Swagger 2in1 Anti Dandruff; Osmose - Shampooing Anti-pelliculaire; Out Of Africa 2 Minute Botanical Shampoo 1%; Out Of Africa Conditioner; Out Of Africa Dry Conditioner; Out Of Africa Dry Shampoo; Out Of Africa Regular Conditioner; Out Of Africa Regular Shampoo; P.O.V. 2 in 1 Dry Scalp Dandruff; P.O.V. Classic 2 in 1 Dandruff; P.O.V. Classic Dandruff; P.O.V. Dry Scalp Dandruff; P.O.V. Green Apple 2 in 1 Dandruff; P.O.V. Timeless Spice 2 in 1 Dandruff; PCA Skin Intensive Pigment Eraser; Panrosa FRESH CLEAN Pyrithione Zinc Dandruff; Pantene Anti-dandruff Shampoo; Pantene Pro-V Hydra Scalp Care; Pantene Pro-V Hydra Scalp Care 2in1; Pantene Pro-V Hydra Scalp Care Conditioner; Pantene Pro-V Hydra Scalp Care Pyrithione Zinc Dandruff Conditioner; Pantene Pro-V Hydra Scalp Care Pyrithione Zinc Dandruff Shampoo; Pantene Pro-V Hydra Scalp Care Pyrithione Zinc Dandruff Shampoo 2in1; Personal Care Pyrithione Zinc Dandruff; Pert Anti-dandruff; Pert Plus 2 in 1 Shampoo and Conditioner Anti-Dandruff; Pert Plus 2 in 1 Shampoo and Conditioner Dry Scalp Care; Pert Plus Dandruff Control Dandruff Shampoo; Pert Plus Dandruff Control for N. Or D. Hair; Pert Plus Dandruff Plus; Pert Plus Dry Scalp Care; Pert Plus for Men Daily Dandruff; Positively Nourishing Dandruff Control 2-IN-1 Shampoo & Conditioner; Positively Nourishing Dandruff Control Conditioner; Positively Nourishing Dandruff Control Shampoo; Power Clear; Proactiv Herbal Conditioning Treatment; Proactiv Soothing Scalp Treatment Antidandruff; Purete; Pyrithione Zinc; Pyrithione Zinc 1 % Dandruff Shampoo; Pyrithione Zinc Dandruff Shampoo Citrus; Pyrithione Zinc Dandruff Shampoo Classic Clean; Pyrithione Zinc Dandruff Shampoo Refresh; Pyrithione Zinc Dandruff Shampoo Scalp Care; Pyrithione Zinc Dandruff Shampoo and Conditioner Classic Clean 2 In 1; REVAGAIN Hair and Scalp revitalizing; ReEn Hairloss Clinic Jahajin Shampoo for Sensitive Scalp; Rebirth Hair; Redken 5th Avenue NYC Scalp Relief Dandruff Control; Redken Solve Acid Balance Shp; Retaliate; Rite Aid Dandruff 2 in 1 Classic Clean; Rite Aid Dandruff 2 in 1 Dry Scalp Care; Rodan & Fields Proactiv Solution: Gentle Formula Antidandruff Shampoo; Royal dandruff Dry Scalp Care; SATINIQUE ANTI-DANDRUFF for dry, irritated scalp; SHILLS ACNE Purifying Peel Off Black Mask; Safeway Care Dandruff; Safeway Care Normal To Oily Hair; Safeway Dandruff; Safeway Dandruff Classic Clean; Safeway Dandruff Dry Scalp; Safeyway Care Normal To Oily Hair; Satinique Anti Dandruff; Satinique Anti-dandruff Shampoo; Satinique Anti-dandruff Shampoo 1.9%; Satinique Dandruff Control Hair Cleanser; Scalp Purifying Anti-dandruff Shampoo; Scalp Relief Dandruff Control (pyrithione Zinc Cream); Scalp Relief Dandruff Control (pyrithione Zinc Shampoo); Scalp Relief Dandruff Control Leave-IN Treatment; Scalp Scaling; Scalpsync Anti-dandruff; Sebulon Shampoo Liq 2%; Selection Dandruff Shampoo 2 In 1; Selection Dandruff Shampoo Dry Hair; Selection Dandruff Shampoo-classic; Selsun Blue Anti-dandruff Shampoo; Selsun Blue Full and Thick; Selsun Blue Itchy Dry Scalp; Selsun Blue Sensitive Scalp; Sereve Professional Scalp; Shampoo Control - 2%; Shampooing 2 En 1 Antipelliculaire; Shampooing Anti-pelliculaire 1%; Shelo NABEL Anti Caspa; Shikatri Class; Shiny and Sleek; Short Cuts Anti-dandruff Shampoo; Silver Plus; Simply Clean Dandruff; Skin-cap Shampoo - 1%; Skin-cap Spray-2mg/ml; Smooth and glossy; Soft Whisper Dandruff; Soft Whisper by Power Stick Dandruff; Solve Dandruff Shampoo; Soothe and Cool Fresh; Sp System Professional 3.4 Remove Shampeeling; Spai-sons Alkaline Dry-dandruff; Sprayzinc; Suave Invigorating Ocean Minerals and Aloe Vera AntiDandruff; Suave Men 2 in 1 Dandruff; Suave Men 2 in 1 Pure Power Antidandruff; Suave Men Deep Clean Mint Refresh AntiDandruff; Suave Nourishing Coconut and Shea Butter AntiDandruff; Suave Nourishing Coconut and Shea Butter AntiDandruff Conditioner; Suave Professionals Men 2 in 1 Classic Clean AntiDandruff; Suave Professionals Men AntiDandruff; Suave Revitalizing Mint and Eucalyptus AntiDandruff; Suave Revitalizing Mint and Eucalyptus AntiDandruff Conditioner; System Prof. Epithel Med. Antidandruff Shp; System TLC Anti-dandruff; T/gel Daily Control; T/gel Daily Control 2 In 1; Tegrin; The Original Mane n Tail Daily Control 2 in 1 Anti Dandruff; The Original Mane n Tail Daily Control Anti Dandruff; The Original Mane n Tail Daily Control Anti Dandruff Conditioner; Therapeutic; Therapytion Nokmosu Neutral and oily Hair; Therapytion Nokmosu Sensitive and Dry Hair; Topcare 2 In 1 Dandruff Dry Scalp; Topcare 2 In 1 Dandruff Everyday Clean; Topcare 2 In 1 Dandruff Green Apple; Topcare Gentle Dandruff Dry Scalp; Topcare Gentle Dandruff Everyday Clean; Topcare Gentle Dandruff Fresh Mint; Topcare Gentle Dandruff Green Apple; Triseptin; Triseptin Waterless Antiseptic Lotion; Truly Beauty Shampooing Antipelliculaire Classique; Truly Dandruff Shampoo; Ultraplus Cond.shampoo for Dandruff Control; University Medical Pharmaceuticals Cleansing Shampoo; Vanicream Z-Bar; Vegetability Natural; Vitale Sensitive Scalp Daily Scalp Healer; Vive Men     -(anti-dandruff); Volumizing Dandruff Tonic Liq 0.15%; X-seb Plus Conditioning Shampoo; XtraCare 2 in 1 Hair Cleanse and Condition Coconut Water; XtraCare 2 in 1 Hair Cleanse and Condition Green Apple; XtraCare Anti-Dandruff Conditioner Coconut and Shea Butter; XtraCare Anti-Dandruff Conditioner mint and eucalyptus; XtraCare Anti-Dandruff Hair Cleanse Cocoa and Shea Butter; XtraCare Anti-Dandruff Hair Cleanse Coconut and Shea Butter; XtraCare Anti-Dandruff Hair Cleanse for normal hair; XtraCare Anti-Dandruff Hair Cleanse for sensitive hair; XtraCare Anti-Dandruff Hair Cleanse mint and eucalyptus; Z-plus Shampoo; Zinc Pyrithione; Zinc Pyrithione Dandruff Shampoo; Zinc Pyrithione Dandruff Shampoo - Cool Sensation; Zinc Pyrithione Dandruff Shampoo-normal/oily Hair; Zinc Zap Cream; Zinc Zap Shampoo; Zinc Zap Spray; Zincon Medicated Dandruff; Znp Bar 2%; Zp 11 Antidandruff Hairdressing; Zp 11 Antidandruff Shampoo (herbal) 1%; Zp11 Medicated Shampoo(reg.)
+
+>  <SMILES>  (1) 
+[O-][N+]1=CC=CC=C1S[Zn]SC1=CC=CC=[N+]1[O-]
+
+>  <SYNONYMS>  (1) 
+Zinc Pyrithione
+
+$$$$

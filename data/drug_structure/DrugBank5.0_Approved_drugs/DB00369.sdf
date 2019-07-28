@@ -1,0 +1,184 @@
+369
+     RDKit          2D
+
+ 32 32  0  0  1  0  0  0  0  0999 V2000
+    4.5080   -2.4751    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6830   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.3001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  5  1  0
+  1  6  2  0
+  1 14  1  0
+ 11  2  1  1
+  2 14  1  0
+  3 13  1  0
+  7 16  2  0
+  8 12  1  0
+  8 15  1  0
+  8 16  1  0
+  9 16  1  0
+  9 18  2  0
+ 10 18  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 15 17  2  0
+ 17 18  1  0
+  3 19  1  0
+  4 20  1  0
+  5 21  1  0
+ 10 22  1  0
+ 10 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 17 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.12
+
+>  <ALOGPS_LOGS>  (1) 
+-1.38
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.15e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00369
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00369
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+279.062021707
+
+>  <FORMULA>  (1) 
+C8H14N3O6P
+
+>  <GENERIC_NAME>  (1) 
+Cidofovir
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H14N3O6P/c9-7-1-2-11(8(13)10-7)3-6(4-12)17-5-18(14,15)16/h1-2,6,12H,3-5H2,(H2,9,10,13)(H2,14,15,16)/t6-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+VWFCHDSQECPREK-LURJTMIESA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.443744856111607
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+({[(2S)-1-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.413351889658639
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+7.904873659261004
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.1871568476753072
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.1509040654505562
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+145.68
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+60.4279
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cidofovir
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+279.187
+
+>  <PRODUCTS>  (1) 
+Cidofovir; Cidofovir Dihydrate; Vistide
+
+>  <SALTS>  (1) 
+Cidofovir dihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00148
+
+>  <SMILES>  (1) 
+NC1=NC(=O)N(C[C@@H](CO)OCP(O)(O)=O)C=C1
+
+>  <SYNONYMS>  (1) 
+({[(S)-1-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid; (S)-(3-(4-amino-2-Oxopyrimidin-1(2H)-yl)-1-hydroxypropan-2-yloxy)methylphosphonic acid; (S)-1-(3-Hydroxy-2-phosphonomethoxypropyl)cytosine; (S)-1-[3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; (S)-1-[3-Hydroxy-2-(phosphonylmethoxy)propyl]cytosine; (S)-HPMPC; [(S)-2-(4-Amino-2-oxo-2H-pyrimidin-1-yl)-1-hydroxymethyl-ethoxymethyl]-phosphonic acid; [[(S)-2-(4-amino-2-oxo-1(2H)-pyrimidinyl)-1-(hydroxymethyl)ethoxy]methyl]phosphonic acid ; 1-(S)-[3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; 1-[(S)-3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; CDV; Cidofovir; Cidofovir anhydrous; Cidofovirum
+
+$$$$

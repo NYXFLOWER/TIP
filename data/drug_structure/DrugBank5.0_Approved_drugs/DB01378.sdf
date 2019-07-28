@@ -1,0 +1,98 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB01378
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01378
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+23.985041898
+
+>  <FORMULA>  (1) 
+Mg
+
+>  <GENERIC_NAME>  (1) 
+Magnesium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Mg/q+2
+
+>  <INCHI_KEY>  (1) 
+JLVVSXFLKOJNIY-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+magnesium(2+) ion
+
+>  <JCHEM_LOGP>  (1) 
+-0.57
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+magnesium(2+) ion
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+24.305
+
+>  <PRODUCTS>  (1) 
+Acetabolan III Vitamin and Mineral Supplement; Acetabolan-II Vitamin and Mineral Supplement; Acti Mag 250 Caplet; Acti-cal/mag 2:1 + Zinc and D Caplet; Actical Plus Calcium-magnesium-vitamin D3-silicon Chewable; Active Calcium Plus Magnesium, Vitamin D and Silicon; Actyform; Alphaligo; Aminosyn; Aminosyn 3.5% M; Armax; Avon Nutrivance Vitamin E Plus; B & J Formula Dietary Supplement; B 6 Plus; Baisix; Bseltzer; Buffered Vitamin C Plus Magnesium; Buffered Vitamin C Powder With Ca Mg and K; Buffered Vitamin C Pwr W Cal-mag-potassium; C-Nate DHA; C.H.V. Formula; C.R.T. X Multivitamin & Mineral Powder Mix; Cal & Mag Hvp Chel Plus C Potass & Zinc Tab; Cal M Tab; Cal Mag Drink With Vitamin C; Cal Mag Plus - Tab; Cal Mag Tab; Cal-mag (one To One) With Potass & Zinc; Cal-mag Citrate Zinc & Vitamin D Tablets; Cal-mag Complete With Zinc, C and D; Cal-mag Plus K, Mn and Zn Caplets; Cal-mag Tablet; Cal-mag Vitamin C and Zinc Tab; Cal-mag With Vitamin D; Cal-mag With Zinc & Vitamin D; Cal/mag 1:1 With Zinc and Vitamin D - Tablet; Cal/mag 2:1 With D; Cal/mag+d; Calci-yum Plus Magnesium + D3; Calcimag Tab; Calcium  Mg and Zn Capsules With Vitamin D; Calcium & Magnesium Citrate Plus D With Manganese, Potassium & Zinc; Calcium & Magnesium Plus Potassium & Zinc; Calcium & Magnesium Plus Potassium, Zinc, & Manganese; Calcium & Magnesium Tab; Calcium & Magnesium Tablets; Calcium & Magnesium With Potassium & Zinc; Calcium & Magnesium With Potassium, Zinc, Manganese & Vitamin D; Calcium & Magnesium With Vitamin D; Calcium 400 With Magnesium - Pwr; Calcium Caps Plus Magnesium; Calcium Capsules With Magnesium and Vitamin D; Calcium Complex High Grade; Calcium Et Magnesium Plus Vitamin D; Calcium Et Magnesium Plus Vitamine D/fe/zn; Calcium Et Magnesium Tab; Calcium Folic Acid Plus D Chewable; Calcium Lactate Powder; Calcium Magnesium 1000/500 - Tab; Calcium Magnesium 2:1 Tablets With Vitamin D; Calcium Magnesium Avec Vitamine C; Calcium Magnesium Sulfur Silicon - Tab; Calcium Magnesium Tab; Calcium Magnesium Tablets Nu Life; Calcium Magnesium With Potassium Tab; Calcium Plus; Calcium With Magnesium and Vitamin D; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium and Mag-potass and Zinc Cap; Calcium and Magnesium 1:1 Plus Tablets; Calcium and Magnesium Citrate With Vitamin D; Calcium and Magnesium Citrate and Vitamin D 250mg/125mg/200iu; Calcium and Magnesium Tab; Calcium and Magnesium Tablets; Calcium and Magnesium W Zinc Tab; Calcium and Magnesium With Vitamin D; Calcium and Magnesium With Zinc; Calcium, Magnesium, Zinc and D; Calcium-magnesium Cap 1:1 W Vitamin D; Calcium-magnesium With K & Zn and Vitamin D3; Calcium/magnesium Drink; Calcium/magnesium Supplement Tablets; Calcium/magnesium/vitamin D - Capsule; Calcor; Calma-D; Calmax; Calplus; Carti-aide Tab; Central-vite 18 Essential; Century Complete; Chela Calmag-100 Plus Zinc D3; Chela Calmag-300 Plus Zinc D3; Chelated Cal-mag(2:1)with Zn Vit.c and D; Chelated Cal/mag/zn With Vitamins; Chelated Calcium and Magnesium Tab; Chelated Magnesium 150mg - Tab; Chelated Magnesium Supplement - Tab 100mg; Chelated Magnesium Tab 50mg; Chelazome Magnesium 100mg; Chewable Cal-mag Chocolate Flavour; Chewable Calcium & Magnesium 2:1 Tablet; Chewable Calcium Plus Magnesium and Minerals; Chromease Tab; Complete Multivitamins and Minerals Tablets Timed Release; Daily Supplement Packs; Derma-force; Dol Mite Tab; Dolomite 1280mg; E.S.T. Complex; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efferlife Multivitamins and Minerals; Effervescent Vitamin C Powder With Ca and mg; Enviroflex - Tab; Escavite; Ez-flex; F.M. Formula; Fem - F.S. Formula; Fem - Pmt; Female Advantage; Femidause; Feminex 300 Tab; Femitab Tab; Flex Capsules; Folcaps Care One; Folet One; Formula 9 Tab; Formula B; Formula BP; Formula Cm; Formula Cn; Formula Cw; Formula Cw-caplet; Formula EC; Formula Est'ro Tab Support; Formula Fe-vitamin and Mineral Tab; Formula Fm Vitamins & Minerals Tab; Formula Inf; Formula Js; Formula O-care Vitamin and Mineral Supplement; Formula Osg; Formula R Tab; Formula Statin Support; Formule 3000; Fortifi-plus; Fusion Activator Formula Tab; Fusion PM Formula Tab; G.A.S. Complex; Glyco-aide Tab; Good Night/pm Formula Tab; Hvp Chelated Cal/mag With Zinc and Vitamins C and D; Hyperlyte (multi-electrolyte Concentrate); Hypo Vites Tab; Ifb; Isotonix Advanced B-complex Vitamins With Potassium and Magnesium; Isotonix Calcium Plus Formula; Isotonix Vitamin B-folic Acid-mineral Supple; Kanga Sport Vitamins B & C Plus Minerals; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kmg Plus; L.G.I.T.; L.I.P. Complex; Leritone Magnesium & Vitamine E; Liquical; Liquid Cal-mag; Liquid Cal/mag Plus D; Liquid Calcium and Magnesium With Vit.d; Lypholyte; Lypholyte Multi-electrolyte Conc Inj; Mag/cal 1:1 Capsules W Vitamin D; Magnacal; Magnelis; Magnesium; Magnesium - 100mg Tab; Magnesium 150 mg; Magnesium 250 mg; Magnesium 250mg Tab; Magnesium 50mg With Vitamin B6 Tab; Magnesium Cap; Magnesium Chelate 125mg; Magnesium Citramate Cap; Magnesium Citrate; Magnesium Citrate - Cap 100mg; Magnesium Citrate - Cap 90mg; Magnesium Citrate 150mg; Magnesium Citrate Cap 150mg; Magnesium Citrate Caplet 300mg; Magnesium Complex 250mg; Magnesium Dietary Supplement; Magnesium Lactate Cap 70mg; Magnesium Liq 114mg/15ml; Magnesium Oxide Powder Heavy; Magnesium Oxide Tab 252mg; Magnesium Oxide Tab 70mg; Magnesium Supplement; Magnesium Tablets 200mg; Magnesium and Zinc; Magnesium-CL; Magnesium-tab; Magnex Liq; Magnogene Comprimes Enrobes; Magnorol Cap 20mg; MaxFe; Menocal Tab; Meth-X Vitamin and Mineral Supplement; Mgk; Mid-life Magnacal 2; Min-tran Tab; Mineralex; Mnps Formula Supplement; Multi #2; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin-mineral Formula; Multi Vitamins & Minerals; Multi-min Electro C Pow Plus B2; Multi-vitamins With Minerals; Multicaps; Multimineral Chelates; Multiple Vitamins & Minerals Tablets; Multitabs; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; N.U.T. Complex; NMC Magma Mineral Pack; Nata Komplete; Natura Magnesium Plus Vitamin C; Naturogene Tab 36mg; Neo-vites & Minerals Tab; Neutral C + Coenzyme Q10 Plus Vitamins & Minerals; Normosol-M & 5% Dextrose; Nutravite Calcium Magnesium and Zinc Caps; Nutri-chem Cal Mag; Nutri-chem Calcium Magnesium With D and Zinc; Nutrilite Double X; Nutrilyte; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Multiple Vit W Minerals; One A Day Tab; Osteo Formula; Osteo Formula Tab; Osteo Tablets; Osteo-life; Osteo-plus; Osteoligo; P.R.O. Complex; Phytesium Liq 10.24mg/ml; Phytopure; Plasma-lyte 56 5% Dextrose Inj; Pnv-dha; Port A Mins Super Cal-mag 300/150 With Vitamin D3; Port A Mins Super Cal-mag 600/300; Port A Mins Super Magnesium 188; Port A Mins Super Magnesium 375; Pour Ma Santé; Powertech Vitamin and Mineral Supplement; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Premel; Prevencal 600 + D Et Magnesium; Q-10 Plus; Q.T. Vitamin and Mineral Drink Mix; Reaphirm Plant Source DHA; Reebok; Rolaids Extra Strength Multi-symptom Tablets; Rolaids Extra Strength Tab; Slow-mag; Slow-mag-tab; Spectra 301 Vitamin and Mineral Supp; Spectrum 2 Cap; Strovite Forte Caplet; Super C-M-K; Super Cal Mag Plus; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super-cell; Supplement De Vitamines Et Mineraux; Supplements De Vitamines Et Mineraux; Swical D-M - Tab; Swical-multi; T-PA Cap; Tri-buffered Asa Tab; Tri-mins - Cap; Usana Calmag Plus Tablets - Tab; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; Usana Optimizer Actical Plus Calcium-magnesium-vitamin D3-silicon Tablets; Vege 1 Daily Tab; Vimeral Tab; Vit C W Calc-mag and Potass Powder; Vita - Gl Capsules; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vital Be-100; Vitalife  -  Capsule; Vitality Brand Calcium Plus Tab; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitaplex; Vtb Vitamin and Mineral Supplement; Women's Change Formula; Women's Formula; Women's Support Tablets; Z-force Vitamin and Mineral Supplement; Z-mass PM Vitamin and Mineral Supplement
+
+>  <SALTS>  (1) 
+Magnesium acetate; Magnesium lactate; Magnesium levulinate
+
+>  <SMILES>  (1) 
+[Mg++]
+
+$$$$

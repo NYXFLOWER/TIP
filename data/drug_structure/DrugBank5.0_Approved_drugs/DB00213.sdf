@@ -1,0 +1,207 @@
+213
+     RDKit          2D
+
+ 41 43  0  0  1  0  0  0  0  0999 V2000
+    7.3097    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5472    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7222    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1972    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0031    0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0031   -0.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9597   -1.4290    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4846    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7222   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5472   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9597    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7847    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1972   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7847   -1.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9597    1.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0222    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0
+  1 12  1  0
+  1 14  1  0
+  2 25  1  0
+  3 25  1  0
+  4 18  1  0
+  4 24  1  0
+  5 19  1  0
+  5 25  1  0
+  7 21  1  0
+  7 26  1  0
+  8 11  1  0
+  8 12  1  0
+  9 12  2  0
+  9 13  1  0
+ 10 15  2  0
+ 10 23  1  0
+ 11 13  2  0
+ 11 16  1  0
+ 13 17  1  0
+ 14 15  1  0
+ 15 18  1  0
+ 16 19  2  0
+ 17 20  2  0
+ 18 21  2  0
+ 19 20  1  0
+ 21 22  1  0
+ 22 23  2  0
+  8 27  1  0
+ 14 28  1  0
+ 14 29  1  0
+ 16 30  1  0
+ 17 31  1  0
+ 20 32  1  0
+ 22 33  1  0
+ 23 34  1  0
+ 24 35  1  0
+ 24 36  1  0
+ 24 37  1  0
+ 25 38  1  0
+ 26 39  1  0
+ 26 40  1  0
+ 26 41  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.11
+
+>  <ALOGPS_LOGS>  (1) 
+-2.89
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.95e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00213
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00213
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+383.075133083
+
+>  <FORMULA>  (1) 
+C16H15F2N3O4S
+
+>  <GENERIC_NAME>  (1) 
+Pantoprazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H15F2N3O4S/c1-23-13-5-6-19-12(14(13)24-2)8-26(22)16-20-10-4-3-9(25-15(17)18)7-11(10)21-16/h3-7,15H,8H2,1-2H3,(H,20,21)
+
+>  <INCHI_KEY>  (1) 
+IQPSEEYGBUAQFF-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Pantozol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.16844686637351
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methanesulfinyl]-1H-1,3-benzodiazole
+
+>  <JCHEM_LOGP>  (1) 
+2.1757533226666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.75737352285693
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.152252771451785
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.554451857291244
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.33
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.05200000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pantoprazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+383.37
+
+>  <PRODUCTS>  (1) 
+Abbott-pantoprazole; Act Pantoprazole; Apo-pantoprazole; Auro-pantoprazole; Ava-pantoprazole; Bio-pantoprazole; Controloc Control; Dom-pantoprazole; Ipg-pantoprazole; Jamp-pantoprazole; M-pantoprazole; Mar-pantoprazole; Mint-pantoprazole; Mylan-pantoprazole; Mylan-pantoprazole T; Ntp-pantoprazole; PHL-pantoprazole; PMS-pantoprazole; Pantecta Control; Panto IV; Panto-byk; Pantoloc; Pantoloc Control; Pantoprazole; Pantoprazole Magnesium; Pantoprazole Sodium; Pantoprazole Sodium DR; Pantoprazole Sodium Delayed Release; Pantoprazole Sodium Delayed-Release; Pantoprazole Sodium Delayed-Release Delayed-Release; Pantoprazole Sodium Dr; Pantoprazole Sodium for Injection; Pantoprazole T; Pantoprazole for Injection; Pantoprazole sodium; Pantoprazole-20; Pantoprazole-40; Pantozol Control; Priva-pantoprazole; Protonix; Protonix Delayed-Release; Protonix Delayed-release; Protonix I.V.; Q-pantoprazole; Ran-pantoprazole; Ratio-pantoprazole; Riva-pantoprazole; Sandoz Pantoprazole; Somac Control; Tecta; Teva-pantoprazole; Teva-pantoprazole Magnesium; Torrent-pantoprazole; Van-pantoprazole
+
+>  <SALTS>  (1) 
+Pantoprazole magnesium; Pantoprazole magnesium hemipentahydrate; Pantoprazole sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00073
+
+>  <SMILES>  (1) 
+COC1=C(OC)C(CS(=O)C2=NC3=C(N2)C=C(OC(F)F)C=C3)=NC=C1
+
+>  <SYNONYMS>  (1) 
+Pantoprazol; Pantoprazolum
+
+$$$$

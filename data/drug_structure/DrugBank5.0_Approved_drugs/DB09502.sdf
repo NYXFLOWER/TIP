@@ -1,0 +1,166 @@
+
+     RDKit          2D
+
+ 23 22  0  0  0  0  0  0  0  0999 V2000
+    1.7861    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.0312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  2  0
+  2  1  1  1
+  2 12  1  0
+  3  2  1  0
+  3  7  1  6
+  4  3  1  0
+  4  8  1  6
+  5  4  1  0
+  5  9  1  1
+ 10  5  1  0
+ 10 11  1  0
+  1 13  1  0
+  2 14  1  0
+  3 15  1  0
+  4 16  1  0
+  5 17  1  0
+  7 18  1  0
+  8 19  1  0
+  9 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 11 23  1  0
+M  ISO  1  12  18
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.84
+
+>  <ALOGPS_LOGS>  (1) 
+-0.12
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.39e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09502
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09502
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+181.061586121
+
+>  <FORMULA>  (1) 
+C6H11FO5
+
+>  <GENERIC_NAME>  (1) 
+Fludeoxyglucose F-18
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H11FO5/c7-3(1-8)5(11)6(12)4(10)2-9/h1,3-6,9-12H,2H2/t3-,4+,5+,6+/m0/s1/i7-1
+
+>  <INCHI_KEY>  (1) 
+AOYNUTHNTBLRMT-MXWOLSILSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+15.53708929322334
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S,4R,5R)-2-(¹⁸F)fluoro-3,4,5,6-tetrahydroxyhexanal
+
+>  <JCHEM_LOGP>  (1) 
+-2.6772687889999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.464156964478391
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.318442418429404
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9742258034472613
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+97.99000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.6535
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(2R,3S,4R,5R)-2-(¹⁸F)fluoro-3,4,5,6-tetrahydroxyhexanal
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+181.15
+
+>  <PRODUCTS>  (1) 
+Fludeoxyglucose F 18; Fludeoxyglucose F-18; Fludeoxyglucose F18
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09150
+
+>  <SMILES>  (1) 
+[H]C(=O)[C@H]([18F])[C@@H](O)[C@H](O)[C@H](O)CO
+
+>  <SYNONYMS>  (1) 
+(18F)-FDG; 18-F FDG; 18F-FDG; Fludeoxyglucose (18F); Fludeoxyglucose F 18; Fludeoxyglucose, F-18
+
+$$$$

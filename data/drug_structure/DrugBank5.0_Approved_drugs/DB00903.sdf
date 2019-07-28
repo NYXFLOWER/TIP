@@ -1,0 +1,182 @@
+903
+     RDKit          2D
+
+ 31 31  0  0  0  0  0  0  0  0999 V2000
+    1.6500    1.0808    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5693    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.3183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.0443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.0443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    3.1433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.5558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.6318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  2 14  1  0
+  3 13  1  0
+  3 18  1  0
+  4  9  2  0
+  5 19  1  0
+  6 19  2  0
+  7  9  1  0
+  7 11  2  0
+  7 12  1  0
+  8  9  1  0
+  8 10  1  0
+  8 17  2  3
+ 10 16  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 13 14  2  0
+ 13 15  1  0
+ 18 19  1  0
+  5 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 12 23  1  0
+ 15 24  1  0
+ 16 25  1  0
+ 16 26  1  0
+ 16 27  1  0
+ 17 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+ 18 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.42
+
+>  <ALOGPS_LOGS>  (1) 
+-4.19
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.94e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00903
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00903
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+302.011264286
+
+>  <FORMULA>  (1) 
+C13H12Cl2O4
+
+>  <GENERIC_NAME>  (1) 
+Etacrynic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H12Cl2O4/c1-3-7(2)13(18)8-4-5-9(12(15)11(8)14)19-6-10(16)17/h4-5H,2-3,6H2,1H3,(H,16,17)
+
+>  <INCHI_KEY>  (1) 
+AVOLMBLBETYQHX-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Crinuryl; Edecril; Edecrina; Endecril; Hidromedin; Hydromedin; Mingit; Otacril; Reomax; Taladren; Uregit
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.569602930770436
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[2,3-dichloro-4-(2-methylidenebutanoyl)phenoxy]acetic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.655706891333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.7969337828715655
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.96222290828044
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.224
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethacrynic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+303.138
+
+>  <PRODUCTS>  (1) 
+Edecrin; Edecrin Tab 50mg; Ethacrynate Sodium; Ethacrynate Sodium for Injection USP; Ethacrynic Acid; Ethacrynic Sodium; Sodium Edecrin; Vpi-ethacrynate Sodium
+
+>  <SALTS>  (1) 
+Ethacrynate sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00251
+
+>  <SMILES>  (1) 
+CCC(=C)C(=O)C1=C(Cl)C(Cl)=C(OCC(O)=O)C=C1
+
+>  <SYNONYMS>  (1) 
+(2,3-Dichloro-4-(2-methylene-1-oxobutyl)phenoxy)acetic acid; acide étacrynique; ácido etacrínico; acidum etacrynicum; Etacrinic acid; Ethacrynate; Ethacrynic acid; Methylenebutyrylphenoxyacetic acid
+
+$$$$

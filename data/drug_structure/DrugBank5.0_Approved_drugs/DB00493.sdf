@@ -1,0 +1,219 @@
+ 
+     RDKit          2D
+
+ 47 49  0  0  1  0  0  0  0  0999 V2000
+   19.2756  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2756  -11.3410    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9769  -11.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6782  -11.3410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6782  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9769  -10.1035    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4506  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4506  -11.3410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7079  -10.1035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0066  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0066  -11.3410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7079  -11.7536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3053  -10.1035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4207  -11.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5628  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9440  -10.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2428  -10.4747    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4903  -11.2998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3153  -11.2998    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3053   -9.2784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9769  -12.5786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6782  -12.9912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2344  -12.9912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9952  -11.9598    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1309  -11.3277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8505  -11.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5487  -11.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8505  -12.5525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0121   -8.8741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0121   -8.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  1  6  1  0
+  1  7  1  0
+  7  8  1  0
+  2  8  1  0
+  7  9  1  1
+  9 10  1  0
+ 10 11  2  0
+  8 12  2  0
+ 10 13  1  0
+  4 14  1  0
+ 13 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 15 19  1  0
+ 13 20  2  0
+  3 21  1  0
+ 21 22  1  0
+ 21 23  2  0
+ 18 24  1  0
+ 14 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 26 28  2  0
+ 20 29  1  0
+ 29 30  1  0
+  1 31  1  6
+  5 32  1  0
+  5 33  1  0
+  7 34  1  0
+  9 35  1  0
+ 14 36  1  0
+ 14 37  1  0
+ 16 38  1  0
+ 22 39  1  0
+ 24 40  1  0
+ 24 41  1  0
+ 27 42  1  0
+ 27 43  1  0
+ 27 44  1  0
+ 30 45  1  0
+ 30 46  1  0
+ 30 47  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.14
+
+>  <ALOGPS_LOGS>  (1) 
+-3.49
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.46e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00493
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00493
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+455.056939303
+
+>  <FORMULA>  (1) 
+C16H17N5O7S2
+
+>  <GENERIC_NAME>  (1) 
+Cefotaxime
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H17N5O7S2/c1-6(22)28-3-7-4-29-14-10(13(24)21(14)11(7)15(25)26)19-12(23)9(20-27-2)8-5-30-16(17)18-8/h5,10,14H,3-4H2,1-2H3,(H2,17,18)(H,19,23)(H,25,26)/b20-9-/t10-,14-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+GPRBEKHLDVQUJE-QSWIMTSFSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Rantaksym; Raxim; Spinocef; Sporim; Talcef
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+9
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+41.77753237798724
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(6R,7R)-3-[(acetyloxy)methyl]-7-[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetamido]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.4061148807115014
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+11.041052370207229
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.1773155672737854
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.152367574978365
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+173.51
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+105.10829999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cefotaxime
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+455.465
+
+>  <PRODUCTS>  (1) 
+Cefotaxime; Cefotaxime Sodium for Injection BP; Cefotaxime Sodium for Injection, BP; Cefotaxime for Injection USP; Claforan; Claforan - Pws Inj 1.0g/vial; Claforan - Pws Inj 2.0g/vial; Claforan - Pws Inj 500mg/vial; Claforan 0.5gm/vial; Claforan 1gm/vial; Claforan 2gm/vial; Claforan Add-vantage Vials 1gm/vial; Claforan Inj 1gm/add-vantage Vial; Claforan Pws Inj 1.0gm/vial; Claforan Pws Inj 2.0gm/vial; Claforan Pws Inj 500mg/vial
+
+>  <SALTS>  (1) 
+Cefotaxime sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00854
+
+>  <SMILES>  (1) 
+[H][C@]12SCC(COC(C)=O)=C(N1C(=O)[C@H]2NC(=O)C(=N/OC)\C1=CSC(N)=N1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+Cefotaxim; Cefotaxima; Céfotaxime; Cefotaximum
+
+$$$$

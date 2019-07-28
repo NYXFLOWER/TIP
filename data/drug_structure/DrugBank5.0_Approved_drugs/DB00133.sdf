@@ -1,0 +1,144 @@
+
+     RDKit          2D
+
+ 14 13  0  0  1  0  0  0  0  0999 V2000
+    0.6124    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8165    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3269   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6124    1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -1.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5310   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  5  1  2  0
+  4  1  1  0
+  3  2  1  0
+  2  6  1  0
+  7  3  1  0
+  2  8  1  0
+  3  9  1  0
+  3 10  1  0
+  4 11  1  0
+  6 12  1  0
+  6 13  1  0
+  7 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-3.42
+
+>  <ALOGPS_LOGS>  (1) 
+0.66
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.80e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00133
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00133
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+105.042593095
+
+>  <FORMULA>  (1) 
+C3H7NO3
+
+>  <GENERIC_NAME>  (1) 
+Serine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+MTCFGRXMJLQNBG-REOHCLBHSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.386631521233845
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-hydroxypropanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.8877352328917727
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.166073878847005
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.033990015469951
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.931303956589883
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.55
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+22.040999999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-serine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+105.0926
+
+>  <PRODUCTS>  (1) 
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; Aminosyn; Aminosyn 10%; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; FreAmine HBC; FreAmine III; HepatAmine; Novamine; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; ProSol; Renamin (amino Acids) Injection; Travasol; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00053; DB03375
+
+>  <SMILES>  (1) 
+N[C@@H](CO)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(S)-2-Amino-3-hydroxypropanoic acid; (S)-Serine; alpha-Amino-beta-hydroxypropionic acid; beta-Hydroxyalanine; L-Serine; Ser; Serina; Serinum
+
+$$$$

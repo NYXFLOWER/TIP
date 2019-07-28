@@ -1,0 +1,156 @@
+
+     RDKit          2D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+   17.1758   -3.7812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7468   -4.6062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8902   -5.8437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6047   -6.2563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8902   -5.0187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1758   -4.6062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1758   -6.2563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4613   -5.0187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4613   -5.8437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6047   -7.0813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8902   -3.3687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3192   -7.4938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  1 11  1  0
+  2  8  1  0
+  3  4  1  0
+  3  5  2  0
+  3  7  1  0
+  4 10  1  0
+  5  6  1  0
+  6  8  2  0
+  7  9  2  0
+  8  9  1  0
+ 10 12  2  3
+  2 13  1  0
+  4 14  1  0
+  4 15  1  0
+  5 16  1  0
+  7 17  1  0
+  9 18  1  0
+ 10 19  1  0
+ 11 20  1  0
+ 11 21  1  0
+ 11 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.66
+
+>  <ALOGPS_LOGS>  (1) 
+-2.06
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.44e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09086
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09086
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+164.083729628
+
+>  <FORMULA>  (1) 
+C10H12O2
+
+>  <GENERIC_NAME>  (1) 
+Eugenol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H12O2/c1-3-4-8-5-6-9(11)10(7-8)12-2/h3,5-7,11H,1,4H2,2H3
+
+>  <INCHI_KEY>  (1) 
+RRAFCDWBNXTKKO-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.896536620818406
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-methoxy-4-(prop-2-en-1-yl)phenol
+
+>  <JCHEM_LOGP>  (1) 
+2.6105799616666663
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.941818320747016
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.892303223457161
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+48.7894
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+eugenol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+164.2011
+
+>  <PRODUCTS>  (1) 
+DenTek Eugenol; Dry Socket; Dry Socket Paste; Eugenol; Eugenol Toothache Medication; Jiffy Toothache Drops; Nuby Teething Gel; Orajel Naturals FAst Relief for Teething Pain; Red Cross Toothache; Walgreens Natural Eugenol/Toothache Medication with cotton pellets and tweezers; Zonalin Liquid
+
+>  <SMILES>  (1) 
+COC1=C(O)C=CC(CC=C)=C1
+
+$$$$

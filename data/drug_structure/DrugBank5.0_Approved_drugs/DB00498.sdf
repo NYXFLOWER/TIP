@@ -1,0 +1,170 @@
+498
+     RDKit          2D
+
+ 27 29  0  0  0  0  0  0  0  0999 V2000
+    4.1159    1.4482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -1.4482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8162    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0
+  2  5  2  0
+  3  4  1  0
+  3  5  1  0
+  3  8  1  0
+  4  6  1  0
+  5  7  1  0
+  6  7  2  0
+  6  9  1  0
+  7 10  1  0
+  8 11  2  0
+  8 12  1  0
+  9 13  2  0
+ 10 14  2  0
+ 11 15  1  0
+ 12 16  2  0
+ 13 14  1  0
+ 15 17  2  0
+ 16 17  1  0
+  3 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 11 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 16 26  1  0
+ 17 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.10
+
+>  <ALOGPS_LOGS>  (1) 
+-3.98
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.30e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00498
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00498
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+222.068079564
+
+>  <FORMULA>  (1) 
+C15H10O2
+
+>  <GENERIC_NAME>  (1) 
+Phenindione
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H10O2/c16-14-11-8-4-5-9-12(11)15(17)13(14)10-6-2-1-3-7-10/h1-9,13H
+
+>  <INCHI_KEY>  (1) 
+NFBAXHOPROOJAW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dindevan; Fenindion; Phenindione; Soluthrombine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.237980906604264
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-phenyl-2,3-dihydro-1H-indene-1,3-dione
+
+>  <JCHEM_LOGP>  (1) 
+2.880905264666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.875342939986653
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.504803574210612
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+34.14
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+65.23350000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+indon
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+222.2387
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00166
+
+>  <SMILES>  (1) 
+O=C1C(C(=O)C2=CC=CC=C12)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+Fenindiona; Fenindione; Phenindion; Phénindione; Phenindionum
+
+$$$$

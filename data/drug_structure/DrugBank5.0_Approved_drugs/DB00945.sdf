@@ -1,0 +1,159 @@
+945
+     RDKit          2D
+
+ 21 21  0  0  0  0  0  0  0  0999 V2000
+    3.0791   -0.0495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.2870    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1 12  1  0
+  2 11  1  0
+  3 11  2  0
+  4 12  2  0
+  5  6  2  0
+  5  7  1  0
+  6  8  1  0
+  6 11  1  0
+  7  9  2  0
+  8 10  2  0
+  9 10  1  0
+ 12 13  1  0
+  2 14  1  0
+  7 15  1  0
+  8 16  1  0
+  9 17  1  0
+ 10 18  1  0
+ 13 19  1  0
+ 13 20  1  0
+ 13 21  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.43
+
+>  <ALOGPS_LOGS>  (1) 
+-2.09
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.46e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00945
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00945
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+180.042258744
+
+>  <FORMULA>  (1) 
+C9H8O4
+
+>  <GENERIC_NAME>  (1) 
+Acetylsalicylic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)
+
+>  <INCHI_KEY>  (1) 
+BSYNRYMUTXBXSQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acenterine; Acetophen; Adiro; Aspergum; Aspro; Bayer Aspirin; Easprin; Nu-seals; Rhodine; Solprin; Solprin acid; St. Joseph Aspirin for Adults; Tasprin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.095252032618916
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(acetyloxy)benzoic acid
+
+>  <JCHEM_LOGP>  (1) 
+1.238089698333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.4147992082888363
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.144798751338897
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.6
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+44.4466
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+aspirin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+180.1574
+
+>  <PRODUCTS>  (1) 
+10 Person ANSI; 217; 217 Strong Tab; 222 Tablets; 25 Person ANSI; 282 Mep Tab; 282 Tab; 282 Tablets; 292 Tab; 292 Tablets; 50 Person ANSI; 692 Tab; 692 Tablet; 7 Select Adult Chewable Aspirin; 7 Select Aspirin; 7 Select Migraine Formula; A & C Tablets With Codeine 15mg; A & C Tablets With Codeine 30mg; A.C. & C. 8 mg; A.C. & C. 8mg; A.C.& C Tablets; A.S.A.; A.S.A. (acetylsalicylic Acid) Tab 325mg USP; A.S.A. 325 Mg Tablet; A.S.A. 80mg Acetylsalicylic Acid Tablets; A.S.A. Enteric Coated Tab 325mg; A.S.A. Enteric Coated Tab 650mg; A.S.A. Tablets 5gr BP; A.S.A. With Methocarbamol Night-time Extra Strength; ACME FIRST AID Contains 404 PIECES; ARC Emergency Preparedness FIRST AID Contains 202 PIECES; ARC FIRST AID Contains 1000 PIECES; ARC FIRST AID Contains 101 PIECES; ARC FIRST AID Contains 101 PIECES Hardcase; ARC FIRST AID Contains 404 PIECES; ASPIRIN Low Strength; ASPIRIN Regular Strength; Ac and C Tab 1/8gr; Ac&c Tablets; Acetylsalicylic Acid 325mg Tab; Acetylsalicylic Acid 325mg Tablets USP; Acetylsalicylic Acid 80 Mg Chewable Tablets; Acetylsalicylic Acid A.S.A. Tablets 325mg; Acetylsalicylic Acid Caffeine & 8mg Cod Phos; Acetylsalicylic Acid Extra Strength 500mg Tablets USP; Acetylsalicylic Acid Extra Strength Stomach Protection 500mg Caplets; Acetylsalicylic Acid Stomach Protection 325mg Tablets; Acetylsalicylic Acid Tab 300mg; Acetylsalicylic Acid Tab 325mg; Acetylsalicylic Acid Tab 325mg BP; Acetylsalicylic Acid, Caffeine & 8 Mg Codeine Phosphate Tablets; Acetylsalicylic Acid, Caffeine and 8mg Codeine Phosphate; Ache and Pain Relief to Go; Adalat XL Plus; Added Strength Pain Reliever; Adult Aspirin Regimen Low Dose; Adult Low Dose Aspirin; Adult Low Dose Aspirin Enteric Safety Coated; Adult Low Dose Enteric Coated Aspirin; Adult Low Strength Aspirin; Adult Low strength Aspirin; Adults Low Strength Aspirin; Advanced Aspirin; Advanced Pain Reliever; Aggrenox; Alka Seltzer; Alka Seltzer Evt; Alka Seltzer Flavoured; Alka Seltzer Original; Alka Seltzer Plus Cold; Alka-Seltzer; Alka-Seltzer Extra Strength; Alka-Seltzer Lemon Lime; Alka-Seltzer Original; Alka-Seltzer Plus; Alka-Seltzer Plus Cold Formula (Cherry Burst); Alka-Seltzer Plus Cold Formula (Orange Zest); Alka-Seltzer Plus Cold Medicine Sparkling Original; Alka-Seltzer Plus Cold Orange Zest; Alka-Seltzer Plus Cold Sparkling Original; Alka-Seltzer Plus Cold and Cough Formula; Alka-Seltzer Plus Day Non Drowsy Cold Medicine Citrus; Alka-Seltzer Plus Multi-Symptom Cold Day and Night; Alka-Seltzer Plus Multi-Symptom Cold Night; Alka-Seltzer Plus Multi-Symptom Cold and Cough; Alka-Seltzer Plus Night Cold Formula (Lemon); Alka-Seltzer Plus Night Cold Medicine; Alka-Seltzer Plus Severe Cold and Flu; Alka-Seltzer XTRA STRENGTH; Alka-seltzer Flavoured; Alka-seltzer Flavoured - Evt; Alka-seltzer Morning Relief; Anacin; Anacin AF; Anacin Caplets; Anacin ES; Anacin Extra Strength; Anacin Extra Strength Caplets; Anacin Extra Strength Tablet; Anacin Tablet; Anacin With Codeine Tab; Antidol Tablets; Apo Asa Tab 325mg; Apo-asa Ld; Arco Pain Tab; Arthriten Inflammatory Pain Formula; Arthriten Max; Asa; Asa 325 Mg Tablets Regular Strength; Asa 325mg; Asa 500 Mg Tablets Extra Strength; Asa 80; Asa 80 mg; Asa 80mg; Asa 81 mg; Asa 975 Tab; Asa Acetylsalicylic Acid; Asa Chewable Tablets; Asa Daily Low Dose; Asa EC; Asa EC 80; Asa Ect 325mg; Asa Ect 600mg; Asa Ect 650mg; Asa Extra Strength Caplet 500mg; Asa Extra Strength Tab 500mg; Asa Suppositories 150mg; Asa Suppositories 650mg; Asa Tab 325mg; Asa Tab 325mg Enteric Coated; Asa Tablets USP 325 mg; Asa and Caffeine; Asa, Caffeine & 8mg Codeine Phosphate; Asa-325 Comprimes Retard; Asa-650 Comprimes Retard; Asa-caffeine-codeine; Asadol 325mg; Asadol 650mg; Asaphen; Asaphen E.C.; Asaphen EC; Asaphen Plus 325; Asasantine Cap; Asatab 80 Mg Chewable Tablets; Asatab EC 325mg; Asatab EC 650mg; Ascomp with Codeine; Ascriptin Maximum Strength Buffered Aspirin; Ascriptin Regular Strength Buffered Aspirin; Aspergum 325 Mg (cherry); Aspergum Orange 325 mg; Aspi-Cor; Aspir Low; Aspirin; Aspirin - Children's Size - Tablets; Aspirin - Children's Size 80mg; Aspirin 325; Aspirin 325 Mg EC; Aspirin 325 mg; Aspirin 325mg; Aspirin 5 grain; Aspirin 81 mg; Aspirin 81 mg Enteric Coated; Aspirin 81 mg Low Dose; Aspirin 81mg; Aspirin 81mg Adult Low Dose; Aspirin 81mg Quick Chews; Aspirin Adult Low Dose; Aspirin Adult Low Strength; Aspirin Adult Low Strength Aspirin; Aspirin Adult low strength; Aspirin Adult, Regimen; Aspirin Arthritis Pain Relief 650 mg; Aspirin Backache; Aspirin Chewable; Aspirin Chewable Low Dose; Aspirin Chewable Tablets; Aspirin Chewable Tablets - 325mg; Aspirin Chewable Tablets 325mg; Aspirin Chewable, Low Dose; Aspirin Coated Caplets 325 mg; Aspirin Coated Caplets 500mg; Aspirin Coated for Delayed Release Extra Strength; Aspirin Coated for Delayed Release Regular Strength; Aspirin Delayed Release; Aspirin E-C Low Dose Safety Coated; Aspirin EC; Aspirin Enteric; Aspirin Enteric Coated; Aspirin Enteric Coated Caplet 325mg; Aspirin Enteric Coated Low Dose; Aspirin Enteric Coated, Regular Strength; Aspirin Enteric Safety Coated; Aspirin Enteric Safety-Coated; Aspirin Express Pack; Aspirin Extra Strength; Aspirin Extra Strength 500mg Tab USP; Aspirin Extra Strength Plus; Aspirin Extra Strength With Stomach Guard; Aspirin Granules; Aspirin Low Dose; Aspirin Low Dose Chewable; Aspirin Low Dose Enteric Coated; Aspirin Low Dose Safety Coated; Aspirin Low Dose Sugar Free; Aspirin Low Strength Adult; Aspirin Low Strength, Enteric; Aspirin Migraine; Aspirin NSAID; Aspirin Night-time; Aspirin Plus Stomach Guard Ext.stgth.caplet; Aspirin Plus Stomach Guard Extra Strength; Aspirin Plus Stomach Guard Tab; Aspirin Rapid Relief; Aspirin Regular Strength; Aspirin Regular Strength Regular Strength; Aspirin Safety Coated; Aspirin Safety Coated Adult Low Dose; Aspirin Safety Coated Enteric, Regular Strength; Aspirin Safety coated; Aspirin Stomach Guard Extra Strength; Aspirin Stomach Guard Regular Strength; Aspirin Tab 325mg USP; Aspirin Tablets 325mg; Aspirin Thin coated; Aspirin With Stomach Guard; Aspirin With Stomach Guard Extra Strength - Tab; Aspirin adult low strength; Aspirin and Dipyridamole; Aspirin and Extended - Release Dipyridamole Capsules, 25 mg / 200 mg; Aspirin and Extended-Release Dipyridamole; Aspirin chewable low dose; Aspirin enteric coated low dose; Aspirin enteric safety coated; Aspirin regular strength; Aspirin, Caffeine, and Dihydrocodeine Bitartrate; AspirinLow Dose Low Dose; Asprin; Assured Aspirin; Astrin 5gr; Auto 157; Axisal-C1/8; BAYER Aspirin Extra Strength Caplets; BC Arthritis; BC Cherry; Back and Body Extra Strength; BackAid Inflammatory Pain Formula; Bayer; Bayer AM extra stength; Bayer Advanced Aspirin Extra Strength; Bayer Advanced Aspirin Regular Strength; Bayer Aspirin; Bayer Aspirin Regimen Chewable Low Dose Aspirin Orange; Bayer Aspirin Regimen enteric coated; Bayer Back and Body Extra Strength; Bayer Chewable - Aspirin Regimen Low Dose Aspirin Cherry Flavored; Bayer Fast Release; Bayer Genuine Aspirin; Bayer Headache Relief; Bayer Low Dose; Bayer Migraine Formula; Bayer PM; Bayer Plus Extra Strength; Bayer Womens; Bc; Berkley and Jensen Aspirin; Berkley and Jensen Migraine Formula; Berkley and Jensen Migraine Relief; Bi Electro Extra Strength; Blowfish; Bromo Seltzer; Buffered Aspirin; Buffered Aspirin Regular Strength; Bufferin; Bufferin Arthritis; Bufferin Extra -strength; Bufferin Low Dose Buffered Aspirin; Butalbital Compound; Butalbital, Aspirin and Caffeine; Butalbital, Aspirin and Caffeine Tablets; Butalbital, Aspirin, Caffeine and Codeine Phosphate; Butalbital, Aspirin, Caffeine, and Codeine Phosphate; Butalbital, Aspirin, and Caffeine; Butalbital, aspirin, and caffeine; C T Acetylsalicylic Acid Codeine and Caf Tab; C-2 Buffered With Codeine; C2 Buffered Tab; C2 Buffered With Codeine Tab; C2 Tab With Codeine; CAREALL Aspirin; CARISOPRODOL and ASPIRIN; CVS Health Antacid and Pain Reliever; CVS Health Medication and Topical Refill Pouch; Calmine Tab; Care One Aspirin; Care One headache relief added strength; Care One migraine relief; Careone Aspirin; Carisoprodol and Aspirin; Carisoprodol, Aspirin and Codeine Phosphate; Chewable Adult Low Dose Aspirin; Chewable Aspirin; Chewable Aspirin Low Dose; Chewable Daily Low Dose Asa; Chewable Low Dose Aspirin; Childrens Aspirin; Chronic Pain/Fever Relief; Circle K Aspirin 325; Circle K Headache Relief; Circle K Headache Relief Extra Strength; Citramon; Coachs First Aid Contains 102 Pieces; Coated Aspirin - Ect 80mg; Coated Aspirin Low-dose; Coated Daily Low Dose Asa 81 mg; Coated Daily Low-dose Asa; ConRx pain Reliever; Coricidin D Tab; Coricidin Nd Tab; Coricidin Tab; Coryphen 325 Codeine 30 Tab; Coryphen 325 Tab; Coryphen 650 Codeine 30 Tab; Coryphen 650 Tab; Critical Care Aspirin to Go; DG Health migraine relief; Darvon N Compound Pulvule 405; Dg Health Aspirin; Dg Health Headache Relief Added Strength; Direct Safety Aspirin; Dolomine 37; Dr Pausins Aspirin; Dr Pausins Low Dose Aspirin; Dr Pausins Low Dose Chewable Aspirin Cherry Flavor; Dr Pausins Low Dose Chewable Aspirin Orange Flavor; Dristan Capsules; Dry Socket Paste; Duoplavin; Durlaza; EC-81Aspirin Enteric Coated; ENTERIC COATED ASPIRIN Regular Strength; Easy Care First Aid Kit - Comprehensive; Ecotrin; Ecotrin Regular Strength; Effervescent Antacid and Pain Relief; Effervescent Cold Relief; Effervescent Orange Cold Relief; Effervescent Pain Relief; Effervescent Pain Relief Fast Relief; Effervescent Pain Relief Fast Relief Fast Relief; Endodan; Enteric Aspirin; Enteric Aspirin Regular Strength; Enteric Coated A.S.A.; Enteric Coated A.S.a; Enteric Coated A.S.a       (caplet); Enteric Coated Asa 325 mg; Enteric Coated Asa 650 mg; Enteric Coated Asa Daily Low Dose; Enteric Coated Asa Tablets 325mg; Enteric Coated Asa Tablets 650mg; Enteric Coated Aspirin; Enteric Coated Aspirin Regular Strength; Enteric Coated Aspirin regular strength; Enteric Coated Daily Low Dose Asa 81mg; Enteric Safety Coated Aspirin; Enteric coated aspirin Regular strength; Entrophen; Entrophen 325mg Caplets; Entrophen 325mg Tablets; Entrophen 650mg Caplet Ect; Entrophen 80mg; Entrophen Chewable; Entrophen Ect 500mg; Entrophen Ect 650mg; Entrophen Ect 975mg; Equagesic Tablets; Equaline Aspirin; Equaline aspirin adult low dose; Equaline headache formula added strength; Equaline migraine formula; Equate Aspirin; Equate Aspirin Chewable; Equate Daily Low-dose; Equate Migraine Relief; Euro Asa; Euro Asa 325mg Chewable Tablet; Euro-asa Chewable Tablet; Euro-asa EC; Exact Coated Daily Low-dose Asa; Exaprin; Excedrin Back and Body; Excedrin Extra Strength; Excedrin Extra Strength Caplets; Excedrin Extra Strength Geltabs; Excedrin Extra Strength Pain Reliever; Excedrin Menstrual Complete; Excedrin Migraine; Excedrin Migraine Geltabs; Excedrin PM Triple Action Caplets; Extra Pain Relief; Extra Strenght Headache Relief; Extra Strength Asa 500mg; Extra Strength Aspirin; Extra Strength Aspirin Backache; Extra Strength Back and Body; Extra Strength Headache Relief; Extra Strength Midol; Extra Strength Midol Relief; Extra Strength Muscle & Back Pain Asa 500 Mg Methocarbamol 400 Mg & Acetylsalicylic Acid 500 mg; Extra Strength Muscle & Back Pain Relief With Asa; Extra Strength Pain Reliever; FIRST AID Contains 101 PIECES; FIRST AID Contains 101 PIECES HARDCASE; FIRST AID Contains 303 PIECES; Family Wellness Effervescent Cold Relief Orange; Family Wellness Effervescent Cold Relief Original; Family Wellness Migraine Relief; Fasprin; Fiorinal; Fiorinal C1/2; Fiorinal C1/4; Fiorinal Tab; Fiorinal with Codeine; Flanax Aspirin Pain Reliever; Formu Care pain reliever added strength; FormuCare Aspirin; GENUINE FIRST AID Emergency Preparedness Contains 167 PIECES HARDCASE; GFA First Aid Kit Essentials - 33 Pieces; GOOD NEIGHBOR PHARMACY FIRST AID Contains 202 PIECES; GOODYS Extra Strength Headache Mixed Fruit Blast; Genuine Aspirin; Genuine First Aid Industrial First Aid; Good Neighbor Pharmacy Aspirin; Good Neighbor Pharmacy Aspirin Enteric Safety Coated; Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces; Good Neighbor Pharmacy Headache Relief; Good Neighbor Pharmacy Migraine Relief; Good Neighbor Pharmacy aspirin orange flavor chewable; Good Sense Aspirin; Good Sense Aspirin Enteric Safety Coated; Good Sense Migraine Formula; Good Sense aspirin; Good Sense headache formula added strength; Goodys; Goodys Back and Body Pain; Goodys Cool Orange; Goodys Cool Orange Headache; Goodys Extra Strength; Goodys Migraine Relief; Goodys PM Pain Reliever; Green Guard Pain and Ache Relief; HEALTH SENSE Adult Chewable Low Strength Aspirin; Handy Solutions GENUINE ASPIRIN BAYER; Handy Solutions Headache Pain Relief; Harris Teeter Migraine Relief; Headache Formula Added Strength; Headache Formula Extra Strength; Headache Relief; Headache Relief Added Strength; Headache Relief Extra Strength; Headache Relief PM; Headache Relief to Go; Headache Tab 300mg; Headache relief Extra Strength; Health Mart Aspirin; Health Mart Migraine Formula; Health Mart Migraine Relief; Health Mart Regular Strength Enteric Coated Aspirin; Health Sense Aspirin 81; Health Sense Ecpirin; Healthy Accents Aspirin; Healthy Accents headache relief added strength; Healthy Accents migraine formula; Henry Schein Aspirin; Herbopyrine Tab 325mg; Instantine - Tablets; Instantine Tab; Jamp-A.S.A.; Jamp-asa 81mg EC; K-Mart SmartSense First Aid Contains 101 Pieces; Kroger Value Aspirin; Leader Aspirin; Leader Cardinal Health Aspirin; Leader Headache Formula Added Strength; Leader Low Dose Aspirin; Leader Migraine Relief; Leader migraine formula; Lil Drug Store Aspirin 325; Lil Drug Store Headache Relief Extra Strength; Lo-asa 80mg Chewable - Tab; London Drugs Coated Daily Low-dose Asa; Low Dose Aspirin; Low Dose Aspirin 81 mg Safety Coated; Low Dose Aspirin Chewable; Low Dose Aspirin Enteric Safety Coated; Low Dose Aspirin Low Dose; Low Dose Chewable Aspirin; Low Dose Miniprin Enteric Safety Coated; Low Strength Chewable Aspirin; Lowprin; Lowprin 325; Lowprin 325 Chewable Tablet; Lowprin 80mg; M-asa 80 Mg Croquable; MEDI-FIRST Aspirin; MEDIQUE Aspirin; Madelon; Medi First Pain Relief; Medi First Plus Aspirin; Medi First Plus Pain Zapper; Medique Medi Seltzer; Medique Pain Off; Medpurine; Methoxisal; Methoxisal Extra Strength; Methoxisal-C 1/2; Methoxisal-C 1/4; Methoxisal-C 1/8; Micro-Coated Aspirin; Midol Regular; Migraine Formula; Migraine Relief; Migralex Dr. Mauskop; Miniprin; Mountain Series Weekender Medical; Muscle & Back Pain Asa 325 Mg Methocarbamol 400 Mg & Acetylsalicylic Acid 325 mg; Muscle & Back Pain Relief Extra Strength; Muscle Relaxant and Analgesic; Muscle Relaxant and Back Pain Relief Extra Strength Tablets; Muscle Relaxant and Back Pain Relief Regular Strength Tablets; Muscle and Back Pain Relief; Muscle and Back Pain Relief Extra Strength; Muscle and Back Pain Relief With Asa; Muscle and Back Pain Relief With Asa Extra Strength; Nervine; Nervine Tab; Neutra-seltzer; Nezger Tab; Norgesic; Norgesic Forte; Norgesic Forte Tab; Norgesic Tab; North Aspirin; Novasen; Novo Ac and C 8mg Tab; Novo-propoxyn Compound Cap; Orphenadrine Citrate, Aspirin and Caffeine; Oxycodone Hydrochloride and Aspirin; Oxycodone and Aspirin; PHL-asa; PHL-asa E.C.; PMS-asa; PMS-asa EC; PMS-pharnal Capsules; PMS-pharnal Tablets; PMS-pharnal-C 1/4 Capsules; PMS-pharnal-C1/2 Capsules; Pain Aid; Pain Aid ESF; Pain Away Plus; Pain Free; Pain Free Plus; Pain Relief Added Strength; Pain Relief Aspirin; Pain Relief Aspirin Low Dose; Pain Relief Extra Strength; Pain Relief Fast Relief; Pain Relief Maximum Strength; Pain Relief PM; Pain Reliever; Pain Reliever Added Strength; Pain Reliever Extra Strength; Pain Reliever Plus; Pain Stopper Extra; Pain Stoppers; Pain Stoppers EX; Pain Stoppers Extra; Pain Stoppers Regular; Pain Terminator; Pain Terminator 2 Severe; Painex Tab 0.25gr; Painex Tab 0.5gr; Pal-pravastatin-asa; Pamprin Max Menstrual Pain Relief; Percodan; Percodan-demi; Pharbest Aspirin 325mg; Pharbest Regular Strength Aspirin; Phenaphen No 2 Cap; Phenaphen No 3 Cap; Phenaphen No 4 Cap; Phenaphen No.2 Cap; Phenaphen No.3 Cap; Phenaphen No.4 Cap; Physicians Care Aspirin; Physicians Care Extra Strength Pain Reliever; Picot Plus Effervescent; Plus Pharma NSAID 325 mg; Plus Pharma NSAID Aspirin; Praxis Asa EC 81 Mg Daily Low Dose; Premier Value Antacid and Pain Relief Medicine; Pro-aas - 80 (croquable); Pro-aas EC - 80; Pronal - C1/2 Capsules; Pronal C1/4 Capsules; Pronal Capsules; Pronal Tablets; Protection; Quality Choice Effervescent Cold Relief Plus; Rapid Comfort Aspirin; Ratio-oxycodan; Ready America First Aid Outdoor- 107 Pieces; Ready America First Aid Pocket - 33 Pieces; Regular Strength Aspirin; Regular Strength Aspirin EC; Regular Strength Enteric coated aspirin; Regular Strength Pain Relief; Regular Strength Tri-Buffered Aspirin; Relief Asa Extra Strength; Rexall Aspirin; Rexall Coated Daily Low Dose Asa; Rivacodan; Rivasa 80mg Croquable - Tab; Rivasa 81 Mg EC; Rivasa Fc; Robaxisal C 1/2; Robaxisal C 1/4; Robaxisal C-1/8 Tablets; Robaxisal Caplets; Robaxisal Extra Strength; Robaxisal Tablets; Rugby Aspirin; Rx Act Aspirin; Rx Act headache formula added strength; Safety Coated Aspirin; Safety Coated Low Dose Aspirin; ShopRite Aspirin; ShopRite Migraine Formula; Signature Care Migraine Relief; Smart Health Aspirin Regular Strength; Smart Sense Aspirin; Smart Sense Chewable Aspirin; Smart Sense Migraine Formula; Smart Sense migraine relief; SohMed Pain Reliever; Solves - aspirin Cherry; Spasmhalt-asa-8; St. Joseph Chewable Aspirin; St. Joseph Chewable Low Dose Aspirin; St. Joseph Low Dose Aspirin; St. Joseph Safety Coated Aspirin; Stanback; Sunmark Aspirin; Sunmark Aspirin Adult Low Strength; Sunmark Aspirin Regular Strength; Sunmark Headache Relief; Sunmark aspirin adult low strength; Sunmark aspirin low dose; Sunmark migraine relief; Super Extra Strength Aspirin Backache; Synalgos; Tabcin 500; Teva-tecnal; Teva-tecnal C 1/2; Teva-tecnal C 1/4; Thrulife Extra Strength Headache Relief; Top Value Effervescent Cold Relief; Top Value Effervescent Pain Relief; TopCare Aspirin; Topcare Aspirin; Topcare Headache Formula; Topcare Migraine Formula; Tri-Buffered Aspirin; Tri-buffered Asa Tab; Trianal Capsules; Trianal C¼; Trianal C½; Trianal Tablet; Uncoated Aspirin; Up and Up Aspirin; Up and Up Chewable Aspirin; Up and Up Migraine Relief; Up and Up aspirin; Uricalm Intensive; Value Pharma Aspirin Pain Reliever; Value PharmaPain Reliever Extra Strength; Valumeds Aspirin; Vanquish; Vida Mia Pain Relief; Viva Asa 325 mg; WinCo Foods Effervescent Antacid and Pain Relief; WinCo Foods Effervescent Cold Relief; Yosprala; Zee Aspirin; Zee Pain Aid; Zee-Seltzer Antacid and Pain Reliever; aspirin Regular strength; pain relief aspirin Low Dose; pain relief back and body EXTRA STRENGTH
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00264; EXPT00475
+
+>  <SMILES>  (1) 
+CC(=O)OC1=CC=CC=C1C(O)=O
+
+>  <SYNONYMS>  (1) 
+2-Acetoxybenzenecarboxylic acid; 2-Acetoxybenzoic acid; Acetylsalicylate; Acetylsalicylsäure; acide 2-(acétyloxy)benzoïque; acide acétylsalicylique; ácido acetilsalicílico; Acidum acetylsalicylicum; ASA; Aspirin; Azetylsalizylsäure; o-acetoxybenzoic acid; O-acetylsalicylic acid; o-carboxyphenyl acetate; Polopiryna; salicylic acid acetate
+
+$$$$

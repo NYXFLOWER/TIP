@@ -1,0 +1,145 @@
+
+     RDKit          2D
+
+ 19 18  0  0  0  0  0  0  0  0999 V2000
+   -1.4289    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  4  1  1  0
+  4  3  1  0
+  6  5  2  0
+  3  7  1  0
+  7  5  1  0
+  2  8  1  0
+  1  9  1  0
+  1 10  1  0
+  2 11  1  0
+  2 12  1  0
+  3 13  1  0
+  3 14  1  0
+  4 15  1  0
+  4 16  1  0
+  8 17  1  0
+  8 18  1  0
+  8 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.98
+
+>  <ALOGPS_LOGS>  (1) 
+-1.47
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.97e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01612
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01612
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+117.078978601
+
+>  <FORMULA>  (1) 
+C5H11NO2
+
+>  <GENERIC_NAME>  (1) 
+Amyl Nitrite
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H11NO2/c1-2-3-4-5-8-6-7/h2-5H2,1H3
+
+>  <INCHI_KEY>  (1) 
+CSDTZUBPSYWZDX-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+12.840100937582324
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+pentyl nitrite
+
+>  <JCHEM_LOGP>  (1) 
+2.3125660403333335
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.8145129168936718
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.66
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.678600000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+amyl nitrite
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+117.1463
+
+>  <PRODUCTS>  (1) 
+Amyl Nitrite; Amyl Nitrite Vitrellae Bpc Liq 0.33 Ml/cap; Amylnitrite Glass Cap 5min
+
+>  <SMILES>  (1) 
+CCCCCON=O
+
+>  <SYNONYMS>  (1) 
+1-nitropentane; n-Amyl nitrite; n-pentyl nitrite; Nitramyl; pentyl nitrite
+
+$$$$

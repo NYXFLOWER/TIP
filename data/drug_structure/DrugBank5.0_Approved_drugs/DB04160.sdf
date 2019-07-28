@@ -1,0 +1,133 @@
+
+     RDKit          2D
+
+ 13 12  0  0  0  0  0  0  0  0999 V2000
+   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  2  0
+  2  5  1  0
+  5  6  1  0
+  6  7  1  0
+  6  8  1  0
+  6  9  2  0
+  1 10  1  0
+  3 11  1  0
+  7 12  1  0
+  8 13  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB04160
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB04160
+
+>  <DRUG_GROUPS>  (1) 
+approved; experimental
+
+>  <EXACT_MASS>  (1) 
+177.943225506
+
+>  <FORMULA>  (1) 
+H4O7P2
+
+>  <GENERIC_NAME>  (1) 
+Pyrophosphoric acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/H4O7P2/c1-8(2,3)7-9(4,5)6/h(H2,1,2,3)(H2,4,5,6)
+
+>  <INCHI_KEY>  (1) 
+XPPKVPWEQAFLFU-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.276038338742818
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(phosphonooxy)phosphonic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.4419023016666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-3
+
+>  <JCHEM_PKA>  (1) 
+3.040391741362254
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.7026764435673858
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+124.29000000000002
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+25.5248
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+pyrophosphoric acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+177.9751
+
+>  <PRODUCTS>  (1) 
+Pyrophosphate
+
+>  <SALTS>  (1) 
+Sodium pyrophosphate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT01258; DB11055
+
+>  <SMILES>  (1) 
+OP(O)(=O)OP(O)(O)=O
+
+>  <SYNONYMS>  (1) 
+acide diphosphorique; Diphosphoric acid; Diphosphorsäure; Pyrophosphorsäure
+
+$$$$

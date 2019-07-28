@@ -1,0 +1,107 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 Se  0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00971
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00971
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+143.860663208
+
+>  <FORMULA>  (1) 
+S2Se
+
+>  <GENERIC_NAME>  (1) 
+Selenium Sulfide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/S2Se/c1-3-2
+
+>  <INCHI_KEY>  (1) 
+JNMWHTHYDQTDQZ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Exsel Lotion Shampoo; Glo-Sel; Head & Shoulders Intensive Treatment; Versel Lotion
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.588737687019666
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+thione
+
+>  <JCHEM_LOGP>  (1) 
+0.9128999999999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+31.9825
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+selenium disulfide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+143.09
+
+>  <PRODUCTS>  (1) 
+Antidandruff Medicated; CVS Pharmacy Dandruff Moisturizing with Aloe; CVS Pharmacy Maximum Strength Dandruff; Care One Medicated; Care One Moisturizing; Careone Medicated Dandruff; Careone Moisturizing Dandruff; Clease and Treat; Cvs Pharmacy Medicated; DG Body MEDICATED DANDRUFF; Dandruff; Daylogic Maximum Strength Dandruff; Equaline Aloe; Equaline Clinical Strength; Equaline Medicated Dandruff; Equaline Menthol; Equaline Moisturizing Dandruff; Equaline Moisturizing Dandruff Medicated Formula; Equate; Equate Aloe; Equate Clinical Strength Dandruff; Equate Critical Strength; Equate Medicated Dandruff; Equate Moisturizing Dandruff; HEB Dandruff; Head and Shoulders Clinical Solutions 2in1 Dandruff; Head and Shoulders Clinical Solutions 2in1 Itch; Head and Shoulders Clinical Strength; Head and Shoulders Itch; Healthy Accents; Healthy Accents Medicated Dandruff; Kroger Medicated Dandruff; LeThechniq Dandruff Moisturizing; Medicated Dandruff; Medicated Dandruff Maximum Strength; Moisturizing Selsun Blue; Naturaltech Purifying Anti-dandruff; Renewal Dandruff Moisturizing; Renewal Medicated; Rexall Aloe; Rite Aid MEDICATED DANDRUFF; Rite Aid Moisturizing Dandruff Medicated Formula; Rite Aid Renewal; Rite Aid Renewal Medicated; Rugby Anti-Dandruff; Safeway; Safeway Care Medicated Dandruff; Safeway Medicated Dandruff; SelRx; Selenium Sulfide; Selenium sulfide; Selsun Azul Revitalizante; Selsun Azul Suave y Manejable Humectante; Selsun Blue 2-in-1; Selsun Blue Accion Humetante; Selsun Blue Medicated; Selsun Blue Moisturizing; Selsun Blue Normal to Oily; Selsun Blue, 2-IN-1; Selsun Blue, Normal Oily Hair; Selsun Oro; Tersi; TopCare MEDICATED DANDRUFF; Topcare Gentle Dandruff Clinical Strength; Topcare Medicated Dandruff
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01323
+
+>  <SMILES>  (1) 
+S=[Se]=S
+
+>  <SYNONYMS>  (1) 
+Selenii disulfidum; Selenium disulfide; Selenium disulphide; Selenium sulfide, micronized; Selenium sulphide; Selenium sulphide, micronized; Selenium(IV) disulfide; Selenium(IV) disulphide; Selenium(IV) sulfide; Selenium(IV) sulphide
+
+$$$$

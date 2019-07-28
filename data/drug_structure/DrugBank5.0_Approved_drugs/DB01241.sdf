@@ -1,0 +1,197 @@
+1241
+     RDKit          2D
+
+ 40 40  0  0  0  0  0  0  0  0999 V2000
+    3.0791   -0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.8381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.8381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330    1.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6830    1.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.3496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.3496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 11  1  0
+  2 10  1  0
+  3 10  2  0
+  4  5  1  0
+  4  7  1  0
+  4  8  1  0
+  4 10  1  0
+  5  6  1  0
+  6  9  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 15  1  0
+ 12 17  1  0
+ 13 14  2  0
+ 14 16  1  0
+ 14 18  1  0
+ 15 16  2  0
+  2 19  1  0
+  5 20  1  0
+  5 21  1  0
+  6 22  1  0
+  6 23  1  0
+  7 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+  9 31  1  0
+ 13 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 18 39  1  0
+ 18 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.61
+
+>  <ALOGPS_LOGS>  (1) 
+-3.95
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.78e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01241
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01241
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+250.15689457
+
+>  <FORMULA>  (1) 
+C15H22O3
+
+>  <GENERIC_NAME>  (1) 
+Gemfibrozil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H22O3/c1-11-6-7-12(2)13(10-11)18-9-5-8-15(3,4)14(16)17/h6-7,10H,5,8-9H2,1-4H3,(H,16,17)
+
+>  <INCHI_KEY>  (1) 
+HEMJJKBWTPKOJG-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Gemlipid; Gen-Fibro; Genlip; Jezil; Lipur
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.902336873005
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+4.389643824
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.416800554942657
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.837321215457823
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+71.8191
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+gemfibrozil
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+250.3334
+
+>  <PRODUCTS>  (1) 
+Apo-gemfibrozil; Apo-gemfibrozil Cap 300mg USP; Dom-gemfibrozil; Gemfibrozil; Gemfibrozil Cap 300mg; Gemfibrozil Tab 600mg; Gemfibrozil-300 - Cap; Gemfibrozil-600 - Tab 600mg; Lopid; Lopid 600mg; Lopid Cap 300mg; Mylan-gemfibrozil; Nu-gemfibrozil Cap 300mg; Nu-gemfibrozil Tab 600mg; PHL-gemfibrozil; PMS-gemfibrozil; Penta-gemfibrozil; Riva-gemfibrozil; Scheinpharm Gemfibrozil; Teva-gemfibrozil
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00293
+
+>  <SMILES>  (1) 
+CC1=CC(OCCCC(C)(C)C(O)=O)=C(C)C=C1
+
+>  <SYNONYMS>  (1) 
+2,2-Dimethyl-5-(2,5-xylyloxy)valeric acid
+
+$$$$

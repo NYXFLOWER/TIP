@@ -1,0 +1,207 @@
+
+     RDKit          2D
+
+ 42 45  0  0  0  0  0  0  0  0999 V2000
+    0.8062   -0.5677    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6313   -0.5677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0438   -1.2822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3189   -1.8801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2229   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5510   -0.7464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2055   -1.2487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3356   -2.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0978   -2.0666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0333   -2.2926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8302   -2.0791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8677   -1.2391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5221   -2.5285    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1632   -2.0094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2147    0.0157    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9601   -2.2229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0011    0.8126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0116   -0.1979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5845    1.3959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5949    0.3855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3814    1.1824    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9648    1.7658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  5  1  0
+  2  3  1  0
+ 11 10  1  0
+ 10  4  1  0
+  8  4  2  0
+  4  5  1  0
+  6  5  2  0
+  6  7  1  0
+  7  9  2  0
+  9  8  1  0
+ 11 13  1  0
+  3 11  2  0
+ 12  3  1  0
+ 13 14  1  0
+ 12 14  2  0
+  2 15  1  0
+ 14 16  1  0
+ 15 17  1  0
+ 15 18  1  0
+ 17 19  1  0
+ 18 20  1  0
+ 20 21  1  0
+ 19 21  1  0
+ 21 22  1  0
+  6 23  1  0
+  7 24  1  0
+  8 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 12 28  1  0
+ 16 29  1  0
+ 16 30  1  0
+ 16 31  1  0
+ 17 32  1  0
+ 17 33  1  0
+ 18 34  1  0
+ 18 35  1  0
+ 19 36  1  0
+ 19 37  1  0
+ 20 38  1  0
+ 20 39  1  0
+ 22 40  1  0
+ 22 41  1  0
+ 22 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.61
+
+>  <ALOGPS_LOGS>  (1) 
+-3.52
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.42e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00334
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00334
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+312.14086735
+
+>  <FORMULA>  (1) 
+C17H20N4S
+
+>  <GENERIC_NAME>  (1) 
+Olanzapine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H20N4S/c1-12-11-13-16(21-9-7-20(2)8-10-21)18-14-5-3-4-6-15(14)19-17(13)22-12/h3-6,11,19H,7-10H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+KVWDHTXUZHCGIO-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aedon; Amulsin; Apisco; Apsico; Arkolamyl; Caprilon; CO Olanzapine; Deprex; Dominazol; Dopin; Egolanza; Elynza; Frenial; Jolyon-MD; Kozylex; Lanopin; Lanzapin; Lanzep; Lapenza; Lapozan; Lazapix
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.37184031437682
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-methyl-8-(4-methylpiperazin-1-yl)-4-thia-2,9-diazatricyclo[8.4.0.0³,⁷]tetradeca-1(14),3(7),5,8,10,12-hexaene
+
+>  <JCHEM_LOGP>  (1) 
+3.3884950820000004
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.174461666971585
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.242439871833076
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+30.870000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.87369999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zyprexa
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+312.432
+
+>  <PRODUCTS>  (1) 
+Abbott-olanzapine ODT; Accel-olanzapine; Act Olanzapine; Act Olanzapine ODT; Apo-olanzapine; Apo-olanzapine ODT; Auro-olanzapine ODT; Ava-olanzapine; Dom-olanzapine; Dom-olanzapine ODT; Ipg-olanzapine; Ipg-olanzapine ODT; Jamp Olanzapine Fc; Jamp Olanzapine ODT; Mar-olanzapine; Mar-olanzapine ODT; Mint-olanzapine; Mint-olanzapine ODT; Mylan-olanzapine; Mylan-olanzapine ODT; Ntp-olanzapine; Nu-olanzapine; Olanzapine; Olanzapine Apotex; Olanzapine Glenmark; Olanzapine Glenmark Europe; Olanzapine Neopharma; Olanzapine ODT; Olanzapine Teva; Olanzapine and Fluoxetine; Olanzapine for Injection; Olanzapine-odt; Olazax; Olazax Disperzi; PHL-olanzapine; PHL-olanzapine ODT; PMS-olanzapine; PMS-olanzapine ODT; Ran-olanzapine; Ran-olanzapine Ir; Ran-olanzapine ODT; Riva-olanzapine; Riva-olanzapine ODT; Sandoz Olanzapine; Sandoz Olanzapine ODT; Symbyax; Teva-olanzapine; Teva-olanzapine OD; Teva-olanzapine ODT; Torrent-olanzapine ODT; Van-olanzapine; Van-olanzapine ODT; ZYPREXA Intramuscular; ZYPREXA Relprevv; ZYPREXA Zydis; Zalasta; Zypadhera; Zyprexa; Zyprexa - 10mg; Zyprexa - 5mg; Zyprexa 15mg; Zyprexa 20mg; Zyprexa Intramuscular; Zyprexa Velotab; Zyprexa Zydis
+
+>  <SALTS>  (1) 
+Olanzapine hydrochloride; Olanzapine pamoate; Olanzapine tartrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00138
+
+>  <SMILES>  (1) 
+CN1CCN(CC1)C1=NC2=CC=CC=C2NC2=C1C=C(C)S2
+
+>  <SYNONYMS>  (1) 
+2-methyl-4-(4-methyl-1-piperazinyl)-10H-thieno[2,3-b][1,5]benzodiazepine; Olanzapin; Olanzapine; Olanzapinum
+
+$$$$

@@ -1,0 +1,98 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+   14.2183  -17.5908    0.0000 Mn  0  0  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+>  <DATABASE_ID>  (1) 
+DB06757
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06757
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+54.938049636
+
+>  <FORMULA>  (1) 
+Mn
+
+>  <GENERIC_NAME>  (1) 
+Manganese
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Mn/q+2
+
+>  <INCHI_KEY>  (1) 
+WAEMQWOKJMHJLA-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+manganese(2+) ion
+
+>  <JCHEM_LOGP>  (1) 
+-0.156
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+manganese(2+) ion
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+54.938
+
+>  <PRODUCTS>  (1) 
+A.R.T.H. Away Formula; Acti-MN + B1 + C Caplet; Adrenergy Tablets; Advanced 2000 Capsules; Alphaligo; Amd; Armax; B & J Formula Dietary Supplement; Bio-plex Tab 0.95mg; C.H.V. Formula; Cal Mag Plus - Tab; Cal-mag Plus K, Mn and Zn Caplets; Calcium & Magnesium Citrate Plus D With Manganese, Potassium & Zinc; Calcium & Magnesium Plus Potassium, Zinc, & Manganese; Calcium & Magnesium With Potassium, Zinc, Manganese & Vitamin D; Calcium Complex High Grade; Calcium Plus; Calcium With Mg Zn Mn Cu CR Si and Vit. C & D; Calcium and Magnesium 1:1 Plus Tablets; Carti-aide Tab; Cell-wise; Cell-wise Natural Source; Cellular Formula; Chela Zinc Plus; Chela-chromium 200; Chela-manganese 50 Plus; Chelated Manganese Tablets - 5mg; Chelazome Manganese Cap 15mg; Chewable Calcium Plus Magnesium and Minerals; Chromease Tab; Cmp Plex; Complete Multivitamins and Minerals Tablets Timed Release; Concept OB; Dp 2000; Efferlife Multivitamins and Minerals; Formula Ant-cel; Formula BP; Formula EC; Formula Fe-vitamin and Mineral Tab; Formula O-care Vitamin and Mineral Supplement; Formula Osg; Fusion PM Formula Tab; Glyco-aide Tab; Guardyn Tab; Hi Potency B Complex W Chelated Minerals; Hvp Chelated Manganese 30mg; Hypo Vites Tab; IV-8 Formula; Icaps; Inhibitol - Tab; Iron Plus Manganese, B12, Folic Acid & C; Iron Plus Tab; Itabs Plus; J.T. Formula; Kanga-V Multivitamins & Minerals; Kenwood Liquid Supplement; L.G.I.T.; M T E 4 Concentrate Inj; M.T.E.-4; M.T.E.-4 Concentrated; M.T.E.-6 Concentrated; Magnacal; Mangadyn; Manganese; Manganese (gluconate) 10 Mg Tablets; Manganese 30mg - Tab; Manganese Caps 10mg; Manganese Chelated Tab 50mg; Manganese Citrate; Micro Mn; Micro Plus 4 Concentrate; Micro Plus 4 Regular Strength; Micro Plus 5 Concentrate; Micro Plus 6    (concentrate); Micro Plus 6   (pediatric); Micro Plus 6 (regular); Mineralex; Mte 4 Inj; Multi Tabs; Multi Vitamin - Mineral; Multi Vitamin-mineral Formula; Multicaps; Multimineral Chelates; Multiple Trace Metal Additive Solution; Multiple Vitamins and Minerals Capsules; Multitabs; Multitrace -4; Multitrace -4 Pediatric; Multitrace-4; Multitrace-4 Neonatal; Multitrace-5; N.U.T. Complex; Nutrilite Double X; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Multiple Vit W Minerals; One A Day Tab; Opti-manganese + B1 + C Caplet; Osteo Formula; Ostogen Tab 6mg; Ostrophin Pmg Tab 4mg; Procosa II; Pure Calcium calcium; PureVit DualFe Plus; Release; Se-Tan PLUS; Somavit Brand Vitamins and Minerals Complex; Spectrum 2 Cap; Strovite One Caplets; Super 7 Vitamin and Mineral Supplement; Super Cal Mag Plus; Super Daily No 2; Synergistic Manganese Capsules; Trace Elements 4; Trace Elements Injection USP; Trace Elements Solution Inj; Trace Elements for Injection - Liq IV; Trace Minerals Et/and B12 Tab; Usana Multimineral Tablets; Usana Multimineral Tablets - Tab; Usana Procosa Tablets; Vimeral Tab; Vital Be-100; Vitalife  -  Capsule; Vitality Brand Calcium Plus Tab; Vtb Vitamin and Mineral Supplement; Women's Formula; Zymain Tab
+
+>  <SALTS>  (1) 
+Manganese chloride; Manganese chloride tetrahydrate; Manganese sulfate
+
+>  <SMILES>  (1) 
+[Mn++]
+
+$$$$

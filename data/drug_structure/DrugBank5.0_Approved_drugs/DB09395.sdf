@@ -1,0 +1,129 @@
+
+     RDKit          2D
+
+  8  6  0  0  0  0  0  0  0  0999 V2000
+   -0.1395   -0.9899    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7004   -0.2461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0406    0.1649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0406    0.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7004   -0.2461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  4  6  1  0
+  4  7  1  0
+  4  8  1  0
+M  CHG  2   1   1   2  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.20
+
+>  <ALOGPS_LOGS>  (1) 
+0.72
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.29e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09395
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09395
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+82.003074015
+
+>  <FORMULA>  (1) 
+C2H3NaO2
+
+>  <GENERIC_NAME>  (1) 
+Sodium acetate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C2H4O2.Na/c1-2(3)4;/h1H3,(H,3,4);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+VMHLLURERBWHNL-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+4.955940651539537
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium acetate
+
+>  <JCHEM_LOGP>  (1) 
+-0.2233457143333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.543439679000835
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.129999999999995
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+23.480800000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium acetate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+82.0338
+
+>  <PRODUCTS>  (1) 
+16.4% Sodium Acetate Injection, USP; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; Acetate Concentrate R07376; Aminosyn 10% W Electrolytes; Amo Endosol Solution; Balanced Salt; Balanced Salt Solution; Bss; Bss Sterile Irrigating Solution; Citrasate C0125; Citrasate C10125; Citrasate C1125; Citrasate C1150; Citrasate C2125; Citrasate C2150; Citrasate C3125; Citrasate C3150; Citrasate C4125; Clinimix E; D-12043 Sol Conc Electrolyt Pour Dialy; D12006; D12034 Conc Electrolyte Renal Dialysis; D12046 Conc Electrolyte Renal Dialysis; Dextrose 50% Inj W Electrolytes PF Abbovac; H.E.L.P. Acetate Buffer Ph 4.85; Hemosate Ultra Hs0125; Hemosate Ultra Hs1125; Hemosate Ultra Hs1150; Hemosate Ultra Hs2125; Hemosate Ultra Hs2150; Hemosate Ultra Hs3125; Hemosate Ultra Hs3150; Hemosate Ultra Hs4125; Hyperlyte (multi-electrolyte Concentrate); Hyperlyte CR; Hyperlyte CR Multi-electrolyte Concentrate; InterSol; Iocare Balanced Salt Solution; Isolyte H With Dextrose 5% Inj; Isolyte M In 5% Dextrose; Isolyte R In 5% Dextrose; Isolyte S; Isolyte S (multi-electrolyte Injection); Isolyte S Ph 7.4 (multi-electrolyte Injection); Isolyte S With 5% Dextrose Inj; Isolyte S in Dextrose; Isoplate; Lypholyte; Lypholyte Multi-electrolyte Conc Inj; Multiple Electrolyte Additive Liq Formula 1; Normosol-R; Normosol-R & 5% Dextrose; Normosol-R and Dextrose; Nutrilyte; Nutrilyte II; Odan Balanced Salt Solution; Olimel 3.3% E; Olimel 4.4% E; Olimel 5.7% E; Periolimel 2.5% E; Physiolyte; Physiosol; Plasma-Lyte 148; Plasma-Lyte A; Plasma-lyte A Injection; Plasmalyte 148 In 5% Dextrose Inj; Plasmalyte 148 In Water; Prenatal Plus; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; Rs-274; Sodium Acetate; Sodium Acetate Inj 328mg/ml USP; Sodium Acetate Injection, USP; Sodium Acetate-omega; Sodum Acetate; TPN Electrolytes; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E
+
+>  <SALTS>  (1) 
+Sodium acetate trihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB09470
+
+>  <SMILES>  (1) 
+[Na+].CC([O-])=O
+
+>  <SYNONYMS>  (1) 
+acetic acid, sodium salt; Acetic acid, sodium salt (1:1); anhydrous sodium acetate; Natriumazetat; Sodium acetate anhydrous; Sodium acetate, anhydrous; Sodium acetate,anhydrous
+
+$$$$

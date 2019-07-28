@@ -1,0 +1,145 @@
+
+     RDKit          2D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+   -0.7088    0.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0035    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7191    0.4082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4312   -0.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4278   -0.8334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7125   -1.2417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0002   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7055    1.2417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4242    0.0084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4312   -0.8164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  2  7  1  0
+  1  8  2  0
+  1  9  1  0
+  9 10  1  0
+  3 11  1  0
+  4 12  1  0
+  5 13  1  0
+  7 14  1  0
+ 10 15  1  0
+ 10 16  1  0
+ 10 17  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.45
+
+>  <ALOGPS_LOGS>  (1) 
+0.15
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.93e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB13882
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB13882
+
+>  <DRUG_GROUPS>  (1) 
+approved; experimental
+
+>  <EXACT_MASS>  (1) 
+137.047678473
+
+>  <FORMULA>  (1) 
+C7H7NO2
+
+>  <GENERIC_NAME>  (1) 
+Methyl nicotinate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H7NO2/c1-10-7(9)6-3-2-4-8-5-6/h2-5H,1H3
+
+>  <INCHI_KEY>  (1) 
+YNBADRVTZLEFNH-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+17
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.227195462506076
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+methyl pyridine-3-carboxylate
+
+>  <JCHEM_LOGP>  (1) 
+0.7590503530000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.244933443082692
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+39.19
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+35.9264
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+heat spray
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+137.136
+
+>  <PRODUCTS>  (1) 
+Arth Arrest; Arth RX Topical Analgesic; Arthricare Pain Relieving Rub Triple Medicated Gel; Arthricare for Women Multi-action; Arthricare for Women Nighttime; Biobalsam; Decontractyl Baume; Moor Balm - Crm
+
+>  <SMILES>  (1) 
+COC(=O)C1=CN=CC=C1
+
+>  <SYNONYMS>  (1) 
+3-pyridinecarboxylic acid methyl ester; Methylnicotinate
+
+$$$$

@@ -1,0 +1,151 @@
+272
+     RDKit          2D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    2.3174   -0.3790    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1672    0.1481    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1059    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695   -0.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9849    0.1059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3826    0.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7299    0.8905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049    0.8905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1  5  1  0
+  2  6  1  0
+  3  8  2  0
+  4  5  1  0
+  4  6  1  0
+  5  7  2  0
+  7  8  1  0
+  1  9  1  0
+  2 10  1  0
+  2 11  1  0
+  4 12  1  0
+  4 13  1  0
+  6 14  1  0
+  6 15  1  0
+  7 16  1  0
+  8 17  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.64
+
+>  <ALOGPS_LOGS>  (1) 
+0.15
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.56e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00272
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00272
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+111.079647303
+
+>  <FORMULA>  (1) 
+C5H9N3
+
+>  <GENERIC_NAME>  (1) 
+Betazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H9N3/c6-3-1-5-2-4-7-8-5/h2,4H,1,3,6H2,(H,7,8)
+
+>  <INCHI_KEY>  (1) 
+JXDFEQONERDKSS-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Gastramine; Histalog
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.96052701481223
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-(1H-pyrazol-5-yl)ethan-1-amine
+
+>  <JCHEM_LOGP>  (1) 
+-0.6168408933333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.517150194841271
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.794893123882412
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.7
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+32.9617
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+histalog
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+111.1451
+
+>  <SALTS>  (1) 
+Betazole hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00714
+
+>  <SMILES>  (1) 
+NCCC1=CC=NN1
+
+>  <SYNONYMS>  (1) 
+1H-pyrazole-3-ethanamine; 3-(beta-aminoethyl)pyrazole; 3-(β-aminoethyl)pyrazole; Ametazole; Betazol; Betazolum
+
+$$$$

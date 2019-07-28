@@ -1,0 +1,283 @@
+163
+     RDKit          2D
+
+ 81 82  0  0  1  0  0  0  0  0999 V2000
+    4.9740   -2.3009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.6223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7215   -1.8770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5465   -1.8801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7215   -1.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9617   -1.1673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2021   -0.4576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7867   -1.1705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9740   -0.5937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0271   -0.4608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1313   -2.5930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4423    0.2521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.8598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2673    0.2490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6826    0.9619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7923    0.2585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5076    0.9587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.6223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.2723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9229    1.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.8598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2729    1.6779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7478    1.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1631    2.3812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.2027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -3.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.2723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7533    3.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9881    2.3781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1 14  1  0
+  2 24  1  0
+  3  4  1  1
+  3  5  1  0
+  3 11  1  0
+  4  6  1  0
+  5  9  1  0
+  6  8  1  0
+  7  8  1  6
+  7 10  1  0
+  7 17  1  0
+  9 12  1  0
+ 10 13  1  0
+ 12 14  2  0
+ 12 19  1  0
+ 13 15  1  0
+ 14 20  1  0
+ 16 15  1  6
+ 16 18  1  0
+ 16 23  1  0
+ 18 21  1  0
+ 19 24  2  0
+ 19 27  1  0
+ 20 22  2  0
+ 20 28  1  0
+ 21 25  1  0
+ 22 24  1  0
+ 22 29  1  0
+ 25 26  1  0
+ 26 30  1  0
+ 26 31  1  0
+  2 32  1  0
+  4 33  1  0
+  4 34  1  0
+  5 35  1  0
+  5 36  1  0
+  6 37  1  0
+  6 38  1  0
+  7 39  1  0
+  8 40  1  0
+  8 41  1  0
+  9 42  1  0
+  9 43  1  0
+ 10 44  1  0
+ 10 45  1  0
+ 11 46  1  0
+ 11 47  1  0
+ 11 48  1  0
+ 13 49  1  0
+ 13 50  1  0
+ 15 51  1  0
+ 15 52  1  0
+ 16 53  1  0
+ 17 54  1  0
+ 17 55  1  0
+ 17 56  1  0
+ 18 57  1  0
+ 18 58  1  0
+ 21 59  1  0
+ 21 60  1  0
+ 23 61  1  0
+ 23 62  1  0
+ 23 63  1  0
+ 25 64  1  0
+ 25 65  1  0
+ 26 66  1  0
+ 27 67  1  0
+ 27 68  1  0
+ 27 69  1  0
+ 28 70  1  0
+ 28 71  1  0
+ 28 72  1  0
+ 29 73  1  0
+ 29 74  1  0
+ 29 75  1  0
+ 30 76  1  0
+ 30 77  1  0
+ 30 78  1  0
+ 31 79  1  0
+ 31 80  1  0
+ 31 81  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+8.84
+
+>  <ALOGPS_LOGS>  (1) 
+-7.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.04e-06 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00163
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00163
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical; vet_approved
+
+>  <EXACT_MASS>  (1) 
+430.381080844
+
+>  <FORMULA>  (1) 
+C29H50O2
+
+>  <GENERIC_NAME>  (1) 
+Vitamin E
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C29H50O2/c1-20(2)12-9-13-21(3)14-10-15-22(4)16-11-18-29(8)19-17-26-25(7)27(30)23(5)24(6)28(26)31-29/h20-22,30H,9-19H2,1-8H3/t21-,22-,29-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+GVJHHUAWPYXKBD-IEOSBIPESA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Amino-Opti-E; Aquasol E
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+55.28889054764235
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydro-2H-1-benzopyran-6-ol
+
+>  <JCHEM_LOGP>  (1) 
+10.507717260000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.80217812561418
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.8526149017762
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+29.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+135.37409999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+12
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+VitaE
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+430.7061
+
+>  <PRODUCTS>  (1) 
+Acti-succinate Caplet 400unit; Active FE; Adult Infuvite Multiple Vitamins; Am Caps; Avon Nutrivance Vitamin E Plus; B Stress C + Iron & Vite; Bacmin; Balanced B-complex Vit + Vit C&e Tab; Beta-carotene 10,000 Iu With Vitamins C & E; Bodysmarts With Vitamins A, C and E; Bye Bye Burn Lot; C-Nate DHA; C.H.V. Formula; C.R.D.-force; Carbassist Tablets; Cedevita Plus Vitamin Supplement; Cedevita Sugar-free Vitamin Supplement; Cell-wise; Cell-wise Natural Source; Cellular Formula; Central-vite 18 Essential; Century Complete; Ch-P Cap; Chewable Multiple Vitamins Plus Extra C; Chewable Vitamin E 200 I.U.; Chewable Vitamin E 400 I.U.; Children Choice Multivit Chewable Tab; Children Choice Multivitamin W Iron Chew Tab; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Childrens Chew Multi Vitamin Tab; Childrens Chewable Multiple Vitamins Tab; Childrens Chewable Vitamin Tab; Childrens Chewable Vitamins; Childrens Multiple Vit and Min Chew Tab; Chunzam Silk Amino Acid Tooth; CitraNatal 90 DHA; CitraNatal DHA; CitraNatal Harmony 3.0; CitraNatal Rx; Co-q10 and Vitamin E; Coenzyme Q10 Isotonix Vitamin and Mineral Supplement; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; DIO Enamel Coating Pen Pro Tooth; Daily Supplement Packs; Derma-force; Dio Whitening; Dl E 400 Cap 400unit; Dr. Chen's Men's Formula; Dr. Waltons Baby Powder; E 100 Iu; E 400 Iu; E Vitamin 1000 I.U. (natural Source); E.S.T. Complex; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Efamol Cap; Efferlife Multivitamins and Minerals; Enrich Core Pack - Children Vitamin and Mineral Supplement; Enviroflex - Tab; Enzogenol; Escavite; Evening Primrose Oil Cap; Extra-Virt Plus DHA; Family Care Thera Flex; Fem - Protect; Feminex 300 Tab; Feminique W Iron and Calcium Tab; Femitab Tab; Floriva; Floriva Plus; Folcal DHA; Folcaps Care One; Folcaps Omega-3; Folet One; Folic Acid Plus; Folivane-PRx DHA; Foltabs Prenatal; Food Nutrition Inc. Men's Vitamin and Mineral Supplement; Formula 14 Dietary Supplement; Formula Cw; Formula Cw-caplet; Formula F.E.S. Vitamins Tab; Formula Fe-vitamin and Mineral Tab; Formula Ma-vitamin E & Zinc Tab; Formula O; Formula S.D.; Formula-4 Sx; Fortamines 10 Capsules; Fortamines-10 Comprimes; Forty Plus Vitamin Supplement; Gesticare DHA; Guardyn Tab; Hand Sanitizer With Ve; HemeNatal OB; Henkel's Vitamin E and Selenium Cap; Homosistrol Capsules; Homosistrox Capsules; Hyper E Tab; Hypo Vites Tab; I-care Multivitamin and Multimineral Tablets; INATAL Ultra; Icaps; Icaps Time Release; Imm Formula Cap; Inatal Advance; Infuvite Adult Multiple Vitamins; Instant Hand Sanitizer Wipes; Insur-all Vitamin Supplement; Iris Hand Sanitizing Wipes; Iron Complex; Iron Polysaccharides Folic Acid DHA; Itabs Plus; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kimchi Vitamin chewable multivitamin; Kindervites; L.I.P. Complex; Leritone Junior; Leritone Magnesium & Vitamine E; Liqui Infant Vitamins; Liqui Vita; Liquical; Liquid Vitamin E; M.V.I. 12; M.V.I. Paediatric; M.V.I. Pediatric; MVC-Fluoride; Macuzin; Maltlevol 12 Liq; Maltlevol Liq; Mangadyn; Maxi 10 Tab; Mnps Formula Supplement; Mr. Tumee Multi-vitamin; Multi #2; Multi - N.T.O.x Formula - Tab; Multi 12 Injection; Multi Enfants Tab; Multi Nt-OX; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin Drops with Fluoride; Multi Vitamin Drops with Fluoride and Iron; Multi Vitamin Drops with Fluoride with Iron; Multi Vitamin Infusion; Multi Vitamin Plus Iron; Multi Vitamin and Fluoride; Multi Vitamin with Fluoride; Multi Vitamin, Iron and Fluoride; Multi Vitamines - Liq; Multi Vitamins & Minerals; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-Vit with Fluoride; Multi-Vit with Fluoride and Iron; Multi-Vitamin; Multi-Vitamin Drops with Fluoride and Iron; Multi-Vitamin Fluoride; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multi-Vitamin with Fluoride; Multi-vitamin Dietary Supplement; Multi-vitamines Enfants Comprime; Multi-vitamins; Multi-vitamins With Minerals; Multicaps; Multiple Vit Plus Iron Tab; Multiple Vitamins; Multiple Vitamins & Minerals Tablets; Multiple Vitamins Plus Iron Tab; Multiple Vitamins Plus Iron for Women; Multiple Vitamins Tab; Multiple Vitamins With Iron; Multiple Vitamins and Minerals Capsules; Multitabs; Multivitamin and Mineral; Multivitamin with Fluoride; Multivitamin with fluoride; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Multiminerals Formula Regular Tablet; Mvc; Mycellized Vit E Liq 150unit/ml; N.E.U. Complex; Nata Komplete; NataFort; Natelle One; Natural Source Vitamin E 800 Iu; Nexa Plus; Nexa Select Rx Prenatal Vitamin with Plant-Based DHA; Niron Komplete; Now E-400; Nutrilite Double X; Nutrol E 200 Cap; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Ocuvel; Ocuvite Vitamin and Mineral Supplement; Ocuvite Vitamin and Mineral Supplement Capsules; Olympian Vit E Cap 400unit; Onccor; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; One A Day With Non-medicinal Garlic; Optivite Vitamin and Mineral Supplement Tablet; Organex E 100; Organex E 400; Organex E 800; Original Bioscal Forte Multi-vitamin Supplement Capsules; PM Caps; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV-First; PNV-Select; PRENATE Enhance; PRENATE Restore; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Phaze 18 Clearskin; Phytomin E Cap 200unit; Phytomin E Cap 800unit; Phytopure; Pml Crono; Pnv-dha; Polymine Avec Zinc Et Cuivre; PreNatal 19; PreNatal Vitamins Plus; PreNexa; PrePLUS; PreQue 10; PreTAB; Prefera OB plus DHA; PreferaOB; PreferaOB ONE; PreferaOB One; PreferaOB plus DHA; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Prenaissance; Prenaissance Plus; Prenatal Mega Antioxidant; Prenatal Plus; Prenatal Plus Iron; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Prenate Elite; Prenate Essential; Prenate Pixie; Pro E Cap 200unit; Pro-ace; Prolynium Vitamin and Mineral Supplement; Q.T. Vitamin and Mineral Drink Mix; Real Vitamin Supplement Cap; Reaphirm Plant Source DHA; Reliv So Sense Daily Vitamin Supplement; Revit Plus Cap; Richennapharm Growmax Hair Care Tonic; Right Choice A.M. Multi Formula - Caplet; Se-Care Chewable; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Selen-E-400 Tab; Selenium Plus; SimmyungSaengMoSu Hair tonic; Sincera - Tablets; Soin Solaire Complete SPF30; Somavit Brand Vitamins and Minerals Complex; Sopalamine 3b Plus; Sopalamine/3b Plus C; Stress B Complex With C, E & Iron; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Formula; Stress Formula + Iron; Stress Formula Multivitamin Tablets USP; Stress Tab With Iron and Vitamin E; Stress Tab With Zinc, Copper and Vitamin E; Strovite Forte Caplet; Strovite One Caplets; Sun-rype Vitaburst; Super 7 Vitamin and Mineral Supplement; Super Charged Energy; Super Gardialine Cap 100iu; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super-A Vitamins With Selenium Dietary Supplement; Super-cell; Super-pote Vitamin Supplement; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supplements De Vitamines Et Mineraux; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; Sveets; Synthetic Vitamin E; Thera Q Plus; Tianshi Calcium With Natural Source Vitamin E Softgel Capsules; Tl-hem 150; Tozal; TriAdvance; Tricare Prenatal; Trinatal GT; Triveen-PRx RNF; UltimateCare ONE NF; Usana Megavitamin Tablets - Tab; V-V Dietary Supplement; VP CH Plus; VP CH Ultra; VP-HEME One; VP-heme OB; Vasula Tab; Vege 1 Daily Tab; VemaVite-PRx 2 with Fish-Based DHA; Vigo Multivitamins Drops/lozenge; Vimeral Tab; Virt-PN Plus; Virt-Pn; Virt-Pn DHA; Vision E - 134iu/cap; Vit E Cap 800unit; Vita Day Tab; Vita-E; Vitafol Caplet; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol Ultra; Vital Be-100; Vitalife  -  Capsule; Vitalis; Vitamin A (100,000 Iu) and Vitamin E (20 Iu) Oral Liquid Preparation; Vitamin A (200,000 Iu) and Vitamin E (40 Iu) Oral Liquid Preparation; Vitamin D3Dietary Supplemen Dietary Supplement; Vitamin E; Vitamin E (water Dispersible); Vitamin E + 3 (extra Strength); Vitamin E + 3 Extra Strength With Zinc; Vitamin E 100 Iu Dietary Supplement; Vitamin E 100 Iu Natural Source; Vitamin E 1000 I.U. (natural Source); Vitamin E 1000 Iu; Vitamin E 1000 Iu - Water Soluble; Vitamin E 1000 Iu Dietary Supplement; Vitamin E 200 I.U. (natural Source); Vitamin E 200iu Chewable; Vitamin E 200iu Thuna's; Vitamin E 25 Iu Thuna's; Vitamin E 30unit Ont Natural; Vitamin E 400 I.U.; Vitamin E 400 I.U. & Selenium 50 Mcg Capsules; Vitamin E 400 I.U. (natural Source); Vitamin E 400 Iu; Vitamin E 400 Iu USP; Vitamin E 400 Iu Water Dispersible Supplement; Vitamin E 400 Iu Water Soluble; Vitamin E 400unit Croquables; Vitamin E 800 I.U.; Vitamin E 800 Iu Synthetic; Vitamin E Acetate Cap 800t; Vitamin E Cap 1000iu; Vitamin E Cap 1000unit; Vitamin E Cap 100unit; Vitamin E Cap 200iu; Vitamin E Cap 200iu Nf Natural Source; Vitamin E Cap 200unit; Vitamin E Cap 200unit Natural Source; Vitamin E Cap 200unit USP; Vitamin E Cap 200unit Watkins; Vitamin E Cap 400iu; Vitamin E Cap 400unit; Vitamin E Cap 400unit Natural Source; Vitamin E Cap 400unit USP Water Solubilized; Vitamin E Cap 50unit; Vitamin E Cap 800 Unit Natural; Vitamin E Cap 800iunf Natural; Vitamin E Cap 800unit; Vitamin E Cap USP 1000unit Water Solubilized; Vitamin E Cap USP 100iu; Vitamin E Cap USP 200iu; Vitamin E Caps USP 200unit; Vitamin E Capsules 400iu; Vitamin E Capsules 400unit; Vitamin E Capsules 800iu; Vitamin E Chewable Tab 400unit; Vitamin E Cream W Vitamins A and D; Vitamin E Dietary Supplement; Vitamin E Inj 100unit/ml; Vitamin E Ont 1000unit; Vitamin E Ont 30unit/gm; Vitamin E Pure 800 I.U.; Vitamin E With Selenium and Zinc; Vitamin E and Coq10; Vitamin and Mineral Supplement Capsules; Vitamine E 100cap; Vitamine E 100ui Capsule; Vitamine E 200 Cap; Vitamine E 400 U.I.; Vitamine E 400iu Cap; Vitamine E 800 Ui Naturelle -cap; Vitamine E Cap 100iu; Vitamine E Cap 100unit; Vitamine E Cap 200unit; Vitamine E Cap 400unit; Vitamine E Cap USP 800unit; Vitamine E Caps 800unit USP; Vitamine E Capsules 25ui; Vitamine E Creme 250unit/ml; Vitamine E25vi Capsule; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitamune; Vitaplex; Vitogen B Stress C Vit E Zinc & Cop; Vl Micel E Liq 100unit/ml; Vp-CH-pnv; Vtb Vitamin and Mineral Supplement; Webber Vitamin E Cap 400unit Natural Source; Webber Vitamin E Cap 400unit Original; Webber Vitamin E Cap 800unit Original; Webber Vitamin E Liq 77unit/ml Water Sol; Webber Vitamin E Succ Cap 400unit(dri Caps); White Hand Sanitizer; Women's Change Formula; Women's Formula; Z-force Vitamin and Mineral Supplement; Zatean-CH; Zoo Chews; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+>  <SALTS>  (1) 
+Vitamin E acetate; Vitamin E succinate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00061; EXPT03227
+
+>  <SMILES>  (1) 
+CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=C(O1)C(C)=C(C)C(O)=C2C
+
+>  <SYNONYMS>  (1) 
+(+)-α-tocopherol; (2R,4'R,8'R)-α-tocopherol; (2R)-2,5,7,8-TETRAMETHYL-2-[(4R,8R)-4,8,12-TRIMETHYLTRIDECYL]CHROMAN-6-OL; (R,R,R)-α-tocopherol; 5,7,8-trimethyltocol; alpha-tocopherol; d-α-tocopherol
+
+$$$$

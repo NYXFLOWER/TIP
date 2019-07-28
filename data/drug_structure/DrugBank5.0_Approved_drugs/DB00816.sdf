@@ -1,0 +1,187 @@
+816
+     RDKit          2D
+
+ 32 32  0  0  1  0  0  0  0  0999 V2000
+    2.3645    0.6683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.2193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.4933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.7308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.2193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  2 13  1  0
+  3 14  1  0
+  4  6  1  0
+  4  7  1  0
+  5  6  1  0
+  5  8  1  0
+  7  9  1  0
+  7 10  1  0
+  8 11  2  0
+  8 12  1  0
+ 11 14  1  0
+ 12 13  2  0
+ 13 15  1  0
+ 14 15  2  0
+  1 16  1  0
+  2 17  1  0
+  3 18  1  0
+  4 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 15 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.32
+
+>  <ALOGPS_LOGS>  (1) 
+-1.48
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.92e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00816
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00816
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+211.120843415
+
+>  <FORMULA>  (1) 
+C11H17NO3
+
+>  <GENERIC_NAME>  (1) 
+Orciprenaline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H17NO3/c1-7(2)12-6-11(15)8-3-9(13)5-10(14)4-8/h3-5,7,11-15H,6H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+LMOINURANNBYCM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alupent; Metaprel
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.117284866658096
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-{1-hydroxy-2-[(propan-2-yl)amino]ethyl}benzene-1,3-diol
+
+>  <JCHEM_LOGP>  (1) 
+0.21496194252848475
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+10.627070956773537
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.841109366566029
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.697472368974447
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+72.72
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+58.397700000000015
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+orciprenaline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.2576
+
+>  <PRODUCTS>  (1) 
+Alupent Aer; Alupent Liq 50mg/ml; Alupent Syr 10mg/5.0ml; Alupent Tab 20mg; Metaproterenol Sulfate; Nu-orciprenaline; Orcipren; Orciprenaline; Ratio-orciprenaline Syrup 2mg/ml; Tanta Orciprenaline Syrup - Syr 2mg/ml
+
+>  <SALTS>  (1) 
+Orciprenaline Sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00210
+
+>  <SMILES>  (1) 
+CC(C)NCC(O)C1=CC(O)=CC(O)=C1
+
+>  <SYNONYMS>  (1) 
+Metaproterenol; Orciprenalina; Orciprenalinum
+
+$$$$

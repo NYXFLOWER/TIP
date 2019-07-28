@@ -1,0 +1,151 @@
+
+     RDKit          2D
+
+ 19 17  0  0  0  0  0  0  0  0999 V2000
+   -2.5770    0.0259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7524    0.0259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7524    0.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9274    0.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5156    1.5204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7524   -0.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9274   -0.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1547   -0.7987    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5156   -1.5204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1547    0.7987    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2580   -0.3863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9274    0.0259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2580    0.3863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5770    0.8505    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  6  1  0
+  2 12  1  0
+  3  4  1  0
+  4  5  1  0
+  4 10  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+ 11 12  2  0
+ 12 13  1  0
+  1 15  1  0
+  3 16  1  0
+  3 17  1  0
+  6 18  1  0
+  6 19  1  0
+M  CHG  4   5  -1   9  -1  13  -1  14   3
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.08
+
+>  <ALOGPS_LOGS>  (1) 
+-2.19
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.25e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09162
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09162
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+244.938469647
+
+>  <FORMULA>  (1) 
+C6H5FeO7
+
+>  <GENERIC_NAME>  (1) 
+Ferric Citrate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8O7.Fe/c7-3(8)1-6(13,5(11)12)2-4(9)10;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);/q;+3/p-3
+
+>  <INCHI_KEY>  (1) 
+NPFOYSMITVOQOS-UHFFFAOYSA-K
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.251246383708938
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+iron(3+) ion 2-hydroxypropane-1,2,3-tricarboxylate
+
+>  <JCHEM_LOGP>  (1) 
+-1.3226874519999998
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-3
+
+>  <JCHEM_PKA>  (1) 
+4.674836176324001
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.0479515131680714
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.185693450231931
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+140.62
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+68.13520000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+iron(3+) ion citrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+244.945
+
+>  <SALTS>  (1) 
+Ferric citrate dihydrate
+
+>  <SMILES>  (1) 
+[Fe+3].OC(CC([O-])=O)(CC([O-])=O)C([O-])=O
+
+>  <SYNONYMS>  (1) 
+2-hydroxy-1,2,3-propanetricarboxylic acid iron salt; ferrum citricum; Iron(III) citrate tribasic
+
+$$$$

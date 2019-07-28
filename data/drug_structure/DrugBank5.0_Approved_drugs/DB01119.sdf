@@ -1,0 +1,157 @@
+1119
+     RDKit          2D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+    5.7524   -0.7138    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9562   -0.6947    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.3807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5601   -1.3807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9562    0.8895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2702   -0.2986    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6422   -0.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6422    0.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2702    0.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3502   -0.7221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3502    0.9170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0680   -0.3151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0680    0.5100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842    0.8895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  2  3  2  0
+  2  4  2  0
+  2  6  1  0
+  2  7  1  0
+  5  8  1  0
+  5  9  1  0
+  6  9  2  0
+  7  8  2  0
+  7 10  1  0
+  8 11  1  0
+  9 14  1  0
+ 10 12  2  0
+ 11 13  2  0
+ 12 13  1  0
+  5 15  1  0
+ 10 16  1  0
+ 11 17  1  0
+ 13 18  1  0
+ 14 19  1  0
+ 14 20  1  0
+ 14 21  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.09
+
+>  <ALOGPS_LOGS>  (1) 
+-2.62
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.52e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01119
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01119
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+229.991675875
+
+>  <FORMULA>  (1) 
+C8H7ClN2O2S
+
+>  <GENERIC_NAME>  (1) 
+Diazoxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H7ClN2O2S/c1-5-10-7-3-2-6(9)4-8(7)14(12,13)11-5/h2-4H,1H3,(H,10,11)
+
+>  <INCHI_KEY>  (1) 
+GDLBFKVLRPITMI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Eudemine; Hyperstat
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.976404199625517
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-chloro-3-methyl-4H-1λ⁶,2,4-benzothiadiazine-1,1-dione
+
+>  <JCHEM_LOGP>  (1) 
+1.0004864536666664
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.483197628193476
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+1.3279042277162278
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.84080000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hyperstat
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+230.671
+
+>  <PRODUCTS>  (1) 
+Hyperstat Inj 15mg/ml; Proglycem; Proglycem Susp 50mg/ml
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00914
+
+>  <SMILES>  (1) 
+CC1=NS(=O)(=O)C2=C(N1)C=CC(Cl)=C2
+
+$$$$

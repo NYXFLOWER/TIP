@@ -1,0 +1,148 @@
+2733
+     RDKit          2D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+    1.6500    0.6625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.8265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8806   -0.1625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.5014    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -0.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556   -0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  6  1  0
+  2 10  1  0
+  3 10  2  0
+  4  5  1  0
+  4 10  1  0
+  5  6  2  0
+  5  7  1  0
+  6  8  1  0
+  7  9  2  0
+  8 11  2  0
+  9 11  1  0
+  4 12  1  0
+  7 13  1  0
+  8 14  1  0
+ 11 15  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.09
+
+>  <ALOGPS_LOGS>  (1) 
+-1.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.96e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00356
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00356
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+168.993056084
+
+>  <FORMULA>  (1) 
+C7H4ClNO2
+
+>  <GENERIC_NAME>  (1) 
+Chlorzoxazone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H4ClNO2/c8-4-1-2-6-5(3-4)9-7(10)11-6/h1-3H,(H,9,10)
+
+>  <INCHI_KEY>  (1) 
+TZFWDZFKRBELIQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Myoflexin; Paraflex; Relaxazone; Remular; Remular-S; Solaxin; Strifon Forte DSC
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.93950345990999
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-chloro-2,3-dihydro-1,3-benzoxazol-2-one
+
+>  <JCHEM_LOGP>  (1) 
+1.9356712949999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.390750101816508
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.17284617303016
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.33
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+41.069
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+chlorzoxazone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+169.565
+
+>  <PRODUCTS>  (1) 
+Acetazone Forte; Acetazone Forte C8; Back-aid Forte - Tab; Chlorzoxazone; Extra Strength Tylenol Aches and Strains; Gin Pain Pills  -  Tab; Lorzone; Parafon DSC; Parafon Forte; Parafon Forte C8 W Codeine Tab; Parafon Forte DSC; Parafon Forte Tablets
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00308
+
+>  <SMILES>  (1) 
+ClC1=CC2=C(OC(=O)N2)C=C1
+
+>  <SYNONYMS>  (1) 
+2-hydroxy-5-chlorobenzoxazole; 5-chloro-2(3H)-benzoxazolone; 5-chloro-3H-benzooxazol-2-one; 5-chlorobenzoxazolin-2-one; Chlorzoxane; Chlorzoxazon; Chlorzoxazone; Chlorzoxazonum; Clorzoxazona; Clorzoxazone
+
+$$$$

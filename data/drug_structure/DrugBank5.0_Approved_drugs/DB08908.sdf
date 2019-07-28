@@ -1,0 +1,146 @@
+
+     RDKit          2D
+
+ 18 17  0  0  0  0  0  0  0  0999 V2000
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  3  1  0
+  6  4  1  0
+  7  5  2  0
+  8  6  2  0
+  9  1  1  0
+  9  5  1  0
+ 10  2  1  0
+ 10  6  1  0
+  1 11  1  0
+  1 12  1  0
+  1 13  1  0
+  2 14  1  0
+  2 15  1  0
+  2 16  1  0
+  3 17  1  0
+  4 18  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.45
+
+>  <ALOGPS_LOGS>  (1) 
+-1.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.29e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB08908
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB08908
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+144.042258744
+
+>  <FORMULA>  (1) 
+C6H8O4
+
+>  <GENERIC_NAME>  (1) 
+Dimethyl fumarate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H8O4/c1-9-5(7)3-4-6(8)10-2/h3-4H,1-2H3/b4-3+
+
+>  <INCHI_KEY>  (1) 
+LDCRTTXIJACKKU-ONEGZZNKSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+18
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+13.762322564836051
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,4-dimethyl (2E)-but-2-enedioate
+
+>  <JCHEM_LOGP>  (1) 
+0.7175404473333331
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.5267283323427785
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.60000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+34.1452
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dimethyl fumarate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+144.1253
+
+>  <PRODUCTS>  (1) 
+Tecfidera; Tecfidera  Pvc Alu)
+
+>  <SMILES>  (1) 
+[H]\C(=C(\[H])C(=O)OC)C(=O)OC
+
+>  <SYNONYMS>  (1) 
+(E)-But-2-enedioic acid dimethyl ester; 1,2-bis(methoxycarbonyl)-trans-ethylene; Dimethyl trans-ethylenedicarboxylate; Fumaric acid, dimethyl ester; trans-1,2-Ethylenedicarboxylic acid dimethyl ester; trans-Butenedioic acid dimethyl ester
+
+$$$$

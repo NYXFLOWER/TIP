@@ -1,0 +1,146 @@
+
+     RDKit          2D
+
+ 15 13  0  0  0  0  0  0  0  0999 V2000
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  4  2  0
+  7  4  1  0
+  1  9  1  0
+  1 10  1  0
+  2 11  1  0
+  2 12  1  0
+  3 13  1  0
+  3 14  1  0
+  5 15  1  0
+M  CHG  2   7  -1   8   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.34
+
+>  <ALOGPS_LOGS>  (1) 
+0.72
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.60e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09072
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09072
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+126.02928837
+
+>  <FORMULA>  (1) 
+C4H7NaO3
+
+>  <GENERIC_NAME>  (1) 
+Sodium oxybate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H8O3.Na/c5-3-1-2-4(6)7;/h5H,1-3H2,(H,6,7);/q;+1/p-1
+
+>  <INCHI_KEY>  (1) 
+XYGBKMMCQDZQOZ-UHFFFAOYSA-M
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+15
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.740832431137218
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+sodium 4-hydroxybutanoate
+
+>  <JCHEM_LOGP>  (1) 
+-0.5149198190000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+15.98255965448772
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.440873954984472
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.3817124873466886
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+60.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+34.6374
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sodium gamma-hydroxybutyrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+126.087
+
+>  <PRODUCTS>  (1) 
+Xyrem
+
+>  <SMILES>  (1) 
+[Na+].OCCCC([O-])=O
+
+>  <SYNONYMS>  (1) 
+Oxybate sodium
+
+$$$$

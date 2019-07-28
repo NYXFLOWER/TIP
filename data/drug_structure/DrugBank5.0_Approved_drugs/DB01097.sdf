@@ -1,0 +1,171 @@
+1097
+     RDKit          2D
+
+ 28 29  0  0  0  0  0  0  0  0999 V2000
+    2.9915    2.4910    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6416    2.4910    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    3.3160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6896   -3.3160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3876   -0.8090    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166   -0.8090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5146   -3.3160    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    0.0160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    1.6660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -2.0465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5310    0.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    0.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5310    1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021    1.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1021   -1.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4347   -2.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8166    2.4910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695   -2.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.2764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2 17  1  0
+  3 17  1  0
+  4  7  1  0
+  4 16  1  0
+  5 15  2  0
+  6  8  1  0
+  6 15  1  0
+  7 18  2  0
+  8 11  2  0
+  8 12  1  0
+  9 13  2  0
+  9 14  1  0
+  9 17  1  0
+ 10 15  1  0
+ 10 16  2  0
+ 10 18  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 16 19  1  0
+  6 20  1  0
+ 11 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 18 25  1  0
+ 19 26  1  0
+ 19 27  1  0
+ 19 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.52
+
+>  <ALOGPS_LOGS>  (1) 
+-3.51
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.44e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01097
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01097
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+270.061612157
+
+>  <FORMULA>  (1) 
+C12H9F3N2O2
+
+>  <GENERIC_NAME>  (1) 
+Leflunomide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H9F3N2O2/c1-7-10(6-16-19-7)11(18)17-9-4-2-8(3-5-9)12(13,14)15/h2-6H,1H3,(H,17,18)
+
+>  <INCHI_KEY>  (1) 
+VHOGYURTWQBHIL-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.107332045693916
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-methyl-N-[4-(trifluoromethyl)phenyl]-1,2-oxazole-4-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+2.507085826
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.412348150077646
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.44625320958288917
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+55.13
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.15690000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+leflunomide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+270.2073
+
+>  <PRODUCTS>  (1) 
+Apo-leflunomide; Arava; Arava 100 mg; Arava 10mg; Arava 20 mg; Dom-leflunomide; Leflunomide; Leflunomide Medac; Leflunomide Ratiopharm; Leflunomide Teva; Leflunomide Winthrop; Mylan-leflunomide; Ntp-leflunomide; Nu-leflunomide; Odan-leflunomide; PHL-leflunomide; PMS-leflunomide; Repso; Sandoz Leflunomide; Teva-leflunomide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00205
+
+>  <SMILES>  (1) 
+CC1=C(C=NO1)C(=O)NC1=CC=C(C=C1)C(F)(F)F
+
+>  <SYNONYMS>  (1) 
+Leflunomidum; Lefunomide
+
+$$$$

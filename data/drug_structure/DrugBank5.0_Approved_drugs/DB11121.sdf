@@ -1,0 +1,152 @@
+
+     RDKit          2D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  2  7  1  0
+  7  8  1  0
+  6  9  1  0
+  4 10  1  0
+  1 11  1  0
+  1 12  1  0
+  1 13  1  0
+  3 14  1  0
+  5 15  1  0
+  9 16  1  0
+  9 17  1  0
+  9 18  1  0
+ 10 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.14
+
+>  <ALOGPS_LOGS>  (1) 
+-2.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.55e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11121
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11121
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+156.0341926
+
+>  <FORMULA>  (1) 
+C8H9ClO
+
+>  <GENERIC_NAME>  (1) 
+Chloroxylenol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H9ClO/c1-5-3-7(10)4-6(2)8(5)9/h3-4,10H,1-2H3
+
+>  <INCHI_KEY>  (1) 
+OSDLLIBGSJNGJE-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+19
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.03972108163767
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-chloro-3,5-dimethylphenol
+
+>  <JCHEM_LOGP>  (1) 
+3.3005679493333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.205083870845058
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.261483911966361
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+20.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+42.9261
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dettol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+156.61
+
+>  <PRODUCTS>  (1) 
+1012 Antimicrobial; 986 Antiseptic Hand Soap-lot 0.5%; ACQUAINT Antibacterial Foam Handwash; ADVANTAGE CHEMICAL Premium Antibacterial Foaming Hand So ap; AFFEX Antimicrobial Foaming Hand So ap; AFFEX Foaming Antimicrobial Hand So ap; ARRAY Anitbacterial Foam Handwash; Absorbine Jr Extra Strength Liniment; Absorbine Jr Liniment; Absorbine Power Gel; Acne Aid Gel; Acropole Bleu; Acute Kare Hand Sp.; Acute-Kare Healthcare Personnel Handwash; Aero CleansE2 Antibacterial; Aero Florafree Antibacterial; Afia Foaming Anti-Bacterial Hand Cleaner; Ak-1 1%; All Fresh By Alsco Anti-microbial Foaming Hand Soap; All Fresh By Alsco Antimicrobial Lotion Hand Soap; AloeGuard; Aloeguard Antimicrobial; Alpet E2 Sanitizing Foam Soap; Alpha BAC Stop E-2; AmeriDerm Antibacterial Wash; Antibacterial; Antibacterial Bar Blue Cross; Antibacterial Foam; Antibacterial Foam Hand Wash; Antibacterial Foamy Mango High Foaming Antiseptic Hand and Body Wash; Antibacterial Gel Hand Soap; Antibacterial Hand; Antibacterial Hand Green Apple Scented; Antibacterial Hand Milk and Honey Scented; Antibacterial Hand Problend; Antibacterial Hand Rose Scented; Antibacterial Hand Shea Butter Scented; Antibacterial Handsoap; Antibacterial Liquid Hand; Antibacterial Lotion Soap; Antibacterial Skin Cleanser; Antibacterial Skin Cleanser - Lot 1%; Antibacterial Skin Cleanser 82; Antibacterial Skin Rain Forest Extract From Entiere; Antibacterial Soap; Antimicrobial 0.6% P.C.M.X. / Antimicrobien 0.6% P.C.M.X.; Antimicrobial Antiseptic Hand Wash; Antimicrobial Antiseptic Lotion Hand Soap; Antimicrobial Cleanser; Antimicrobial Foam So ap; Antimicrobial Foam So ap with PCMX; Antimicrobial Hand Cleanser (value Line); Antimicrobial Hand Lotion Soap 652; Antimicrobial Hand So ap; Antimicrobial Hand Wash; Antimicrobial Lotion Cream Soap; Antimicrobial Lotion Soap 0.6%; Antiseptic Hand; Antiseptic Hand Cleaner; Antiseptic Lotion Cleanser 0.6%; Antiseptic Ltion Cleanser; Antiseptic Ointment 1.5mg/gm; April Bath and Shower Cucumber Melon Scented Hand Sanitizer Anti-Bacterial; April Bath and Shower Sweet Blossom Scented Hand Sanitizer Anti-Bacterial; April Bath and Shower Warm Vanilla Scented Hand Sanitizer Anti-Bacterial; AprilGuard; Asepso Gentle Antibacterial; Asepso Sport Antibacterial; Asept-all Antimicrobial Hand Soap Liq 1%; BD E-Z Scrub; BOARDWALK Antibacterial Foam Handwash; BOARDWALK Antibacterial Ltion So ap; BRIGHT SOLUTIONS Antimicrobial Foam So ap; BRIGHT SOLUTIONS Foaming Antimicrobial So ap; BRIGHTON PROFESSIONAL Antibacterial Foaming Hand So ap; BRIGHTON PROFESSIONAL Antibacterial Hand So ap; BRIGHTON PROFESSIONAL Premium Antibacterial Foam So ap; Ban-Aid; Barri-care Moisture Barrier; Bay West E2 Antibacterial Skin Cleanser; Bd E-Z Scrub 408; Bex Foam; Blistex Foille Medicated First Aid; Bm-1000 - Lot 0.25%; Bm-1200 -crm 0.25%; Bright Solutions antiseptic; CLASSIC TOUCH Foaming Antimicrobial Ltion So ap; CLASSIC TOUCH Foaming Antimicrobial So ap; CLEAR AND CLEAN Neutral pH Antiseptic Hand Wash; COMPANIONS Luxury Foam Hand So ap, Antimicrobial; Chem Clean Antibacterial Hand; Chemseptic; Chemstation E2; Chloroxylenol; Clario Antibacterial; Clean Choice Antibacterial; Clean Force; Clean Xpress Antiseptic Hand Cleaner; Cleanse; Clear Bac; Clear Choice Out of Sight; Clear-Tone Antibacterial Hand; Clorox Antibacterial Hand - Cherry and Magnolia Blossom; Clorox Antibacterial Hand - Citrus Blossom; Clorox Antibacterial Hand - Coconut Water; Clorox Antibacterial Hand - Wild Lavender and Vanilla; Clorox Antimicrobial; Clorox Citrus and Sage Dish; Clorox Lemon Dish; Clorox Oxi Dish Oxi Magic; Colourless Antiseptic; Compliance; Compliance Dishwashing Liquid; Conquest; Conquest II; Contact; Contend Anti-bacterial Gel Skin Cleanser; Control; Coramatic Ultima E-2 Food Processing Handwash; Cortane-B; Cosmos Hv; Count Down; Cs Antimicrobial Foam Soap; DAYCON Antibacterial Foaming Hand So ap; DON Antibacterial Blue Floral Foam Handwash; DON Sensi-Derm Plus Antibacterial Ltn So ap; Dawn Ultra Antibacterial Hand Apple Blossom Scent; Dawn Ultra Antibacterial Hand Orange Scent; Deb PureBac Foam Wash; Denorex Extra Strength Medicated Shampoo; Denorex Extra Strength Medicated Shampoo With Conditioners; Denorex Medicated Shampoo - Regular; Denorex Medicated Shampoo Spring Fresh; Denorex Medicated Shampoo With Conditioners; Derma 1 Healthcare Hand Wash; Derma CIDOL 2000; DermaCen Antimicrobial-P Hand; DermaFoam E Antibacterial Hand Soap; Dermacare V Antiseptic Lotion Soap; Dermakleen; Dermapro Antimicrob Lot Sop 0.6%; Dermex I Antiseptic Lotion Soap; Dettol; Dettol 10%; Dettol First Aid Antiseptic; Dettol Liq 10%; DigiClean E; Digiclean E Foam Hand Soap; Dishwashing; Drummond American Trade Wind Antimicrobial; Dynarex Green; E 2 Sanitizing Hand Soap Liq 3%; E-Z Scrub Antimicrobial Foam Solution Containing 3% Pcmx; E-Z Scrub Surgical Scrub Containing Ultradex; EXCELON Antimicrobial Foam; EXTENDED CARE Foaming Antimicrobial Handwash; EcoCare 270; EcoCare 275; Ecolab; Ecolab Clean Force; Ecolab Inc.; Ecolab Keystone; Emerald Green Neutral pH Anti-Bacterial Hand; Ensuite; Epi Vera E Antimicrobial Lotion Soap; Epi Wash; EpiCare Antimicrobial Lotion Soap; Epicare Antimicrobial Lotion Soap 8%; Epicare Antiseptic Lotion Soap - 0.6%; Essential Everyday Dishwashing Liquid Orange; FIKES Foaming Anti-Microbial Food Service Hand Wash; FOMA Antimicrobial Foam; FOMA Antimicrobial Ltn Sp; First Street Dishwasing Concentrate and Antimicrobial Hand; Fivestar; Foam Care Medicated Hand Wash - Liq; Foam Care Pcmx Surgical Hand Scrub; FoamFresh Antibacterial Hand Wash; FoamFresh Healthcare Hand Wash; Foaming Aloeguard Antimicrobial; Foaming Hand; Foaming Hand Wash; Foamy Mango Antiseptic Hand and Body Wash; Food Processing; Food Service Soap; Fortress; FresHands Instant Foaming Antiseptic Hand and Body Wash; GENUINE JOE Cleaning Supplies Antibacterial Foam So ap Refill; GOJO Antimicrobial Foam Handwash with PCMX; GOJO Antimicrobial Ltn Sp; GOJO E2 Foam Handwash with PCMX; GOJO Gold and Klean Antimicrobial Ltn Sp; GOJO Pink Antimicrobial Ltn Sp; GOJO RICH PINK Antibacterial Ltn Sp; GOJO Ultra Mild Antimicrobial Ltn Sp with Chloroxylenol; GRAND TOUCH Antimicrobial Ltion So ap; Gard 0.5%; Garde Antiseptic Skin Cleaner; Generations Antimicrobial; Genlabs Strike Bac Antibacterial Handsoap; Georgia Pacific Antiseptic Soap; Germicidal Hand Soap Liq 0.6%; Global Clean Antimicrobial Lotion Soap; Gojo Antibacterial Luxury Foam Handwash; Gojo Antimicrobial Lotion Soap; Gojo Antimicrobial Lotion Soap With Chloroxylenol; Gojo E2 Foam Sanitizing Soap; Gojo Premium Foam Antibacterial Handwash; Gojo Ultra Mild Antimicrobial Lotion Soap; Gold Antiseptic; Gold and Sudsy; Golden Medicated; Good Care Sterile Scrub Brush with PCMX; Grasp; Great II Lotionized Antiseptic; Great Value Green Apple Scent; Great Value Orange Scent; HACCP Flat Top E-2; HI-VALU Antimicrobial Foaming Hand So ap; HILLYARD AMB So ap; HILLYARD Clean Assist Antibacterial So ap; HILLYARD D.G.A. Plus Antimicrobial So ap; HILLYARD D.G.A. Plus Foam Antimicrobial Hand So ap; HILLYARD NT Peach Antimicrobial Foam Cleanser; HUSKY 505 Antiseptic Cleanser; HUSKY 510 Anti-Microbial Food Service Hand Cleaner; Hand Antibacterial; Hand Guard High Foaming Antiseptic Hand and Body Wash; Handtastic Foamy Mango Antiseptic Hand and Body Wash; Harmony High Foaming Antiseptic Hand and Body Wash; Health Care Antiseptic Lotion Soap; Health Care E-2 Antis Lot Soap; Health Care Personnel Handwash Aloe Vera; Health Care Personnel Handwash Berry; Health Care Personnel Handwash Fresh Melon; Health Care Personnel Handwash Lavender; Health Care Personnel Handwash Peach; Health Care Personnel Handwash Strawberry; Healthcare Antiseptic Towelette; Healthy Hands Aloe Antiseptic Hand and Body Wash; Healthy Hands Pink Antibacterial Hand Cleaner; Heavy Duty Hand Cleaner; Hi-Tech; Hidocomo Antiseptic Disinfectant; High Five Antiseptic Hand and Body Wash; HighMark Professional Pink Antimicrobial Ltn Sp; Highmark Professional Antibacterial Foam Handwash; Highmark Professional Gold and Clean Antimicrobial Ltn Sp; Highmark Professional Luxury Foam Antibacterial Handwash; Highmark Professional Premium Foam Antibacterial Handwash; Hillyard Citrus Fresh Antimicrobial Foaming; Hillyard E2 Food Industry Foaming; Hygenipak Green Anti-microbial Skin Cleanser; Hygenix Antimicrobial; INCHCO Brand SANI-DERM Antiseptic Hand Wash; INODERM Style; INOFOAM Antibacterial Foaming Hand; Iba-cide Liquid; Ids Amber Antimicrobial Lotion Soap; Ids Antimicrobial Lotion Soap; Inhibit Gel; Inhibit II High Foaming Antiseptic Hand Cleaner; Instant Hand Sanitizer; Iris Antimicrobial Hand; Jade Antibacterial Hand; KELSAN Antimicrobial Ltion Skin Cleanser; KLEENEX E2 Foam Skin Cleanser; Kimcare Antibacterial - E-2 Rated Skin Cleanser; Klassic Antiseptic Lotion Soap 0.5%; Kleenex Antiseptic Skin Cleanser; Kleenfoam; Knuckle Under Medicated; Kss Clean Hands Antiseptic Cleaner; Kung Fu Panda Hand Sanitizer; Lagarde; Lemon Drop Gentle Antiseptic; Lemon Yellow Pearlized Liq; Lite nFoamy Healthcare Personnel Handwash; Luxury Foam Antibacterial; Lynx Antibacterial; Lynx Foamy PCMX Antiseptic Hand and Body Wash 6876; MG DermaWash; MICRELL Antibacterial Foam Handwash; MICRELL Antibacterial Ltn Sp; Marquis; Maxim; Maxim Assure; McD; McD Anti-Microbial Handwash (AMH); McD Foaming Antibacterial Hand; Mckesson Hand Cleanse and Soothe with Aloe; Medi-Clean Antiseptic Hand Cleaner; Medi-Pak Performance Antimicrobial with Aloe; Medi-Scrub; Medi-scrub Liq 0.6%; Medi-wipes; Medicascrub High Foaming Antiseptic Hand Cleaner; Medicated Lotion Soap 0.5%; Members Mark; Micrell Antibacterial Lotion Soap With Chloroxylenol; Micro; Microsept Antimicrobial; Microstat Med Personnel Hand Liq 1%; Mline; Multi-action Denorex 2-IN-1 Dandruff Shampoo + Conditioner; Multi-action Denorex Dandruff Shampoo; NICHOLS Luxury Antimicrobial Foam So ap; Namico Antiseptic Hand Cleaner 557; Neptune E2 ANTISEPTIC HAND; Nova Scrub Lot 0.25%; OK Foam Anti-Bacterial; OPI Antiseptic Foaming Hand Cleaner; Oasis Antiseptic Skin Cleaner Liq 0.5%; Osceola Supply Inc 6176; P.A.W.S. - Liq 0.5%; PCMX Surgical Scrub; PCMX with Emollient; PRIME SOURCE Antibacterial Hand So ap; PRIME SOURCE Antibacterial Ltion So ap; PRIME SOURCE Antimicrobial Foam So ap; PRIME SOURCE Antimicrobial Foaming Hand So ap; PRIME SOURCE Antimicrobial Hand So ap; PRIME SOURCE E2 Foam So ap; PRIMORY Antimicrobial Foam; PRO-LINK Foaming Antimicrobial So ap; PRO-LINK Free Hands Antibacterial Foam So ap; PRO-LINK OPTIMUM Foaming Antimicrobial So ap; PRO-LINK Prestige Antibacterial Gold Hand So ap; PROBLEND Antibacterial Liquid Cleanser; PROVON Antimicrobial Ltn Sp with 0.3% PCMX; PROVON Foaming Antimicrobial Handwash with Moisturizers; PROVON Foaming Antimicrobial Handwash with PCMX; PURELL Food Processing HEALTHY SP 0.5pct PCMX Antimicrobial E2 Foam Handwash; PURELL Healthcare HEALTHY SP 0.5pct PCMX Antimicrobial Foam; Palm; Pc511 Antimicrobial; Pc529 Ultrex; Pc537 E-2 Brute; Pc557 Palpon; Perigiene; Personal Care Antibacterial Hand Coconut Ginger; Pharma-clenz Liq 1.5%; Phenrex; Phenrex Mvd; Pic N Shovel Antiseptic Hand and Body Wash 6875; Pink Antibacterial; Pink Pearlized Liq; Pink Pearlized Plus; Pioneer Eclipse Touche Foaming Antibacterial Green; Pramoxine-HC; Premium Antibacterial Skin Cleanser; Premium Foam Antibacterial; Prescott 50 - 0.25% Liq; Prestige; Prime Source Antimicrobial Foaming Hand Soap With Chloroxylenol; Primory Antimicrobial Lotion Soap; Primory Clean Skin Antibacterial Ltn Sp; Princess - 0.25% Liq; Pro Care Spectracare Liq 1%; Pro-Care; ProPower Originals Antimicrobial Foaming So ap; Protect Antiseptic Skin Cleanser 0.5%; Provon Antimicrobial Lotion Soap 0.6%; Provon Antimicrobial Lotion Soap With 0.3% Chloroxylenol; Provon Medicated Lotion Soap 0.3%; Provon Medicated Lotion Soap With Chloroxylenol; Publix Green Apple Scent; Publix Ultra Dish Detergent Orange; PurKlenz; PurSan; PurTect; Pure Kleen; PureBac Foam Wash; PureForce; Purel Antibacterial Lotion Soap 0.3%; Purgo Ultra PC; Puro Antibacterial Wash Foam; Puro Azul Awapuhi; QSC ASSIST Antimicrobial Hand Cleanser; QSC Antimicrobial Wash CM; QSC Foam Fresh Antimicrobial Hand; QSC TF Ambre Antibacterial Wash; Qfs Antibac Hand Soap; Qsr; Quick Clean; RENOWN Antibacterial Foam Cleanser; RENOWN Antibacterial Foam So ap; RENOWN Antimicrobial So ap; Radiance; Reeva Green Apple Antibacterial Hand; Refco Prep Liq Soap 0.7%; Refresh ClearBac Fm; Refresh PureBac Foam; Regimen Antimicrobial; Renown Antiseptic Hand Cleaner for Gentle Hand Care; Rich Pink Antibacterial; RoyaLab Germ Away; Royal Antibacterial Foam Hand Wash; SAC-VAL Premium Clear Antiseptic Hand Wash; SIGNATRY Antimicrobial Foam; SIGNATRY Ultra Antimicrobial Ltn Sp; SMJ Antibacterial Hand; SOMERSET Anti-Bac Hand So ap; Safeguard Antibacterial Hand; Sani Mango Antiseptic Hand and Body Wash; Sani-dex Antimicrobial Hand Wipes; SaniSuds Antibacterial Foam; Sanitex MVP Foam Anti-Bacterial; Sanitex MVP Liquid Anti-Bacterial; Saniwash Antimicrobial; Saniwash Antimicrobial Foaming Hand; Sbs 40 Medicated Skin Cream; Sbs 40 Medicated Skin Lotion; Sbs 41 Medicated Skin Lotion; Scott Antibacterial Skin Cleanser; Scott Antiseptic Skin Cleanser; Scott Brand Antiseptic Skin Cleanser; Scott Sani-fresh Antisep Cleanser 1.75%; Scott Sani-fresh Nro Antis Cleanser 1.75%; Scrub Care; Scrub Care Surgical Scrub Brush-sponge/nail Cleaner With Pcmx and Emolient Cleansing Solution; Scrub-In Surgical Scrub Brush/Sponge; Scrubcare Antimicrobial Skin Lotion; Secure; Septiline II Antimicrobial Lotion Soap; Septisurge; Servo-Stat P; Shopkins HAND SANITIZER; Sierra Soft Antibacterial Wash; Signatry Antimicrobial Lotion Soap; Signatry Ultra Antimicrobial Lotion Soap; Signature Home AB Orange; Skintegrity Foaming; Skyline Antibacterial Hand Cleanser; Sloan Jansan Healthminder Sjs-1001-2; Sloan Jansan Healthminder Sjs-1051-2; Sloan Jansan Healthminder Sjs-1101-2; Sloan Jansan Healthminder Sjs-1651-2; Smile Suds Aer 0.10%; SoapPro S702A; Soft Care Antibacterial-Antiseptic Hand; Soft Care Antiseptic Hand Cleaner - Liq; Soft Care Antiseptic Skin Cleanser; Soft Care Defend; Soft Care Defend Antibacterial Handwash; Soft Care Defend Foam; Soft Care Defend Foam Antibacterial Handwash; Soft Care Food Industry Sanitizing Hand Soap; Soft Saddle; Soft Touch; Soft Touch Lotion Hand Cleanser; Soft and Silky Antiseptic; SoftCIDE-ES; Softcide; Softcide Handwash; Soften Sure Foam Soap Antimicrobial; Soothing Foot Spray  -  Liquid; Spartan Antiseptic Hand Cleaner; Star Brand Antimicrobial Lotion Soap 0.6%; Star Fresh Anti Bac Lot Hand Sop; Starshine C Antimicrobial; Suds High Foaming Antiseptic Hand and Body Wash; Suite Scrub 1000 Liq 3%; Suite Scrub Foam  Liq 3%; SunDrops 67; Sunshine's Antibacterial Soap; Super Gel; Super Lotion Sop 0.25%; Super-crem; Supreme; Surgent Antiseptic; Surgical Scrub and Handwash; Swiss Blue Antibacterial Hand Soap; Symmetry Antimicrobial Foaming Hand Wash; Sysco; Sysco Reliance; T-Chem E2 Rated; TOUGH GUY 821 Antimicrobial Liquid Ltion So ap; TOUGH GUY Antibacterial Foam Hand So ap; TOUGH GUY Antimicrobial Foam So ap; TOUGH GUY Antimicrobial Ltion So ap; Thomas and Friends Hand Sanitizer; Tork Advanced Antimicrobial; Tork Foam Antibacterial; Tork Foam Soap Antibacterial; Tork Liquid Antibacterial; Tork Liquid Soap Antibacterial; Total Performance Antibacterial Foam Hand; Total Skin Care Antimicrobial Skin Cleanser; Triclosan Free Antibacterial 7.5 oz (Fresh Citrus) Antibacterial; Triclosan Free Antibacterial 7.5 oz (Ocean) Antibacterial; Triclosan Free Antibacterial 7.5 oz (Strawberry Pomegranate) Antibacterial; Triclosan Free Antibacterial 7.5 oz original Antibacterial; Triclosan Free Antibacterial Antibacterial; Triple S Gentle Antibacterial Cleanser; Triton AB-741; Ultimate; Ultra; Ultra Dish; Ultra So-Soft Dish Detergent; Ultradex Liq 3%; Unica Super-derm - Lot 0.5%; Unica Super-orange; Up (and) Up Green Apple Scent; Uphold Plus; Uscalrite Tec E-1 - Liq Top 0.5%; Vehicle Boat Bag Medical; Victoria Bay; VioNex; VioNex Towelette; Vionex Antimicrobial Liquid Soap; Vionex Antimicrobial Skinwipe Towelette; Vionex No Rinse Gel Antiseptic Handwash; Vionexus Antimicrobial Foaming Soap; Virobex-P; Virobex-P Foam; WAXIECARE Pink Antibacterial Ltion So ap; Wegmans Ultra Dishwashing Liquid Orange Scent; WhiskCare 362; WhiskCare 367; Winning Hands Antibacterial; Winning Hands Premium Antibacterial; Winning Hands Premium Antibacterial Hand Cleaner; Wyandotte Sanifect Foam-E II; XL 10 Antiseptic Hand Soap; XL 40 Anti Bac Lot Hand Sop; Zep Applaud AB; Zep Applaud Hand Cleaner; Zep E-2 Foaming Sanitizing Hand Cleaner; Zep E-2 Hand Sanitizing Cleaner; Zep Foaming E-2 Sanitizing Hand Soap; Zep Round One Ab; Zep Round One Hand Cleaner; Zepaseptic; Zetar Shampoo; enMotion Antimicrobial Healthcare Personnel Handwash Fragrance Free; symmetry Antimicrobial Foaming Hand Wash
+
+>  <SMILES>  (1) 
+CC1=CC(O)=CC(C)=C1Cl
+
+>  <SYNONYMS>  (1) 
+2-chloro-5-hydroxy-1,3-dimethylbenzene; 2-chloro-5-hydroxy-m-xylene; 2-Chloro-m-xylenol; 3,5-dimethyl-4-chlorophenol; 4-chloro-1-hydroxy-3,5-dimethylbenzene; 4-chloro-3,5-dimethylphenol; 4-chloro-m-xylenol; chloro-xylenol; p-chloro-3,5-xylenol; p-chloro-m-xylenol; parachlorometaxylenol; PCMX
+
+$$$$

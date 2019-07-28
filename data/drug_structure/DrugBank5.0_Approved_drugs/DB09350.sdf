@@ -1,0 +1,217 @@
+
+     RDKit          2D
+
+ 54 55  0  0  0  0  0  0  0  0999 V2000
+    8.5737   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5762    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2881   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5762    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0026   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8618    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7171   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1460   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8605   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2894   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0039   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5762   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1473   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4328   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8538   -2.9557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8618   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1473   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5762   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8618   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4315   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5749   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7184   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1893   -2.2020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0333   -2.8695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  4  1  0
+  7  5  1  0
+  9  8  1  0
+ 11 10  1  0
+ 16  6  1  0
+ 16 12  2  0
+ 17 13  2  0
+ 17 14  1  0
+ 17 16  1  0
+ 18 12  1  0
+ 19 13  1  0
+ 19 18  2  0
+ 20  7  1  0
+ 20  8  1  0
+ 21  9  1  0
+ 21 10  1  0
+ 22 11  1  0
+ 22 14  1  0
+ 23 15  1  0
+ 23 18  1  0
+ 24 15  1  0
+ 24 19  1  0
+  1 25  1  0
+  1 26  1  0
+  1 27  1  0
+  2 28  1  0
+  2 29  1  0
+  2 30  1  0
+  3 31  1  0
+  3 32  1  0
+  4 33  1  0
+  4 34  1  0
+  5 35  1  0
+  5 36  1  0
+  6 37  1  0
+  6 38  1  0
+  7 39  1  0
+  7 40  1  0
+  8 41  1  0
+  8 42  1  0
+  9 43  1  0
+  9 44  1  0
+ 10 45  1  0
+ 10 46  1  0
+ 11 47  1  0
+ 11 48  1  0
+ 12 49  1  0
+ 13 50  1  0
+ 14 51  1  0
+ 14 52  1  0
+ 15 53  1  0
+ 15 54  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.07
+
+>  <ALOGPS_LOGS>  (1) 
+-4.74
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.11e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09350
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09350
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+338.20932407
+
+>  <FORMULA>  (1) 
+C19H30O5
+
+>  <GENERIC_NAME>  (1) 
+Piperonyl butoxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H30O5/c1-3-5-7-20-8-9-21-10-11-22-14-17-13-19-18(23-15-24-19)12-16(17)6-4-2/h12-13H,3-11,14-15H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+FIPWRIJSWJWJAI-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+54
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+40.432141904600094
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-{[2-(2-butoxyethoxy)ethoxy]methyl}-6-propyl-2H-1,3-benzodioxole
+
+>  <JCHEM_LOGP>  (1) 
+4.104762737333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6411242397254058
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.150000000000006
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.59580000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+13
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+piperonyl butoxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+338.4385
+
+>  <PRODUCTS>  (1) 
+Best Choice Lice Killing; CVS 3 Step Lice Solution; CVS Health Lice Killing; Care One Lice Killing; CareOne Lice Solution; Careone Lice; Complete Lice Treatment; Complete Lice Treatment Kit; Dg Health Lice Killing Maximum Strength; Discount Drug Mart Lice Killing; Eco.kid; El piojito Lice Killing; Equaline Lice Killing; Equaline Lice Solution; Equaline Lice Treatment; Equate Lice Killing; Equate Lice Treatment; Family Wellness Lice Killing; Family Wellness Lice Treatment; Family wellness Lice Treatment; Freds Lice Killing; Good Neighbor Pharmacy Lice; Good Neighbor Pharmacy Lice Solution; Good Sense Complete Lice Treatment; Good Sense Lice Killing; Good Sense complete Lice Treatment; Hairklyn Lice Killing; Health Mart Lice Killing; Healthy Accents Complete Lice Treatment; Herklin; Leader Lice Killing Maximum Strength; Leader Lice Solution; Leader Lice Treatment; Lice; Lice Complete; Lice Complete Kit; Lice Enz Aer Shp; Lice Killing; Lice Killing Shampoo; Lice Kit; Lice MD Complete; Lice Shampoo; Lice Treament; Lice Treatment; Lice-Nil Lice and Eggs Killer; LiceMD Treatment; Liceall; Licel; Liendrex; Mata Piojos A Pediculicide Low Foaming; Mata Piojos Lice; Medi and Lice Lice Killing; Para Special Shampoo for Lice & Nits; Preferred Plus Lice Killing; Pronto Lice Killing Shampoo Kit; Pronto Plus Lice Killing; Quality Choice Lice Killing; R & C Shampoo With Conditioner; RID Essential Lice Elimination; RID Lice Elimination Essentials; RID Lice Killing; Rexall Lice Killing; Scabene; Scabene Aerosol; Select Brand Lice Killing; Signature Care Lice Treatment; Smart Sense Lice Killing; Smart Sense lice control; Stop Lice Complete Lice Treatment; Sunmark Lice Killing Maximum Strength Lice Treatment; Sunmark Lice Solution; Sunmark Lice Solution Kit; TopCare Complete Lice Treatment; Topcare Complete Lice Treatment; Topcare Lice Killing; Up and Up Lice Complete Kit 1 2 3; Up and up lice killing maximum strength; Vida Mia Lice Killing; Weeks and Leo Complete Lice Treatment; good neighbor pharmacy Lice
+
+>  <SMILES>  (1) 
+CCCCOCCOCCOCC1=CC2=C(OCO2)C=C1CCC
+
+$$$$

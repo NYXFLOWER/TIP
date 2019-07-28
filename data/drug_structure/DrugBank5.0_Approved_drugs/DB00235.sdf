@@ -1,0 +1,171 @@
+235
+     RDKit          2D
+
+ 25 26  0  0  0  0  0  0  0  0999 V2000
+    5.9370   -1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.1880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    0.8745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0
+  2  6  1  0
+  2 11  1  0
+  3 14  2  0
+  3 15  1  0
+  4 16  3  0
+  5  6  2  0
+  5  7  1  0
+  5  8  1  0
+  6 10  1  0
+  7 12  2  0
+  7 13  1  0
+  8  9  2  0
+  9 11  1  0
+  9 16  1  0
+ 12 14  1  0
+ 13 15  2  0
+  2 17  1  0
+  8 18  1  0
+ 10 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.04
+
+>  <ALOGPS_LOGS>  (1) 
+-3.00
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.09e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00235
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00235
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+211.074561925
+
+>  <FORMULA>  (1) 
+C12H9N3O
+
+>  <GENERIC_NAME>  (1) 
+Milrinone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H9N3O/c1-8-11(9-2-4-14-5-3-9)6-10(7-13)12(16)15-8/h2-6H,1H3,(H,15,16)
+
+>  <INCHI_KEY>  (1) 
+PZRHRDRVRGEVNW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Corotrop; Corotrope; Milrila; Primacor
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.455185599670727
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-methyl-2-oxo-5-(pyridin-4-yl)-1,2-dihydropyridine-3-carbonitrile
+
+>  <JCHEM_LOGP>  (1) 
+0.32901938366666683
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.536810724750762
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.817991459099392
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+65.78
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+61.138100000000016
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+milrinone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.2194
+
+>  <PRODUCTS>  (1) 
+Apo-milrinone Injectable; Milrinone Injection; Milrinone Lactate; Milrinone Lactate Injection; Milrinone Lactate in Dextrose; Primacor Injection 1mg/ml
+
+>  <SALTS>  (1) 
+Milrinone Lactate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00010
+
+>  <SMILES>  (1) 
+CC1=C(C=C(C#N)C(=O)N1)C1=CC=NC=C1
+
+>  <SYNONYMS>  (1) 
+1,6-Dihydro-2-methyl-6-oxo(3,4'-bipyridine)-5-carbonitrile
+
+$$$$

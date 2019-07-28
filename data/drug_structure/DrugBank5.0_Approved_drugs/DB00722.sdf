@@ -1,0 +1,244 @@
+722
+     RDKit          2D
+
+ 60 61  0  0  1  0  0  0  0  0999 V2000
+    5.6655    0.7755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0162    2.7951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5746    1.4360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.0130    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    3.6631    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6185    2.4980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3634    3.2826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2835    2.4980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    3.2826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4030    2.2431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    2.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    3.2506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -3.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -4.1746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0
+  2 18  1  0
+  3 18  2  0
+  4 22  1  0
+  5 22  2  0
+  6  9  1  0
+  6 11  1  0
+  6 14  1  0
+ 13  7  1  1
+ 16  7  1  6
+  8 23  1  0
+  9 10  1  0
+  9 18  1  6
+ 10 12  1  0
+ 11 12  1  0
+ 13 14  1  0
+ 13 15  1  0
+ 15 17  1  0
+ 16 19  1  0
+ 16 22  1  0
+ 17 20  1  0
+ 19 21  1  0
+ 20 23  1  0
+ 21 24  1  0
+ 24 25  2  0
+ 24 26  1  0
+ 25 27  1  0
+ 26 28  2  0
+ 27 29  2  0
+ 28 29  1  0
+  2 30  1  0
+  4 31  1  0
+  7 32  1  0
+  8 33  1  0
+  8 34  1  0
+  9 35  1  0
+ 10 36  1  0
+ 10 37  1  0
+ 11 38  1  0
+ 11 39  1  0
+ 12 40  1  0
+ 12 41  1  0
+ 13 42  1  0
+ 15 43  1  0
+ 15 44  1  0
+ 16 45  1  0
+ 17 46  1  0
+ 17 47  1  0
+ 19 48  1  0
+ 19 49  1  0
+ 20 50  1  0
+ 20 51  1  0
+ 21 52  1  0
+ 21 53  1  0
+ 23 54  1  0
+ 23 55  1  0
+ 25 56  1  0
+ 26 57  1  0
+ 27 58  1  0
+ 28 59  1  0
+ 29 60  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.23
+
+>  <ALOGPS_LOGS>  (1) 
+-3.27
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.16e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00722
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00722
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+405.226371117
+
+>  <FORMULA>  (1) 
+C21H31N3O5
+
+>  <GENERIC_NAME>  (1) 
+Lisinopril
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H31N3O5/c22-13-5-4-9-16(19(25)24-14-6-10-18(24)21(28)29)23-17(20(26)27)12-11-15-7-2-1-3-8-15/h1-3,7-8,16-18,23H,4-6,9-14,22H2,(H,26,27)(H,28,29)/t16-,17-,18-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+RLAWWYSOJDYHDC-BZSNNMDCSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acebitor; Acemin; Acerbon; Acinopril; Bellisin; Biopril; Dapril; Fibsol; Fisopril; Hipril; Linopril; Lisipril; Noperten; Presiten; Ranolip; Ranopril; Rantex; Sinopren; Sinopril; Tensopril
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+43.501174735482024
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-1-[(2S)-6-amino-2-{[(1S)-1-carboxy-3-phenylpropyl]amino}hexanoyl]pyrrolidine-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-3.102603245726448
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+3.850622320338458
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.1725657699887164
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.208230835264743
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+132.95999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+107.3691
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+12
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lisinopril
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+405.4879
+
+>  <PRODUCTS>  (1) 
+Act Lisinopril; Apo-lisinopril Tablet (type P) - 10mg; Apo-lisinopril Tablet (type P) - 20mg; Apo-lisinopril Tablet (type P) - 40mg; Apo-lisinopril Tablet (type P) - 5mg; Apo-lisinopril Tablet 10 mg; Apo-lisinopril Tablet 20 mg; Apo-lisinopril Tablet 40 mg; Apo-lisinopril Tablet 5 mg; Apo-lisinopril/hctz; Auro-lisinopril; Ava-lisinopril Hct; Dom-lisinopril; Ipg-lisinopril; Jamp-lisinopril; Lisinopril; Lisinopril 10mg; Lisinopril 2.5mg; Lisinopril 20mg; Lisinopril 40mg; Lisinopril 5mg; Lisinopril Tablets; Lisinopril Tablets USP; Lisinopril and HCTZ; Lisinopril and Hydrochlorothiazide; Lisinopril and Hydrochlorthiazide; Lisinopril and hydrochlorothiazide; Lisinopril with Hydrochlorothiazide; Lisinopril/hctz (type Z); Lisnopril/hctz (type P); Lytensopril; Lytensopril-90; Mar-lisinopril; Mint-lisinopril; Mylan-lisinopril; Mylan-lisinopril Hctz; Ntp-lisinopril/hctz (type P); Ntp-lisinopril/hctz (type Z); Nu-lisinopril; Nu-lisinopril/hctz; PMS-lisinopril; Prinivil; Prinzide; Pro-lisinopril - 10; Pro-lisinopril - 20; Pro-lisinopril - 5; Qbrelis; Ran-lisinopril; Ratio-lisinopril P; Ratio-lisinopril Z; Riva-lisinopril; Sandoz Lisinopril; Sandoz Lisinopril Hct; Teva-lisinopril (type P); Teva-lisinopril (type Z); Teva-lisinopril/hctz (type P); Teva-lisinopril/hctz (type Z); Zestoretic; Zestril
+
+>  <SALTS>  (1) 
+Lisinopril dihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00560
+
+>  <SMILES>  (1) 
+NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O
+
+>  <SYNONYMS>  (1) 
+Lisinopril; Lisinoprilum
+
+$$$$

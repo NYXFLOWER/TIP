@@ -1,0 +1,184 @@
+939
+     RDKit          2D
+
+ 30 31  0  0  0  0  0  0  0  0999 V2000
+    1.6500   -0.9529    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.9529    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.3472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.1279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2 11  1  0
+  3 19  1  0
+  4 19  2  0
+  5  6  1  0
+  5  7  1  0
+  6  9  1  0
+  6 11  2  0
+  7 10  2  0
+  7 13  1  0
+  8  9  2  0
+  8 12  1  0
+  8 16  1  0
+ 10 15  1  0
+ 10 19  1  0
+ 11 14  1  0
+ 12 14  2  0
+ 13 17  2  0
+ 15 18  2  0
+ 17 18  1  0
+  3 20  1  0
+  5 21  1  0
+ 12 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 16 26  1  0
+ 16 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+5.11
+
+>  <ALOGPS_LOGS>  (1) 
+-4.91
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.66e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00939
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00939
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+295.016684015
+
+>  <FORMULA>  (1) 
+C14H11Cl2NO2
+
+>  <GENERIC_NAME>  (1) 
+Meclofenamic acid
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H11Cl2NO2/c1-8-6-7-10(15)13(12(8)16)17-11-5-3-2-4-9(11)14(18)19/h2-7,17H,1H3,(H,18,19)
+
+>  <INCHI_KEY>  (1) 
+SBDNJUWAMKYJOX-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ethos; Eucome; Meclomen
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.43958493021026
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(2,6-dichloro-3-methylphenyl)amino]benzoic acid
+
+>  <JCHEM_LOGP>  (1) 
+6.092265241333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+17.052354040679607
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.786930003597555
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.6275604973318707
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+49.33
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+76.45120000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+meclofenamic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+296.149
+
+>  <PRODUCTS>  (1) 
+Meclofenamate Sodium
+
+>  <SALTS>  (1) 
+Meclofenamate sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01090
+
+>  <SMILES>  (1) 
+CC1=C(Cl)C(NC2=CC=CC=C2C(O)=O)=C(Cl)C=C1
+
+>  <SYNONYMS>  (1) 
+Acide meclofenamique; Acido meclofenamico; Acidum meclofenamicum; Meclofenamate
+
+$$$$

@@ -1,0 +1,199 @@
+1001
+     RDKit          2D
+
+ 38 38  0  0  1  0  0  0  0  0999 V2000
+    3.5220    1.0082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -2.7044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.4669    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.8332    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    2.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.0082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.5957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2530    2.9602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0780    1.5312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.6419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.6419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.8794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.8794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  2 15  1  0
+  3 17  1  0
+  4  5  1  0
+  4  6  1  0
+  5  8  1  0
+  5  9  1  0
+  5 10  1  0
+  6  7  1  0
+  7 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 16  2  0
+ 14 15  2  0
+ 14 17  1  0
+ 15 16  1  0
+  1 18  1  0
+  2 19  1  0
+  3 20  1  0
+  4 21  1  0
+  6 22  1  0
+  6 23  1  0
+  7 24  1  0
+  8 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+  9 30  1  0
+ 10 31  1  0
+ 10 32  1  0
+ 10 33  1  0
+ 12 34  1  0
+ 13 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 17 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.44
+
+>  <ALOGPS_LOGS>  (1) 
+-2.05
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.15e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01001
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01001
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+239.152143543
+
+>  <FORMULA>  (1) 
+C13H21NO3
+
+>  <GENERIC_NAME>  (1) 
+Salbutamol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H21NO3/c1-13(2,3)14-7-12(17)9-4-5-11(16)10(6-9)8-15/h4-6,12,14-17H,7-8H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+NDAUXUAQIAJITI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+AccuNeb; Aerolin; Asmol; Asthalin; Asthavent; ProAir; PROAIRHFA; Proventil; Salamol; Ventilan; Ventolin; Ventoline; VENTOLINHFA; Ventorlin; VoSpire
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.858046828350428
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol
+
+>  <JCHEM_LOGP>  (1) 
+0.34441615099949047
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.17970015088174
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.121162873207071
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.403548944560061
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+72.72
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+67.8709
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+salbutamol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+239.3107
+
+>  <PRODUCTS>  (1) 
+Airomir; Albuterol; Albuterol Sulfate; Albuterol Sulfate ER; Apo-salvent 5mg/ml; Apo-salvent Aem 100mcg; Apo-salvent Cfc Free; Apo-salvent Sterules; Apo-salvent Tablets - 2mg; Apo-salvent Tablets - 4mg; Apo-salvent-ipravent Sterules; Asmavent Nebules P.F.; Asmavent Respirator Solution  Inh 5mg/ml; Baca Respiclick; Bci Salbutamol Inhalation Solution; Combivent Inhalation Aerosol; Combivent Respimat; Combivent Udv; Dom-salbutamol Respirator Solution-1mg/ml; DuoNeb; Ipramol; Ipratropium Bromide and Albuterol Sulfate; Levalbuterol; Levalbuterol Hydrochloride; Levalbuterol Inhalation; Levalbuterol hydrochloride; Levalbuterol tartrate HFA inhalation; Med Salbutamol Inhalation Solution 1mg/ml; Mylan-salbutamol Respirator Solution; Novo-salbutamol HFA; Novo-salmol Inhaler 100mcg/aem; Novo-salmol Tab 2mg; Novo-salmol Tab 4mg; Nu-salbutamol - Tab 2mg; Nu-salbutamol - Tab 4mg; Nu-salbutamol Plastic Ampules 1 mg/ml; Nu-salbutamol Plastic Ampules 2 mg/ml; PHL-salbutamol Oral Liquid; PHL-salbutamol Respirator Solution; PMS-salbutamol; PMS-salbutamol Oral Liquid; ProAir RespiClick; Proair HFA; Proairhfa HFA; Proventil HFA; Ratio-ipra Sal Udv; Ratio-salbutamol; Ratio-salbutamol HFA; Sabulin Inhaler 100mcg/metered Dose Aerosol; Salbu-2 - Tab 2mg; Salbu-4 - Tab 4mg; Salbutamol HFA; Salbutamol Inhalation Solution; Salbutamol Inhalation Solution P.F.-1mg/ml; Salbutamol Nebuamp 0.05%; Salbutamol Nebuamp 0.1%; Salbutamol Nebuamp 0.2%; Sandoz Salbutamol; Teva-combo Sterinebs; Teva-salbutamol Sterinebs P.F.; Ventodisk 200mcg; Ventodisk 400mcg; Ventodisk Pwr 200mcg/blister; Ventodisk Pwr 400mcg/blister; Ventolin Diskus; Ventolin HFA; Ventolin I.M. Injection 0.5mg Salbutamol In 1 Ml (500mcg/ml); Ventolin I.V. Bolus Injection 0.25mg Salbutamol In 5ml (50mcg/ml); Ventolin I.V. Infusion Solution 5.0mg Salbutamol In 5ml (1000mcg/ml); Ventolin IV Bolus Inj 0.05mg/ml; Ventolin Im Inj 0.5mg/ml; Ventolin Inhaler; Ventolin Inhaler 100mcg/aem; Ventolin Injection Liq IV 5mg/5ml; Ventolin Nebules P.F. - 2.5mg/2.5ml; Ventolin Nebules P.F. - 5mg/2.5ml; Ventolin Nebules P.F. Liq Inh 1.25mg/2.5ml; Ventolin Nebules P.F. Sol 2.5mg/2.5ml; Ventolin Nebules P.F.- 1.25mg/2.5ml; Ventolin Nebules PF Sol 5mg/2.5ml; Ventolin Oral Liquid; Ventolin Oral Liquid 0.4mg/ml; Ventolin Respirator Solution; Ventolin Respirator Solution 5mg/ml; Ventolin Rotacaps; Ventolin Rotacaps 200mcg; Ventolin Rotacaps 400mcg; Ventolin Tab 4mg; Ventolinhfa HFA; VoSpire ER; Xopenex; Xopenex HFA
+
+>  <SALTS>  (1) 
+Salbutamol sulfate; Salbutamol tartrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00553
+
+>  <SMILES>  (1) 
+CC(C)(C)NCC(O)C1=CC(CO)=C(O)C=C1
+
+>  <SYNONYMS>  (1) 
+Albuterol
+
+$$$$

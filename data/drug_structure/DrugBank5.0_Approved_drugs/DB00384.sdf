@@ -1,0 +1,182 @@
+384
+     RDKit          2D
+
+ 30 32  0  0  0  0  0  0  0  0999 V2000
+    4.5079   -0.4720    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.1780    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9599    1.2066    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7073   -0.0766    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.1780    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9503   -1.3255    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4202    1.1980    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.0595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223   -0.0595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.4720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    0.7655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.7655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9599   -0.5005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.2970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.0595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7073    0.7827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -1.7095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.4720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  1  9  1  0
+  2 11  1  0
+  2 12  2  0
+  3 11  1  0
+  3 16  2  0
+  4 13  2  0
+  4 16  1  0
+  5 12  1  0
+  6 13  1  0
+  7 16  1  0
+  8 10  1  0
+  8 12  1  0
+  9 11  2  0
+  9 13  1  0
+ 10 14  2  0
+ 10 15  1  0
+ 14 17  1  0
+ 15 18  2  0
+ 17 19  2  0
+ 18 19  1  0
+  5 20  1  0
+  5 21  1  0
+  6 22  1  0
+  6 23  1  0
+  7 24  1  0
+  7 25  1  0
+ 14 26  1  0
+ 15 27  1  0
+ 17 28  1  0
+ 18 29  1  0
+ 19 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.21
+
+>  <ALOGPS_LOGS>  (1) 
+-2.42
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.63e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00384
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00384
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+253.107593387
+
+>  <FORMULA>  (1) 
+C12H11N7
+
+>  <GENERIC_NAME>  (1) 
+Triamterene
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H11N7/c13-9-7(6-4-2-1-3-5-6)16-8-10(14)18-12(15)19-11(8)17-9/h1-5H,(H6,13,14,15,17,18,19)
+
+>  <INCHI_KEY>  (1) 
+FNYLWPVRPXGIIP-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Diuteren; Dytac; Riyazine; Triteren; Urinis
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.902157541411245
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-phenylpteridine-2,4,7-triamine
+
+>  <JCHEM_LOGP>  (1) 
+1.1145714720000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+18.534157164590187
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.876224904753954
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.106660757171625
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+129.62
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+75.12590000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+triamterene
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+253.2626
+
+>  <PRODUCTS>  (1) 
+Apo Triazide; Dyazide; Dyazide Tab; Dyrenium; Dyrenium 100; Dyrenium 50; Maxzide; Maxzide-25; Nu-triazide Tab 50 Mg/25 mg; Penta-triamterene Hctz Tablets; Pro-triazide; Riva-zide 50/25mg Tablets; TRIAMTERENE and HYDROCHLOROTHIAZIDE; Teva-triamterene/hctz; Triamterene and Hydrochlorothiazide; Triamterene hydrochlorothiazide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00079
+
+>  <SMILES>  (1) 
+NC1=NC(N)=C2N=C(C(N)=NC2=N1)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+6-phenylpteridine-2,4,7-triamine; Teridin; Triamteren; Triamtérène; Triamterene; Triamtereno; Triamterenum
+
+$$$$

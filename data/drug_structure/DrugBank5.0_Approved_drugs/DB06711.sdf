@@ -1,0 +1,170 @@
+Structure #1
+     RDKit          2D
+
+ 30 32  0  0  0  0  0  0  0  0999 V2000
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0366    4.7045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4491    3.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2296    4.5330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8971    3.3769    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  4  1  0
+  2  7  1  0
+  3  5  2  0
+  3  6  1  0
+  4 11  2  0
+  5 11  1  0
+  6 12  2  0
+  7 13  2  0
+  8  9  1  0
+  8 15  1  0
+  9 16  1  0
+ 10 12  1  0
+ 10 14  1  0
+ 11 13  1  0
+ 12 13  1  0
+ 14 15  2  0
+ 14 16  1  0
+  1 17  1  0
+  2 18  1  0
+  3 19  1  0
+  4 20  1  0
+  5 21  1  0
+  6 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 16 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.44
+
+>  <ALOGPS_LOGS>  (1) 
+-3.74
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.81e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06711
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06711
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+210.115698458
+
+>  <FORMULA>  (1) 
+C14H14N2
+
+>  <GENERIC_NAME>  (1) 
+Naphazoline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H14N2/c1-2-7-13-11(4-1)5-3-6-12(13)10-14-15-8-9-16-14/h1-7H,8-10H2,(H,15,16)
+
+>  <INCHI_KEY>  (1) 
+CNIIGCLFLJGOGP-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.773655206812087
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(naphthalen-1-ylmethyl)-4,5-dihydro-1H-imidazole
+
+>  <JCHEM_LOGP>  (1) 
+2.1931169496666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.190926808201356
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+24.39
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+65.51950000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+naphazoline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+210.2744
+
+>  <PRODUCTS>  (1) 
+7 Select Redness Relief; AK-Con; Advanced Eye Relief/ Redness Instant Relief; Advanced Eye Relief/ Redness Maximum Relief; Albalon; Albalon A; Allergy Eye Drops; Blue Collyrium; CareOne Maximum Strength Redness Relief; Clear Eyes; Clear Eyes Acr By Murine; Clear Eyes Allergy; Clear Eyes By Murine Eye Dps; Clear Eyes Complete 7 Symptom Relief; Clear Eyes Complete 7 Sympton Relief; Clear Eyes Cooling Itchy Eye Relief; Clear Eyes Cooling Redness Relief; Clear Eyes Extra Strength Redness Relief; Clear Eyes Maximum Itchy Eye Relief; Clear Eyes Maximum Redness Relief; Clear Eyes Redness Relief; Clear Eyes Redness Relief Handy Pocket Pal; Clear Eyes for Dry Eyes Plus Redness Relief; Collyre Bleu; Cooper A.R.; Dg Health Maximum Redness Relief; Diopticon A Liq; Diopticon Liq 0.1%; Eye Allergy Relief; Eye Drops Redness and Dry Eye Relief; Floril Redness Relief; Good Neighbor Pharmacy Redness Relief; Goodsense Maximum Strength Redness Relief Plus; Health Mart Redness Relief; Lidl Redness Relief; Lubricant / Redness Reliever; Lubricant and Redness Reliever; Maximum Redness Relief Eye; Naphazoline; Naphazoline HCI And Pheniramine Maleate; Naphazoline Hydrochloride and Pheniramine Maleate; Naphcon A; Naphcon Forte; Nazal; Odan-naphazoline; Opcon Oph Soln 0.1%; Opcon-A; Opti-tears Allergy; Opti-tears Red Eye; Optic Splash; Original Redness Reliever; Pi Yen Chin; Privine; Pure Eyes Sterile Eyes; R.O.-naphz; Reactine Eye Drops; Red Away; Red Eye Relief; Redness Eye Drops; Refresh Eye Allergy Relief; Refresh Redness Relief; Rhino Mex; Rohto Beauty Secret; Rohto Cool; Rohto Cool Max; Sato Clear; Soothe Allergy; Soothe Redness; Steritears Ar; Sunmark Redness Relief; Vasocon A Eye Drops; Vasocon A Oph Soln; Vasocon Eye Drops; Vasocon Oph Soln 0.1%; Visine A Multi-Action Eye Allergy Relief; Visine for Allergy With Antihistamine; Walgreens Maximum Redness Relief; Zincfrin A
+
+>  <SALTS>  (1) 
+Naphazoline hydrochloride
+
+>  <SMILES>  (1) 
+C(C1=NCCN1)C1=CC=CC2=CC=CC=C12
+
+$$$$

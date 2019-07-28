@@ -1,0 +1,171 @@
+999
+     RDKit          2D
+
+ 25 26  0  0  0  0  0  0  0  0999 V2000
+    2.8075    1.0170    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.6885   -0.6617    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0927   -1.3808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2677   -1.3713    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -1.3475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    0.0814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4360   -0.2377    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6885    1.0456    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.0455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4360    0.6217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0
+  2  4  2  0
+  2  5  2  0
+  2  8  1  0
+  2 11  1  0
+  3  6  2  0
+  3  7  2  0
+  3 10  1  0
+  3 15  1  0
+  8 13  1  0
+  9 12  1  0
+  9 13  1  0
+ 11 12  2  0
+ 11 14  1  0
+ 12 16  1  0
+ 14 15  2  0
+ 15 17  1  0
+ 16 17  2  0
+  8 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 13 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 16 25  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.16
+
+>  <ALOGPS_LOGS>  (1) 
+-2.12
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.24e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00999
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00999
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+296.964474846
+
+>  <FORMULA>  (1) 
+C7H8ClN3O4S2
+
+>  <GENERIC_NAME>  (1) 
+Hydrochlorothiazide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H8ClN3O4S2/c8-4-1-5-7(2-6(4)16(9,12)13)17(14,15)11-3-10-5/h1-2,10-11H,3H2,(H2,9,12,13)
+
+>  <INCHI_KEY>  (1) 
+JZUFKLXOESDKRF-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Dichlotride; Esidrex; HydroDIURIL
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+25.351294097644047
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+6-chloro-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.5756177763333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.826927880529535
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.087113445194948
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.684926632999791
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+118.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.10960000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydrochlorothiazide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+297.739
+
+>  <PRODUCTS>  (1) 
+Accel-candesartan/hctz; Accuretic; Accuretic 10/12.5 mg; Accuretic 20/12.5 mg; Accuretic 20/25 mg; Ach-olmesartan Hctz; Ach-telmisartan Hctz; Act Candesartan/hct; Act Irbesartan/hct; Act Losartan/hct; Act Olmesartan Hct; Act Telmisartan/hct; Actelsar Hct; Aldactazide; Aldactazide 25; Aldactazide 50; Aldoril 15 Tab; Aldoril 25 Tab; Altace Hct; Alti-amiloride Hctz; Ami-hydro Tab; Amiloride Hydrochloride and Hydrochlorothiazide; Amlodipine, Valsartan and Hydrochlorothiazide; Amlodipine, Valsartan, Hydrochlorothiazide; Amlodipine, Valsartan, and Hydrochlorothiazide; Amturnide; Apo Hydro Tab 100mg; Apo Hydro Tab 25mg; Apo Hydro Tab 50mg; Apo Methazide 15; Apo Methazide 25; Apo Triazide; Apo-amilzide Tab; Apo-candesartan/hctz; Apo-cilazapril/hctz; Apo-enalapril Maleate/hctz; Apo-hydro; Apo-irbesartan/hctz; Apo-lisinopril/hctz; Apo-losartan/hctz; Apo-olmesartan/hctz; Apo-quinapril/hctz; Apo-ramipril/hctz; Apo-spirozide Tab; Apo-telmisartan/hctz; Apo-valsartan/hctz; Atacand HCT; Atacand Hct; Atacand Plus; Auro-candesartan Hct; Auro-irbesartan Hct; Auro-losartan Hct; Auro-telmisartan Hctz; Auro-valsartan Hct; Ava-hydrochlorothiazide; Ava-irbesartan/hctz; Ava-lisinopril Hct; Ava-valsartan Hct; Avalide; Benazepril Hydrochloride and Hydrochlorothiazide; Benazepril hydrochloride and hydrochlorothiazide; Benicar HCT; Benicar Hct; Bio-hydrochlorothiazide; Bisoprolol Fumarate and Hydrochlorothiazide; Candesartan Cilexetil and Hydrochlorothiazide; Candesartan Cilexetil and Hydrochlorothiazide Tablets; Candesartan Cilexetil-Hydrochlorothiazide; Candesartan Hct; Candesartan-hctz; Candesartan/hctz; Captopril and Hydrochlorothiazide; Diovan HCT; Diovan-hct; Diuchlor H Tab 50mg; Dom-hydrochlorothiazide; Dom-irbesartan-hctz; Dutoprol; Dyazide; Dyazide Tab; Enalapril Maleate and Hydrochlorothiazide; Enalapril maleate and hydrochlorothiazide; Enalapril/hctz; Exforge HCT; Exforge Hct; Fosinopril Sodium and Hydrochlorothiazide; Gd-quinapril Hctz; Hydrochlorothiazide; Hydrochlorothiazide 100 Tab; Hydrochlorothiazide 100mg Tablets; Hydrochlorothiazide 25mg Tablets; Hydrochlorothiazide 50; Hydrochlorothiazide 50mg Tablets; Hydrochlorothiazide Tab 25mg; Hydrochlorothiazide Tab 50mg; Hydrochlorothiazide Tablets 25mg; Hydrochlorothiazide Tablets 50mg; Hydrodiuril Tab 100mg; Hydrodiuril Tab 25mg; Hydrodiuril Tab 50mg; Hydropres 25 Tab; Hydropres 50 Tab; Hyzaar; Hyzaar 50/12.5mg; Hyzaar DS 100/25 mg; Ifirmacombi; Imprida Hct; Inderide-40 Tab; Inderide-80 Tab; Inhibace Plus - Tab; Irbesartan Hct; Irbesartan Hydrochlorothiazide Bms; Irbesartan and Hydrochlorothiazide; Irbesartan-hctz; Irbesartan/hct; Irbesartan/hctz; Jamp-irbesartan and Hydrochlorothiazide; Jamp-losartan Hctz; Jamp-olmesartan Hctz; Karvezide; LOSARTAN POTASSIUM and HYDROCHLOROTHIAZIDE; Lisinopril and HCTZ; Lisinopril and Hydrochlorothiazide; Lisinopril and Hydrochlorthiazide; Lisinopril and hydrochlorothiazide; Lisinopril with Hydrochlorothiazide; Lisinopril/hctz (type Z); Lisnopril/hctz (type P); Lopressor HCT; Losartan Hct; Losartan Potassium and Hydrochlorothiazide; Losartan potassium and Hydrochlorothiazide; Losartan potassium and hydrochlorothiazide; Losartan-hctz; Losartan/hct; Losartan/hctz; Lotensin HCT; Mar-candesartan / Hctz; Maxzide; Maxzide-25; Methyldopa and Hydrochlorothiazide; Metoprolol Succinate and Hydrochlorothiazide; Metoprolol Tartrate and Hydrochlorothiazide; Metoprolol Tartrate and Hydrochlorothiazide 100 mg-25 mg; Metoprolol Tartrate and Hydrochlorothiazide 100 mg-50 mg; Metoprolol Tartrate and Hydrochlorothiazide 50 mg-25 mg; Micardis HCT; Micardis Plus; Microzide; Mint-hydrochlorothiazide; Mint-irbesartan/hctz; Mint-losartan/hctz; Mint-losartan/hctz DS; Moduret; Moexipril Hydrochloride and Hydrochlorothiazide; Moexipril hydrochloride and hydrochlorothiazide; Mylan-amilazide; Mylan-candesartan Hctz; Mylan-irbesartan Hctz; Mylan-lisinopril Hctz; Mylan-losartan Hctz; Mylan-telmisartan Hctz; Mylan-valsartan Hctz; Neo Codema 25mg; Neo Codema 50mg; Novamilor; Novo-cilazapril/hctz; Novo-doparil 15 Tab; Novo-doparil 25 Tab; Novo-valsartan/hctz; Ntp-hydrochlorothiazide; Ntp-irbesartan/hctz; Ntp-lisinopril/hctz (type P); Ntp-lisinopril/hctz (type Z); Ntp-telmisartan Hctz; Nu-amilzide 5/50 Mg Tab; Nu-hydro; Nu-lisinopril/hctz; Nu-triazide Tab 50 Mg/25 mg; OLMESARTAN MEDOXOMIL and HYDROCHLOROTHIAZIDE; Olmesartan Medoxmil and Hydrochlorothiazide; Olmesartan Medoxomil / Amlodipine Besylate / Hydrochlorothiazide; Olmesartan Medoxomil / Hydrochlorothiazide; Olmesartan Medoxomil and Hydrochlorothiazide; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 20/5/12.5 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/10/12.5 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/10/25 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/5/12.5 mg; Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide 40/5/25 mg; Olmetec Plus; PHL-hydrochlorothiazide; PMS-candesartan Hctz; PMS-dopazide 15 Tab; PMS-dopazide-25 Tab; PMS-hydrochlorothiazide; PMS-irbesartan-hctz; PMS-losartan-hctz; PMS-olmesartan-hctz; PMS-ramipril-hctz; PMS-telmisartan-hctz; PMS-valsartan-hctz; Pendo-irbesartan-hctz; Pendo-telmisartan-hctz; Penta-amiloride Hctz Tablets; Penta-triamterene Hctz Tablets; Prinzide; Pro-triazide; Propranolol Hydrochloride and Hydrochlorothiazide; Q-valsartan Hctz; Quinapril HCL and Hydrochlorothiazide; Quinapril Hydrochloride and Hydrochlorothiazide; Quinapril Hydrochloride/Hydrochlorothiazide; Quinapril and Hydrochlorothiazide 10/12.5; Quinapril and Hydrochlorothiazide 20/12.5; Quinapril and Hydrochlorothiazide 20/25; Ramipril-hctz; Ran-irbesartan Hctz; Ran-ramipril Hctz; Ran-telmisartan Hctz; Rasilez Hct; Ratio-irbesartan Hctz; Ratio-losartan Hctz; Riva-amilzide 5/50 mg; Riva-zide 50/25mg Tablets; Sandoz Candesartan Plus; Sandoz Irbesartan Hct; Sandoz Lisinopril Hct; Sandoz Losartan Hct; Sandoz Losartan Hct DS; Sandoz Telmisartan Hct; Sandoz Valsartan Hct; Septa-candesartan Hctz; Septa-losartan Hctz; Ser-AP-ES Tab; Spironolactone and Hydrochlorothiazide; TELMISARTAN and HYDROCHLOROTHIAZIDE; TRIAMTERENE and HYDROCHLOROTHIAZIDE; Tekturna HCT; Telmisartan Hctz; Telmisartan and Hydrochlorothiazide; Telmisartan and Hydrochlorothiazide 40 mg/12.5 mg; Telmisartan and Hydrochlorothiazide 80 mg/12.5 mg; Telmisartan and Hydrochlorothiazide 80 mg/25 mg; Telmisartan and Hydrochlorthiazide; Telmisartan-hctz; Telmisartan/hctz; Teva-candesartan/hctz; Teva-enalapril/hctz; Teva-hydrochlorothiazide; Teva-irbesartan/hctz; Teva-lisinopril/hctz (type P); Teva-lisinopril/hctz (type Z); Teva-losartan/hctz; Teva-olmesartan/hctz; Teva-ramipril/hctz; Teva-spironolactone/hctz; Teva-telmisartan Hctz; Teva-triamterene/hctz; Teva-valsartan/hctz; Teveten HCT; Teveten Plus; Timolide Tab; Torrent-telmisartan and Hydrochlorothiazide; Triamterene and Hydrochlorothiazide; Triamterene hydrochlorothiazide; Tribenzor; Urozide; Valsartan HCTZ; Valsartan Hct; Valsartan and Hydrochlorothiazide; Valsartan and hydrochlorothiazide; Valsartan-hctz; Van-irbesartan-hctz; Van-losartan-hctz; Van-telmisartan-hctz; Vaseretic; Viskazide 10/25tab; Viskazide 10/50tab; Zestoretic; Ziac; Zinda-candesartan/hydrochlorothiazide; Zinda-telmisartan/ Hctz
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00092
+
+>  <SMILES>  (1) 
+NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1
+
+>  <SYNONYMS>  (1) 
+HCTZ
+
+$$$$

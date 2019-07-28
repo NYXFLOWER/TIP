@@ -1,0 +1,200 @@
+
+     RDKit          2D
+
+ 42 44  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7433    0.3580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7433    0.3580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9268    1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3480   -0.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9269    1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3481   -0.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.8073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7152    1.4055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1364    0.0400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.8073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7153    1.4055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1364    0.0400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3200    0.8443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3200    0.8443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1 21  2  0
+  2  4  2  0
+  2  5  1  0
+  3  6  2  0
+  3  7  1  0
+ 21  8  1  0
+  4  9  1  0
+  4 10  1  0
+  5 11  2  0
+  6 12  1  0
+  6 13  1  0
+  7 14  2  0
+  8 15  1  0
+ 10 16  2  0
+ 13 17  2  0
+ 15 18  1  0
+ 18 19  1  0
+ 18 20  1  0
+  9 12  1  0
+ 11 16  1  0
+ 14 17  1  0
+  5 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 15 32  1  0
+ 15 33  1  0
+ 16 34  1  0
+ 17 35  1  0
+ 19 36  1  0
+ 19 37  1  0
+ 19 38  1  0
+ 20 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+ 21 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.08
+
+>  <ALOGPS_LOGS>  (1) 
+-3.94
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.19e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01142
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01142
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+279.162314299
+
+>  <FORMULA>  (1) 
+C19H21NO
+
+>  <GENERIC_NAME>  (1) 
+Doxepin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H21NO/c1-20(2)13-7-11-17-16-9-4-3-8-15(16)14-21-19-12-6-5-10-18(17)19/h3-6,8-12H,7,13-14H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+ODQWQRRAPPTVAG-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adapin; Aponal; Curatin; Doxepine; Quitaxon; Sinequan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.471370833777634
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl(3-{9-oxatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-ylidene}propyl)amine
+
+>  <JCHEM_LOGP>  (1) 
+3.8399740746666673
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.760738298749509
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.47
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+98.24480000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+doxepin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+279.3761
+
+>  <PRODUCTS>  (1) 
+Alti-doxepin - Cap 10mg; Alti-doxepin-cap 25mg; Alti-doxepin-cap 50mg; Alti-doxepin-cap 75mg; Apo-doxepin; Doxepin Hydrochloride; Doxepine-10 - Cap; Doxepine-100 - Cap; Doxepine-150 - Cap; Doxepine-25 -cap; Doxepine-50 - Cap; Doxepine-75 - Cap; Novo-doxepin; Ntp-doxepin; Prudoxin; Rho-doxepin - Cap 25mg; Rho-doxepin - Cap 50mg; Rho-doxepin-10 Mg Cap; Silenor; Sinequan; Sinequan Cap 150mg; Triadapin Cap 100mg; Triadapin Cap 10mg; Triadapin Cap 25mg; Triadapin Cap 50mg; Triadapin Cap 75mg; Zonalon; Zonalon Cream 5%
+
+>  <SALTS>  (1) 
+Cidoxepin hydrochloride; Doxepin Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00398
+
+>  <SMILES>  (1) 
+[H]C(CCN(C)C)=C1C2=CC=CC=C2COC2=CC=CC=C12
+
+$$$$

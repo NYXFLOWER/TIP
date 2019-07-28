@@ -1,0 +1,183 @@
+32326
+     RDKit          2D
+
+ 32 34  0  0  1  0  0  0  0  0999 V2000
+    3.6940    3.6075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6001    4.0236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6576    5.4739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1168    4.5794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6526    2.5697    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6526    1.2419    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    2.7308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    1.4933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4251    4.0222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9089    3.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9112    4.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6954    4.4325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3637    4.9163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8720    2.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1341    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8720    1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    2.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  1 13  1  0
+ 10  2  1  1
+ 12  3  1  1
+  4 14  1  0
+ 11  5  1  1
+  5 15  1  0
+  5 16  1  0
+  6 16  2  0
+  6 17  1  0
+  7 15  1  0
+  7 19  2  0
+  8 18  2  0
+  8 19  1  0
+  9 18  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  6
+ 15 17  2  0
+ 17 18  1  0
+  2 20  1  0
+  3 21  1  0
+  4 22  1  0
+  9 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 16 31  1  0
+ 19 32  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.21
+
+>  <ALOGPS_LOGS>  (1) 
+-1.28
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.40e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00194
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00194
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+267.096753929
+
+>  <FORMULA>  (1) 
+C10H13N5O4
+
+>  <GENERIC_NAME>  (1) 
+Vidarabine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H13N5O4/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(18)6(17)4(1-16)19-10/h2-4,6-7,10,16-18H,1H2,(H2,11,12,13)/t4-,6-,7+,10-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+OIRDTQYFTABQOQ-UHTZMRCNSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Arasena-A; Vira-A
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.491812595571652
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+4
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2R,3S,4S,5R)-2-(6-amino-9H-purin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+>  <JCHEM_LOGP>  (1) 
+-2.0909638716666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.891216627250436
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.454003289052789
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.9884408144871495
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+139.54
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+63.1956
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+armes
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+267.2413
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00333; EXPT02753
+
+>  <SMILES>  (1) 
+NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O
+
+>  <SYNONYMS>  (1) 
+9-beta-D-arabinofuranosyl-adenine; 9-beta-D-Arabinofuranosyladenine; 9-β-D-arabinofuranosyl-9H-purin-6-amine; 9-β-D-arabinofuranosyladenine; Spongoadenosine
+
+$$$$

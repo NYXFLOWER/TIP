@@ -1,0 +1,136 @@
+
+     RDKit          2D
+
+ 12 10  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1232    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2982    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  3
+  3  1  1  0
+  4  1  1  0
+  6  5  1  0
+  2  7  1  0
+  3  8  1  0
+  3  9  1  0
+  4 10  1  0
+  5 11  1  0
+  6 12  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.50
+
+>  <ALOGPS_LOGS>  (1) 
+-0.71
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.18e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11129
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11129
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+94.037842061
+
+>  <FORMULA>  (1) 
+CH6N2O3
+
+>  <GENERIC_NAME>  (1) 
+Carbamide peroxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CH4N2O.H2O2/c2-1(3)4;1-2/h(H4,2,3,4);1-2H
+
+>  <INCHI_KEY>  (1) 
+AQLJVWUFPCUVLO-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+12
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+5.118822376158211
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+carbamimidic acid; peroxol
+
+>  <JCHEM_LOGP>  (1) 
+-2.1319894966808257
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+0.5521526267772052
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+15.000000000727663
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+70.10000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+24.2013
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydrogen peroxide; β-I-k
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+94.07
+
+>  <PRODUCTS>  (1) 
+Audiologists Choice EARWAX REMOVAL SYSTEM Earwax Removal; Auralyt; Auro Ear Wax Remover; Best Choice Earwax Removal Kit; CVS Earwax Removal Aid; ClearCanal NeilMed; DISCOUNT drug mart FOOD FAIR earwax removal kit; Debrox; Dr. Whitiss (8.3%); Dr.Whitiss 10%; Dr.Whitiss 15%; Dr.Whitiss 20%; Dr.Whitiss 35%; ENT Essentials Ear Wax Remvoer; Ear Drops Earwax Removal Aid; Ear Drops Earwax Removal Aid CVS; Ear Drops Major; Ear Wax Kit Well at Walgreens; Ear Wax Removal; Ear Wax Removal Aid; Ear Wax Removal Drops Preferred Plus Pharmacy; Ear Wax Removal System; Ear Wax Remover; Ear Wax Removing Drops Carbamide Peroxide; Ear Wax Rmvl Cvs; Ear Wax Treatment; Earwax Removal; Earwax Removal Aid; Earwax Removal Drops Equate; Earwax Removal Kit; Earwax Treatment Drops; Earwax Treatment Drops Rugby; Endoperox 100%; Gly-Oxide; Good Neighbor Pharmacy Ear System; Lutooth Tooth Whitening Kit; Murine Ear Wax Removal Drops; Murine Earwax Removal Sys-murine Ear Dps; Oral Peroxide; Quality Choice Earwax Removal Kit; Select Brand Earwax Removal Drops; TopCare Earwax Removal Kit
+
+>  <SMILES>  (1) 
+OO.NC(O)=N
+
+>  <SYNONYMS>  (1) 
+Urea hydrogen peroxide
+
+$$$$

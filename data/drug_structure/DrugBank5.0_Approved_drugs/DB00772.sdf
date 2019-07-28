@@ -1,0 +1,189 @@
+772
+     RDKit          2D
+
+ 38 37  0  0  1  0  0  0  0  0999 V2000
+    3.7935    1.3481    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916    0.2210    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9356    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.9356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.5231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.1731    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.1106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.9356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.3481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    1.3481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    0.9356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.9356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  1 10  1  0
+  2  3  2  0
+  3  6  1  0
+  3  7  1  0
+  4 12  1  0
+  4 14  1  0
+  5 13  1  0
+  5 15  1  0
+  6 18  1  0
+  7 19  1  0
+  8 12  2  0
+  9 13  2  0
+ 10 11  1  0
+ 10 12  1  0
+ 11 13  1  0
+ 14 16  1  0
+ 15 17  1  0
+ 10 20  1  0
+ 11 21  1  0
+ 11 22  1  0
+ 14 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+ 16 28  1  0
+ 16 29  1  0
+ 17 30  1  0
+ 17 31  1  0
+ 17 32  1  0
+ 18 33  1  0
+ 18 34  1  0
+ 18 35  1  0
+ 19 36  1  0
+ 19 37  1  0
+ 19 38  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.67
+
+>  <ALOGPS_LOGS>  (1) 
+-3.30
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.65e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00772
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00772
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+330.036066232
+
+>  <FORMULA>  (1) 
+C10H19O6PS2
+
+>  <GENERIC_NAME>  (1) 
+Malathion
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H19O6PS2/c1-5-15-9(11)7-8(10(12)16-6-2)19-17(18,13-3)14-4/h8H,5-7H2,1-4H3
+
+>  <INCHI_KEY>  (1) 
+JXSJBGJIGXNWCI-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Derbac-M; Noury; Prioderm
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.656724863248858
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1,4-diethyl 2-{[dimethoxy(sulfanylidene)-λ⁵-phosphanyl]sulfanyl}butanedioate
+
+>  <JCHEM_LOGP>  (1) 
+1.8572832056666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.821451036028483
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+71.06
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+78.1823
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+11
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+paladin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+330.358
+
+>  <PRODUCTS>  (1) 
+Malathion; Malathion lotion, 0.5%; Ovide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01081
+
+>  <SMILES>  (1) 
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC
+
+>  <SYNONYMS>  (1) 
+[(dimethoxyphosphinothioyl)thio]butanedioic acid diethyl ester; Carbophos; diethyl (dimethoxyphosphinothioylthio)succinate; Karbofos; Maldison; Mercaptothion; O,O-dimethyl S-(1,2-bis(ethoxycarbonyl)ethyl); O,O-dimethyl S-(1,2-dicarbethoxyethyl) dithiophosphate; O,O-dimethyl S-(1,2-dicarbethoxyethyl)phosphorodithioate; O,O-dimethyl S-1,2-di(ethoxycarbamyl)ethyl; O,O-dimethyldithiophosphate diethylmercaptosuccinate
+
+$$$$

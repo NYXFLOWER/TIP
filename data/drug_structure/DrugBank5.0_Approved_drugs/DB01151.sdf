@@ -1,0 +1,203 @@
+1151
+     RDKit          2D
+
+ 42 44  0  0  0  0  0  0  0  0999 V2000
+    3.8680    0.7167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -1.6597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2641    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4719    2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5817    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1542    1.0603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8680   -0.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7580    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9780    1.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1820   -0.4715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1777    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5581    0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5425    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1934    2.0879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1819   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9680    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7678    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1516    1.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5843    1.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4959   -2.4519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  6  1  0
+  1  7  1  0
+  2 15  1  0
+  2 20  1  0
+  3  4  1  0
+  3  8  1  0
+  4  9  1  0
+  5  8  2  0
+  5 11  1  0
+  6  9  2  0
+  6 12  1  0
+  7 10  1  0
+  8 13  1  0
+  9 14  1  0
+ 10 15  1  0
+ 11 16  2  0
+ 12 17  2  0
+ 13 18  2  0
+ 14 19  2  0
+ 16 18  1  0
+ 17 19  1  0
+  2 21  1  0
+  3 22  1  0
+  3 23  1  0
+  4 24  1  0
+  4 25  1  0
+  7 26  1  0
+  7 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 20 40  1  0
+ 20 41  1  0
+ 20 42  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.02
+
+>  <ALOGPS_LOGS>  (1) 
+-3.83
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.96e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01151
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01151
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+266.178298714
+
+>  <FORMULA>  (1) 
+C18H22N2
+
+>  <GENERIC_NAME>  (1) 
+Desipramine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H22N2/c1-19-13-6-14-20-17-9-4-2-7-15(17)11-12-16-8-3-5-10-18(16)20/h2-5,7-10,19H,6,11-14H2,1H3
+
+>  <INCHI_KEY>  (1) 
+HCYAFALTSJYZDH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Pertofran; Pertofrane
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.74414237765183
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3-{2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-yl}propyl)(methyl)amine
+
+>  <JCHEM_LOGP>  (1) 
+3.895520857
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.018711766113656
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+15.27
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+85.31090000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+desipramine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+266.3807
+
+>  <PRODUCTS>  (1) 
+Desipramine; Desipramine Hydrochloride; Desipramine-10 - Tab 10mg; Desipramine-25 - Tab 25mg; Desipramine-50 - Tab 50mg; Desipramine-75 - Tab 75mg; Dom-desipramine Tablets - 25mg; Dom-desipramine Tablets - 50mg; Norpramin; Norpramin 100mg Tab; Norpramin 10mg Tab; Norpramin 25mg Tab; Norpramin 50mg Tab; Norpramin 75mg Tab; Norpramin Tab 25mg; Norpramin Tab 50mg; Norpramin Tab 75mg; Novo-desipramine Fc - 50mg Tab; Novo-desipramine Sc - Tab 10mg; Novo-desipramine Sc - Tab 25mg; Novo-desipramine Sc -tab 75mg; Nu-desipramine - Tab 100mg; Nu-desipramine - Tab 10mg; Nu-desipramine - Tab 25mg; Nu-desipramine - Tab 50mg; Nu-desipramine - Tab 75mg; PHL-desipramine; PMS Desipramine Hydro Tab 10mg; PMS Desipramine Hydro Tab 25mg; PMS Desipramine Hydro Tab 50mg; PMS Desipramine Hydro Tab 75mg; PMS-desipramine - Tab 100mg; Penta-desipramine Tablets; Pertofrane 25mg; Pertofrane Tab 50mg; Ratio-desipramine Tab 100mg; Ratio-desipramine Tab 10mg; Ratio-desipramine Tab 25mg; Ratio-desipramine Tab 50mg; Ratio-desipramine Tab 75mg
+
+>  <SALTS>  (1) 
+Desipramine Hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00022; DB07682
+
+>  <SMILES>  (1) 
+CNCCCN1C2=CC=CC=C2CCC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+5-(γ-methylaminopropyl)iminodibenzyl; Déméthylimipramine; Desipramin; Desmethylimipramine; DMI; Monodemethylimipramine; N-(3-methylaminopropyl)iminobibenzyl; Norimipramine
+
+$$$$

@@ -1,0 +1,155 @@
+853
+     RDKit          2D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    3.0791    1.8772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2795   -1.8350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.6397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.6397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.2272    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5978    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1853    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6378   -1.3911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -0.4367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.0522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.8911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.0522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8305   -1.2209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0
+  2 14  2  0
+  3  9  1  0
+  3 11  1  0
+  3 12  1  0
+  4  7  1  0
+  4 11  1  0
+  4 13  1  0
+  5 10  1  0
+  5 12  2  0
+  6  7  2  0
+  6  9  1  0
+  8 14  1  0
+  9 10  2  0
+ 10 14  1  0
+  8 15  1  0
+  8 16  1  0
+ 12 17  1  0
+ 13 18  1  0
+ 13 19  1  0
+ 13 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.00
+
+>  <ALOGPS_LOGS>  (1) 
+-1.58
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.09e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00853
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00853
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+194.055223466
+
+>  <FORMULA>  (1) 
+C6H6N6O2
+
+>  <GENERIC_NAME>  (1) 
+Temozolomide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H6N6O2/c1-11-6(14)12-2-8-3(4(7)13)5(12)9-10-11/h2H,1H3,(H2,7,13)
+
+>  <INCHI_KEY>  (1) 
+BPEGJWRSRHCHSN-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.875955761195286
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-methyl-4-oxo-3H,4H-imidazo[4,3-d][1,2,3,5]tetrazine-8-carboxamide
+
+>  <JCHEM_LOGP>  (1) 
+-0.2825381519999997
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.511549673808375
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.638478343476955
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+105.94
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+47.8609
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+temozolomide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+194.1508
+
+>  <PRODUCTS>  (1) 
+Ach-temozolomide; Act Temozolomide; Apo-temozolomide; Emozolomide Accord; Taro-temozolomide; Temodal; Temodar; Temomedac; Temozolomide; Temozolomide Capsules; Temozolomide Hexal; Temozolomide Sandoz; Temozolomide Sun; Temozolomide Teva
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00557
+
+>  <SMILES>  (1) 
+CN1N=NC2=C(N=CN2C1=O)C(N)=O
+
+>  <SYNONYMS>  (1) 
+Temozolodida; Temozolomid; Témozolomide; Temozolomidum
+
+$$$$

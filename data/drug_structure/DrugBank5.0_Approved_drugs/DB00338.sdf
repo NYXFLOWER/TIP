@@ -1,0 +1,211 @@
+338
+     RDKit          2D
+
+ 43 45  0  0  1  0  0  0  0  0999 V2000
+    6.5951    0.4967    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4827   -1.6468    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0076    1.2111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.3217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2886    1.1606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2886   -0.1672    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2451    0.4967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0076   -0.2178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8326   -0.2178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2451   -0.9323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701    0.4967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0702   -0.9323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4827   -0.2178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8326   -1.6468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.3217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0702    0.4967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3077   -0.2178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3077   -1.6468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  8  1  0
+  1 11  1  0
+  2 13  1  0
+  2 23  1  0
+  4 20  1  0
+  4 24  1  0
+  5 11  1  0
+  5 12  1  0
+  6 11  2  0
+  6 14  1  0
+  7  9  2  0
+  7 18  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 13  2  0
+ 10 16  1  0
+ 12 14  2  0
+ 12 17  1  0
+ 13 15  1  0
+ 14 19  1  0
+ 15 18  2  0
+ 15 22  1  0
+ 17 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  5 25  1  0
+  8 26  1  0
+  8 27  1  0
+ 16 28  1  0
+ 16 29  1  0
+ 16 30  1  0
+ 17 31  1  0
+ 18 32  1  0
+ 19 33  1  0
+ 21 34  1  0
+ 22 35  1  0
+ 22 36  1  0
+ 22 37  1  0
+ 23 38  1  0
+ 23 39  1  0
+ 23 40  1  0
+ 24 41  1  0
+ 24 42  1  0
+ 24 43  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.66
+
+>  <ALOGPS_LOGS>  (1) 
+-2.98
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.59e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00338
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00338
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+345.114712179
+
+>  <FORMULA>  (1) 
+C17H19N3O3S
+
+>  <GENERIC_NAME>  (1) 
+Omeprazole
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H19N3O3S/c1-10-8-18-15(11(2)16(10)23-4)9-24(21)17-19-13-6-5-12(22-3)7-14(13)20-17/h5-8H,9H2,1-4H3,(H,19,20)
+
+>  <INCHI_KEY>  (1) 
+SUBDBMMJDZJVOS-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Antra; Audazol; Belmazol; Ceprandal; Danlox; Desec; Elgam; Emeproton; Gasec; Gastrimut; Gastroloc; Indurgan; Inhibitron; Logastric; Losec; Mepral; Mopral; Olexin; Omapren; Omepral; Omeprazon; Omeprol; Omezol; Omisec; Omizac; Ortanol; Parizac; Prazidec; Prazolit; Procelac; Ramezol; Regulacid; Sanamidol; Ulceral; Ulcesep; Ultop; Zepral
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+37.454520814351625
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+6-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methanesulfinyl]-1H-1,3-benzodiazole
+
+>  <JCHEM_LOGP>  (1) 
+2.433509123333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+18.286998382270014
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.294157685436993
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.772761279525659
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+77.10000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+93.66229999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+omeprazole
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+345.416
+
+>  <PRODUCTS>  (1) 
+Acid Reducer; Ahi-omeprazole; Apo-omeprazole; Auro-omeprazole; Ava-omeprazole; Basic Care Omeprazole; Being Well Omeprazole; Berkley and Jensen Omeprazole; Bio-omeprazole; Care One Omeprazole; Core Values Omeprazole; Dg Health Omeprazole; Dom-omeprazole Dr; Equaline Omeprazole; Equate Omeprazole; Equate omeprazole delayed release acid reducer; Exchange Select Omeprazole; Family Wellness Omeprazole; Formu Care Omeprazole; Fulton Street Market Omeprazole; Genozol; Good Neighbor Pharmacy Omeprazole; Good Sense Omeprazole; Good Sense Omeprazole and Sodium Bicarbonate; Harmon Face Values Omeprazole; Harris Teeter Omeprazole; Health Mart Omeprazole; Healthy Accents Omeprazole; Heartburn Control; Humana Pharmacy Omeprazole; Jamp-omeprazole Dr; Kirkland Signature Omeprazole; Leader Omeprazole; Losec 10 mg; Losec 20 mg; Losec Capsules 10mg; Losec Capsules 20mg; Losec Capsules 40mg; Losec Mups - 10mg; Losec Mups - 20mg; Members Mark Omeprazole; Mylan-omeprazole; Nat-omeprazole Dr; Not Applicable; Novo-omeprazole; Olex; Omeclamox-Pak; Omep; Omeprazole; Omeprazole 20 mg; Omeprazole Delayed Release; Omeprazole Delayed-Release; Omeprazole Dr; Omeprazole Magnesium; Omeprazole Magnesium Delayed Release Tablets; Omeprazole Sodium Bicarbonate; Omeprazole and Sodium Bicarbonate; Omeprazole and Sodium Bicrabonate; Omeprazole and sodium bicarbonate; Omeprazole-20; Omeprazole/Sodium Bicarbonate; Omeprazole/sodium Bicarbonate; Omesec; PMS-omeprazole; PMS-omeprazole Dr; Preferred Plus Omeprazole; Prilosec; Prilosec OTC; Priva-omeprazole; Q-omeprazole; Quality Choice Omeprazole; Ran-omeprazole; Ratio-omeprazole; Riva-omeprazole Dr; Sandoz Omeprazole; ShopRite Omeprazole; Signature Care Omeprazole; Simply Right Omeprazole; Smart Sense Omeprazole; Sound Body Omeprazole; Sunmark Omeprazole; Teva-omeprazole; TopCare Omeprazole; TopCare Omeprazole delayed release; Topcare Omeprazole and Sodium Bicarbonate; Up and Up Omeprazole; Van-omeprazole; Welby Omeprazole; Yosprala; Zegerid; Zegerid OTC
+
+>  <SALTS>  (1) 
+Omeprazole magnesium; Omeprazole sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00446
+
+>  <SMILES>  (1) 
+COC1=CC2=C(C=C1)N=C(N2)S(=O)CC1=NC=C(C)C(OC)=C1C
+
+>  <SYNONYMS>  (1) 
+OMEP; Omeprazol; Omeprazolum
+
+$$$$

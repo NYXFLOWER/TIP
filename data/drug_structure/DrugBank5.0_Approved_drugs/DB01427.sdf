@@ -1,0 +1,164 @@
+1427
+     RDKit          2D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    2.0930   -1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.1880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.4620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2  8  1  0
+  2 10  1  0
+  3  9  1  0
+  4 13  2  0
+  4 14  1  0
+  5  6  1  0
+  5  7  1  0
+  5  8  2  0
+  6 11  2  0
+  6 12  1  0
+  7  9  2  0
+  9 10  1  0
+ 11 13  1  0
+ 12 14  2  0
+  2 15  1  0
+  3 16  1  0
+  3 17  1  0
+  7 18  1  0
+  8 19  1  0
+ 11 20  1  0
+ 12 21  1  0
+ 13 22  1  0
+ 14 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.27
+
+>  <ALOGPS_LOGS>  (1) 
+-1.52
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.60e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01427
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01427
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+187.074561925
+
+>  <FORMULA>  (1) 
+C10H9N3O
+
+>  <GENERIC_NAME>  (1) 
+Amrinone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H9N3O/c11-9-5-8(6-13-10(9)14)7-1-3-12-4-2-7/h1-6H,11H2,(H,13,14)
+
+>  <INCHI_KEY>  (1) 
+RNLQIBCLLYYYFJ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Amcoral; Inocor
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.935756937355627
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3-amino-5-(pyridin-4-yl)-1,2-dihydropyridin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+-0.568917207
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.006509448944831
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.866990475478802
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+68.01
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+53.89030000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+amrinone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+187.198
+
+>  <PRODUCTS>  (1) 
+Inocor  Liq 5mg/ml
+
+>  <SALTS>  (1) 
+Amrinone lactate
+
+>  <SMILES>  (1) 
+NC1=CC(=CNC1=O)C1=CC=NC=C1
+
+>  <SYNONYMS>  (1) 
+Amrinona; Amrinonum; Inamrinone
+
+$$$$

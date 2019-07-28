@@ -1,0 +1,193 @@
+
+     RDKit          2D
+
+ 36 37  0  0  0  0  0  0  0  0999 V2000
+    1.7861    1.4437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.6187    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.8562    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151    1.8562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  6  8  1  0
+  8  9  2  0
+  2  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 12 11  1  6
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  6
+ 15 17  1  0
+ 17 18  1  0
+ 12 18  1  0
+  1 19  1  0
+  1 20  1  0
+  5 21  1  0
+  8 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 15 31  1  0
+ 16 32  1  0
+ 17 33  1  0
+ 17 34  1  0
+ 18 35  1  0
+ 18 36  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.72
+
+>  <ALOGPS_LOGS>  (1) 
+-4.31
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.85e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06742
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06742
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+375.978589
+
+>  <FORMULA>  (1) 
+C13H18Br2N2O
+
+>  <GENERIC_NAME>  (1) 
+Ambroxol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H18Br2N2O/c14-9-5-8(13(16)12(15)6-9)7-17-10-1-3-11(18)4-2-10/h5-6,10-11,17-18H,1-4,7,16H2/t10-,11-
+
+>  <INCHI_KEY>  (1) 
+JBDGDEWWOUBZPM-XYPYZODXSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ambrolex; Ambrox
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+36
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.79696051103313
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1r,4r)-4-{[(2-amino-3,5-dibromophenyl)methyl]amino}cyclohexan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+2.6527259470000004
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+19.893025842966654
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.25660511777695
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.011035150439888
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.28
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+81.93569999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ambroxol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+378.108
+
+>  <SALTS>  (1) 
+Ambroxol hydrochloride
+
+>  <SMILES>  (1) 
+NC1=C(Br)C=C(Br)C=C1CN[C@H]1CC[C@H](O)CC1
+
+>  <SYNONYMS>  (1) 
+Ambroxolum; Bisolvon metabolite vIII; Bromhexine metabolite vIII; Bromhexine-metabolite vIII; Cyclohexanol, 4-((2-amino-3,5-dibromobenzyl)amino)- (E)-; N-(2-Amino-3,4-dibromociclohexil)-trans-4-aminociclohexanol; N-(2-Amino-3,4-dibromocyclohexyl)-trans-4-aminocyclohexanol; trans-4-((2-Amino-3,5-dibromobencil)amino)ciclohexanol; trans-4-((2-Amino-3,5-dibromobenzyl)amine)cyclohexanol; trans-4-((2-Amino-3,5-dibromobenzyl)amino)cyclohexanol
+
+$$$$

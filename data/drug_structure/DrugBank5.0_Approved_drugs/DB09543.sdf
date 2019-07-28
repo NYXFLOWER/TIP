@@ -1,0 +1,149 @@
+
+     RDKit          2D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  2  1  0
+  5  3  1  0
+  6  4  2  0
+  7  5  2  0
+  7  6  1  0
+  8  6  1  0
+  9  7  1  0
+ 10  8  2  0
+ 11  1  1  0
+ 11  8  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  2 15  1  0
+  3 16  1  0
+  4 17  1  0
+  5 18  1  0
+  9 19  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.07
+
+>  <ALOGPS_LOGS>  (1) 
+-1.42
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.73e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09543
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09543
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+152.047344122
+
+>  <FORMULA>  (1) 
+C8H8O3
+
+>  <GENERIC_NAME>  (1) 
+Methyl salicylate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H8O3/c1-11-8(10)6-4-2-3-5-7(6)9/h2-5,9H,1H3
+
+>  <INCHI_KEY>  (1) 
+OSWPMRLSEDHDFF-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.982038591572131
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+methyl 2-hydroxybenzoate
+
+>  <JCHEM_LOGP>  (1) 
+2.3231574583333336
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.722685015540604
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.287418929758233
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+46.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.0642
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+methyl salicylate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+152.1473
+
+>  <PRODUCTS>  (1) 
+701 Dieda Zhengtong Yaogao Medicated Plaster; AMPlify Relief MM; ATOPALM Deep Penetrating Pain Relieving; Adazin; Advanced Antiseptic; Advanced Antiseptic Citrus; Advanced Citrus; Advanced Citrus Antiseptic; Ageless Pain Relief; Air Sinsin Pas; Air Sinsinpas-EX; Alsirub Ont; Amber Mouth Rinse; Amrutanjan Relief Pain Balm; Amrutanjan Relief Strong Pain Balm; Analgesic Balm; Anitseptic Mouth Rinse; Antiphlogistine Rub A 535 Extra Strength; Antiphlogistine Rub A535; Antiseptic; Antiseptic Blue Mint Mouthwash; Antiseptic Lil Drug Store Products; Antiseptic Mouth Rinse; Antiseptic Mouth rinse; Antiseptic Mouthrinse; Antiseptic Rinse; Antiseptic Rinse Spring Mint; Antispetic; Antispetic Mouth Rinse; Apanol Arthritis Extra Strength; Apanol Linimento Obrero; Apanol Muscle Rub; Apeaz Ultra; Arctic Heat; Arex Sinsin Pas; Arthricare Pain Relieving Rub Triple Medicated Gel; Arthricare for Women Nighttime; Arthritis Hot; Arthritis Pain Reliever Herbalife; Arthritis Pain Relieving Cream; Arthritis Plus Gel; Arthrocare Lotion; Aspi-Rub Pain Reliever; Assured; Athletic Liniment; Atomic Balm; Atopalm Moisturizing Muscle Rub; Aurora Blue Mint; Aurora Fresh Burst; Aveda Active Composition; Axe Brand Medicated; Back Pain Relieving Oil; Bakers Best Arthritis Pain Relief; Balm Stick; Balsamo de Ubre Mascura; Balsang Pain Relief; Banalg; Barox S; Being Well Antiseptic; Bengay Arthritis Pain Relieving; Bengay Greaseless Pain Relieving; Bengay Pain Relieving Greaseless; Bengay Ultra Strength Non Greasy Pain Relieving; Berri-Freez Plus; Borasol; Bronchodex-rub; Buenos Dias de Personna citrus flavour; Buenos Dias de Personna cool mint; Buenos Dias de Personna mint; Buenos Dias de Personna original; Bumooly-S; CAREALL Muscle Rub Ultra Strength; CVS Cold and Hot Pain Relieving Stick; CVS Extra Strength Cold and Hot Pain Relieving; CVS Extra Strength Pain Relief; CVS Health Cold and Hot Pain Relieving Extra Strength; CVS Health Muscle Rub Ultra Strength; CVS Medicated Pain; CVS Medicated Pain Relieving; Cal Mo Dol Ont; Calmadol; Calypxo Pain Relief; Cam Sun (huile Therapeutique); Carboseptol; Care One Cool Heat Extra Strength; Care One Cool Heat Pain Relieving; Care One Pain Relief; Carmatis Ont; Castiva Cooling; Chan Yat Hing She Kun Wool Lok Medicated Oil; Coats Aloe Analgesic; Cold Spot Point Relief; Cold and Hot CVS; Comfort EZ Extra Strength Pain Relief Patch; Comfort EZ Extra StrengthTransdermal Patch; Comfort EZ Pain Relief Patch; Cool Heat; Cool Mint Antiseptic Mouthwash; Coral Analgesic; Coralite Muscle Joint; Coralite Pain Relief; Coralite Pain Relief Stick; Cramergesic; DINGTAI PHARMATopical Analgesic; Dendracin Neurodendraxcin; Discount Drug Mart Blue Mint Mouthwash; Discount Drug Mart Original Flavor Mouthwash; Discount Drug Mart Spring Mint Mouthwash; DoctorRelief; Dollar General Medicated Pain Relief Patch; Dolor-parche With Lidocaine-RX; Doloracin Rx; Doloracin/l Rx With Lidocaine; Doloran; Double Prawn Rumagon; Dr Sheffield Muscle Rub Cream; Dr. J.I.s Arthritis Plus Gel; Dr. JIs Arthritis Plus; Dr.'s Cream; Dragon; Duane Reade hot and cold roll-on; Dynarex Muscle Rub Cream; E Mei Shan Medicated; Eagle Brand Medicated Oil; Eagle Extra Strength; Eagle Medicated; Eagle Medicated Aromatic; Earths Care Pain Relieving; Electric Medicated Balm; Equaline Muscle Rub; Equaline cool heat; Equaline muscle rub ultra strength; Equate Cool and Heat; Equate Pain Relieving; Equate Pain Relieving Ultra Strength; Equate Tartar Control Plus; Exchange Select Cool Heat; Exoten-C; Family Care Menthol Relief; Family Care Muscle Rub Pain Reliever; Family Care Pain Relief; Family Care Thera Flex Pain; Family Dollar Antiseptic Mouth Rinse; Family Dollar Antiseptic Mouth Rinse Blue Mint; Family Dollar Antiseptic Mouth Rinse Spring Mint; Fast Relief Artrosamin; Fast Relief Reumacetin; Flanax; Flanax Pain Relief Kit; Flexall Plus; Flower O Life Pain Relieving Balm; Foot Rehab Pain relief and moisturizer Mission; Foot Works Arthritis Achy Foot and Muscle; Formula45 Arthritis Blend; Freezin Cold Toast; Friccilicont; GADADERM Frozen Ice Advance Pain Relief; Genorthix Pain Relieving Roll On; Genuine Efficascent; Ginsenggo; Golden Sunshine Far Infrared COOL Herbal; Golden Sunshine Far Infrared HOT Herbal; Golden Sunshine Far Infrared Herbal; Golden Sunshine Herbal; Good Neighbor Pharmacy Cold and Hot Therapy Pain Relief Balm Extra Strength; Good Neighbor Pharmacy Muscle Rub Ultra Strength; Good Neighbor pharmacy muscle rub; Good Sense Cool Heat; Good Sense Muscle; Green MINT Mouth Rinse; Half and Half Balm; Handy Solutions Cool Mint LISTERINE ANTISEPTIC MOUTHWASH; Handy Solutions LISTERINE ANTISEPTIC MOUTHWASH; Health Mart Muscle Rub; Health Mart Pain Relief; Health Mart muscle; Healthy Accents Muscle Rub; Healthy Accents muscle ultra strength; Heat Rub; Heet Liniment Liq; Herbal Heat; Herbal Pain Relieving; Herbal UTAPLAS External Analgesic Plaster; Herbal UTAPLAS.TN; Herbalgy; Hua Tuo Huo Lu Oil; Human Science Muscle Pain Relief; Humco Wintergreen Oil; Hysan Hua Tuo Huo Lu; Hysan Hua Tuo Medicated Plaster; Hysan Huo Lu Medicated; Hysan Pain Reliever; Hyundai Moolpas F; Hyvee Antiseptic Blue Mint; Hyvee Antiseptic Mint; Hyvee Antiseptic Original; Hyvee Blue Mint; Hyvee Health Cool Blue Sugar Free; Hyvee Health Green Mint Sugar Free; ICE QUAKE Analgesic Cream White; Ice Quake Plus; Ice Quake White; Icy Hot; Imada Red Flower Analgesic; Imbue Pain Relief; Inarub Crm; Infraline Liq; Jason Cooling Minerals and Tea Tree Pain Therapy; Jimin Zhuifeng Gao; Joint Maintenance Compliance Kit; Jun Wai Lung Medicine Pain relieving; KGS Bao Zhen Gao Medicated Plaster Extra Strength; KGS Zhitong Gao Medicated Plaster Extra Strength; KINeSYS Analgesic Sport; Katinko Pain And Itch Relieving; Kaz Inhalant; KeVUENO Pain Relieving; Keratek; Kiro Rub; Kiro-rub; Kobi - Crm; Kofal T; Kung Fu Pain Relief; Kwan Loong; LBri Super Aloe Stop The Pain; LCDO. ORLANDO RIVERA ARTHRITIS Topical Analgesic; La Flecha Japonesa; La Vaquita; La Vaquita Extra Strength; La Vaquita New Extra; La Vaquita New Regular; LaBella Linimento Obrero; Lao Wei Wood Lock Oil; Leader Medicated Relief Patch; Leader Pain Relieving Rub Ultra; Leader Ultra Strength Muscle Rub; Leader Ultra Strength Muscle Rub Topical Analgesic; LidoPro; LidoPro Patch; Listerine Advanced with Tartar Protection Antiseptic Citrus; Listerine Antiseptic; Listerine Cool Mint Antiseptic; Listerine FreshBurst Antiseptic; Listerine Naturals Antiseptic - Herbal Mint; Listerine Ultraclean Antiseptic Arctic Mint; Listerine Ultraclean Antiseptic Cool Mint; Listerine Ultraclean Antiseptic Fresh Citrus; Lucky SuperSoft Muscle and Joint; MOMR Rumaian Herbal Bandage; Magic For Pain Relief; Manteca Maslac; Marathon Deep Heat Rub; Marcs Blue Mint; Marcs Original; Marcs Spring Mint; Max Revive; MaxRevive Pain relieving; MaxRevive Plaster; Medi-derm / L With Lidocaine; Medi-derm / L With Lidocaine Rx; Medi-derm Rx; Medi-derm Topical Pain Relief; Medi-patch With Lidocaine; Medi-patch With Lidocaine Rx; Medi-sulting Topical Pain Relief; Medicated Analgesic Cream; Medicated Green Oil; Medicated Pain; Medicated Pain Relief Patch; Medicated Pain Relief Patches; Medistik Dual Hot and Cold; Medistik analgesic; Medrox; Medrox-Rx; Meijer Cold and Hot Therapy; Meijer Muscle Ultra; Menthocin Patch with Lidocaine - Strong; Menthol and Methyl Salicylate; Mentholatum Deep Heating Rub Extra Strength; Mentholatum Pain Relief Deep Heating; Mentholatum Pain Relief Muscle Rub; Mentholatum Sports Pain Relief Hot; Mentholatum Sports Pain Relief Warm; Minard's Joint Relief; Mini Pain Relief; Miracle Rub; Monkey Holding Peach Brand External Analgesic Balm; Mouth Rinse; Muscle; Muscle Rub; Muscle Rub CVS; Muscle Rub Cream; Muscle Rub Greaseless; Muscle Rub Maximum Strength; Muscle Rub Non Greasy Pain Relieving; Muscle Rub Premier Value; Muscle Rub Ultra Strength; Muscle Rub Ultra Strength CVS; Muscle and Joint Heat Cream; Muscle and Joint Pain Relief; Muscle rub; Muscular Balm; Médi-rub; NAMMAN MUAY Athletes Pain Relieving; Nasal Jelly Thuna's; Natralia Cramp Relief; Neuro Max Pain and Muscle Relief Gel; Neurolatore Power Formula Pain Relief; New Terocin; Noble Lion Medicated Balm; Novae Pain Relief Analgesic Lotion; NuDroxicin pain relief Roll-On; Obus Form Therapeutic Heat Rub; Oil Of Wintergreen; Oil Of Wintergreen 100%; Omega Pain Relieving; Oral Care Antiseptic; Oral Dent Amber; Oral Dent Blue Mint; Oral Dent Citrus; Oral Dent Fresh Mint; Oral-dent Blue Mint; Original Antiseptic; Osteo Bi-Flex JOINT HEALTH PAIN RELIEVING; Overtime; Overtime-X; OxyRub Max Pain Relief Cream, 2oz; OxyRub Pro Pain Relief Cream, 4oz; PAIN Terminator Analgesic; Pain Bust R II; Pain Free; Pain Goodbye Aqueous Patch; Pain Reileving Herbal Oil; Pain Relief; Pain Relief BalmPreferred Plus Ph Preferred Plus Pharmacy; Pain Relief Herbal; Pain Relief Herbal balm; Pain Relief Patches; Pain Relief Rub Iampur; Pain Relief Well At Walgreens; Pain ReliefPatches Patches; Pain Relieving Balm; Pain Relieving Chi Len Oil; Pain Relieving Iampur; Pain Relieving Po Tong Oil; Pain Relieving Ultra Strength; Pain releiving Well at Walgreens; Pain-A-Trate Extra Strength Pain-Relieving; Pain-A-trate Cream; Pain-ease; Pain-oleum - Liniment; Paraid Pain Relief; Pasmol Pain Relieving; Peppermint Mouth Rinse; Perform Atomic Heat; Pharmacist Choice Pain Relief Patch; Pharmacist Choice TSX Transdermal Patch; Phoenix Balm; Phytorub Ont; Plaster MandAHerbalPlaster; Pomada Dragon Pain Relieving; Pommade Au The Des Bois; Preferred Plus Arthritis Cream; Prosync Muscle Rub; Quali Cold; Quali Herbal; Quali Warm; Quality Choice Amber; Quality Choice Blue Mint; Quality Choice Sprng Mint; Ramedica; Ray Dol; Red Flower Oil; Reed Therapeutics Pain Relieving Therapy; Refined Gou Pi Pain Relieving Plaster; Reliaderm; Relief Balm; Rematex; Rhemu; Rinse; Rite Aid Ultra Strength Muscle Rub; Rocainol TOPICAL ANALGESIC; Rock Sauce; Rocksauce Fire; Rocksauce Ice; Rotex; Royal Mouthwash Fresh and Clean Original Mint; Rubbex Creme; Rugby Pain Relieving Analgesic; SINSINPAS Pain Relieving Patch; Salonpas; Salonpas - Pls Top; Salonpas Arthritis Pain; Salonpas DEEP Relieving; Salonpas Medicated Plaster; Salonpas Pain Relief; Salonpas Pain Relieving; Salonpas pain relieving JET; Salonpas pain relieving MASSAGE; Satogesic; Satohap; Sc Herbal Pain Relieving; Sc Pain Relief Balm; Shang Shi Zhi Tong Gao; Shang Shi Zhi Tong Pain Relieving Plaster; Shanghai Shang Shi Zhi Tong Gao Pain Relieving; Shao Lin Gao Pain Relieving Plaster; Shao Lin Pain Relief Plaster; Sheng Chun Herbal Pain Relieving; Sheng Chun Pain Relief; Shennong Analgesic Plaster; Shuang Long Pain Relieving Oil; Signature Care Cool Heat; Sincere Pain Relief; Sinsin Mulpas; Smart Pro Medicated Analgesic Pain Relieving Cataplasm; Smart Sense Blue Mint; Smart Sense Citrus; Smart Sense Cool Heat; Smart Sense Iceberg Blue; Smart Sense Original Flavor; Smart Sense Spring Mint; Smart Sense Ultra Strength; SmartRx Gaba-V Kit; SmartRx Natural Pain Relief Sleeve ANKLE; SmartRx Natural Pain Relief Sleeve BACK; SmartRx Natural Pain Relief Sleeve ELBOW; SmartRx Natural Pain Relief Sleeve KNEE; SmartRx Natural Pain Relief Sleeve WRIST; SoCalm External Analgesic; Soft Mint Listerine Antiseptic; Solstice Medicine Company Pain Relief; Soothee Patch; Sound Body Extra Strength Cold and Hot; Sport Rub  -  Cream; Sportgel; Sports Balm; Strain Pain Relieving Cream; Sun Moon Star Pain Relieving; Sunmark Muscle Rub; Sunmark muscle rub; Suppress Ointment; TOKUHON-A External Analgesic Pain Relieving Medicated; TOKUHON-A External Pain Relieving Medicated; Tartar Control; Tartar Control Plus; Tartar control; Tartar control plus; Ted s Pain; Teeter ReNew Pain Relief; Teeter Renew Muscles Pain Relieving; Teeter reNEW MUSCLES Pain Relieving; Terocin; TerraFreeze Pain Relief; Thai Herbal Balm Lemon Grass; Thera Patch; TheraDerm Pain Relieving Patch; Theragesic Creme; Theragesic Plus; Therapatch Warm; Therapeutic Heat Lotion; Therapeutic Soothing Ice Gel; Therapy Pain; Thermo Rub Ont; Thuna Balsam Salve Ont; Thunas Salve for Rheumatic Pains; Tianhe Zhuanggu Gao; Tiger Balm; Tiger Balm Muscle Rub Pain Relieving; Tiger Balm Ultra Thin; Tokuhon Medicated Plaster; Top Medicated; Top Medicated Pain Relieving; Topical Pain Relief; Topical Pain Relief Rx; Transanosil; TriMotion Pain Relief; Triple Action Arthritis; True Essentials Pain Relief Roll On; True Pain Relief Plus; Ultra Balm; Ultra Strength Heat Rub; Ultra Therapy Pain Relief; Ultracin; VIVA Patch; Valtrum Soothing Topical Analgesic; Valtrum US Aerobic Sport IMMEDIATE ACTION; Vantelin Cool Pain Relieving; Vantelin Cool Pain Relieving Gel Patch; Vantelin Cool Pain Relieving Gel Patch Large; Vantelin Hot Pain Relieving Gel Patch; Vantelin Hot Pain Relieving Gel Patch Large; Velatrin Pain Relief; Velma Pain Relief Patch; Veneno de Abeja Aceite De Vibora Brand; VitaCin; Walgreens Cool N Heat Therapy Pain Relief Stick; Walgreens Cool and Heat Muscle and Joint Relief; Walgreens Cool n Heat Muscle and Joint Pain Relief Extra Strength; Walgreens Medicated Pain Relieving; Walgreens Muscle Rub Ulra Strength; Watkins Analgesic Balm; Welby Medicated Relief Patch; Western Family Pain Relieving; White Flower Analgesic Balm; White Flower Analgesic Balm Floral Scented; White Flower Ointment; White Flower Strain Relief; Wintergreen Oil Of; Wok Lok Pain Relieving Oil; Womens Relief Balm; Womens Sports Balm; Wong To Yick External Analgesic; Wu Yang Brand Medicated Plaster; X Ray Pain Relieving; Xoten-C; Yao Shen Gao Pain Relieving Plaster; Yu Long You Pain Relieving; Yunnan Baiyao Arthritis Pain Relief; Zenol Cool; Zenol Mild Hot; Zhenweilong Huoluo You External Analgesic; Zhong Hua Feng Shi Die Da Gao; Zhong Hua Feng Shi Die Da Gao External Analgesic Plaster; Zhuang Gu Feng Shi Pain Relieving Plaster; Zhuanggu Shexiang Zhitonggao Pain Relieving Plaster; Zihua Embrocation Cooling Pain Relief; Zihuadick Pain relieving; Ziks Arthritis Pain Relief; Zims Max Heat; bB Medicated Pain Relieving Oil; soCALM Pain Relieving
+
+>  <SMILES>  (1) 
+COC(=O)C1=CC=CC=C1O
+
+>  <SYNONYMS>  (1) 
+2-(Methoxycarbonyl)phenol; 2-Carbomethoxyphenol; 2-Hydroxybenzoic acid methyl ester; Betula oil; Gaultheria oil; Methyl 2-hydroxybenzoate; Methyl o-hydroxybenzoate; Natural wintergreen oil; Oil of wintergreen; Spicewood Oil; Sweet birch oil; Teaberry oil
+
+$$$$

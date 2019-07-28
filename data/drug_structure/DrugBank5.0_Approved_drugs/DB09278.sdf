@@ -1,0 +1,112 @@
+
+     RDKit          2D
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0 15  0  0  0  0  0  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.31
+
+>  <ALOGPS_LOGS>  (1) 
+1.08
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+0.00e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09278
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09278
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+12.0
+
+>  <FORMULA>  (1) 
+C
+
+>  <GENERIC_NAME>  (1) 
+Activated charcoal
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C
+
+>  <INCHI_KEY>  (1) 
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.5080239199999999
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+carbon
+
+>  <JCHEM_LOGP>  (1) 
+0.0
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0.0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+13.1149
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+carbon
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+12.011
+
+>  <PRODUCTS>  (1) 
+Actidose; Actidose Aqua; Activated Charcoal; Activated Charcoal 260mg; Activated Charcoal Cap 280mg; Activated Charcoal Powder; Activated Charcoal USP; Adrien Gagnon Charbon Activé/activated Charcoal Capsules; Biochala Charbon Activã/activated Charcoal; Carbosylane; Char-flo Aqueous Base - Sus Orl 208mg/ml; Char-flo With Sorbitol - Sus; Charac-25; Charac-50; Charactol-25; Charactol-50; Charbon Actif; Charbon Active 260mg; Charco Caps; Charcoal; Charcodote Susp 200mg/ml; Charcodote Tfs Sus 200mg/ml; Charcodote-aqueous Sus 200mg/ml; EZ Char; Flat-eeze; Humco Charcoal Activated; Insta Char Adult 50gm/250ml; Insta Char Pediatric 15gm/120ml; Insta-char Aqueous; Insta-char Aqueous Cherry; Insta-char Sorbitol; Jamp-activated Charcoal; Jamp-activated Charcoal Plus; Noricol; Premium Activated Charcoal USP; Trousse Antipoison Pour Enfants Liq; W Lab Sebum Out Peel Off Pack; Wampole Activated Charcoal
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB05269
+
+>  <SMILES>  (1) 
+[C]
+
+>  <SYNONYMS>  (1) 
+Activated carbon; Carbo activates; Carbo activatus; Carbo vegetabilis; Carbon; Carbon, Activated; Carbon, decolorizing; Charcoal activated; Charcoal-activated; Charcoal, Activated; Charcoal,activated; Medicinal carbon; Medicinal charcoal
+
+$$$$

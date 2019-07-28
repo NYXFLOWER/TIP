@@ -1,0 +1,216 @@
+
+     RDKit          2D
+
+ 48 51  0  0  0  0  0  0  0  0999 V2000
+    5.0933   -5.5515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1822   -6.3701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6597   -5.9352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6662   -5.9352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5215   -5.1055    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9596   -5.5696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1353   -6.6591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7670   -6.2764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8697   -7.5363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1602   -7.1609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5685   -7.0977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9002   -8.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2970   -7.4867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9953   -7.0487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9654   -6.2233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2310   -5.8378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5357   -6.2780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2018   -8.7962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2319   -9.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9618  -10.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6628   -9.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6293   -8.7413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0968   -4.3980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  9 11  1  0
+  4  5  1  0
+  9 12  1  0
+  5  1  1  0
+ 11 13  2  0
+  1  6  1  0
+ 13 14  1  0
+  6  2  1  0
+ 14 15  2  0
+  4  7  1  0
+ 15 16  1  0
+  1  8  1  0
+ 16 17  2  0
+ 17 11  1  0
+  7  8  1  0
+ 12 18  2  0
+ 10  9  1  0
+ 18 19  1  0
+  2  3  1  0
+ 19 20  2  0
+  2 10  1  1
+ 20 21  1  0
+  3  4  1  0
+ 21 22  2  0
+ 22 12  1  0
+  5 23  1  0
+  1 24  1  6
+  2 25  1  0
+  3 26  1  0
+  3 27  1  0
+  4 28  1  1
+  6 29  1  0
+  6 30  1  0
+  7 31  1  0
+  7 32  1  0
+  8 33  1  0
+  8 34  1  0
+  9 35  1  0
+ 13 36  1  0
+ 14 37  1  0
+ 15 38  1  0
+ 16 39  1  0
+ 17 40  1  0
+ 18 41  1  0
+ 19 42  1  0
+ 20 43  1  0
+ 21 44  1  0
+ 22 45  1  0
+ 23 46  1  0
+ 23 47  1  0
+ 23 48  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.47
+
+>  <ALOGPS_LOGS>  (1) 
+-5.41
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.21e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00245
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00245
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+307.193614427
+
+>  <FORMULA>  (1) 
+C21H25NO
+
+>  <GENERIC_NAME>  (1) 
+Benzatropine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H25NO/c1-22-18-12-13-19(22)15-20(14-18)23-21(16-8-4-2-5-9-16)17-10-6-3-7-11-17/h2-11,18-21H,12-15H2,1H3/t18-,19+,20+
+
+>  <INCHI_KEY>  (1) 
+GIJXKZJWITVLHI-PMOLBWCYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Apo-Benztropine; Cogentinol; PMS Benztropine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+35.41582380411035
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,3R,5S)-3-(diphenylmethoxy)-8-methyl-8-azabicyclo[3.2.1]octane
+
+>  <JCHEM_LOGP>  (1) 
+4.185400473333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.543271456614093
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+12.47
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+94.24040000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+benzatropina
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+307.4293
+
+>  <PRODUCTS>  (1) 
+Bensylate Tab 2mg; Benztropine 2 Tab 2mg; Benztropine Mesylate; Benztropine Mesylate Injection, USP; Benztropine Omega; Cogentin; Cogentin Inj 1mg/ml; Cogentin Tab 2mg; Dom-benztropine; PMS-benztropine 2mg/tab; PMS-benztropine Tab 0.5mg; Pdp-benztropine
+
+>  <SALTS>  (1) 
+Benzatropine mesylate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00748
+
+>  <SMILES>  (1) 
+[H][C@]12CC[C@]([H])(C[C@@]([H])(C1)OC(C1=CC=CC=C1)C1=CC=CC=C1)N2C
+
+>  <SYNONYMS>  (1) 
+3-alpha-(diphenylmethoxy)tropane; 3endo-benzhydryloxytropane; 3α-(diphenylmethoxy)-1αH,5αH-tropane; 3α-(diphenylmethoxy)tropane; 3α-benzhydryloxy-8-methyl-8-azabicyclo[3.2.1]octane; Benzatropina; Benzatropinum; Benztropine; Tropine Benzohydryl Ether
+
+$$$$

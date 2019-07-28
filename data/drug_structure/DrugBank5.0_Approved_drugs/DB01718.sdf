@@ -1,0 +1,235 @@
+16A
+     RDKit          2D
+
+ 62 61  0  0  0  0  0  0  0  0999 V2000
+   -6.5465    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8320   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1175    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4029   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6884    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9739   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2594    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5448   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8304    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1158   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5987    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3133   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0278    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7423   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4569    0.1323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1713   -0.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8859    0.1323    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6004    0.5448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2984   -0.5822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4733    0.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+  1 21  1  0
+  1 22  1  0
+  1 23  1  0
+  2 24  1  0
+  2 25  1  0
+  3 26  1  0
+  3 27  1  0
+  4 28  1  0
+  4 29  1  0
+  5 30  1  0
+  5 31  1  0
+  6 32  1  0
+  6 33  1  0
+  7 34  1  0
+  7 35  1  0
+  8 36  1  0
+  8 37  1  0
+  9 38  1  0
+  9 39  1  0
+ 10 40  1  0
+ 10 41  1  0
+ 11 42  1  0
+ 11 43  1  0
+ 12 44  1  0
+ 12 45  1  0
+ 13 46  1  0
+ 13 47  1  0
+ 14 48  1  0
+ 14 49  1  0
+ 15 50  1  0
+ 15 51  1  0
+ 16 52  1  0
+ 16 53  1  0
+ 18 54  1  0
+ 18 55  1  0
+ 18 56  1  0
+ 19 57  1  0
+ 19 58  1  0
+ 19 59  1  0
+ 20 60  1  0
+ 20 61  1  0
+ 20 62  1  0
+M  CHG  1  17   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.48
+
+>  <ALOGPS_LOGS>  (1) 
+-7.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.24e-06 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01718
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01718
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+284.331725349
+
+>  <FORMULA>  (1) 
+C19H42N
+
+>  <GENERIC_NAME>  (1) 
+Cetrimonium
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C19H42N/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(2,3)4/h5-19H2,1-4H3/q+1
+
+>  <INCHI_KEY>  (1) 
+RLGQACBPNDBWTB-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+41.08598414608958
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+hexadecyltrimethylazanium
+
+>  <JCHEM_LOGP>  (1) 
+2.686555843861588
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+104.98729999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+15
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+cetyl-trimethyl-ammonium
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+284.5435
+
+>  <PRODUCTS>  (1) 
+Bye Bye Burn Lot; Cetrimide Aqueous Soln 1%; Cetrimide Cream 0.5%; Cetrimide Tincture 0.5%; Chlorhexidine-cetrimide Soltn Conc; Largal Ultra; Resdan Dandruff Treatment Liquid 1%; Salvesept Crm; Savlodil; Savlon Crm 0.5%; Savlon Hospital Concentrate; Xylonor - Aem Asp; Xylonor Gel; Xylonor Spray
+
+>  <SALTS>  (1) 
+Cetrimonium bromide; Cetrimonium carboxydecyl PEG-8 dimethicone; Cetrimonium chloride; Cetrimonium hydroxide
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+EXPT00048; DB13159
+
+>  <SMILES>  (1) 
+CCCCCCCCCCCCCCCC[N+](C)(C)C
+
+>  <SYNONYMS>  (1) 
+Cetrimonium cation; Cetrimonium ion; Cetyl-Trimethyl-Ammonium; Cetyltrimethylammonium; Cetyltrimethylammonium cation; Cetyltrimethylammonium ion; Hexadecyltrimethylammonium; Hexadecyltrimethylammonium cation; Hexadecyltrimethylammonium ion; N,N,N-Trimethyl-1-hexadecanaminium; Trimethylhexadecylammonium
+
+$$$$

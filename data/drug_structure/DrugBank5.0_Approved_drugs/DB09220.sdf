@@ -1,0 +1,163 @@
+
+     RDKit          2D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+   -3.2128   -0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2128    0.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4952    0.4154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7817    0.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7817   -0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4952   -1.2379    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0709    0.4112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3569   -0.0020    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3569    0.4071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0709   -0.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7848    0.4029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4989   -0.0104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2128    0.3987    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0699    1.2379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4971   -0.8370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  7  8  1  0
+  2  3  1  0
+  8  9  1  0
+  3  4  2  0
+  9 10  1  0
+  4  5  1  0
+ 10 11  1  0
+  5  6  2  0
+ 11 12  1  0
+  6  1  1  0
+ 12 13  1  0
+  7 14  2  0
+  4  7  1  0
+ 12 15  2  0
+  1 16  1  0
+  2 17  1  0
+  3 18  1  0
+  5 19  1  0
+  8 20  1  0
+  9 21  1  0
+  9 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+M  CHG  2  12   1  13  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.00
+
+>  <ALOGPS_LOGS>  (1) 
+-2.25
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.19e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09220
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09220
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+211.059305782
+
+>  <FORMULA>  (1) 
+C8H9N3O4
+
+>  <GENERIC_NAME>  (1) 
+Nicorandil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H9N3O4/c12-8(7-2-1-3-9-6-7)10-4-5-15-11(13)14/h1-3,6H,4-5H2,(H,10,12)
+
+>  <INCHI_KEY>  (1) 
+LBHIOVVIQHSOQN-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adancor; Angicor; Av-Cor; Corangi; Cordinik; Corflo; Ikotril; K-Cor; Nicodil; Nicoduce; Nicolan; Nicoline; Nicor; Nicoral; Nicostar; Nidil; Nikoran; Nikoranmart; Nirandil; Randil; Silvinol; Zynicor
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+24
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+19.344643637725675
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(pyridin-3-yl)formamido]ethyl nitrate
+
+>  <JCHEM_LOGP>  (1) 
+-0.1616976216666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.813037917207435
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.620047547147446
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+94.35999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+49.85830000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-nicotinamidoethyl nitrate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.177
+
+>  <SMILES>  (1) 
+[O-][N+](=O)OCCNC(=O)C1=CC=CN=C1
+
+>  <SYNONYMS>  (1) 
+2-Nicotinamidoethyl nitrate; BRN 0481451; N-(2-Hydroxyethyl)nicotinamide nitrate; N-(2-Hydroxyethyl)nicotinamide nitrate (ester); Nicorandilum; SG-75
+
+$$$$

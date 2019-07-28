@@ -1,0 +1,189 @@
+1170
+     RDKit          2D
+
+ 36 36  0  0  0  0  0  0  0  0999 V2000
+    3.1524    1.0049    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2816   -1.1741    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0951   -2.5908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9614   -1.7209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3273    1.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7357    1.5882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7440    1.5882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7357    2.4132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7440    2.4132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1524    2.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3273    2.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4681    0.2426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9659   -0.4118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7794   -1.8286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0
+  1  6  1  0
+  1 12  1  0
+  2 13  1  0
+  2 14  2  3
+  3 14  1  0
+  4 14  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 11  1  0
+ 10 11  1  0
+ 12 13  1  0
+  3 15  1  0
+  3 16  1  0
+  4 17  1  0
+  4 18  1  0
+  5 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  7 24  1  0
+  8 25  1  0
+  8 26  1  0
+  9 27  1  0
+  9 28  1  0
+ 10 29  1  0
+ 10 30  1  0
+ 11 31  1  0
+ 11 32  1  0
+ 12 33  1  0
+ 12 34  1  0
+ 13 35  1  0
+ 13 36  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.89
+
+>  <ALOGPS_LOGS>  (1) 
+-1.95
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.25e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01170
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01170
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+198.184446724
+
+>  <FORMULA>  (1) 
+C10H22N4
+
+>  <GENERIC_NAME>  (1) 
+Guanethidine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H22N4/c11-10(12)13-6-9-14-7-4-2-1-3-5-8-14/h1-9H2,(H4,11,12,13)
+
+>  <INCHI_KEY>  (1) 
+ACGDKVXYNVEAGU-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ismedine; Ismelin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.67321863423411
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[2-(azocan-1-yl)ethyl]guanidine
+
+>  <JCHEM_LOGP>  (1) 
+0.7449850346666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+2
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+11.769574089203532
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+67.64
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+59.7037
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ismelin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+198.3085
+
+>  <PRODUCTS>  (1) 
+Apo Guanethidine Sulfate Tab 10mg; Apo Guanethidine Sulfate Tab 25mg; Guanethidine 10 Tab 10mg; Ismelin 25mg
+
+>  <SALTS>  (1) 
+Guanethidine monosulfate; Guanethidine sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01007
+
+>  <SMILES>  (1) 
+NC(N)=NCCN1CCCCCCC1
+
+>  <SYNONYMS>  (1) 
+(2-(hexahydro-1(2h)-azocinyl)ethyl)guanidine; (2-(Octahydro-1-azocinyl)ethyl)guanidine; 2-(1-N,N-Heptamethyleneimino)ethylguanidine; 2-(1'-Azacyclooctyl)ethylguanidine; Azocine, 1-(2-guanidinoethyl)octahydro-; guanéthidine; guanethidinum; guanetidina; Guanidine, (2-(hexahydro-1(2H)-azocinyl)ethyl)-; Heptamethylenimine, 1-(2-guanidinoethyl)-; N-(2-Perhydroazocin-1-ylethyl)guanidine
+
+$$$$

@@ -1,0 +1,157 @@
+1121
+     RDKit          2D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+    3.7934   -0.1279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.1096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    2.3471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0
+  2 13  2  0
+  3  9  1  0
+  3 13  1  0
+  4 13  1  0
+  5  6  1  0
+  5  9  1  0
+  6  7  2  0
+  6  8  1  0
+  7 10  1  0
+  8 11  2  0
+ 10 12  2  0
+ 11 12  1  0
+  3 14  1  0
+  4 15  1  0
+  4 16  1  0
+  5 17  1  0
+  5 18  1  0
+  7 19  1  0
+  8 20  1  0
+ 10 21  1  0
+ 11 22  1  0
+ 12 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.81
+
+>  <ALOGPS_LOGS>  (1) 
+-2.23
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.06e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01121
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01121
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+178.074227574
+
+>  <FORMULA>  (1) 
+C9H10N2O2
+
+>  <GENERIC_NAME>  (1) 
+Phenacemide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H10N2O2/c10-9(13)11-8(12)6-7-4-2-1-3-5-7/h1-5H,6H2,(H3,10,11,12,13)
+
+>  <INCHI_KEY>  (1) 
+XPFRXWCVYUEORT-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Phenurone
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.49025272908014
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2-phenylacetyl)urea
+
+>  <JCHEM_LOGP>  (1) 
+0.45911426366666663
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.746751429186203
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.835506239830043
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+72.19
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+47.4304
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phenacemide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+178.1879
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00089
+
+>  <SMILES>  (1) 
+NC(=O)NC(=O)CC1=CC=CC=C1
+
+$$$$

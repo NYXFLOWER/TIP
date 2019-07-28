@@ -1,0 +1,121 @@
+
+     RDKit          2D
+
+  4  2  0  0  0  0  0  0  0  0999 V2000
+    0.0295    0.3904    0.0000 Ca  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.3903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.3903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0
+  2  4  2  0
+M  CHG  3   1   2   3  -1   4  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.04
+
+>  <ALOGPS_LOGS>  (1) 
+-1.19
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.71e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09116
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09116
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+79.9687389
+
+>  <FORMULA>  (1) 
+CCaN2
+
+>  <GENERIC_NAME>  (1) 
+Calcium carbimide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/CN2.Ca/c2-1-3;/q-2;+2
+
+>  <INCHI_KEY>  (1) 
+MYFXBBAEXORJNB-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.906726523512437
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+calcium (azanidylenemethylidene)azanide
+
+>  <JCHEM_LOGP>  (1) 
+-0.25363408266666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.557269819007672
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+34.14
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+6.3844
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+calcium (azanidylenemethylidene)azanide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+80.103
+
+>  <PRODUCTS>  (1) 
+Temposil Tab 50mg
+
+>  <SALTS>  (1) 
+Citrated calcium carbimide
+
+>  <SMILES>  (1) 
+[Ca++].[N-]=C=[N-]
+
+>  <SYNONYMS>  (1) 
+calcium cyanamide; carbimida calcica; carbimide calcique; Cyanamide calcique; Cyanamide, calcium salt (1:1); Lime nitrogen; Lime-nitrogen; methanediimine, calcium salt (1:1); Nitrogen lime
+
+$$$$

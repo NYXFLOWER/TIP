@@ -1,0 +1,183 @@
+1050
+     RDKit          2D
+
+ 33 33  0  0  1  0  0  0  0  0999 V2000
+    3.7934    2.7596    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    1.5221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  2 15  2  0
+  3  4  1  0
+  3  8  1  0
+  3  9  1  0
+  4  5  1  0
+  5 10  2  0
+  5 11  1  0
+  6  7  1  0
+  6 12  2  0
+  6 13  1  0
+  7 14  1  0
+  7 15  1  0
+ 10 12  1  0
+ 11 13  2  0
+  1 16  1  0
+  3 17  1  0
+  4 18  1  0
+  4 19  1  0
+  7 20  1  0
+  8 21  1  0
+  8 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 14 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.50
+
+>  <ALOGPS_LOGS>  (1) 
+-3.48
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.84e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01050
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01050
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+206.13067982
+
+>  <FORMULA>  (1) 
+C13H18O2
+
+>  <GENERIC_NAME>  (1) 
+Ibuprofen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)
+
+>  <INCHI_KEY>  (1) 
+HEFNNWSXXWATRW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Act-3; Actiprofen; Adex; Adran; Aktren; Alges-X; Algoflex; Algofren; Alivium; Artofen; Betagesic; Betaprofen; Bluton; Bonifen; Brufen; Buburone; Bugesic; Buprovil; Burana; Butylenin; Calprofen; Cap-Profen; Children's Elixsure; Children's Ibuprofen; Dalsy; Dismenol; Diverin; Dolgirid; Dolgit; Dolofort; Doloraz; Dolormin; Dorival; Ebufac; EmuProfen; Epobron; Espidifen; Eve; Femadon; Fenbid; Fenpaed; Finalflex; Galprofen; Haltran; Herron Blue; i-profen	; Ibalgin; Ibu-Attritin; IBU-Ratiopharm; Ibu-Vivimed; Ibuflam; Ibugel; Ibugesic; IbuHEXAL; Ibuleve; Ibum; Ibumax; Ibumetin; Ibumidol; Ibupain; Ibuprocin; Ibuprom; Ibuprosyn; Ibuprox; Ibustar; Ibutid; Ibux; Ibuxin; Inabrin; Inoven; Ipren; Junior Strength Motrin; Kratalgin; Lamidon; Lebrufen; Liptan; Lotem; Medicol; Medipren; Motrin; Mynosedin; Mypaid; Myprodol; Narfen; Naron Ace	; Neobrufen; Nobfen; Nobgen; Norvectan; Nuprin; Nureflex; Nurofen; Orbifen; Panafen; Pediaprofen; Perifar; Profin; Ranfen; Rapidol; Ratiodolor; Rimafen; Roidenin; Rufen; Salvarina; Seclodin; Solpaflex; Speedpain NANO; Spidifen; Suspren; Tabalon; Tefin; Trendar; Unafen; Upfen; Urem
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+23.761548886595566
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[4-(2-methylpropyl)phenyl]propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.8435581993333345
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.851939431757335
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+37.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+60.73190000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ibuprofen, (+-)-
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+206.2808
+
+>  <PRODUCTS>  (1) 
+10 Person ANSI; 25 Person ANSI; 50 Person ANSI; 7 Select Childrens Ibuprofen; 7 Select Ibuprofen; 7 Select Ibuprofen PM; 7-Select Advil PM; Actiprofen - Caplet 200mg; Advil; Advil 12 Hour; Advil Allergy Sinus; Advil Allergy and Congestion Relief; Advil Arthritis Pain; Advil Back Pain; Advil Caplets; Advil Cold & Flu; Advil Cold & Sinus Convenience Pack; Advil Cold & Sinus Liqui-gels; Advil Cold & Sinus PE; Advil Cold and Sinus; Advil Cold and Sinus Daytime; Advil Cold and Sinus Nighttime; Advil Cold and Sinus Plus; Advil Cold, Cough & Flu Nighttime; Advil Congestion Relief; Advil Day/night Convenience Pack; Advil Extra Strength Caplets; Advil Extra Strength Liqui-gels; Advil Gel Caplets; Advil Headache & Migraine Caplets; Advil Headache & Migraine Extra Strength; Advil Headache & Migraine Pain Caplets; Advil Headache & Migraine Pain Extra Strength Caplets; Advil Headache & Migraine Pain Tablets; Advil Headache & Migraine Tablets; Advil Headache Caplets; Advil Headache Extra Strength; Advil Headache Tablets; Advil Liqui-gels; Advil Liquigels; Advil Menstrual Pain; Advil Migraine; Advil Migraine Caplets; Advil Migraine Extra Strength; Advil Migraine Tablets; Advil Muscle and Joint; Advil Nighttime; Advil PM; Advil Pain & Head Cold Night; Advil Pediatric Drops; Advil Pediatric Drops Fever From Colds Or Flu; Advil Sinus Congestion and Pain; Advil Sinus Congestion and Pain Relief; Advil Tablets; Alivio; Alti-ibuprofen Tab 300mg; Alti-ibuprofen Tab 400mg; Alti-ibuprofen Tab 600mg; Analgesic and Muscle Relaxant; Analgesic and Muscle Relaxant Caplets; Apo Ibuprofen Tab 300mg; Apo Ibuprofen Tab 400mg; Apo Ibuprofen Tab 600mg; Apo-ibuprofen Tab 200mg; Aprofen Regular Strength; Army and Airforce Exchange Ibuprofen PM; Assured Ibuprofen; Auto 157; Axum; Babies R Us Ibuprofen; Babies R Us Infants Ibuprofen; Basic Care Ibuprofen; Basic Care childrens ibuprofen; Being Well Ibuprofen; Berkley and Jensen Childrens Ibuprofen; Berkley and Jensen Ibuprofen; Berkley and Jensen Ibuprofen PM; Berkley and Jensen ibuprofen childrens dye free; CAREALL Ibuprofen; CVS Ibuprofen Sodium; CVS Pharmacy Ibuprofen; Caldolor; Care One Ibuprofen; Care One Ibuprofen Childrens; Care One Ibuprofen Cold and Sinus; Care One Ibuprofen Ib; Care One Ibuprofen Infants; Care One Ibuprofen Junior Strength; Care One Ibuprofen PM; Care One ibuprofen; Care One ibuprofen childrens; CareOne Ibuprofen; Careone Ibuprofen PM; Careone ibuprofen junior strength; Cedaprin; Children's Advil; Children's Advil Chewable Tablets; Children's Advil Cold; Children's Advil Cold & Flu Multi-symptom; Children's Advil Fever From Colds Or Flu; Children's Europrofen; Children's Ibuprofen Suspension; Children's Motrin; Children's Motrin Chewable Tablet 50mg; Children's Motrin Chewable Tablets; Children's Motrin Cold; Children's Motrin Suspension; Childrens Advil; Childrens Advil Cold; Childrens Ibuprofen; Childrens Ibuprofen 100; Childrens Ibuprofen 100 Dye Free; Childrens Ibuprofen Oral Suspension; Childrens MOTRIN; Childrens Motrin; Circle K Ibuprofen; Clear Choice Ibuprofen; Codofen; Cold & Sinus Relief Capsules; Cold + Sinus; Cold + Sinus Caplets; Cold + Sinus Daytime; Cold + Sinus Daytime Cold + Sinus Nighttime; Cold + Sinus Nighttime; Cold + Sinus Plus; Cold and Sinus Pain Relief; Cold and Sinus Plus; Cold and Sinus Relief; Comfort Pac with Ibuprofen; Concentrated Ibuprofen; Congestion Relief; Core Values Childrens Ibuprofen; CounterAct IB; DG Health Ibuprofen; DG Health Ibuprofen PM; DG Health childrens ibuprofen; Dg Health Childrens Ibuprofen; Dg Health Ibuprofen; Dimetapp Cold and Sinus Caplets; Direct Safety Ibuprofen; Dolex; Dover Addaprin; Dragon Tabs; Dristan Sinus Caplets; Duexis; Dye Free Childrens Ibuprofen; Dye Free Ibuprofen; Easy Care First Aid Kit - Comprehensive; Equaline Childrens Ibuprofen; Equaline Ibuprofen; Equaline Ibuprofen Childrens; Equaline Ibuprofen Cold and Sinus; Equaline Ibuprofen PM; Equaline Ibuprofen childrens; Equaline congestion relief; Equaline ibuprofen; Equaline ibuprofen childrens; Equate Ibuprofen; Equate Ibuprofen Childrens; Equate Ibuprofen Cold and Sinus; Equate Ibuprofen PM; Extra Strength Ibuprofen; Extra Strength Ibuprofen Liquid Capsules; Extra Strength Ibuprofen Liquid Filled Capsules; Extra Strength Ibuprofen Liquid Gel Capsules; Family Wellness Childrens Ibuprofen; Fast Pain Relief; Flex-Prin; Formu Care Ibuprofen; Formu Care Ibuprofen Childrens; Fulton Street Market Ibuprofen; GFA First Aid Kit Essentials - 33 Pieces; Genuine First Aid - Auto First Aid; Genuine First Aid - Home First Aid; Genuine First Aid Industrial First Aid; Good Neighbor Pharmacy Childrens Ibuprofen; Good Neighbor Pharmacy Childrens Ibuprofen Cold; Good Neighbor Pharmacy Congestion Relief; Good Neighbor Pharmacy Ibuprofen; Good Neighbor Pharmacy Ibuprofen Cold and Sinus; Good Neighbor Pharmacy Ibuprofen PM; Good Neighbor Pharmacy ibuprofen; Good Neighbor Pharmacy ibuprofen childrens; Good Sense Childrens Ibuprofen Oral Suspension; Good Sense Ibuprofen; Good Sense Ibuprofen Childrens; Good Sense Ibuprofen Cold and Sinus; Good Sense Ibuprofen PM; Good Sense Infants Ibuprofen; Good Sense ibuprofen; Good Sense ibuprofen infants; Green Guard Ibupro Relief; Green Guard Ibupro relief; Green Guard Ibuprofen Relief; Handy Solutions Ibuprofen; Harmon Face Values Ibuprofen; Harris Teeter Childrens Ibuprofen; Harris Teeter Ibuprofen; Harris Teeter Ibuprofen Infants; Harris Teeter Ibuprofen PM; Health Mart Childrens Ibuprofen; Health Mart Ibuprofen; Health Mart Ibuprofen IB; Health Mart ibuprofen PM; Health Sense Infants Ibuprofen Oral Suspension; Health Sense Provil; Healthy Accents Congestion Relief; Healthy Accents Ibuprofen; Healthy Accents Ibuprofen Infants; Healthy Accents Ibuprofen PM; Healthy Accents ibuprofen; Healthy Accents ibuprofen childrens; Help I Have an Aching Body; Henry Schein Ibuprofen; Humana Pharmacy Childrens Ibuprofen; Humana Pharmacy Ibuprofen; Hydrocodone Bitartrate; Hydrocodone Bitartrate and Ibuprofen; Hydrocodone bitartrate and ibuprofen; Ibu; Ibu Profen Cold and Sinus; Ibucodone; Ibudone; Ibuprofen; Ibuprofen  -  Tab 200mg; Ibuprofen (NSAID) Pain Releiver/ Fever Reducer; Ibuprofen + Pseudoephedrine Caplets; Ibuprofen 200; Ibuprofen 200 mg; Ibuprofen 200mg; Ibuprofen Caplet; Ibuprofen Caplets; Ibuprofen Caplets 200 mg; Ibuprofen Capsules, 200mg; Ibuprofen Capsules, 400mg; Ibuprofen Childrens; Ibuprofen Cold Childrens; Ibuprofen Cold Relief Childrens; Ibuprofen Cold and Sinus; Ibuprofen Cold and Sinus A P J; Ibuprofen Daytime; Ibuprofen Daytime, Ibuprofen Nighttime; Ibuprofen Dye Free; Ibuprofen Dye-Free; Ibuprofen Extra Strength Caplets; Ibuprofen Fast relief medicine for pain; Ibuprofen IB; Ibuprofen Ib; Ibuprofen Immediate Release; Ibuprofen Immediate release; Ibuprofen Infants; Ibuprofen Junior; Ibuprofen Junior Strength; Ibuprofen Liqui-gels; Ibuprofen Liquid Capsules; Ibuprofen Liquid Filled Capsules; Ibuprofen Liquid Gel Capsules; Ibuprofen Lysine; Ibuprofen Menstrual Pain Relief; Ibuprofen Muscle and Joint; Ibuprofen Nighttime; Ibuprofen Oral Suspension USP; Ibuprofen PM; Ibuprofen Pain Releiver/ Fever Reducer; Ibuprofen Pain Reliever/ Fever Reducer; Ibuprofen Pain Reliever/Fever Reducer; Ibuprofen Pain reliever/ Fever Reducer; Ibuprofen Pain reliever/fever reducer; Ibuprofen Sodium; Ibuprofen Tab 200mg; Ibuprofen Tab 300mg; Ibuprofen Tab 400mg; Ibuprofen Tablets; Ibuprofen Tablets 200 mg; Ibuprofen and Diphenhydramine Citrate; Ibuprofen and Diphenhydramine HCl; Ibuprofen and Pseudoephedrine; Ibuprofen and Pseudoephedrine HCl; Ibuprofen and Pseudoephedrine Hydrochloride; Ibuprofen and Pseudoephedrine hydrochloride; Ibuprofen childrens; Ibuprofen softgels; Ibuprofen+methocarbamol Caplets; Ibuprofen-600 Tab 600mg; Ibutab; Infant's Motrin Suspension Drops; Infants Advil; Infants Ibuprofen; Infants Motrin; Jamp-ibuprofen; Joint Maintenance Compliance Kit; Junior Strength Advil; Junior Strength Advil Fever From Colds Or Flu; Junior Strength Ibuprofen; Junior Strength Motrin Caplets; Junior Strength Motrin Chewable Tablet 100mg; Junior Strength Motrin Chewable Tablets; Kirkland Signature Ibuprofen; Kirkland Signature Ibuprofen Ib; Leader Childrens Ibuprofen; Leader Congestion Relief; Leader Ibuprofen; Leader Ibuprofen 200; Leader Ibuprofen Childrens; Leader Ibuprofen Cold Childrens; Leader Ibuprofen Cold and Sinus; Leader Ibuprofen Infants; Leader Ibuprofen PM; Leader Infants Ibuprofen; Leader ibuprofen; Leader ibuprofen pm; Lil Drug Store Ibuprofen; MEDI-FIRST Ibuprofen; MEDI-FIRST PLUS Ibuprofen; Major Childrens Ibuprofen; Medi-First Ibuprofen; Medi-First Plus Ibuprofen; Medipren Tab 200mg; Medique I-prin; Medique Iprin; Members Mark Ibuprofen; Midol; Moore Medical LLC Ibuprofen; MooreBrand Ibuprofen; Motrin 200mg; Motrin 300mg; Motrin 400mg; Motrin Caplet; Motrin Cold & Sinus Caplets; Motrin Cold & Sinus Pain; Motrin Gelcaps; Motrin IB; Motrin Ib Caplet/tab 200mg; Motrin Ib Caplets 200mg; Motrin Ib Menstrual Pain; Motrin Infants; Motrin Liquid Gels 200mg; Motrin PM; Motrin Platinum Muscle and Body; Motrin Tablets 300mg; Motrin Tablets 400mg; Motrin Tablets 600mg; Mountain Series Weekender Medical; Muscle & Back Pain Relief With Ibuprofen; Muscle & Joint; Muscle Relaxant and Analgesic Caplets; Muscle and Back Pain Platinum Relief; NeoProfen; Nighttime Cold, Cough & Flu; Nighttime Pain Relief; Nighttime Pain Reliever; Novo-profen; Nu-ibuprofen Tab 300mg; Nu-ibuprofen Tab 400mg; Nu-ibuprofen Tab 600mg; Nuprin Immediate Release; Otis Clapp Ultraprin; Oxycodone Hydrochloride and Ibuprofen; Oxycodone hydrochloride and Ibuprofen; PMS-ibuprofen; PMS-ibuprofen (caplets); Pain Relief; Pain Relief Anti inflammatory; Pain Relief Ibuprofen; Pamprin Ibuprofen Formula; Parents Choice Infants Ibuprofen; Pedea; PediaCare Childrens; PediaCare Infants; Pendo-ibuprofen; Pendo-ibuprofen (200mg Caplet); Pendo-ibuprofen Es; Perrigo Ibuprofen; PharmapureRx IBU 600-EZS; PharmapureRx INU 600-EZS; Physicians Care Ibuprofen; PhysiciansCare Ibuprofen; Platinum Muscle and Back Pain Relief; Prastera; Preferred Plus Congestion Relief; Preferred Plus Ibuprofen; Preferred Plus Ibuprofen 200; Probufen; Profen Ib; Profen Ib Infants; Proprinal; Quality Choice Ibuprofen 200; Ready America First Aid Outdoor- 107 Pieces; Ready America First Aid Pocket - 33 Pieces; Redicare Ibuprofen; Regular Ibuprofen; Regular Strength Analgesic & Muscle Relaxant Caplets; Reprexain; Rexall Ibuprofen; Robax Platinum; Rugby Congestion Relief; Rx Act Ibuprofen; Rx Act Ibuprofen Childrens; Rx Act Ibuprofen PM; ShopRite Childrens Ibuprofen; ShopRite Ibuprofen; ShopRite Ibuprofen IB; ShopRite Infants Ibuprofen; Shoprite Ibuprofen; Shoprite Ibuprofen PM; Signature Care Childrens Ibuprofen; Signature Care Ibuprofen; Signature Care Ibuprofen Childrens; Signature Care Ibuprofen PM; Signature Care Infants Ibuprofen; Simply Right Ibuprofen; Smart Sense Ibuprofen; Smart Sense Ibuprofen Gluten Free; Smart Sense Ibuprofen Infants; Smart Sense Ibuprofen PM; Smart Sense ibuprofen; Sound Body Childrens Ibuprofen; Sound Body Ibuprofen; Sudafed Sinus Advance; Summit Ultra; Sunmark Ibuprofen; Sunmark Ibuprofen IB; Sunmark Ibuprofen Ib; Sunmark Ibuprofen Infants; Sunmark Ibuprofen PM; Sunmark ibuprofen childrens; Sunmark ibuprofen cold and sinus; Sunmark ibuprofen ib; Super Strength Motrin Ib Liquid Gels; Super Strength Motrin Ib Liquid Gels Capsules; Super Strength Motrin Ib Menstrual Pain; Teva-profen; Theraprofen-60; Theraprofen-800; Theraprofen-90; TopCare Ibuprofen; Topcare Childrens Ibuprofen; Topcare Congestion Relief; Topcare Ibuprofen; Topcare Ibuprofen Junior Strength; Topcare Ibuprofen PM; Topcare Infants Ibuprofen; Topcare ibuprofen; Topcare ibuprofen childrens; Topical Pain; Up and Up Childrens Ibuprofen; Up and Up Childrens Ibuprofen Oral Suspension; Up and Up Cold and Sinus; Up and Up Dye Free Infants Concentrated Ibuprofen; Up and Up Ibuprofen; Up and Up Ibuprofen Junior; Up and Up Ibuprofen PM; Up and Up Ibuprofen Sodium; Up and Up Junior Strength Ibuprofen; Up and Up childrens ibuprofen; Valumeds Ibuprofen; Vicks Dayquil Sinus Pr.and Pain ReL.W.ibupr.; Vicoprofen; Wal Profen Cold and Sinus; Walprofen Congestion Relief and Pain; Welby Health Ibuprofen; Welby Ibuprofen; Welby Infants Ibuprofen; Xylon 10; Zee Ibutab; dg health Ibuprofen pm; good neighbor pharmacy Ibuprofen; leader Ibuprofen; moorebrand Ibuprofen; profen IB childrens; topcare Ibuprofen Cold and Sinus
+
+>  <SALTS>  (1) 
+Ibuprofen aluminum; Ibuprofen lysine; Ibuprofen potassium; Ibuprofen sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00372
+
+>  <SMILES>  (1) 
+CC(C)CC1=CC=C(C=C1)C(C)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(±)-2-(p-isobutylphenyl)propionic acid; (±)-ibuprofen; (±)-p-isobutylhydratropic acid; (±)-α-methyl-4-(2-methylpropyl)benzeneacetic acid; (4-isobutylphenyl)-α-methylacetic acid; (RS)-ibuprofen; 2-(4-isobutylphenyl)propanoic acid; 4-isobutylhydratropic acid; Ibuprophen; α-(4-isobutylphenyl)propionic acid; α-(p-isobutylphenyl)propionic acid
+
+$$$$

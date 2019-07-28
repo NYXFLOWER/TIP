@@ -1,0 +1,189 @@
+
+     RDKit          2D
+
+ 35 37  0  0  0  0  0  0  0  0999 V2000
+   -3.1600   -0.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6349   -1.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2881   -1.7505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4664   -1.8245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9915   -1.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3383   -0.4013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1954    0.3858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5251   -0.0159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5374   -0.8408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1707   -1.2639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8913   -0.8622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9036   -0.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1900   -1.3455    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9693    0.3365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1623    0.5080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6242    0.3644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6365    1.1893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3324   -0.0586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0530    0.3430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3201   -0.8836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4739    0.9891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12  7  1  0
+  6 14  1  0
+ 14 15  1  0
+ 15  8  1  0
+ 12 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 18 19  1  0
+ 18 20  2  0
+  5 13  1  0
+  9 13  1  0
+ 14 21  2  0
+  1 22  1  0
+  2 23  1  0
+  3 24  1  0
+  4 25  1  0
+  7 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 16 31  1  0
+ 17 32  1  0
+ 17 33  1  0
+ 17 34  1  0
+ 19 35  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.55
+
+>  <ALOGPS_LOGS>  (1) 
+-4.33
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.39e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06737
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06737
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+298.066365485
+
+>  <FORMULA>  (1) 
+C17H14O3S
+
+>  <GENERIC_NAME>  (1) 
+Zaltoprofen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H14O3S/c1-10(17(19)20)11-6-7-15-12(8-11)9-14(18)13-4-2-3-5-16(13)21-15/h2-8,10H,9H2,1H3,(H,19,20)
+
+>  <INCHI_KEY>  (1) 
+MUXFZBHBYYYLTH-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Borbit; Peleton; Peon; Salafapinon; Soleng; Soleton; Soluirubin; Zaltoprofen Tatsumi Kagaku; Zatferon; Zyrogen
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+35
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.1586937855727
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-{10-oxo-2-thiatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3,5,7,12,14-hexaen-6-yl}propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.761471369666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+12.923420891951654
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.6685480884413937
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.614068865216467
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.37
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.6909
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-{10-oxo-2-thiatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3,5,7,12,14-hexaen-6-yl}propanoic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+298.36
+
+>  <SMILES>  (1) 
+CC(C(O)=O)C1=CC=C2SC3=C(C=CC=C3)C(=O)CC2=C1
+
+>  <SYNONYMS>  (1) 
+Zaltoprofen; Zaltoprofene; Zaltoprofeno; Zaltoprofenum
+
+$$$$

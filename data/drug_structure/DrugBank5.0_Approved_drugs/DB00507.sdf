@@ -1,0 +1,179 @@
+507
+     RDKit          2D
+
+ 30 31  0  0  0  0  0  0  0  0999 V2000
+    4.5550    0.9959    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.5516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3141    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.7891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6606    3.2016    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5045    2.3617    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.3141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8899    0.9959    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3250    2.4480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.5516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.7266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.7891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -2.7891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.5109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.2016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8099    1.7805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350    1.7805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.5516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0
+  1 18  1  0
+  2 11  1  0
+  2 20  1  0
+  3 12  2  0
+  4 20  2  0
+  5  9  1  0
+  6  9  2  0
+  7 12  1  0
+  7 16  1  0
+  8 16  2  0
+  8 19  1  0
+  9 18  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 13 15  2  0
+ 14 17  2  0
+ 15 17  1  0
+ 18 19  2  0
+ 20 21  1  0
+  7 22  1  0
+ 13 23  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 17 26  1  0
+ 19 27  1  0
+ 21 28  1  0
+ 21 29  1  0
+ 21 30  1  0
+M  CHG  2   5  -1   9   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.14
+
+>  <ALOGPS_LOGS>  (1) 
+-4.61
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.55e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00507
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00507
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; vet_approved
+
+>  <EXACT_MASS>  (1) 
+307.026291103
+
+>  <FORMULA>  (1) 
+C12H9N3O5S
+
+>  <GENERIC_NAME>  (1) 
+Nitazoxanide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C12H9N3O5S/c1-7(16)20-9-5-3-2-4-8(9)11(17)14-12-13-6-10(21-12)15(18)19/h2-6H,1H3,(H,13,14,17)
+
+>  <INCHI_KEY>  (1) 
+YQNQNVDNTFHQSW-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alpex Nizox; ANNITA; Azoxanid; Celectan; Colufase; Coluquim; Daxon; Dianide; Diar; Famidox; Kaside; Kazide; Larvisol; Lumbris; Mixel; Niazid; Nitax; Nitaxide; Nitazet; Nitazofin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.5429801667647
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(5-nitro-1,3-thiazol-2-yl)carbamoyl]phenyl acetate
+
+>  <JCHEM_LOGP>  (1) 
+2.121414542333333
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.299087339145986
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-4.1975087648445655
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+114.11000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+73.89020000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nitazoxanide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+307.282
+
+>  <PRODUCTS>  (1) 
+Alinia
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00558
+
+>  <SMILES>  (1) 
+CC(=O)OC1=CC=CC=C1C(=O)NC1=NC=C(S1)[N+]([O-])=O
+
+>  <SYNONYMS>  (1) 
+Adrovet; Nitaxozanid; Nitaxozanide; Nitazoxanida; Nitazoxanidum; Nodik; Omniparax
+
+$$$$

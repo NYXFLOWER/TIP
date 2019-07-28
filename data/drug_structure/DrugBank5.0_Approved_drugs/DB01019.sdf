@@ -1,0 +1,176 @@
+
+     RDKit          2D
+
+ 28 27  0  0  0  0  0  0  0  0999 V2000
+   -0.7124   -0.6196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4268   -0.2054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0019   -0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1413    0.2047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7165   -0.6196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0019    0.6189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4268   -0.2054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1413   -0.6196    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4268    0.6189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4268    0.6196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1413   -0.6179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  5  7  1  0
+  7  8  1  0
+  7  9  2  0
+  2 10  1  0
+  2 11  1  0
+  1 12  1  0
+  1 13  1  0
+  3 14  1  0
+  4 15  1  0
+  4 16  1  0
+  4 17  1  0
+  6 18  1  0
+  6 19  1  0
+  6 20  1  0
+  8 21  1  0
+  8 22  1  0
+ 10 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+M  CHG  1   2   1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.79
+
+>  <ALOGPS_LOGS>  (1) 
+-2.80
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.11e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01019
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01019
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+161.129002798
+
+>  <FORMULA>  (1) 
+C7H17N2O2
+
+>  <GENERIC_NAME>  (1) 
+Bethanechol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H16N2O2/c1-6(11-7(8)10)5-9(2,3)4/h6H,5H2,1-4H3,(H-,8,10)/p+1
+
+>  <INCHI_KEY>  (1) 
+NZUPCNDJBJXXRF-UHFFFAOYSA-O
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Duvoid; Myotonachol; Myotonine; Uro-Carb
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+28
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+17.7280885361127
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-(trimethylazaniumyl)propan-2-yl carbamate
+
+>  <JCHEM_LOGP>  (1) 
+-4.138114261471746
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.34062327414853
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+52.32
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+54.441
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+bethanechol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+161.2221
+
+>  <PRODUCTS>  (1) 
+Bethanechol Chloride; Duvoid Tablets 10 mg; Duvoid Tablets 25 mg; Duvoid Tablets 50 mg; Myotonachol Tablets 10mg; Myotonachol Tablets 25mg; PHL-bethanechol Chloride; PMS-bethanechol Chloride Tab 10mg; PMS-bethanechol Chloride Tab 25mg; PMS-bethanechol Chloride Tab 50mg; Urecholine; Urecholine Inj 5mg/ml; Urecholine Tab 10mg; Urecholine Tab 25mg
+
+>  <SALTS>  (1) 
+Bethanechol Chloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00051
+
+>  <SMILES>  (1) 
+CC(C[N+](C)(C)C)OC(N)=O
+
+>  <SYNONYMS>  (1) 
+(2-hydroxypropyl)trimethylammonium carbamate; 2-(carbamoyloxy)-N,N,N-trimethylpropan-1-aminium; 2-carbamoyloxypropyl-trimethylazanium; Amidopropyldimethylbetaine; Carbamoyl-beta-methylcholine; carbamoyl-β-methylcholine; Carbamyl-beta-methylcholine; carbamyl-β-methylcholine
+
+$$$$

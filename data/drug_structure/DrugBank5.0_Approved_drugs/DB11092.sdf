@@ -1,0 +1,102 @@
+
+     RDKit          2D
+
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.2375   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -1.1270    0.0000 Sn  0  0  0  0  0  2  0  0  0  0  0  0
+    2.6664   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+M  RAD  1   2   3
+M  END
+>  <DATABASE_ID>  (1) 
+DB11092
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11092
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+157.899002981
+
+>  <FORMULA>  (1) 
+F2Sn
+
+>  <GENERIC_NAME>  (1) 
+Stannous fluoride
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2FH.Sn/h2*1H;/q;;+2/p-2
+
+>  <INCHI_KEY>  (1) 
+ANOBYBYXJXCGBS-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+2.7797106976725225
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+difluorostannane
+
+>  <JCHEM_LOGP>  (1) 
+0.18500000000000005
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+3.0026
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+difluorostannane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+156.71
+
+>  <PRODUCTS>  (1) 
+0.4% Stannous Fluoride Brush On Gel; 0.63% Stannous Fluor. Oral Rinse Concentrate; 1.64% Stan. Fluor. Office Rinse Concentrate; 3.28% Stannous Fluor. Irrigation Concentrate; Alpha-Dent Home Care Fluoride; Burkhart; CVS Pharmacy Pro Defense; CVS Pharmacy Restore and Defend; Crest 3D White Brilliance Daily Cleansing and Whitening System; Crest Complete Multi-Benefit Extra White plus Crystal Clean anti bac; Crest Gum Detoxify; Crest Pro-Health; Crest Pro-Health Advanced; Crest Pro-Health Advanced Extra Deep Clean; Crest Pro-Health Advanced Extra Gum Protection; Crest Pro-Health Advanced Extra Whitening Power Plus Freshness; Crest Pro-Health All-Around Protection; Crest Pro-Health Clinical Gum Protection; Crest Pro-Health Extra Whitening Power; Crest Pro-Health For Life; Crest Pro-Health HD; Crest Pro-Health Healthy Fresh; Crest Pro-Health Intense Peppermint; Crest Pro-Health Intensive Clean; Crest Pro-Health Sensitive Shield Smooth Mint; Crest Pro-Health Sensitivive and Enamel Shield; Crest Pro-Health With a Touch of Scope; Crest Sensi-Repair and Prevent; Crest Sensitivity Treatment and Protection; Denti-care Stannous Fluoride; Denti-care Stannous Fluoride Gel 0.4%; Doctors Choice; Enamelon; Enamelon Preventive Treatment; Fluoridex; Fluorzoin 0.4% Stannous Fluoride Gel; Gel-Kam Fruit and Berry; Gel-Kam Mint; Gel-kam 0.4% Stannous Fluoride Gel Bblgum; Gel-kam Fluorocare Part B - Mint Liq; Gel-kam Fluorocare Part B-bubblegum; Gel-kam Fluorocare Part B-mint; Gelato Homecare; Gelato Perio Maintenance Rinse; Gingimed; H E B Restore and Defend; Heb Extra Whitening; Home Care Fluoride; Ionite H; Just For Kids; Kids Choice; Kmart Corporation Healthy Protection; MedActive Patient Friendly; MedActive Patient Friendly Stannous Fluoride Rinse; Omni; Oral B Cavity Prevention Formula 0.4%; Parodontax; Pcxx 1.64 Stannous Rns Mint; Pcxx 1.64 Stannous Rnsstrawberry; Pcxx Snf Rns Grape; Perfect Choice 3.28% Oral Irrigation Kit; Perfect Choice Brand Perio Rinse; Perfect Choice Home Gel 0.4% Stannous Fluoride Gel; PerioMed; Perioselect Stannous Fluoride Gel 0.4% Mint; Plak Smacker; Pro-Den Rx; Rite Aid Anti-Cavity, Anti-Gingivitis; Scotts Select; Sensodyne Complete Protection; Sensodyne Complete Protection Extra Fresh; Sensodyne Repair and Protect; Sensodyne Repair and Protect Extra Fresh; Sensodyne Repair and Protect Whitening; Sorbet Homecare; Stan-gard Gel 0.4%; Stance; Stannous Fluoride; Stannous Fluoride Concentrate Liq 1.64%; Up and Up Anticavity Toothpaste Multi Function; Usana Anticavity Treatment Gel
+
+>  <SMILES>  (1) 
+F[Sn]F
+
+>  <SYNONYMS>  (1) 
+difluorostannylene; fluoristan; tin difluoride; Tin(II) fluoride
+
+$$$$

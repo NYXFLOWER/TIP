@@ -1,0 +1,187 @@
+186
+     RDKit          2D
+
+ 31 33  0  0  1  0  0  0  0  0999 V2000
+    2.5467   -2.3783    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.6080   -1.4841    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.8811    2.3401    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3403    2.3401    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1838    0.9518    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0375    0.9518    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1106   -0.2105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8540    0.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3674    0.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4989   -0.3669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5231    1.5968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1881   -1.0663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6981    1.5968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4818   -1.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7076   -1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3760   -1.1827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2669   -0.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0210   -1.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9120   -0.5799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7890   -1.3956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  2 17  1  0
+  3 11  1  0
+  4 13  2  0
+  5  9  1  0
+  5 13  1  0
+  6  8  2  0
+  6 11  1  0
+  7  8  1  0
+  7  9  2  0
+  7 12  1  0
+  8 10  1  0
+  9 14  1  0
+ 10 17  2  0
+ 10 18  1  0
+ 11 13  1  0
+ 12 15  2  0
+ 14 16  2  0
+ 15 16  1  0
+ 17 19  1  0
+ 18 20  2  0
+ 19 21  2  0
+ 20 21  1  0
+  3 22  1  0
+  5 23  1  0
+ 11 24  1  0
+ 12 25  1  0
+ 14 26  1  0
+ 16 27  1  0
+ 18 28  1  0
+ 19 29  1  0
+ 20 30  1  0
+ 21 31  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.98
+
+>  <ALOGPS_LOGS>  (1) 
+-4.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.76e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00186
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00186
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+320.011932988
+
+>  <FORMULA>  (1) 
+C15H10Cl2N2O2
+
+>  <GENERIC_NAME>  (1) 
+Lorazepam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H10Cl2N2O2/c16-8-5-6-12-10(7-8)13(19-15(21)14(20)18-12)9-3-1-2-4-11(9)17/h1-7,15,21H,(H,18,20)
+
+>  <INCHI_KEY>  (1) 
+DIWRORZWFLOCLC-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Almazine; Anxiedin; Idalprem; Lorabenz; Lorsilan; Somagerol; Temesta; Wypax
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+31
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.334841156311175
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+7-chloro-5-(2-chlorophenyl)-3-hydroxy-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+3.527325488
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.461590649872107
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.606301472079005
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.236353065972286
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+61.69
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.6992
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+lorazepam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+321.158
+
+>  <PRODUCTS>  (1) 
+Apo-lorazepam Sublingual; Apo-lorazepam Tab 0.5mg; Apo-lorazepam Tab 1mg; Apo-lorazepam Tab 2mg; Ativan; Ativan Inj 4mg/ml; Ativan Injection Liq 4mg/ml; Ativan Subl Tab 0.5mg; Ativan Subl Tab 1mg; Ativan Tab 0.5mg; Ativan Tab 1mg; Ativan Tab 2mg; Dom-lorazepam; Lorazepam; Lorazepam Injection USP; Ntp-lorazepam; Nu-loraz Tab 0.5mg; Nu-loraz Tab 1mg; Nu-loraz Tab 2mg; PHL-lorazepam; PMS-lorazepam Tab 0.5mg; PMS-lorazepam Tab 1mg; PMS-lorazepam Tab 2mg; Pro-lorazepam; Pro-lorazepam Tab 1.0mg; Pro-lorazepam Tab 2mg; Riva-lorazepam 0.5 Mg Tablets; Riva-lorazepam 1 Mg Tablets; Riva-lorazepam 2mg Tablets; Teva-lorazepam
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00116
+
+>  <SMILES>  (1) 
+OC1N=C(C2=CC=CC=C2Cl)C2=C(NC1=O)C=CC(Cl)=C2
+
+>  <SYNONYMS>  (1) 
+o-Chlorooxazepam; o-Chloroxazepam
+
+$$$$

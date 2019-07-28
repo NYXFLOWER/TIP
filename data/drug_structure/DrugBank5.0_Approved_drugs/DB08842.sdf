@@ -1,0 +1,176 @@
+
+     RDKit          2D
+
+ 31 30  0  0  0  0  0  0  0  0999 V2000
+   -0.7557   -1.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0411   -0.6328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4702   -0.6328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6734   -1.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3878   -0.6328    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0411    0.1921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1847   -1.0454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4702    0.1921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6734    0.6046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3878    0.1921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6734    1.4297    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1023   -1.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1848   -0.4192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6014   -1.4297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6
+  1  3  1  0
+  2  4  1  0
+  4  5  1  0
+  2  6  1  0
+  3  7  1  0
+  3  8  2  0
+  6  9  1  0
+  9 10  1  0
+  9 11  2  0
+  5 12  1  0
+  5 13  1  0
+  5 14  1  0
+  1 15  1  0
+  1 16  1  0
+  2 17  1  0
+  4 18  1  0
+  4 19  1  0
+ 10 20  1  0
+ 10 21  1  0
+ 10 22  1  0
+ 12 23  1  0
+ 12 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 14 31  1  0
+M  CHG  2   5   1   7  -1
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.39
+
+>  <ALOGPS_LOGS>  (1) 
+-2.86
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.55e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB08842
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB08842
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+203.115758031
+
+>  <FORMULA>  (1) 
+C9H17NO4
+
+>  <GENERIC_NAME>  (1) 
+Acetylcarnitine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3/t8-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+RDHQFKQIGNGIED-MRVPVSSYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acilen; Actigeron; Branigen; Branitil; Ceredor; Fertilix; Lacetilina; Laremide; Levocetile; Maxoza; Memorx IQ Plus; Memovigor; Neurex; Neuroactil ; Nicetile; Normobren; Phototrop; Zibren
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+31
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.8921652320544
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(3R)-3-(acetyloxy)-4-(trimethylazaniumyl)butanoate
+
+>  <JCHEM_LOGP>  (1) 
+-4.4463806378050785
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+4.089406374301865
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.0182421930796055
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.43
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.6368
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+acetyl-L-carnitine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+203.238
+
+>  <SMILES>  (1) 
+CC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
+
+>  <SYNONYMS>  (1) 
+acetyl-L-carnitine; O-acetyl-L-carnitine 
+
+$$$$

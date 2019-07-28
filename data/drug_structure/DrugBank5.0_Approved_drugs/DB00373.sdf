@@ -1,0 +1,211 @@
+
+     RDKit          2D
+
+ 45 46  0  0  1  0  0  0  0  0999 V2000
+   -4.1801    6.4152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8781    5.2882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0531    6.7172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7429    1.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3014    2.8672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5275    1.7631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0860    3.1221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7512    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    4.3527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6548    1.8053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    2.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4656    6.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7512    5.5902    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9097    1.0206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9897    1.8053    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1298    2.0602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    4.7652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6991    2.5701    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    3.1152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7347    1.0206    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  4  1  0
+  7  5  1  0
+ 10  8  1  1
+ 10  9  1  0
+ 12 11  1  0
+ 13  1  1  0
+ 13  2  1  0
+ 13  3  1  0
+ 14  8  1  0
+ 14 13  1  0
+ 15 11  2  0
+ 16 12  2  0
+ 17  4  1  0
+ 17  5  1  0
+ 17 11  1  0
+ 10 18  1  0
+ 19  6  1  0
+ 19  7  1  0
+ 20  9  1  0
+ 20 12  1  0
+ 21 15  1  0
+ 21 16  1  0
+  1 22  1  0
+  1 23  1  0
+  1 24  1  0
+  2 25  1  0
+  2 26  1  0
+  2 27  1  0
+  3 28  1  0
+  3 29  1  0
+  3 30  1  0
+  4 31  1  0
+  4 32  1  0
+  5 33  1  0
+  5 34  1  0
+  6 35  1  0
+  6 36  1  0
+  7 37  1  0
+  7 38  1  0
+  8 39  1  0
+  8 40  1  0
+  9 41  1  0
+  9 42  1  0
+ 10 43  1  0
+ 14 44  1  0
+ 18 45  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.44
+
+>  <ALOGPS_LOGS>  (1) 
+-3.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.69e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00373
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00373
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+316.156911344
+
+>  <FORMULA>  (1) 
+C13H24N4O3S
+
+>  <GENERIC_NAME>  (1) 
+Timolol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H24N4O3S/c1-13(2,3)14-8-10(18)9-20-12-11(15-21-16-12)17-4-6-19-7-5-17/h10,14,18H,4-9H2,1-3H3/t10-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+BLJRIMJGRPQVNF-JTQLQIEISA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Blocadren; Proflax; Tenopt; Timacar Depot; Timacor; Timoptol
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+33.85756109164855
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-1-(tert-butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.3357059456666662
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.084202857792672
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.759473013004843
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+79.74000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.91999999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+(2S)-1-(tert-butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+316.42
+
+>  <PRODUCTS>  (1) 
+Act Dorzotimolol; Act Latanoprost/timolol; Apo-brimonidine-timop; Apo-dorzo-timop; Apo-latanoprost-timop; Apo-timol Tablets 10mg; Apo-timol Tablets 20mg; Apo-timol Tablets 5mg; Apo-timop Gel; Apo-timop Liq 0.5%; Apo-timop Oph Soln 0.25%; Apo-travoprost-timop; Azarga; Beta-tim - 0.25% Liq; Beta-tim - 0.5% Liq; Betimol; Blocadren Tab 10mg; Blocadren Tab 20mg; Blocadren Tab 5mg; Combigan; Cosopt; Cosopt PF; Dom-timolol; Dorzolamide HCl /Timolol Maleate; Dorzolamide HCl and Timolol Maleate; Dorzolamide Hydrochloride and Timolol Maleate; Dorzolamide Hydrochloride and Timolol Maleate Ophthalmic Solution; Dorzolamide Hydrochloride-Timolol Maleate; Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution Sterile Ophthalmic Solution; Dorzolamide Hydrochloride-timolol Maleate; Duotrav Pq; Gd-latanoprost/timolol; Istalol; Jamp-dorzolamide/timolol; Jamp-latanoprost/timolol; Jamp-timolol; Med Timolol Liq Oph 0.25%; Med Timolol Liq Oph 0.5%; Med-dorzolamide-timolol; Med-latanoprost-timolol; Mint-dorzolamide/timolol; Mint-latanoprost/timolol; Mylan-dorzolamide/timolol; Mylan-latanoprost/timolol; Mylan-timolol; Novo-timol Liq 0.25%; Novo-timol Liq 0.5%; Nu-timolol Tab 10mg; Nu-timolol Tab 20mg; Nu-timolol Tab 5mg; Odan-timolol; PMS-dorzolamide-timolol; PMS-latanoprost-timolol; PMS-timolol; Ratio-timolol Maleate 0.25%; Ratio-timolol Maleate 0.5%; Rhoxal-timolol 0.25%; Rhoxal-timolol 0.5%; Riva-dorzolamide/timolol; Riva-latanoprost/timolol; Sandoz Dorzolamide/timolol; Sandoz Latanoprost/timolol; Sandoz Timolol; Sandoz Travoprost / Timolol Pq; T-LO; Teva-dorzotimol; Teva-latanoprost/timolol; Teva-timolol; Timolide Tab; Timolol GFS; Timolol Maleate; Timolol Maleate-EX; Timolol Solution - 0.25%; Timolol Solution - 0.5%; Timolol-10 Tab 10mg; Timolol-20 Tab 20mg; Timolol-5 Tab 5mg; Timoptic; Timoptic-XE; Timpilo 2; Timpilo 4; Van-dorzolamide-timolol; Xalacom
+
+>  <SALTS>  (1) 
+Timolol hemihydrate; Timolol maleate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00229; DB08625
+
+>  <SMILES>  (1) 
+[H][C@](O)(CNC(C)(C)C)COC1=NSN=C1N1CCOCC1
+
+>  <SYNONYMS>  (1) 
+(S)-1-(tert-butylamino)-3-[(4-morpholin-4-yl-1,2,5-thiadiazol-3-yl)oxy]propan-2-ol; Timolol; Timolol anhydrous; Timololo; Timololum
+
+$$$$

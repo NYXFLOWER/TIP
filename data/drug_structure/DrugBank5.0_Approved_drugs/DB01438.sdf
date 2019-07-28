@@ -1,0 +1,169 @@
+1438
+     RDKit          2D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    5.2223   -1.8067    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.1568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.6683    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.8067    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513   -1.8067    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -1.3942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369   -1.3942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.3182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0
+  1 10  1  0
+  2  3  2  0
+  2  6  1  0
+  3 11  1  0
+  4  7  1  0
+  5 10  1  0
+  6  7  1  0
+  6  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 15  2  0
+ 14 16  2  0
+ 15 16  1  0
+  4 17  1  0
+  4 18  1  0
+  5 19  1  0
+  5 20  1  0
+  8 21  1  0
+  9 22  1  0
+ 12 23  1  0
+ 13 24  1  0
+ 14 25  1  0
+ 15 26  1  0
+ 16 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.31
+
+>  <ALOGPS_LOGS>  (1) 
+-3.02
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.02e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01438
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01438
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+213.101445377
+
+>  <FORMULA>  (1) 
+C11H11N5
+
+>  <GENERIC_NAME>  (1) 
+Phenazopyridine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C11H11N5/c12-10-7-6-9(11(13)14-10)16-15-8-4-2-1-3-5-8/h1-7H,(H4,12,13,14)/b16-15+
+
+>  <INCHI_KEY>  (1) 
+QPFYXYFORQJZEC-FOCLMDBBSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+AZO-Standard; Baridium; Prodium; Pyrazodine; Pyridiate; Pyridium; Sedural; Uristat; Urodine; Urogesic; Viridium
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.659586486963597
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-[(E)-2-phenyldiazen-1-yl]pyridine-2,6-diamine
+
+>  <JCHEM_LOGP>  (1) 
+2.692530214333334
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.84872402921682
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.85724399897472
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+89.64999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+68.24790000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+phenazopyridine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+213.2385
+
+>  <PRODUCTS>  (1) 
+AZO Urinary Pain Relief; AZO Urinary Pain Relief Maximum Strength; AZO Urinary Tract Health; Azo; Azo Gesic; CVS Health Maximum Strength Urinary Pain Relief; CVS Health Urinary Pain Relief; Family Wellness Maximum Strength Urinary Pain Relief; Good Neighbor Pharmacy Urinary Pain Relief; HealthMart Maximum Strength Urinary Pain Relief; HealthMart Urinary Pain Relief; LEADER Azo Tabs Urinary Tract Analgesic; Leader Maximum Strenght Urinary Pain Relief; Leader Maximum Strength Urinary Pain Relief; Leader Urinary Pain Relief; Phenazo; Phenazo 100mg; Phenazo 200mg; Phenazopyridine; Phenazopyridine HCl; Phenazopyridine HCl 100mg; Phenazopyridine HCl 200mg; Phenazopyridine Hydrochloride; Phenazopyridine Hydrochloride 97.5mg; Phenazopyridine Tab 100mg; Phenazopyridine hydrochloride; Phenazopyridine hydrochloride 95mg; Preferred Maximum Strength Urinary Pain Relief; Preferred Plus Maximum Strength Urinary Pain Relief; Preferred Plus Urinary Pain Relief; Preferred Urinary Pain Relief; Pyridium; Pyridium 100mg; Pyridium 200mg; Pyronium 0.1gm; Pyronium Tab 200mg; Quality Choice Maximum Strength Urinary Pain Relief; Quality Choice Urinary Pain Relief; Select Brand Maximum Strength Urinary Pain Relief; Skopko Urinary Pain Relief; Sunmark Urinary Pain Relief; Sunmark Urinary Pain Relief Maximum Strength; TopCare Urinary Pain Relief; Topcare Maximum Strength Urinary Pain Relief; UTI-Pain; Uricalm Maximum Strength; Urinary Pain Relief; Uristat UTI Relief Pak; UristatUTI Relief Pak UTI Relief Pak; Walgreens Maximum Strength Urinary Pain Relief; Walgreens Urinary Pain Relief; Walgreens Urinary Pain Relief Maximum Strength; WinCo Maximum Strength Urinary Pain Relief
+
+>  <SALTS>  (1) 
+Phenazopyridine hydrochloride
+
+>  <SMILES>  (1) 
+NC1=NC(N)=C(C=C1)\N=N\C1=CC=CC=C1
+
+$$$$

@@ -1,0 +1,158 @@
+1275
+     RDKit          2D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    2.6954   -0.7582    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0094    0.4298    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0094    1.2219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0094   -1.1543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3813    0.4298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3813    1.2219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6954    0.0338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0893    0.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0893    1.6454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8070    0.4133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6954    1.6179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8070    1.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0
+  1  7  1  0
+  2  3  2  0
+  2  7  1  0
+  3 11  1  0
+  5  6  1  0
+  5  7  2  0
+  5  8  1  0
+  6  9  1  0
+  6 11  2  0
+  8 10  2  0
+  9 12  2  0
+ 10 12  1  0
+  1 13  1  0
+  4 14  1  0
+  4 15  1  0
+  8 16  1  0
+  9 17  1  0
+ 10 18  1  0
+ 11 19  1  0
+ 12 20  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.66
+
+>  <ALOGPS_LOGS>  (1) 
+-1.79
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.61e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01275
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01275
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+160.074896276
+
+>  <FORMULA>  (1) 
+C8H8N4
+
+>  <GENERIC_NAME>  (1) 
+Hydralazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H8N4/c9-11-8-7-4-2-1-3-6(7)5-10-12-8/h1-5H,9H2,(H,11,12)
+
+>  <INCHI_KEY>  (1) 
+RPTUSVTUFVMDQK-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alphapress; Aprezin; Cesoline W; Cesoline Y; Diazide; Hidral; Pressfall; Serpathiazide
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+16.061977722327377
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+1-hydrazinylphthalazine
+
+>  <JCHEM_LOGP>  (1) 
+0.7513803336666666
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.69177277365625
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+6.401050541238753
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.83
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+50.23480000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydralazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+160.1759
+
+>  <PRODUCTS>  (1) 
+Apo-hydralazine; Apresoline; Apresoline Tablets, 10mg; Apresoline Tablets, 25mg; Apresoline Tablets, 50mg; BiDil; HydrALAZINE Hydrochloride; Hydralazine; Hydralazine Hydrochloride; Hydralazine Hydrochloride Injection; Hydralazine-10 Tab 10mg; Hydralazine-25 Tab; Hydralazine-50 Tab; Jamp-hydralazine; Mint-hydralazine; Novo-hylazin Tab 10mg USP; Novo-hylazin Tab 25mg; Novo-hylazin Tab 50mg; Nu-hydral Tab 10mg; Nu-hydral Tab 25mg; Nu-hydral Tab 50 mg; PMS-hydralazine; Ser-AP-ES Tab
+
+>  <SALTS>  (1) 
+Hydralazine hydrochloride
+
+>  <SMILES>  (1) 
+NNC1=NN=CC2=CC=CC=C12
+
+>  <SYNONYMS>  (1) 
+(1Z)-1(2H)-Phthalazinone hydrazone; (2H)-Phthalazinone hydrazone; 1-Hydrazinophthalazine; 1-Phthalazinylhydrazine; 6-Hydralazine; Hidralazina; Hydralazin; Hydralazinum; Hydrallazine; Hydrazinophthalazine; Hydrazone 1(2H)-phthalazinone; Hypophthalin; Idralazina; Phthalazin-1-ylhydrazine
+
+$$$$

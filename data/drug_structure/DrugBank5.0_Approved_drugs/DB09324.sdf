@@ -1,0 +1,170 @@
+
+     RDKit          2D
+
+ 26 27  0  0  1  0  0  0  0  0999 V2000
+    2.5600   -1.0718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5600    0.0323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1477   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1477   -0.9323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6773   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4620   -1.1872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7169   -1.9718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9469   -0.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6773   -0.9323    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7310   -1.5156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1649   -2.5849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5239   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2989    0.9564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0692    0.7061    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4620    0.1477    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0
+  5  3  1  0
+  6  7  1  1
+  8  1  1  0
+  8  2  1  0
+  8  6  1  0
+  9  4  1  0
+  9  5  1  0
+  9  6  1  0
+ 10  4  2  0
+ 11  7  2  0
+ 12  7  1  0
+ 15  5  1  0
+ 15  8  1  0
+ 15 13  2  0
+ 15 14  2  0
+  1 16  1  0
+  1 17  1  0
+  1 18  1  0
+  2 19  1  0
+  2 20  1  0
+  2 21  1  0
+  3 22  1  0
+  3 23  1  0
+  5 24  1  6
+  6 25  1  0
+ 12 26  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.92
+
+>  <ALOGPS_LOGS>  (1) 
+-0.68
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.85e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09324
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09324
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+233.035793157
+
+>  <FORMULA>  (1) 
+C8H11NO5S
+
+>  <GENERIC_NAME>  (1) 
+Sulbactam
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H11NO5S/c1-8(2)6(7(11)12)9-4(10)3-5(9)15(8,13)14/h5-6H,3H2,1-2H3,(H,11,12)/t5-,6+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+FKENQMMABCRJMK-RITPCOANSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.625083780804296
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,5R)-3,3-dimethyl-4,4,7-trioxo-4λ⁶-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-0.8914055830000002
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+18.707687773619536
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.0900244946220456
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.8440072803582734
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+91.75
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+48.21450000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulbactam
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+233.242
+
+>  <PRODUCTS>  (1) 
+Ampicillin Sodium and Sulbactam Sodium; Ampicillin and Sulbactam; Unasyn
+
+>  <SALTS>  (1) 
+Sulbactam sodium
+
+>  <SMILES>  (1) 
+[H][C@@]12CC(=O)N1[C@@]([H])(C(O)=O)C(C)(C)S2(=O)=O
+
+>  <SYNONYMS>  (1) 
+(2S,5R)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 4,4-dioxide
+
+$$$$

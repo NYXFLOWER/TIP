@@ -1,0 +1,157 @@
+167
+     RDKit          2D
+
+ 22 21  0  0  1  0  0  0  0  0999 V2000
+    5.2224   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  2  9  2  0
+  5  3  1  1
+  4  5  1  0
+  4  6  1  6
+  4  7  1  0
+  5  9  1  0
+  6  8  1  0
+  1 10  1  0
+  3 11  1  0
+  3 12  1  0
+  4 13  1  0
+  5 14  1  0
+  6 15  1  0
+  6 16  1  0
+  7 17  1  0
+  7 18  1  0
+  7 19  1  0
+  8 20  1  0
+  8 21  1  0
+  8 22  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.73
+
+>  <ALOGPS_LOGS>  (1) 
+-0.06
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.14e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00167
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00167
+
+>  <DRUG_GROUPS>  (1) 
+approved; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+131.094628665
+
+>  <FORMULA>  (1) 
+C6H13NO2
+
+>  <GENERIC_NAME>  (1) 
+L-Isoleucine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H13NO2/c1-3-4(2)5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t4-,5-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+AGPKZVBTJJNPAG-WHFBIAKZSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.114543432356673
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,3S)-2-amino-3-methylpentanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+-1.5084066056000942
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.7913082723326537
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.591345628135606
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+63.31999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+34.093900000000005
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+L-isoleucine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+131.1729
+
+>  <PRODUCTS>  (1) 
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; Aminosyn; Aminosyn 10%; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn II; Aminosyn II 10%; Aminosyn II 10% With Electrolytes; Aminosyn II 15%; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II with Electrolytes; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Bcaa 4% Inj; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; FreAmine HBC; FreAmine III; HepatAmine; NephrAmine; Novamine; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene 10%; Primene 10%-liq IV; ProSol; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; Renamin (amino Acids) Injection; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; TrophAmine; Vamin 18 Electrolyte-free; Vamin N
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00031
+
+>  <SMILES>  (1) 
+CC[C@H](C)[C@H](N)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2S,3S)-2-Amino-3-methylpentanoic acid; 2-Amino-3-methylvaleric acid; alpha-amino-beta-methylvaleric acid; Ile; Isoleucine; α-amino-β-methylvaleric acid
+
+$$$$

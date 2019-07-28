@@ -1,0 +1,175 @@
+359
+     RDKit          2D
+
+ 27 28  0  0  0  0  0  0  0  0999 V2000
+    2.4751    0.5404    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.7597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.6029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  4  1  0
+  1  8  1  0
+  4 14  1  0
+  5 11  1  0
+  6 14  2  0
+  6 15  1  0
+  7 14  1  0
+  7 16  2  0
+  8  9  2  0
+  8 10  1  0
+  9 12  1  0
+ 10 13  2  0
+ 11 12  2  0
+ 11 13  1  0
+ 15 17  2  0
+ 16 17  1  0
+  4 18  1  0
+  5 19  1  0
+  5 20  1  0
+  9 21  1  0
+ 10 22  1  0
+ 12 23  1  0
+ 13 24  1  0
+ 15 25  1  0
+ 16 26  1  0
+ 17 27  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.25
+
+>  <ALOGPS_LOGS>  (1) 
+-2.62
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.01e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00359
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00359
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+250.052446274
+
+>  <FORMULA>  (1) 
+C10H10N4O2S
+
+>  <GENERIC_NAME>  (1) 
+Sulfadiazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H10N4O2S/c11-8-2-4-9(5-3-8)17(15,16)14-10-12-6-1-7-13-10/h1-7H,11H2,(H,12,13,14)
+
+>  <INCHI_KEY>  (1) 
+SEEPANYCNGTZFQ-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Adiazine
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.391364892131367
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-N-(pyrimidin-2-yl)benzene-1-sulfonamide
+
+>  <JCHEM_LOGP>  (1) 
+0.38726080800000007
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+6.989915444982717
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.013677898293487
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+97.97
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.20090000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+sulfadiazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+250.277
+
+>  <PRODUCTS>  (1) 
+Coptin Oral Suspension; Coptin Tab; Ovoquinol Cones; Ovoquinol Crm Vaginale; Sulfadiazine; Sulfadiazine Tab 7.7gr; Trisulfaminic Sus; Trisulfaminic Tab
+
+>  <SALTS>  (1) 
+Sulfadiazine sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00190
+
+>  <SMILES>  (1) 
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=N1
+
+>  <SYNONYMS>  (1) 
+2-sulfanilamidopyrimidine; 2-sulfanilylaminopyrimidine; 4-amino-N-2-pyrimidinylbenzenesulfonamide; N1-2-pyrimidinylsulfanilamide; N1-2-pyrimidylsulfanilamide; Sulfapyrimidine; Sulphadiazine
+
+$$$$

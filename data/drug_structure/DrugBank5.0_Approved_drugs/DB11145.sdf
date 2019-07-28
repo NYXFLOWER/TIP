@@ -1,0 +1,151 @@
+Structure #1
+     RDKit          2D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  5  1  0
+  2  4  1  0
+  2  6  2  0
+  3  7  1  0
+  4  7  2  0
+  5  8  2  0
+  6 10  1  0
+  7  9  1  0
+  8  9  1  0
+  8 11  1  0
+  9 10  2  0
+  1 12  1  0
+  2 13  1  0
+  3 14  1  0
+  4 15  1  0
+  5 16  1  0
+  6 17  1  0
+ 11 18  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.91
+
+>  <ALOGPS_LOGS>  (1) 
+-1.54
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.18e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11145
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11145
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+145.052763851
+
+>  <FORMULA>  (1) 
+C9H7NO
+
+>  <GENERIC_NAME>  (1) 
+Oxyquinoline
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H7NO/c11-8-5-1-3-7-4-2-6-10-9(7)8/h1-6,11H
+
+>  <INCHI_KEY>  (1) 
+MCJGNVYPOGVAJF-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.866872454340466
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+quinolin-8-ol
+
+>  <JCHEM_LOGP>  (1) 
+1.8273351496666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.357697226795183
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.827847757000724
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+33.120000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+41.9602
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+8 hydroxyquinoline
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+145.158
+
+>  <PRODUCTS>  (1) 
+Arkodyne; Fem pH; New Skin Clear Liquid Bandage; New Skin Clear Spray Bandage; Racestyptine Cord; Racestyptine Sol; Relegard; Sulpak II; Trimo San; Trimo San Deodorant Vaginal Jelly
+
+>  <SALTS>  (1) 
+Oxyquinoline sulfate
+
+>  <SMILES>  (1) 
+OC1=CC=CC2=C1N=CC=C2
+
+>  <SYNONYMS>  (1) 
+8-Hydroxyquinoline; hydroxybenzopyridine; Hydroxyquinoline; oxine; Phenopyridine
+
+$$$$

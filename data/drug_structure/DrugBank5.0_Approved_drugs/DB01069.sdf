@@ -1,0 +1,199 @@
+1069
+     RDKit          2D
+
+ 40 42  0  0  1  0  0  0  0  0999 V2000
+    3.6958   -1.9665    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6958   -0.3823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819    1.5979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819    0.8058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6958    0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0099   -0.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819   -0.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0678    0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0099   -1.5704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3819   -1.5704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0678    1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6958    1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -0.3549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0899   -0.3549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0899   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -0.7619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8076   -0.7619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -1.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8076   -1.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2  5  1  0
+  2  6  1  0
+  2  7  1  0
+  3  4  1  0
+  3 11  1  0
+  3 12  1  0
+  4  5  1  0
+  4  8  1  0
+  6  9  2  0
+  6 13  1  0
+  7 10  2  0
+  7 14  1  0
+  9 15  1  0
+ 10 16  1  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 20  2  0
+ 17 19  1  0
+ 18 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  8 24  1  0
+  8 25  1  0
+  8 26  1  0
+ 11 27  1  0
+ 11 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 17 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 20 40  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.52
+
+>  <ALOGPS_LOGS>  (1) 
+-4.07
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.45e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01069
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01069
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+284.13471934
+
+>  <FORMULA>  (1) 
+C17H20N2S
+
+>  <GENERIC_NAME>  (1) 
+Promethazine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C17H20N2S/c1-13(18(2)3)12-19-14-8-4-6-10-16(14)20-17-11-7-5-9-15(17)19/h4-11,13H,12H2,1-3H3
+
+>  <INCHI_KEY>  (1) 
+PWWVAXIEGOYWEE-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Avomine; Fargan; Farganesse; Lergigan; Prothiazine; Receptozine; Romergan
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+32.384972456103085
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+dimethyl[1-(10H-phenothiazin-10-yl)propan-2-yl]amine
+
+>  <JCHEM_LOGP>  (1) 
+4.287570851666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.046575852890253
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+6.48
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+88.50490000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+promethazine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+284.419
+
+>  <PRODUCTS>  (1) 
+Dextromethorphan Hydrobromide and Promethazine Hydrochloride; Histantil Tab 25mg; Histantil Tab 50mg; Meperidine Hydrochloride and Promethazine Hydrochloride; PMS-promethazine Syr 10mg/5ml; Phenadoz; Phenergan; Phenergan 50; Phenergan Cream 2%; Phenergan Injectable 25mg/ml; Phenergan Syrup 10mg/5ml; Phenergan Tablet 10mg; Phenergan Tablet 25mg; Phenergan Tablet 50mg; Promatussin DM Adult Formula Syr; Promatussin DM Children Formula; Prometh with Codeine; Prometh with Dextromethorphan; Promethazine; Promethazine DM; Promethazine HCl; Promethazine HCl Inj 28.2mg/ml; Promethazine HCl Inj USP; Promethazine HCl, Phenylephrine HCl, Codeine Phosphate; Promethazine Hydrochloride; Promethazine Hydrochloride Injection USP; Promethazine Hydrochloride Injection, USP; Promethazine Hydrochloride Phenylephrine Hydrochloride and Codeine Phosphate; Promethazine Hydrochloride and Codeine Phosphate; Promethazine Hydrochloride and Dextomethorphan Hydrobromide; Promethazine Hydrochloride and Dextromethophan Hydrobromide; Promethazine Hydrochloride and Dextromethorphan Hydrobromide; Promethazine Hydrochloride and Phenylephrine Hydrochloride; Promethazine Hydrochloride, Phenylephrine Hydrochloride and Codeine Phosphate; Promethazine VC; Promethazine VC With Codeine; Promethazine VC with Codeine; Promethazine Vc With Codeine; Promethazine With Codeine; Promethazine hydrochloride; Promethazine hydrochloride and phenylephrine hydrochloride; Promethazine with Codeine; Promethazine with Codeine Cough; Promethegan
+
+>  <SALTS>  (1) 
+Promethazine hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00601
+
+>  <SMILES>  (1) 
+CC(CN1C2=CC=CC=C2SC2=CC=CC=C12)N(C)C
+
+>  <SYNONYMS>  (1) 
+(2-dimethylamino-2-methyl)ethyl-N-dibenzoparathiazine; 10-(2-Dimethylaminopropyl)phenothiazine; N,N,α-trimethyl-10H-phenothiazine-10-ethanamine; Proazamine
+
+$$$$

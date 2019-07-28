@@ -1,0 +1,187 @@
+1009
+     RDKit          2D
+
+ 33 34  0  0  1  0  0  0  0  0999 V2000
+    1.6500   -2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0
+  2 12  2  0
+  3 13  2  0
+  4  5  1  0
+  4  9  1  0
+  4 13  1  0
+  5  6  2  0
+  5  8  1  0
+  6  7  1  0
+  7 10  2  0
+  7 12  1  0
+  8 11  2  0
+ 10 11  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 15 17  1  0
+ 16 18  2  0
+ 17 19  2  0
+ 18 19  1  0
+  1 20  1  0
+  4 21  1  0
+  6 22  1  0
+  8 23  1  0
+  9 24  1  0
+  9 25  1  0
+  9 26  1  0
+ 10 27  1  0
+ 11 28  1  0
+ 15 29  1  0
+ 16 30  1  0
+ 17 31  1  0
+ 18 32  1  0
+ 19 33  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.29
+
+>  <ALOGPS_LOGS>  (1) 
+-4.08
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.13e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01009
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01009
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+254.094294314
+
+>  <FORMULA>  (1) 
+C16H14O3
+
+>  <GENERIC_NAME>  (1) 
+Ketoprofen
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H14O3/c1-11(16(18)19)13-8-5-9-14(10-13)15(17)12-6-3-2-4-7-12/h2-11H,1H3,(H,18,19)
+
+>  <INCHI_KEY>  (1) 
+DKYWVDODHFEZIM-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Actron; Alrheumun; Capisten; Epatec; Fastum; Menamin; Orudis; Orudis KT; Orugesic; Oruvail; Oscorel; Profenid; Toprec
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+26.56281844636002
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(3-benzoylphenyl)propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+3.613333421
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.882608970976492
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.457434189163898
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+54.37
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+72.51560000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ketoprofen
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+254.2806
+
+>  <PRODUCTS>  (1) 
+Ketoprofen; Ketoprofen SR; Ketoprofen Suppositories; Ketoprofen-E; Ketoprofen-E Ect 100mg; Ketoprofen-E Ect 50mg; Ketoprofen-SR - Srt  200mg; Novo-keto Suppositories 100mg; Novo-keto-EC Tab 100mg; Novo-keto-EC Tab 50mg; Nu-ketoprofen Cap 50mg; Nu-ketoprofen-E Ect 100mg; Nu-ketoprofen-E Ect 50mg; Orafen - Sup RT 100mg; Orudis 100; Orudis 50; Orudis Cap 50mg; Orudis E-100; Orudis E-50; Orudis SR-200; Oruvail 150; Oruvail 200; PMS-ketoprofen; PMS-ketoprofen Capsules; PMS-ketoprofen E-100 - Ect; PMS-ketoprofen E-50 - Ect 50mg; Rhodis; Rhodis Cap 50mg; Rhodis EC; Rhodis SR 200mg; Rhovail 150; Rhovail 200; Vopac - Ketoprofen, Lidocaine Hydrochloride Pac
+
+>  <SALTS>  (1) 
+Ketoprofen sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01059; DB05823; DB05335
+
+>  <SMILES>  (1) 
+CC(C(O)=O)C1=CC(=CC=C1)C(=O)C1=CC=CC=C1
+
+>  <SYNONYMS>  (1) 
+2-(3-Benzoylphenyl)propionic acid; 3-Benzoyl-α-methylbenzeneacetic acid; 3-Benzoylhydratropic acid; m-Benzoylhydratropic acid
+
+$$$$

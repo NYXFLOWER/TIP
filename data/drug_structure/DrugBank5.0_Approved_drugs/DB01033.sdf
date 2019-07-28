@@ -1,0 +1,152 @@
+1033
+     RDKit          2D
+
+ 14 15  0  0  0  0  0  0  0  0999 V2000
+    2.3644    1.4933    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596    0.5071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.9818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -0.8206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0
+  2  6  1  0
+  2  9  1  0
+  3  7  1  0
+  3 10  1  0
+  4  7  1  0
+  4  9  2  0
+  5  8  1  0
+  5 10  2  0
+  6  7  2  0
+  6  8  1  0
+  2 11  1  0
+  3 12  1  0
+  9 13  1  0
+ 10 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.13
+
+>  <ALOGPS_LOGS>  (1) 
+-2.32
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.35e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01033
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01033
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+152.015666838
+
+>  <FORMULA>  (1) 
+C5H4N4S
+
+>  <GENERIC_NAME>  (1) 
+Mercaptopurine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H4N4S/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)
+
+>  <INCHI_KEY>  (1) 
+GLVAUDGFNGKCSF-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Leukerin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+14.036474572890043
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+6,7-dihydro-3H-purine-6-thione
+
+>  <JCHEM_LOGP>  (1) 
+-0.1217891910000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.690559571490885
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.498601759494395
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+2.9945490902622196
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+53.07
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+43.60269999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+mercaptopurine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+152.177
+
+>  <PRODUCTS>  (1) 
+Mercaptopurine; Mercaptopurine Tablets USP; Purinethol; Purixan
+
+>  <SALTS>  (1) 
+Mercaptopurine monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01096
+
+>  <SMILES>  (1) 
+S=C1N=CNC2=C1NC=N2
+
+>  <SYNONYMS>  (1) 
+6 MP; 6-Mercaptopurine; 6-MP; 6-Thiohypoxanthine; 6-Thioxopurine; Mercaptopurina; Mercaptopurine anhydrous; mercaptopurinum; Mercapurin
+
+$$$$

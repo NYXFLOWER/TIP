@@ -1,5 +1,4 @@
 from data.utils import load_data_torch
-from model.ddip import HGCN
 from torch_geometric.data import Data
 from torch_geometric.nn.models.autoencoder import GAE
 import torch
@@ -32,14 +31,17 @@ et_list = [20, 34, 38, 41, 42, 46, 55, 57, 89, 92, 99, 103, 105, 110, 125, 126, 
            1067, 1069, 1073, 1076, 1082, 1085, 1087, 1088, 1090, 1091, 1093, 1095, 1101, 1102, 1104, 1106, 1107, 1108,
            1112, 1116, 1118, 1123, 1126, 1128, 1133, 1137, 1138, 1145, 1148, 1152, 1153, 1171, 1181, 1205]
 
+et_list = et_list[:5]
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
 n_et_dd = len(et_list)
 
+
 data = Data.from_dict(feed_dict)
 
-data.dd_edge_index, data.dd_edge_type = remove_bidirection(data.dd_edge_index, data.dd_edge_type)
+data.dd_edge_index = torch.cat(data.dd_edge_index, dim=1)
+data.dd_edge_type = torch.cat(data.dd_edge_type)
 
 n_edge = data.dd_edge_index.shape[1]
 train_mask = np.random.binomial(1, 0.90, n_edge)
@@ -62,10 +64,10 @@ n_feat_d = n_drug
 data.x_norm = torch.ones(n_drug)
 # data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
 
-n_embed = 16
-n_base = 16
-n_hid1 = 16
-n_hid2 = 16
+n_embed = 4
+n_base = 4
+n_hid1 = 4
+n_hid2 = 4
 
 
 class Encoder(torch.nn.Module):
@@ -84,9 +86,9 @@ class Encoder(torch.nn.Module):
         x = torch.matmul(x, self.embed)
         x = x / x_norm.view(-1, 1)
         x = self.rgcn1(x, edge_index, edge_type)
-        x = F.relu(x)
+        x = F.relu(x, inplace=True)
         x = self.rgcn2(x, edge_index, edge_type)
-        x = F.relu(x)
+        x = F.relu(x, inplace=True)
         return x
 
     def reset_paramters(self):
@@ -174,7 +176,7 @@ def test(z):
     return auprc, auroc, ap
 
 
-EPOCH_NUM = 100
+EPOCH_NUM = 5
 
 
 print('model training ...')
@@ -189,3 +191,11 @@ for epoch in range(EPOCH_NUM):
 
     print(epoch, ' ',
           'auprc:', auprc)
+
+
+
+# 0.5437798265986752   0   auprc: 0.5641642935957784
+# 0.5649987508074507   1   auprc: 0.5783955703500084
+# 0.5785966763019907   2   auprc: 0.5945425148727426
+# 0.597677156149233   3   auprc: 0.6104982767369932
+# 0.6183655199695842   4   auprc: 0.6284256023928173

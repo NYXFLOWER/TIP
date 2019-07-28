@@ -1,0 +1,172 @@
+
+     RDKit          2D
+
+ 29 28  0  0  0  0  0  0  0  0999 V2000
+   -1.7424    0.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2825    0.7496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9579   -0.8094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1181    0.0934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0927   -0.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7680   -0.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4178   -0.1858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9323    0.2818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6879    0.5937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0927    0.5937    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9368   -0.0085    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3704   -1.2173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3922   -0.3417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6623    1.0614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1478    1.2173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4980    0.7496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081    0.9055    0.0000 Zn  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  6  3  1  0
+  6  4  2  0
+  7  3  1  1
+  8  1  1  0
+  9  7  1  0
+ 10  2  1  0
+ 11  4  1  0
+ 11  5  2  0
+ 12  5  1  0
+ 12  6  1  0
+  7 13  1  0
+ 13  8  1  0
+ 14  8  2  0
+ 15  9  2  0
+ 16  9  1  0
+  1 18  1  0
+  1 19  1  0
+  2 20  1  0
+  2 21  1  0
+  3 22  1  0
+  3 23  1  0
+  4 24  1  0
+  5 25  1  0
+  7 26  1  0
+ 10 27  1  0
+ 10 28  1  0
+ 12 29  1  0
+M  CHG  3  13  -1  16  -1  17   2
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.64
+
+>  <ALOGPS_LOGS>  (1) 
+-1.50
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.09e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB09221
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09221
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+288.020082
+
+>  <FORMULA>  (1) 
+C9H12N4O3Zn
+
+>  <GENERIC_NAME>  (1) 
+Polaprezinc
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H14N4O3.Zn/c10-2-1-8(14)13-7(9(15)16)3-6-4-11-5-12-6;/h4-5,7H,1-3,10H2,(H3,11,12,13,14,15,16);/q;+2/p-2/t7-;/m0./s1
+
+>  <INCHI_KEY>  (1) 
+IGXZLYMCFZHNKW-FJXQXJEOSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+29
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+21.518430015241982
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+zinc(2+) ion (2S)-2-[(3-aminopropanoyl)azanidyl]-3-(1H-imidazol-5-yl)propanoate
+
+>  <JCHEM_LOGP>  (1) 
+-4.480241342175954
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+12.867210570530204
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.371243802200667
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.125981915862392
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+121.13
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+65.599
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zinc(2+) ion (2S)-2-[(3-aminopropanoyl)azanidyl]-3-(3H-imidazol-4-yl)propanoate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+289.6
+
+>  <SMILES>  (1) 
+[Zn++].[H][C@@](CC1=CN=CN1)([N-]C(=O)CCN)C([O-])=O
+
+>  <SYNONYMS>  (1) 
+beta-alanyl-l-histidinato zinc; Zinc L-carnosine
+
+$$$$

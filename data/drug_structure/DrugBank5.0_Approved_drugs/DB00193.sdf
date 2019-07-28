@@ -1,0 +1,206 @@
+193
+     RDKit          2D
+
+ 44 45  0  0  1  0  0  0  0  0999 V2000
+    4.0955    0.4678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9830    1.1823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9205    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7455    0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1580    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9205    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7455    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3955    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  6
+  2 16  1  0
+  2 19  1  0
+  3 10  1  0
+  3 14  1  0
+  3 15  1  0
+  4  5  1  0
+  4  6  1  0
+  4 10  1  6
+  5  7  1  0
+  5 11  1  0
+  6  8  1  0
+  7  9  1  0
+  8  9  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 12 16  1  0
+ 13 17  2  0
+ 16 18  2  0
+ 17 18  1  0
+  1 20  1  0
+  4 21  1  0
+  6 22  1  0
+  6 23  1  0
+  7 24  1  0
+  7 25  1  0
+  8 26  1  0
+  8 27  1  0
+  9 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 15 38  1  0
+ 15 39  1  0
+ 17 40  1  0
+ 18 41  1  0
+ 19 42  1  0
+ 19 43  1  0
+ 19 44  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.71
+
+>  <ALOGPS_LOGS>  (1) 
+-2.55
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.50e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00193
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00193
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+263.188529049
+
+>  <FORMULA>  (1) 
+C16H25NO2
+
+>  <GENERIC_NAME>  (1) 
+Tramadol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H25NO2/c1-17(2)12-14-7-4-5-10-16(14,18)13-8-6-9-15(11-13)19-3/h6,8-9,11,14,18H,4-5,7,10,12H2,1-3H3/t14-,16+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+TVYLLZQTGLZFBW-ZBFHGGJFSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Rybix; Tramal
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.45298386410416
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1R,2R)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexan-1-ol
+
+>  <JCHEM_LOGP>  (1) 
+2.4498614993333323
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.79521779464169
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.231111081713522
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+32.7
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+78.26920000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tramadol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+263.3752
+
+>  <PRODUCTS>  (1) 
+Act Tramadol/acet; Apo-tramadol; Apo-tramadol/acet; Auro-tramadol/acetaminophen; ConZip; Durela; Ipg-tramadol/acet; Jamp-acet-tramadol; Lupin-tramadol/acet; Mar-tramadol/acet; Mint-tramadol/acet; Mylan-tramadol/acet; PMS-tramadol-acet; Pat-tramadol/acet; Priva-tramadol/acet; Ralivia; Ran-tramadol/acet; Riva-tramadol/acet; Ryzolt; Synapryn; Taro-tramadol ER; Teva-tramadol/acetaminophen; Theratramadol-90; Topical Pain; Tramacet; Tramadal Hydrochloride and Acetaminophen; Tramadol; Tramadol / Acetaminophen; Tramadol Acetaminophen; Tramadol ER; Tramadol HCl; Tramadol HCl and Acetaminophen; Tramadol Hydrchloride; Tramadol Hydrochloride; Tramadol Hydrochloride ER; Tramadol Hydrochloride Extended-Release; Tramadol Hydrochloride and Acetaminophen; Tramadol hydrochloride; Tramadol hydrochloride and acetaminophen; Tramadol-acet; Tramadol/acet; Tramapap; Tramaphen-odan; Tridural; Ultracet; Ultram; Ultram ER; Zytram XL
+
+>  <SALTS>  (1) 
+Tramadol hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00028
+
+>  <SMILES>  (1) 
+COC1=CC=CC(=C1)[C@@]1(O)CCCC[C@@H]1CN(C)C
+
+$$$$

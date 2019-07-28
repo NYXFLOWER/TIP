@@ -1,0 +1,211 @@
+415
+     RDKit          2D
+
+ 43 45  0  0  1  0  0  0  0  0999 V2000
+    7.6201    0.6772    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4215   -0.9907    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3230   -2.0553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6819   -1.6138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4089    0.0020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8354   -0.4027    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4215    1.0103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2571    2.1794    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8354    0.4223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1049    0.0098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6201   -0.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0036    0.4257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0036   -0.4061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7724   -0.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7724    0.4947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8750   -1.4423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6241    0.7983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420    1.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2446    1.1711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0295    0.3746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625    1.7556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    0.1627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8651    1.5437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0
+  1 10  1  0
+  2 13  2  0
+  3 16  1  0
+  4 16  2  0
+  5 17  2  0
+  6  9  1  0
+  6 11  1  0
+  6 13  1  0
+ 12  7  1  1
+  7 17  1  0
+ 18  8  1  6
+  9 12  1  0
+ 10 11  1  0
+ 10 14  1  0
+ 10 15  1  0
+ 11 16  1  6
+ 12 13  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  2  0
+ 22 24  2  0
+ 23 24  1  0
+  3 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+  9 29  1  6
+ 11 30  1  0
+ 12 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+ 14 34  1  0
+ 15 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 18 38  1  0
+ 20 39  1  0
+ 21 40  1  0
+ 22 41  1  0
+ 23 42  1  0
+ 24 43  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.88
+
+>  <ALOGPS_LOGS>  (1) 
+-2.76
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.05e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00415
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00415
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+349.109626801
+
+>  <FORMULA>  (1) 
+C16H19N3O4S
+
+>  <GENERIC_NAME>  (1) 
+Ampicillin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C16H19N3O4S/c1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h3-7,9-11,14H,17H2,1-2H3,(H,18,20)(H,22,23)/t9-,10-,11+,14-/m1/s1
+
+>  <INCHI_KEY>  (1) 
+AVKUERGKIZMTKX-NJBDSQKTSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Austrapen; Binotal; Penbritin; Principen; Viccillin
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+34.541206325512505
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S,5R,6R)-6-[(2R)-2-amino-2-phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+>  <JCHEM_LOGP>  (1) 
+-2.0066501687027025
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+11.966024558762253
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+3.2380534931233718
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+7.43836141403785
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+112.72999999999999
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+87.52350000000003
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ampicillin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+349.405
+
+>  <PRODUCTS>  (1) 
+Ampicillin; Ampicillin Sodium; Ampicillin Sodium and Sulbactam Sodium; Ampicillin Sodium for Injection BP; Ampicillin Sodium for Injection, USP; Ampicillin Trihydrate; Ampicillin and Sulbactam; Ampicillin for Injection; Ampicillin for Injection, USP; Ampicin Inj 125mg/vial; Ampicin Inj 1gm; Ampicin Inj 2000mg; Ampicin Inj 500mg; Ampicin for Injection 250mg; Apo Ampi Capsules 250mg; Apo Ampi Capsules 500mg; Apo Ampi Liq 125mg/5ml; Apo Ampi Liq 250mg/5ml; Jaa Amp Tab 125mg; Novo-ampicillin Pws 500mg/5ml; Novo-ampicillin Sus 125mg/5ml; Novo-ampicillin Sus 250mg/5ml; Nu-ampi Capsules 250mg; Nu-ampi Capsules 500mg; Nu-ampi Sus 125mg/5ml; Nu-ampi Suspension 250mg/5ml; Penbritin Cap 250mg; Penbritin Cap 500mg; Penbritin Inj 1000mg; Penbritin Inj 2000mg; Penbritin Inj 250mg; Penbritin Inj 500mg; Penbritin Pws 250mg/5ml; Penbritin-1000 Pws 1000mg/vial; Penbritin-125 Pws 125mg/vial; Penbritin-250 Pws Im/iv 250mg/vial; Pro Ampi 250 Cap 250mg; Pro Ampi 500 Cap 500mg; Pro Biosan Kit; Sterile Ampicillin Sodium 250mg USP; Taro-ampicillin Cap 250mg; Taro-ampicillin Cap 500mg; Teva-ampicillin; Unasyn
+
+>  <SALTS>  (1) 
+Ampicillin sodium; Ampicillin trihydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00320
+
+>  <SMILES>  (1) 
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=CC=C1)C(O)=O
+
+>  <SYNONYMS>  (1) 
+(2S,6R)-6-{[(2R)-2-amino-2-phenylethanoyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 6-(D-(2-amino-2-phenylacetamido))-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid; ABPC; Aminobenzylpenicillin; Ampicilina; Ampicillin; Ampicillin (anhydrous); Ampicillin Acid; Ampicillin Anhydrous; Ampicillin, anhydrous; Ampicilline; Ampicillinum; Anhydrous ampicillin; AP; D-(−)-6-(α-aminophenylacetamido)penicillanic acid; D-(−)-ampicillin
+
+$$$$

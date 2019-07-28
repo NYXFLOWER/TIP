@@ -1,0 +1,140 @@
+
+     RDKit          2D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0
+  4  2  2  0
+  5  1  1  0
+  5  2  1  0
+  6  5  2  3
+  7  3  1  0
+  7  4  1  0
+  1  8  1  0
+  2  9  1  0
+  3 10  1  0
+  4 11  1  0
+  6 12  1  0
+  7 13  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.65
+
+>  <ALOGPS_LOGS>  (1) 
+-1.15
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.73e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB06637
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB06637
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+94.053098202
+
+>  <FORMULA>  (1) 
+C5H6N2
+
+>  <GENERIC_NAME>  (1) 
+Dalfampridine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C5H6N2/c6-5-1-3-7-4-2-5/h1-4H,(H2,6,7)
+
+>  <INCHI_KEY>  (1) 
+NUKYPUAOHBNCPY-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+13
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.664739116572509
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1,4-dihydropyridin-4-imine
+
+>  <JCHEM_LOGP>  (1) 
+0.286413164
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+16.035004622136803
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+12.18299202251734
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+35.88
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+40.08839999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+4-aminopyridine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+94.1145
+
+>  <PRODUCTS>  (1) 
+Ampyra; Fampyra
+
+>  <SMILES>  (1) 
+N=C1C=CNC=C1
+
+>  <SYNONYMS>  (1) 
+4-Aminopyridine; 4-AP; Fampridine; Fampridine-SR
+
+$$$$

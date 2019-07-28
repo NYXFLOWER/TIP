@@ -1,0 +1,132 @@
+
+     RDKit          2D
+
+ 13 10  0  0  0  0  0  0  0  0999 V2000
+    0.0000   -0.4946    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0779    0.5833    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0779    0.5833    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6614    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6614    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7622   -0.1788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7622   -0.1788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5833   -1.0780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5834   -1.0780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7622    1.3456    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7622    1.3456    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    0.5833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9030    0.5833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0
+  1  7  1  0
+  1  8  1  0
+  1  9  1  0
+  2  6  1  0
+  2 10  1  0
+  2 12  2  0
+  3  7  1  0
+  3 11  1  0
+  3 13  2  0
+M  CHG  6   4   2   5   2   8  -1   9  -1  10  -1  11  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09281
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09281
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+259.86017997
+
+>  <FORMULA>  (1) 
+Mg2O8Si3
+
+>  <GENERIC_NAME>  (1) 
+Magnesium Trisilicate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/2Mg.O8Si3/c;;1-9(2)7-11(5,6)8-10(3)4/q2*+2;-4
+
+>  <INCHI_KEY>  (1) 
+GXGAKHNRMVGRPK-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+13
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+11.90943225054814
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+dimagnesium(2+) ion {[dioxido({[oxido(oxo)silyl]oxy})silyl]oxy}silanoylolate
+
+>  <JCHEM_LOGP>  (1) 
+-2.6712
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-4
+
+>  <JCHEM_PKA>  (1) 
+3.2253452814401267
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.6460256086602336
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.659528564422019
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+144.84
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+11.3578
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+dimagnesium(2+) ion {[dioxido({[oxido(oxo)silyl]oxy})silyl]oxy}silanoylolate
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+260.857
+
+>  <PRODUCTS>  (1) 
+Alka Phenyl Tab; Alka Phenylbutazone Tab; Gasulsol Tab; Gasva; Gaviscon Regular Strength; Mag-A-folic Tab; Phenylone Plus Tab; R90 Anti-acide Tab; Spasmo Nil Tab
+
+>  <SALTS>  (1) 
+Magnesium trisilicate hydrate
+
+>  <SMILES>  (1) 
+[Mg++].[Mg++].[O-][Si](=O)O[Si]([O-])([O-])O[Si]([O-])=O
+
+$$$$

@@ -1,0 +1,258 @@
+
+     RDKit          2D
+
+ 68 70  0  0  1  0  0  0  0  0999 V2000
+   -0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7173    1.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1447   -0.8316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1427    0.8155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4245    2.0538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4455    2.8693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1525    3.2848    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1463    4.1002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4370    4.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7572    4.0872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7633    3.2718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0416    4.5009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8531    4.5156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4325    2.8866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4311    2.0616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7159    1.6503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8600    2.0591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5738    1.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9299    0.8513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1448    1.6478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3570    0.8506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 25  1  1
+  2  1  1  0
+  2  3  1  0
+  2  4  1  0
+  4 11  1  6
+  1  5  1  0
+  3  6  1  0
+  3  7  2  0
+  4  8  1  0
+  8 13  1  6
+  7  9  1  0
+  5  9  1  0
+  9 12  1  1
+  8 10  1  0
+  6 10  2  0
+ 11 14  1  0
+ 15 14  1  6
+ 15 16  1  0
+ 15 20  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 17 22  2  0
+ 18 19  1  0
+ 19 20  1  0
+ 19 21  1  1
+ 23 24  2  0
+ 24 29  1  0
+ 24 25  1  0
+ 29 26  1  0
+ 26 27  1  0
+ 29 28  1  0
+ 29 30  1  0
+  1 31  1  0
+  2 32  1  6
+  4 33  1  0
+  5 34  1  0
+  5 35  1  0
+  6 36  1  0
+  7 37  1  0
+  8 38  1  0
+  9 39  1  0
+ 10 40  1  0
+ 11 41  1  0
+ 11 42  1  0
+ 12 43  1  0
+ 12 44  1  0
+ 12 45  1  0
+ 13 46  1  0
+ 13 47  1  0
+ 13 48  1  0
+ 14 49  1  0
+ 14 50  1  0
+ 15 51  1  0
+ 18 52  1  0
+ 18 53  1  0
+ 19 54  1  0
+ 20 55  1  0
+ 20 56  1  0
+ 21 57  1  0
+ 26 58  1  0
+ 26 59  1  0
+ 27 60  1  0
+ 27 61  1  0
+ 27 62  1  0
+ 28 63  1  0
+ 28 64  1  0
+ 28 65  1  0
+ 30 66  1  0
+ 30 67  1  0
+ 30 68  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.51
+
+>  <ALOGPS_LOGS>  (1) 
+-4.53
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.22e-02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00641
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00641
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+418.271924326
+
+>  <FORMULA>  (1) 
+C25H38O5
+
+>  <GENERIC_NAME>  (1) 
+Simvastatin
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C25H38O5/c1-6-25(4,5)24(28)30-21-12-15(2)11-17-8-7-16(3)20(23(17)21)10-9-19-13-18(26)14-22(27)29-19/h7-8,11,15-16,18-21,23,26H,6,9-10,12-14H2,1-5H3/t15-,16-,18+,19+,20-,21-,23-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+RYMZZMVNJRMUDD-HGQWONQESA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Cholestat; Colemin; Labistatin; Lipex; Medipo; Nivelipol; Simovil; Sinvacor; Sivastin; Sivatin; Sivinar; Sorfox; Sotovastin; Starezin; Starstat; Starzoko; Stasiva; Statex; Staticor; Statinal; Stativer
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+47.85247192642514
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,3R,7S,8S,8aR)-8-{2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl 2,2-dimethylbutanoate
+
+>  <JCHEM_LOGP>  (1) 
+4.458201216333332
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.914537666911102
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.8361812244930835
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+72.83
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+117.68339999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+simvastatin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+418.5662
+
+>  <PRODUCTS>  (1) 
+Act Simvastatin; Apo-simvastatin; Auro-simvastatin; Ava-simvastatin; Bci Simvastatin; Cholib; Dom-simvastatin; Ezetimibe and Simvastatin; FloLipid; Ipg-simvastatin; Jamp-simvastatin; Mar-simvastatin; Mint-simvastatin; Mylan-simvastatin; Ntp-simvastatin; Nu-simvastatin Tablets; PHL-simvastatin; PMS-simvastatin; Pharma-simvastatin; Q-simvastatin; Ran-simvastatin; Ratio-simvastatin; Riva-simvastatin; Sandoz Simvastatin; Septa-simvastatin; Simcor; Simvastatin; Simvastatin Tablets; Simvastatin Tablets 10mg; Simvastatin Tablets 20mg; Simvastatin Tablets 40mg; Simvastatin Tablets 5mg; Simvastatin Tablets 80mg; Simvastatin-10; Simvastatin-20; Simvastatin-40; Simvastatin-80; Simvastatin-odan; Taro-simvastatin; Teva-simvastatin; Vytorin; Zocor; Zym-simvastatin
+
+>  <SALTS>  (1) 
+Acetyl simvastatin; Tenivastatin sodium
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00104
+
+>  <SMILES>  (1) 
+[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)C(C)(C)CC
+
+>  <SYNONYMS>  (1) 
+Simvastatina; Simvastatine; Simvastatinum; Synvinolin
+
+$$$$

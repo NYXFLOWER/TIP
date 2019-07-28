@@ -1,0 +1,173 @@
+
+     RDKit          2D
+
+ 30 29  0  0  1  0  0  0  0  0999 V2000
+   12.1995   -5.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4851   -5.8626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7706   -5.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0561   -5.8626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3417   -5.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1995   -4.6251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7706   -4.6251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0561   -6.6876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3417   -4.6251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6271   -5.8626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9127   -5.4501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4851   -6.6876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1995   -7.1001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9140   -6.6876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1995   -7.9251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  2  0
+  2  1  1  1
+  2 12  1  0
+  3  2  1  0
+  3  7  1  6
+  4  3  1  0
+  4  8  1  1
+  5  4  1  0
+  5  9  1  1
+ 10  5  1  0
+ 10 11  1  0
+ 14 13  2  0
+ 15 13  1  0
+ 12 13  1  0
+  1 16  1  0
+  2 17  1  0
+  3 18  1  0
+  4 19  1  0
+  5 20  1  0
+  7 21  1  0
+  8 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 15 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-2.10
+
+>  <ALOGPS_LOGS>  (1) 
+-0.18
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.48e+02 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00141
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00141
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; nutraceutical
+
+>  <EXACT_MASS>  (1) 
+221.089937217
+
+>  <FORMULA>  (1) 
+C8H15NO6
+
+>  <GENERIC_NAME>  (1) 
+N-Acetylglucosamine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C8H15NO6/c1-4(12)9-5(2-10)7(14)8(15)6(13)3-11/h2,5-8,11,13-15H,3H2,1H3,(H,9,12)/t5-,6+,7+,8+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+MBLBDJOUHNCFQT-LXGUWJNJSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.489506839444218
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+N-[(2R,3R,4S,5R)-3,4,5,6-tetrahydroxy-1-oxohexan-2-yl]acetamide
+
+>  <JCHEM_LOGP>  (1) 
+-3.8563957566666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+12.800488730738557
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.564821144474056
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.1597845911248257
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+127.09
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+48.4469
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+N acetylglucosamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+221.2078
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+NUTR00040
+
+>  <SMILES>  (1) 
+[H]C(=O)[C@H](NC(C)=O)[C@@H](O)[C@H](O)[C@H](O)CO
+
+>  <SYNONYMS>  (1) 
+2-Acetamido-2-deoxy-D-glucose; aldehydo-N-acetyl-D-glucosamine; D-GlcNAc; N-Acetylchitosamine
+
+$$$$

@@ -1,0 +1,171 @@
+943
+     RDKit          2D
+
+ 28 29  0  0  1  0  0  0  0  0999 V2000
+    3.7465   -0.7106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6409   -2.9164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.0744    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4115   -0.7106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665   -1.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -1.4952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764   -2.1627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+  1 10  1  0
+  2 11  1  0
+  3 13  2  0
+  7  4  1  6
+  4 12  1  0
+  4 13  1  0
+  5 13  1  0
+  5 15  2  0
+  6 15  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  1
+ 12 14  2  0
+ 14 15  1  0
+  2 16  1  0
+  6 17  1  0
+  6 18  1  0
+  7 19  1  0
+  8 20  1  0
+  8 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 14 28  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-1.29
+
+>  <ALOGPS_LOGS>  (1) 
+-1.48
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.05e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00943
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00943
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+211.095691297
+
+>  <FORMULA>  (1) 
+C9H13N3O3
+
+>  <GENERIC_NAME>  (1) 
+Zalcitabine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C9H13N3O3/c10-7-3-4-12(9(14)11-7)8-2-1-6(5-13)15-8/h3-4,6,8,13H,1-2,5H2,(H2,10,11,14)/t6-,8+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+WREGKURFCTUGRC-POYBYMJQSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+20.858874948562367
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+4-amino-1-[(2R,5S)-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+>  <JCHEM_LOGP>  (1) 
+-1.1882264563333331
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+14.673301594378366
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+0.1760531801028753
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.15
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+52.24020000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+zalcitabine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+211.2178
+
+>  <PRODUCTS>  (1) 
+Hivid Tab 0.375mg; Hivid Tab 0.75 mg
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00562
+
+>  <SMILES>  (1) 
+NC1=NC(=O)N(C=C1)[C@H]1CC[C@@H](CO)O1
+
+>  <SYNONYMS>  (1) 
+DDC; DDCYD; Dideoxycytidine
+
+$$$$

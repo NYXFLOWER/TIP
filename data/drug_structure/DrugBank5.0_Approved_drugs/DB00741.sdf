@@ -1,0 +1,238 @@
+741
+     RDKit          2D
+
+ 56 59  0  0  1  0  0  0  0  0999 V2000
+    6.6263    1.5366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9559    0.9126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4634    2.0559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9696    1.3822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.0181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    0.5001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993   -0.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849   -0.7374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703   -0.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799    0.7515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3849    0.9126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9196   -0.7431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703    0.5001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799   -0.5763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3614    0.0876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -1.5966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    1.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9130   -1.6024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -2.0321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9259    0.0819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5482    1.2353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3729   -0.7132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1413   -2.0559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3013    0.8984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 10  1  1  6
+ 13  2  1  1
+  3 22  2  0
+  4 26  1  0
+  5 25  2  0
+  6  7  1  0
+  6 10  1  0
+  6 11  1  0
+  6 17  1  1
+  7  8  1  0
+  7 14  1  0
+  8  9  1  0
+  8 16  1  0
+  9 12  1  0
+  9 13  1  0
+ 10 15  1  0
+ 10 22  1  0
+ 11 13  1  0
+ 12 18  1  0
+ 12 20  1  0
+ 12 21  1  1
+ 14 15  1  0
+ 16 19  1  0
+ 18 19  1  0
+ 18 24  2  0
+ 20 23  1  0
+ 22 26  1  0
+ 23 25  1  0
+ 24 25  1  0
+  1 27  1  0
+  2 28  1  0
+  4 29  1  0
+  7 30  1  6
+  8 31  1  1
+  9 32  1  6
+ 11 33  1  0
+ 11 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 14 37  1  0
+ 15 38  1  0
+ 15 39  1  0
+ 16 40  1  0
+ 16 41  1  0
+ 17 42  1  0
+ 17 43  1  0
+ 17 44  1  0
+ 19 45  1  0
+ 19 46  1  0
+ 20 47  1  0
+ 20 48  1  0
+ 21 49  1  0
+ 21 50  1  0
+ 21 51  1  0
+ 23 52  1  0
+ 23 53  1  0
+ 24 54  1  0
+ 26 55  1  0
+ 26 56  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.79
+
+>  <ALOGPS_LOGS>  (1) 
+-3.26
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.99e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00741
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00741
+
+>  <DRUG_GROUPS>  (1) 
+approved; vet_approved
+
+>  <EXACT_MASS>  (1) 
+362.20932407
+
+>  <FORMULA>  (1) 
+C21H30O5
+
+>  <GENERIC_NAME>  (1) 
+Hydrocortisone
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C21H30O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-16,18,22,24,26H,3-8,10-11H2,1-2H3/t14-,15-,16-,18+,19-,20-,21-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+JYGXADMDTFJGBT-VWUMJDOOSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Acticort; Aeroseb HC; Ala-Scalp; Algicirtis; Aquanil HC; Beta-HC; Cetacort; Cortaid; Delacort; Ficortril; Genacort; Glycort; Komed HC; Lacticare HC; Mildison; Preparation H Hydrocortisone Cream; Proctocream; Sanatison; Scalpicin Capilar; Schericur
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+39.554430242228875
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,2R,10S,11S,14R,15S,17S)-14,17-dihydroxy-14-(2-hydroxyacetyl)-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-5-one
+
+>  <JCHEM_LOGP>  (1) 
+1.2751664346666671
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+13.86524229374907
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+12.58472695897974
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.846864231895191
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+94.83000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+97.39999999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+2
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+hydrocortisone
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+362.4599
+
+>  <PRODUCTS>  (1) 
+1% Hydrocortisone; 999 Itch Relieving; A-hydrocort; A-hydrocort Inj 1000mg/8ml; A-hydrocort Inj 100mg/2ml; A-hydrocort Inj 250mg/2ml; A-hydrocort Inj 500mg/4ml; ATOPALM Moisturizing Hydrocortisone; Acella Hydrocortisone Acetate - Pramoxine Singles; Acetasol HC; Actinac Pwr; Actinac Pws; Advanced Anti-itch Therapy; Advanced Hydrocortisone; Aftate Hydrocortisone Cream; Ala Quin; Ala Scalp; Alacort; Alcortin; Alcortin A; Alocane; Alocort 1% - Crm; Ana Cool Rapid Soothing Cooling Formula; Ana-Lex; Analpram Advanced; Analpram E; Analpram E Cream 2.5% Kit hydrocortisone acetate 2.5% pramoxine hydrochloride 1%; Analpram HC; Anodan-HC 10mg Suppositories; Anodan-HC Ointment; Anti Itch; Anti Itch Maximum Strength; Anti Itch Maximum Strength Plus; Anti itch; Anti-Itch Scalp Relief Maximum Strength; Anti-Itch Scherer Labs; Anti-itch; Anti-itch Feminine Care; Antibiotic Ear (Neo/Polym/HC); Anucort-HC; Anugesic-HC Ointment; Anugesic-HC Suppositories; Anusol HC; Anusol-HC Ointment; Anusol-HC Suppositories; Aquacort Lotion 2.5%; Atopalm Maximum Strength Anti-Itch; Avedana Hydrocortisone Cream with Aloe; Aveeno Hydrocortisone Anti Itch; Aveeno Hydrocortisone Anti-itch Cream; Barriere HC 1%; Berkley and Jensen Anti Itch; Berkley and Jensen Hydrocortisone; Bioelements Immediate Comfort; Bioelements Immediate Comfort Hydrocortisone; Blue-Emu Anti-Itch Cream; BudPak Anti-Itch; CAREALL Hydrocortisone Maximum Strength; CVS Anti-Itch Hydrocortisone; CVS Cools Itch Fast; CVS Health Hydrocortisone Anti Itch; CVS Health Maxium Strentgh Cortisone; CVS Pharmacy Anti-itch; Caldecort; Calmurid HC Crm; Care One Hydrocortisone Maximum Strength; Care One hydrocortisone maximum strength; Careone Anti Itch; Careone Hydrocortisone 1 Maximum Strength; CeraVe Anti-Itch; Cicatricure Ultra Moisturizing; Cipro HC; Cipro HC Otic Suspension; Colocort; Coly-Mycin S; Cooling Itch Relief Well at Walgreens; Cortacet Crm 0.5%; Cortaid 12-Hour Advanced Anti-Itch; Cortaid Intensive Therapy Cooling; Cortaid Maximum Strength; Cortamed Ont 25 mg/g; Cortane-B; Cortate Crm 1%; Cortate Ont 1%; Cortef; Cortef Tablets 10mg; Cortef Tablets 20 mg; Cortenema; Cortenema Sus 100mg/60ml; CortiSil MDX; Cortibalm; Corticreme 0.1%; Corticreme 0.5%; Corticreme 1%; Cortifoam; Cortiment-10  Sup 10mg; Cortiment-40 Sup 40mg; Cortisone; Cortisone Cream Intensive Healing; Cortisone Maximum Strength; Cortisone Plus Aloe Maximum Strength; Cortisone maximum strength; Cortisporin; Cortisporin-TC; Cortizone 10; Cortizone 10 Anti-itch for Diabetics Skin; Cortizone 10 Cooling Cream Anti-Itch; Cortizone 10 Cooling Relief; Cortizone 10 Creme Ultra Moisturizing; Cortizone 10 Easy Relief; Cortizone 10 Hydratensive Healing Anti Itch; Cortizone 10 Hydratensive Soothing Anti Itch; Cortizone 10 Intensive Healing; Cortizone 10 Intensive Healing Feminine Itch Relief; Cortizone 10 Intensive Healing for Eczema; Cortizone 10 Plus; Cortizone 10 Poison Ivy Relief Pads; Cortizone 10 for Psoriasis; Cortomycin; Cvs Cortisone; Cvs Hydrocortisone With Aloe; DG Health Hydrocortisone; DG Health Hydrocortisone Maximum Strength; DermaCort Anti-Itch; Dermaquest Skin Therapy Post-Skin Resurfacing Balm; Dermarest Dricort 0.5% Hydrocortisone Anti-itch; Dermarest Eczema Medicated; Dermazene; Dermoscribe Ichybum; Dermoscribe Seborrheic Dermatitis; Dr H Stabilizer; Dr. Sheffield Hydrocortisone Anti itch; Dr. Throwers Hydrotet; Duane Reade; Duane Reade hydrocortisone; Duane Reade hydrocortisone plus 12 moisturizers; ECOLAB Hydrocortisone Cream; Eczema Skin Mushatts N9; Egozinc-HC; Emo Cort Cream 2.5%; Emo Cort Lotion 2.5%; Emo Cort Sol 2.5% USP; Epifoam; Equaline Anti Itch; Equaline Anti Itch Maximum Strength; Equate Hydrocortisone; Euro-hydrocortisone; Exchange Select Hydrocortisone; FIRST Dukes Mouthwash Compounding; FIRST Marys Mouthwash Compounding; Face Values Hydrocortisone With Aloe; Family Care Hydrocortisone; Family Wellness; Family Wellness Hydrocortisone; Family Wellness Maximum Strength Hydrocortisone; FixMySkin Healing Balm Fragrance-Free; FixMySkin Healing Balm Unflavored; FixMySkin Healing Balm Vanilla Flavor; FixMySkin Healing Balm Vanilla Fragrance; Formu Care Anti Itch maximum strength; Fucidin H; Fulton Street Market Anti itch; GRx HiCort; Gadaderm Hydrocortisone; Genuine Hydrocortisone; Good Neighbor Pharmacy Anti Itch; Good Neighbor Pharmacy Hydrocortisone; Good Neighbor Pharmacy Hydrocortisone Plus 12 Moisturizers; Good Neighbor Pharmacy Hydrocortisone With Aloe for Sensitive Skin; Good Neighbor Pharmacy Hydrocortisone with Aloe; Good Sense Anti Itch; H-Releve Anti-Itch; HEM-EASY RELIEF Herbal Anti-Itch MAXIMUM ITCH RELIEF; Hair Sanity Hair Sanity Part I; HairSanity Step 1; Harris Teeter Anti-Itch; Harris Teeter Anti-Itch Cooling Relief; Harris Teeter Anti-Itch Intensive Healing; Harris Teeter Anti-Itch with Aloe; Harris Teeter Maximum Strength Anti-Itch; Healerz for Itches; Health Mart Pharmacy Hydrocortisone Maximum Strength Plus 12 Moisturizers; Health Mart Pharmacy Hydrocortisone Maximum Strength with Aloe; Healthy Accents Cortisone Maximum Strength; Hemmorex-HC; Home PapKit; Hycort Retention Enema 100mg/60ml; Hydro Skin; HydroCortisone Intensive Healing Formula; HydroSKIN; HydroSkin; Hydrocortisone; Hydrocortisone 1 Anti Itch; Hydrocortisone 1 Plus 10; Hydrocortisone 1%; Hydrocortisone 1% in Absorbase; Hydrocortisone 1% with healing aloe; Hydrocortisone Acetate; Hydrocortisone Acetate Antipruritic (Anti-Itch); Hydrocortisone Acetate Pramoxine HCl; Hydrocortisone Acetate Pramoxine Hcl; Hydrocortisone Acetate and Pramoxine Hydrochloride; Hydrocortisone Acetate, Iodoquinol; Hydrocortisone Anti Itch; Hydrocortisone Anti-Itch; Hydrocortisone Butyrate; Hydrocortisone Butyrate Cream (lipid) 0.1%; Hydrocortisone Cream; Hydrocortisone Cream 0.5%; Hydrocortisone Cream 0.5% USP; Hydrocortisone Cream 1%; Hydrocortisone Cream Intensive Healing; Hydrocortisone Cream USP 0.5%; Hydrocortisone Crm 0.5%; Hydrocortisone Crm 1%; Hydrocortisone D; Hydrocortisone HC; Hydrocortisone Maximum Strength; Hydrocortisone Maximum Strength with Aloe; Hydrocortisone Maximum Strength with aloe; Hydrocortisone Ointment 0.5%; Hydrocortisone Ointment 1%; Hydrocortisone Plus; Hydrocortisone Plus 10 Moisturizers; Hydrocortisone Plus 12 Moisturizers; Hydrocortisone Plus 12 Moisturizers Maximum Strength; Hydrocortisone Regular Strength; Hydrocortisone Sodium Succinate Injection; Hydrocortisone Sodium Succinate for Injection; Hydrocortisone Ultra Strength; Hydrocortisone Valerate; Hydrocortisone With Aloe Maximum Strength; Hydrocortisone and Acetic Acid; Hydrocortisone anti-itch plus; Hydrocortisone maximum strength; Hydrocortisone with Aloe; Hydrocortisone with Aloe Maximum Strength; Hydroval Cream 0.2%; Hydroval Ointment 0.2%; Immediate Comfort Bioelements; Instant Cooling Itch Relief CVS; Intensive Healing Anti Itch; Irritated Skin Treatment; Itch Stuff; Itch and Rash Cream; Jamp Hydrocortisone Cream USP 0.5%; Jampzinc-HC; Kaiser Permanente Hydrocortisone; Kera HC; Kirkland Signature Hydrocortisone Plus Maximum Strength; Lanacort Crm 0.5%; Leader Hydrocortisone; Leader Hydrocortisone With Aloe; Lidocaine HCl - Hydrocortisone Acetate; Lidocaine HCl - Hydrocortisone Acetate with Aloe; Lidocaine HCl and Hydrocortisone Acetate; Lidocaine Hydrochloride and Hydrocortisone Acetate; Lincoln; Live Better Hydrocortisone with Aloe; Locoid; Locoid Lipocream; Loesch Anti-Itch Therapy; Loesch HC-10 ANTI-ITCH THERAPY; Lucky SuperSoft MAXIMUM STRENGTH; Makesense Maximum Strength; Market Basket Anti-Itch Cream Plus; Maximum Strength Cortizone 10 Quick Shot 360 Continuous; Maximum Strength Gold Bond Medicated Anti-itch Cream Intensive Formula; Maximum Strength Hydrocortisone; Maximum Strength Hydrocortisone Cream; Maximum Strength Hydrocortisone Cream with Aloe; Maximum-H; MedPride; Medi-Cortisone with Aloe; Medi-First; Meijer Anti Itch; Meijer Anti Itch Cream Plus; Meijer Anti-itch with Aloe; Meijer Hydrocortisone; Meijer Hydrocortisone Plus 12 Moisturizers; Meijer Intense Healing; Meijer Itch and Rash Relief; Members Mark Hydrocortisone; MiCort HC; Monistat Complete Care Instant Itch Relief; NEOMYCIN and POLYMYXIN B SULFATES and HYDROCORTISONE; NU-DERM Tolereen Anti-pruritic; Natureplex Hydrocortisone Hydro; Neo Polycin HC; Neo-cortef 0.5%  Ointment; Neo-cortef 1%  Ointment; Neo-cortef Eye Ear Drops Sterile Suspension; Neo-poly-bac Hydro; Neo-polycin HC; Neomycin and Polymyxin B Sulfates and Bacitracin Zinc with Hydrocortisone Acetate; Neomycin and Polymyxin B Sulfates and Hydrocortisone; Neomycin and Polymyxin B Sulfates, Bacitracin Zinc and Hydrocortisone; Neomycin and Polymyxin B Sulfates, Bacitracin Zinc, and Hydrocortisone; Neomycin, Polymyxin B Sulfates and Hydrocortisone; Neosporin Eczema Essentials Anti Itch; Neosporin Essentials Trial Pack; Novacort; NuCort; OLP Hydrocortisone 1%; Odan-spor-HC; Ophthocort Ont; Otizol HC Liq; Our Family Hydrocortisone with Aloe; Pandel; Pediaderm HC; Pentamycetin/hc; Pharmaskincare Acnecare Cream; Pharmaskincare Brightening Dermarelief Cream; Pharmaskincare Multi-Gly Skin Relief Cream; Piyanping antiitch; Poison Oak; Poli-A; Post Treatment Balm; Post peel Protectant Vitality Institute; Pramcort; Pramosone; Pramosone Cream; Pramosone E; Pramosone E Cream 2.5% hydrocortisone acetate 2.5% pramoxine hydrochloride 1%; Pramox HC Cream; Pramox HC Lotion; Pramoxine-HC; Premier Value Hydrocortisone; Premier Value Hydrocortisone Plus 12 Moisturizers; Preparation H Hydrocortisone; ProCure Hydrocortisone Plus Calendula; Proactiv Solution Anti-Itch Scalp; Procort; Procto-Med HC; Procto-Pak; Proctocort; Proctocream HC; Proctodan-HC Ointment; Proctodan-HC Suppositories; Proctofoam HC; Proctol Ointment; Proctol Suppositories; Proctosedyl Ointment; Proctosedyl Sup; Proctosedyl Suppositories; Proctosol-HC; Proctosone Ont; Proctosone Sup; Proctozone HC; Proctozone-HC; Procure; Psoriasin Itch Control; Publix Hydro; Publix hydro plus; Quadrydern; Quality Choice Anti Itch with Aloe; Quality Choice Hydrocortisone; Quality Choice Hydrocortisone Maximum Strength; Quality Choice Maximum Strength Anti Itch; Ratio-hemcort-HC; Ratio-proctosone; Rectacort - HC; Rectocort Ont; Rectocort Sup; Rectogel HC; Regular Strength Hydrocortisone Cream; Rexall Anti Itch Maximum Strength Relief; Rexall Hydrocortisone 1; Rexall Hydrocortisone Plus Moisturizers; Rite Aid anti-itch; Riva-sol HC Ointment; Rivasol-HC Suppositories; Rodan and Fields Soothe; Rugby Hydroskin; Safeway Hydrocortisone Plus 12 Moisturizers; Sandoz Anuzinc HC; Sandoz Anuzinc HC Plus; Sandoz Anuzinc HC Plus Suppositories; Sandoz Anuzinc HC Suppositories; Sandoz Cortimyxin; Sandoz Proctomyxin HC; Sandoz Proctomyxin HC Suppositories; Sarna HC; Scalpicin Anti-Itch Maximum Strength; Scalpicin Maximum Strength; Scalpicin Scalp Itch Medication Maximum Strength; Scarguard MD; Scarguard MD Physicians Formula; Schein Hydrocortisone; Selsun Blue Scalp Itch Treatment; ShopRite Hydrocortisone; Shopko Hydrocortisone; Shopko Hydrocortisone Intensive Healing Formula; Shopko Hydrocortisone Maximum Strength; Shopko Hydrocortisone Plus 12 Moisturizers Maximum Strength; Shopko Hydrocortisone With Aloe; Shopko Maximum Strength; Signature Care Anti Itch; Signature Care Hydrocortisone; Smart Sense Anti Itch; Smart Sense Anti Itch Maximum Strength; Smart Sense Hydrocortisone; Smart sense Hydrocortisone; Solu-Cortef; Solu-cortef; Solu-cortef 1 Gm Act-O-vial; Solu-cortef 100 Mg Act-O-vial; Solu-cortef 250 Mg Act-O-vial; Solu-cortef 500 Mg Act-O-vial; Soothe Rodan Fields; Sopamycetin/hc Ointment; Sopamycetin/hc Ont; Sopamycetin/hc Susp; Sterex Crm Plus; Sterex Lot Plus; Sunmark Hydrocortisone; Sunmark Hydrocortisone Plus 12 Moisturizers; Sunmark Hydrocortisone with Aloe Maximum Strength; Tecnu Corticool; Texacort; Texacort Solution 1%; Thera Plus; Ti-U-lac HC Lotion; TopCare Hydrocortisone; TopCare Hydrocortisone 1% with Aloe; TopCare Hydrocortisone Intensive Healing Formula; TopCare Hydrocortisone Plus 12 Moisturizers; Topiderm HC 2%; Triple Antibiotic HC; TrueLipids Anti-Itch Barrier; Up and Up Anti Itch; Up and Up Hydrocortisone; Up and Up Hydrocortisone One Per Cent; Up and Up anti itch; Up and Up anti itch maximum strength; Uremol HC; Vagisil Anti-Itch Creme Maximum Strength Sensitive Skin Formula; Vagisil Satin; Vanicream HC Anti-Itch; Vanoxide HC; Viniferamine Hydrocortisone Cream; Vioform + Hydrocortisone; Vioform Hydrocortisone; Vioform Hydrocortisone Mild; VoSoL HC; Vytone; Walgreens Hydrocortisone Plus 12 Moisturizers; Westcort; Westcort Crm 0.2%; Westcort Ont 0.2%; Western Family HydroCortisone; Western Family HydroCortisone Plus 12 Moisturizers; WinCo Maximum Strength Hydrocortisone; Xerese; Yes To Coconut Eczema Relief; Zims Advanced Crack Creme With Hydrocortisone; Zims Advanced Hydrocortisone Continuous With Organic Arnica and Aloe; bioCorneum HC Advanced Scar Supervision Anti-Itch; hydrocortisone Iodoquinol; hydrocortisone acetate pramoxine HCl
+
+>  <SALTS>  (1) 
+Hydrocortisone aceponate; Hydrocortisone acetate; Hydrocortisone butyrate; Hydrocortisone cypionate; Hydrocortisone phosphate; Hydrocortisone probutate; Hydrocortisone sodium phosphate; Hydrocortisone sodium succinate; Hydrocortisone valerate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01019; DB07886
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+>  <SYNONYMS>  (1) 
+11beta-hydrocortisone; 11beta,17alpha,21-Trihydroxy-4-pregnene-3,20-dione; 11β-hydrocortisone; 17-Hydroxycorticosterone; Cortisol; Hidrocortisona; Hydrocortisonum; Kendall's compound F; Reichstein's substance M
+
+$$$$

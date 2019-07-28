@@ -1,0 +1,191 @@
+
+     RDKit          2D
+
+ 37 37  0  0  1  0  0  0  0  0999 V2000
+   12.3674  -12.5312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6542  -12.9393    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0805  -12.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3674  -11.7050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6542  -13.7656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9376  -12.5312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7972  -12.5312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0805  -11.2901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7937  -11.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5069  -11.2970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2200  -11.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9366  -11.2970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2200  -12.5347    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6463  -11.7118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9366  -10.4706    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9357  -11.7216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2137  -11.3068    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   12.3791  -14.1839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3793  -15.0110    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  2  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  4  8  2  0
+  7  9  2  0
+  9 10  1  0
+ 11 10  1  1
+ 11 12  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 12 15  2  0
+  8  9  1  0
+  6 16  1  0
+ 16 17  1  0
+  5 18  1  0
+ 18 19  1  0
+  3 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  6 24  1  0
+  6 25  1  0
+  7 26  1  0
+  8 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 16 34  1  0
+ 16 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+-0.22
+
+>  <ALOGPS_LOGS>  (1) 
+-2.93
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.58e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01042
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01042
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+304.074533244
+
+>  <FORMULA>  (1) 
+C13H18Cl2N2O2
+
+>  <GENERIC_NAME>  (1) 
+Melphalan
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H18Cl2N2O2/c14-5-7-17(8-6-15)11-3-1-10(2-4-11)9-12(16)13(18)19/h1-4,12H,5-9,16H2,(H,18,19)/t12-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+SGDBTWWWUNNDEQ-LBPRGKRZSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+31.383697992820657
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-amino-3-{4-[bis(2-chloroethyl)amino]phenyl}propanoic acid
+
+>  <JCHEM_LOGP>  (1) 
+0.25219622473316816
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+1.2884430296765705
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.512487752295659
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+66.56
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+78.2315
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+melphalan
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+305.2
+
+>  <PRODUCTS>  (1) 
+Alkeran; Evomela; Melphalan; Melphalan Hydrochloride
+
+>  <SALTS>  (1) 
+Melphalan hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00118
+
+>  <SMILES>  (1) 
+N[C@@H](CC1=CC=C(C=C1)N(CCCl)CCCl)C(O)=O
+
+>  <SYNONYMS>  (1) 
+L-PAM; L-Phenylalanine mustard; L-Sarcolysine; p-Bis(beta-chloroethyl)aminophenylalanine; p-N,N-bis(2-chloroethyl)amino-L-phenylalanine; Phenylalanine mustard; Phenylalanine nitrogen mustard
+
+$$$$

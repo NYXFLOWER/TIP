@@ -1,0 +1,139 @@
+
+     RDKit          2D
+
+ 14 14  0  0  0  0  0  0  0  0999 V2000
+    1.0731   -1.2383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3299   -0.8254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3299   -0.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3299   -1.2383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0731   -0.8254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0731   -0.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3299    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3299    1.2383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  3  7  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  1  9  1  0
+  3 10  1  0
+  4 11  1  0
+  5 12  1  0
+  6 13  1  0
+  8 14  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.70
+
+>  <ALOGPS_LOGS>  (1) 
+-0.13
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.23e+01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11085
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11085
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+110.036779436
+
+>  <FORMULA>  (1) 
+C6H6O2
+
+>  <GENERIC_NAME>  (1) 
+Resorcinol
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H6O2/c7-5-2-1-3-6(8)4-5/h1-4,7-8H
+
+>  <INCHI_KEY>  (1) 
+GHMLBKRAJCXXBS-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+10.747865834419564
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+benzene-1,3-diol
+
+>  <JCHEM_LOGP>  (1) 
+1.3661151726666665
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+10.725686553960157
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.26428499493661
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-5.663505847935281
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+30.019799999999996
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+resorcinol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+110.1106
+
+>  <PRODUCTS>  (1) 
+Acne Aid Gel; Acne Treatment maximum strength CVS; Acnomel Skin Tone Cream; Adult Acnomel; Anti Itch; Assured Feminine Anti-itch; BENZOCAINE and RESORCINOL; Benzal Vagisil Creme Regular Strength; Budpak Feminine Anti-Itch; Clarifying Mask; Clearasil Daily Clear Adult Tinted Acne Treatment; Clearasil Daily Clear Tinted Adult Treatment; Clearasil Skin Tone Acne Crm Medication; Clearasil Vanishing Acne Crm Medication; Clearskin 2 Tinted Blemish Crm; Cvs Acne Treatment; Eau Resolutive Soker; Equaline Vagicaine Maximum Strength; Equate vagicaine maximum strength; Family Wellness; Glytone Acne Spot Treatment; Glytone acne treatment flesh tinted acne; Good Sense Vagicaine Anti Itch; Hemo-pic; Image Essentials Vagicaine; Leader Anti-Itch Maximum Strength; Leader Anti-Itch Regular Strength; Maximum Strength Feminine Anti-Itch Family Wellness; Mazon Medicated Cream; Quality Choice Vaginal Anti-Itch Maximum Strength; Resinol; Rexall Feminine Maximum Strength Anti-itch; Rezamid; Rite Aid Original Strength Vagicaine; Signature Care Vagicaine; Smart Sense Vagicaine Maximum Strength; Thunas Eczema Ont; Up and up vagicaine; VAGISIL Anti-Itch Creme Regular Strength; VAGISIL Anti-Itch Medicated Creme Maximum Strength; VAGISIL Anti-Itch Medicated Creme Regular Strength; Vagi-cure (maximum Strength); Vagicaine; Vagicaine Maximum Strength; Vagicaine Maximum Strength Anti-Itch Cream; Vagisil Anti Itch Maximum Strength; Vagisil Anti Itch Original Strength; Well at Walgreens Anti-Itch Maximum Strength
+
+>  <SMILES>  (1) 
+OC1=CC(O)=CC=C1
+
+$$$$

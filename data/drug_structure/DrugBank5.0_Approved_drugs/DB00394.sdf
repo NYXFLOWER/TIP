@@ -1,0 +1,272 @@
+[NO NAME]
+     RDKit          2D
+
+ 73 76  0  0  1  0  0  0  0  0999 V2000
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6985    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2135    0.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5235    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6424    1.9049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9280    2.3174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9280    3.1424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0714    1.9049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7859    2.3174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0714    1.0799    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5004    1.9049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3569    2.3174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0001    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2135    1.9049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2135    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0
+  1 21  1  1
+  1  2  1  0
+  2 13  2  0
+  4  2  1  0
+  3  4  1  0
+  5  1  1  0
+  5 10  1  0
+  5 17  1  6
+  6  5  1  0
+  6  3  1  0
+ 20  6  1  0
+ 32  7  1  0
+  7  8  1  0
+  7  9  1  6
+ 20  8  1  0
+ 10 22  1  0
+ 10 11  1  1
+ 12 14  2  0
+ 13 15  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 18 32  1  0
+ 20 18  1  0
+ 18 22  1  0
+ 18 19  1  1
+ 32 24  1  1
+ 24 23  1  0
+ 23 30  1  0
+ 24 25  2  0
+ 30 26  1  0
+ 26 27  1  0
+ 26 28  2  0
+ 27 29  1  0
+ 33 34  1  0
+ 34 36  1  0
+ 36 31  1  0
+ 32 33  1  0
+ 34 35  2  0
+  3 37  1  0
+  3 38  1  0
+  4 39  1  0
+  4 40  1  0
+  6 41  1  1
+  7 42  1  0
+  8 43  1  0
+  8 44  1  0
+  9 45  1  0
+  9 46  1  0
+  9 47  1  0
+ 10 48  1  0
+ 11 49  1  0
+ 12 50  1  0
+ 13 51  1  0
+ 14 52  1  0
+ 19 53  1  0
+ 19 54  1  0
+ 19 55  1  0
+ 20 56  1  6
+ 21 57  1  0
+ 21 58  1  0
+ 21 59  1  0
+ 22 60  1  0
+ 22 61  1  0
+ 23 62  1  0
+ 23 63  1  0
+ 27 64  1  0
+ 27 65  1  0
+ 29 66  1  0
+ 29 67  1  0
+ 29 68  1  0
+ 31 69  1  0
+ 31 70  1  0
+ 31 71  1  0
+ 36 72  1  0
+ 36 73  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+3.69
+
+>  <ALOGPS_LOGS>  (1) 
+-5.40
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.08e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00394
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00394
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+520.222781245
+
+>  <FORMULA>  (1) 
+C28H37ClO7
+
+>  <GENERIC_NAME>  (1) 
+Beclomethasone dipropionate
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C28H37ClO7/c1-6-23(33)35-15-22(32)28(36-24(34)7-2)16(3)12-20-19-9-8-17-13-18(30)10-11-25(17,4)27(19,29)21(31)14-26(20,28)5/h10-11,13,16,19-21,31H,6-9,12,14-15H2,1-5H3/t16-,19-,20-,21-,25-,26-,27-,28-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+KUVIULQEHSCUHY-XYWKZLDCSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Aerobec; Aldecin; Anceron; Andion; Beclacin; Becloforte; Beclomet; Beclorhinol; Becloval; Beclovent; Becodisks; Beconase; Beconasol; Becotide; Clenil-A; Entyderma; Inalone; Korbutone; orBec; Rino-Clenil; Rivanase; Sanasthmax; Sanasthmyl; Vancenase; Vanceril
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+54.40789827744911
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(1R,2S,10S,11S,13S,14R,15S,17S)-1-chloro-17-hydroxy-2,13,15-trimethyl-5-oxo-14-(propanoyloxy)tetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-3,6-dien-14-yl]-2-oxoethyl propanoate
+
+>  <JCHEM_LOGP>  (1) 
+4.428392276333331
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.57736129465082
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.850513231299441
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-3.2979028064914715
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+106.97
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+134.7928
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+8
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+beconase
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+521.042
+
+>  <PRODUCTS>  (1) 
+Alti-beclomethasone Dipropionate Inhaler 50mcg/md; Apo-beclomethasone Nasal Spray; Beclodisk -  Pwr Inh  100mcg/blister; Beclodisk - Pwr Inh 200mcg/blister; Beclodisk Pwr 100mcg/blister; Beclodisk Pwr 200mcg/blister; Becloforte 250mcg/aem; Becloforte Inhaler - Aem Inh 250mcg/aem; Beclomethasone Aqueous Nasal Spray 50mcg/metered Dose; Beclomethasone Dipropionate Nas-spr 50mcg/aem; Beclomethasone Dipropionate Nasal Inhaler; Beclomethasone Dipropionate Oral Inhaler; Beclovent  -  Aem 50mcg/aem; Beclovent Aem 50mcg/aem; Beclovent Rotacaps  -  Inh 100mcg/capsule; Beclovent Rotacaps  -  Inh 200mcg/cap; Beclovent Rotacaps 100mcg; Beclovent Rotacaps 200mcg; Beconase AQ; Beconase AQ Nasal Aem 50mcg/aem; Beconase Nasal Aem 50mcg/aem; Mylan-beclo AQ; Nu-beclomethasone 50 Mcg/metered Nasal Spray; Propaderm; Propaderm Cream 0.025%; Propaderm Lot 0.025%; Propaderm Lotion 0.025%; Qnasl; Qvar; Ratio-beclomethasone AQ; Rivanase AQ.nasal Spray 50mcg/metered Dose; Vancenase AER 50mcg; Vanceril AEM 50mcg
+
+>  <SALTS>  (1) 
+Beclomethasone dipropionate monohydrate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00564; DB11897
+
+>  <SMILES>  (1) 
+[H][C@@]12C[C@H](C)[C@](OC(=O)CC)(C(=O)COC(=O)CC)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+
+>  <SYNONYMS>  (1) 
+(11β,16β)-9-chloro-11-hydroxy-16-methyl-17,21-bis(1-oxopropoxy)pregna-1,4-diene-3,20-dione; 9-chloro-11β-hydroxy-16β-methylpregna-1,4-diene-3,20-dione 17,21-dipropionate; 9-chloro-16β-methyl-11β,17,21-trihydroxypregna-1,4-diene-3,20-dione 17,21-dipropionate; beclometasone 17,21-dipropionate; Beclometasone dipropionate
+
+$$$$

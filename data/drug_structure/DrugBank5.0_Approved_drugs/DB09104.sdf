@@ -1,0 +1,110 @@
+
+     RDKit          2D
+
+  5  2  0  0  0  0  0  0  0  0999 V2000
+  -41.3933  -22.9501    0.0000 Mg  0  0  0  0  0  0  0  0  0  0  0  0
+  -41.3933   68.9429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   41.3933  -68.9429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0
+  3  5  1  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+>  <DATABASE_ID>  (1) 
+DB09104
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB09104
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+57.990521206
+
+>  <FORMULA>  (1) 
+H2MgO2
+
+>  <GENERIC_NAME>  (1) 
+Magnesium Hydroxide
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/Mg.2H2O/h;2*1H2/q+2;;/p-2
+
+>  <INCHI_KEY>  (1) 
+VTHJTEIRLNZDEV-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+0
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+1.7784
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+magnesium(2+) ion dihydroxide
+
+>  <JCHEM_LOGP>  (1) 
+-0.57
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+0
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.7
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.7999999999999998
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+0
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+0
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+magnesium(2+) ion dihydroxide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+58.32
+
+>  <PRODUCTS>  (1) 
+Acid Controller Complete; Acid Controller Complete dual action; Acid Reducer Complete; Acid Reducer Plus Antacid; Acidex Tc Oral Suspension; Advanced Antacid Cherry; Advanced Antacid Regular Strength; Advanced Regular Strength Antacid; After Dinner Antacid; Almacone; Almacone Antacid Antigas; Almacone Double Strength; Almagel Plus Sus; Aluminum Hydroxide, Magnesium Hydroxide, Simethicone; Alumox; Amphojel 500 Suspension; Amphojel Plus Suspension; Antacid; Antacid & Antigas; Antacid - Alumina and Magnesia Oral Suspension USP; Antacid Anti-Gas; Antacid Antigas; Antacid Antigas Maximum Strength; Antacid Antigas Maximum Strength Mint; Antacid Antigas Nta; Antacid Cherry Flavored; Antacid Chewable Tab; Antacid Double Strength; Antacid Liquid Max Strength Cherry; Antacid Liquid Mint; Antacid Liquid Susp; Antacid Magnesia and Alumina; Antacid Maximum Strength; Antacid Mint; Antacid Mint Flavored; Antacid Plus - Sus; Antacid Plus Antiflatuent; Antacid Plus Antiflatulent; Antacid Plus Antiflatulent - Alumina, Magnesia & Simethicone Oral Suspension; Antacid Plus Gas Relief; Antacid Plus Gas Relief Regular Strength; Antacid Regular Strength; Antacid Regular With Anti-gas; Antacid Supreme; Antacid Supreme Cherry; Antacid Sus; Antacid With Alumina, Magnesia Plus Simethicone Oral Suspension USP; Antacid With Anti-gas Liquid Extra Strength Mint Flavour; Antacid and Antigas; Antacid regular strength; Antiacide Avec Antiflatulent Sus; Antiacide Sus; Babys Own Tummy Tab; Berkley and Jensen Acid Controller Complete; C2 Buffered Tab; C2 Buffered With Codeine Tab; Care One Acid Reducer and Antacid Dual Action; Care One Acid Reducer plus Antacid Dual Action; CareOne Acid Reducer Complete; CareOne Antacid; Careone Antacid Regular Strength; Careone Liquid Antacid; Careone Milk Of Magnesia; Careone antacid; Centra Acid Plus-sus; Centra Acid-sus; Complete; Complete Dual Action; ConRx AR; DG Health Dual Action Complete; DUO Fusion; Dermagran II Ointment - 0.25%; Dermagran II Ointment 0.25%; Dermagran II Ointment-ont Top 0.25%; Dg Health Antacid; Dg Health Milk Of Magnesia; Diovol EX Tab; Diovol Plus AF; Diovol Plus AF-suspension; Diovol Plus Suspension; Dual Action; Dual Action Complete; Eno; Equaline Antacid; Equaline Antacid regular strength; Equaline Complete Dual Action; Equaline Milk Of Magnesia; Equaline milk of magnesia; Equate Acid Reducer Complete; Equate Antacid regular strength; Equate Milk of Magnesia; Equate antacid maximum strength; Equate antacid regular strength; Exchange Select Antacid Regular Strength; FLANAX Antacid Anti-gas; Family Wellness Acid Controller Complete; Flanax Antacid; GOOD NEIGHBOR PHARMACY Antacid Regular Strength; Gaviscon Acid Relief Fmla Plus Gas Rel. Tab; Gaviscon Acid Relief Fmla Plus Gas Rel.liq.; Gaviscon Acid Relief Formula Extra Strength; Gaviscon Acid Relief Formula Liquid; Gaviscon Acid Relief Formula Tablets; Gelfos M; Gelusil; Gelusil Antacid & Anti-gas; Gelusil Extra Strength Liq; Gelusil Extra Strength Tablets; Gelusil Liquid Sus; Gelusil Maximum Strength; Geri-lanta Antacid Antigas; Geri-lanta Maximum Strength; Geri-lanta Supreme Cherry; Geri-mox Antacid Antigas; Geri-mox Max Cherry; Good Neighbor Pharmacy Antacid; Good Neighbor Pharmacy Complete; Good Neighbor Pharmacy Dual Action Complete; Good Neighbor Pharmacy Milk Of Magnesia; Good Neighbor Pharmacy milk of magnesia; Good Sense Antacid; Good Sense Antacid Maximum Strength; Good Sense Antacid Regular Strength; Good Sense Complete; Good Sense Dual Action Complete; Good Sense Milk Of Magnesia Stimulant Free; Good Sense Milk of Magnesia; Good Sense antacid; Good Sense milk of magnesia stimulant free; Harris Teeter Acid Reducer Complete; Harris Teeter Antacid; Harris Teeter Antacid Maximum Strength; Harris Teeter Antacid Regular Strength; Harris Teeter Milk of Magnesia; Health Mart Antacid; Health Mart Complete; Health Mart Dual Action Complete; Healthy Accents Antacid; Healthy Accents Famotidine Calcium Carbonate Magnesium Hydroxide; Healthy Accents Maldroxal; Healthy Accents Milk of Magnesia; Healthy Accents milk of magnesia; Humco Milk of Magnesia; Indigel Plus Liquid; Inon Ace; Leader Acid Reducer Complete; Leader Antacid Maximum Strength; Leader Antacid Regular Strength; Leader AntacidRegular Strength Regular Strength; Leader Milk Of Magnesia; Leader Milk Of Magnesia Saline Laxative; Leader Milk of Magnesia; Maalox Advanced Antacid & Antigas; Maalox Advanced Extra Strength Antacid & Antigas; Maalox Advanced Maximum Strength Cherry; Maalox Advanced Maximum Strength Mint; Maalox Advanced Maximum Strength Wild Berry; Maalox Advanced Regular Strength Mint; Maalox Antacid; Maalox Plus Extra Strength (cherry); Maalox Plus Extra Strength Tablets; Maalox Plus Suspension Extra Strength; Maalox Plus Suspension Flavour; Maalox Plus Tab; Maalox Plus Tablets; Maalox Plus Tablets Lemon Flavour; Maalox Plus Tablets Mint Flavour; Maalox Suspension; Maalox Tablet; Maalox Tablets; Maalox Tablets Cherry Flavour; Maalox Tablets Mint Flavour; Maalox Tc Suspension; Maalox Tc Tablet; Mag-AL Liquid; Mag-AL Plus; Mag-AL Plus XS; Mag-Al; Mag-Al Plus; Mag-Al Plus XS; Magmex; Magnesia Tablets; Magnesium Hydroxide; Magnolax; Magsil; Magsil Antacid (lemon Mint); Maximum Strength Antacid; Maximum Strength Antacid Anti Gas; Maximum Strength Antacid Mint; Maximum Strength Antacid and Antigas; Maximum Strength Antacid and Antigas Cherry; Maximum Strength Comfort Gel; Medibest Milk of Magnesia; Medique Alamag Plus; Mi Acid; Mi-Acid Regular Strength; Mi-acid Maximum Strength; Mi-acid Regular Strength; Milk Of Magnesia; Milk Of Magnesia 7% To 8.5%; Milk Of Magnesia Cherry; Milk Of Magnesia Liquid; Milk Of Magnesia Mineral Oil Emulsion; Milk Of Magnesia Mint; Milk Of Magnesia Mint Flav Tab 385mg; Milk Of Magnesia Original; Milk Of Magnesia Sus 440mg/5ml USP; Milk Of Magnesia Tablets 300mg; Milk Of Magnesia U.S.P.  -  Sus  400mg; Milk Of Magnesia U.S.P. - Sus 400mg/5ml; Milk Of Magnesia USP; Milk Of Magnesia USP Sus 440mg/5ml; Milk Of Magnesia-sus 400mg/5ml; Milk of Magnesia; Milk of Magnesia Mint; Milk of Magnesia Original; Milk of Magnesia Wild Cherry; Mint Milk Of Magnesia; Mintox; Mintox Maximum Strength; Mintox Plus Tabs; Mucaine - Sus; Mylanta Liquid Extra Strength Sus; Mylanta Liquid Regular Strength Sus; Mylanta Maximum Strength Classic Flavor; Mylanta Maximum Strength Vanilla Caramel Flavor; Mylanta New Tonight Soothing Honey Chamomile; Mylanta Plain Liq Double Strength; Mylanta Plain Liq Double Strength Sus; Mylanta Tablets Double Strength; Mylanta Tablets Regular Strength; Neutralca S Sus; Neutralca S Tab; Original; PMS-alumina Mag and Simethicone Sus; Pedia-Lax; Pepcid Complete; Phillip's Milk Of Magnesia Liq 80mg/ml Plain; Phillips Chewable; Phillips Dual Action; Phillips Fresh Mint Milk Of Magnesia; Phillips Milk Of Magnesia Wild Cherry; Phillips Milk of Magnesia Concentrated Fresh Strawberry; Phillips Original Milk Of Magnesia; Preferred Plus Complete; Regular Strength Antacid; Regular Strength Antacid Antigas; Regular Strength Antacid Mint; Regular Strength Comfort Gel; Regular Strength antacid anti gas; Rexall Antacid Advanced; Ri Mox; Rolaids; Rolaids Advanced Antacid Anti-gas Mixed Berry; Rolaids Extra Strength Fruit; Rolaids Extra Strength Mint; Rolaids Regular Strength Mint; Rolaids Regular Strength- Cherry; Rolaids Regular Strength- Mint; Rolaids Ultra Strength Antacid Orange; Rolaids Ultra Strength Antacid Strawberry; Rolaids Ultra Strength Fruit; Rolaids Ultra Strength Mint; Rolaids Ultra Strength- Cherry; Rolaids Ultra Strength- Mint; Rulox Regular; Rx Act Antacid regular strength; ShopRite Complete; ShopRite Dual Action Complete; Shoprite Antacid; Shoprite Milk Of Magnesia; Signature Care Acid Controller Complete; Signature Care Acid Reducer Complete; Signature Care Antacid Plus Gas Relief; Simply Right Famotidine Complete; Smart Sense Antacid; Smart Sense Complete; Smart Sense Dual Action Complete; Sound Body Milk of Magnesia; Stomaax; Stomaax Plus; Stratuscare Antacid And Antigas; Stratuscare Antacid and Antigas; Stratuscare Antacid and Antigas Regular Strength; Stratuscare Milk of Magnesia; Stratuscare Milk of Magnesia Cherry; Stratuscare Milk of Magnesia Sugar Free; Sunmark Antacid; Sunmark Antacid Maximum Strength; Sunmark Antacid Maximum Strength Cherry; Sunmark Dual Action Complete; Sunmark Milk Of Magnesia; Sunmark Milk Of Magnesia Mint; Sunmark Milk Of Magnesia Original; Sunmark Milk of Magnesia saline laxative; Sunmark complete; Supreme Antacid; TopCare Complete acid reducer plus antacid; TopCare Milk of Magnesia; Topcare Antacid; Topcare Antacid Maximum Strength; Topcare Antacid Plus Anti Gas; Topcare Antacid Regular Strength; Topcare Complete; Topcare Dual Action Complete; Topcare Milk of Magnesia; Univol Suspension; Up and Up Acid Controller Complete Dual Action; Up and Up Antacid Anti Gas; Up and Up Antacid Anti Gas Regular Strength; Up and Up Famotidine Complete; Up and Up dual action acid controller complete; smart sense Complete
+
+>  <SMILES>  (1) 
+[OH-].[OH-].[Mg++]
+
+>  <SYNONYMS>  (1) 
+Magnesium dihydroxide; Milk of magnesia
+
+$$$$

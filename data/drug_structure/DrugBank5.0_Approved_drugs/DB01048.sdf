@@ -1,0 +1,201 @@
+ 
+     RDKit          2D
+
+ 39 42  0  0  1  0  0  0  0  0999 V2000
+   14.1297   -8.7150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1080   -9.6230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8416   -8.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4201   -8.4477    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3761   -9.8557    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8241  -10.0751    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8162   -7.5107    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5984   -8.7882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8916   -9.1264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6909  -10.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6221   -9.6685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5879   -7.1102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0001   -9.9303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4593  -11.1629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2892  -10.1017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4135   -7.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0079   -6.3957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3617  -10.4173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6374  -11.1868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5813  -10.1969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9369  -10.7120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  3  8  2  0
+  4  9  2  0
+ 10  5  1  1
+  6 11  2  0
+  7 12  1  0
+ 10 13  1  0
+ 10 14  1  0
+ 11 15  1  0
+ 12 16  1  0
+ 12 17  1  0
+ 13 18  1  0
+ 14 19  2  0
+ 18 20  1  1
+ 20 21  1  0
+  5  9  1  0
+  8 11  1  0
+ 16 17  1  0
+ 18 19  1  0
+  7 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 12 25  1  0
+ 13 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 16 31  1  0
+ 16 32  1  0
+ 17 33  1  0
+ 17 34  1  0
+ 18 35  1  0
+ 19 36  1  0
+ 20 37  1  0
+ 20 38  1  0
+ 21 39  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+0.61
+
+>  <ALOGPS_LOGS>  (1) 
+-2.37
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.21e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB01048
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB01048
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <EXACT_MASS>  (1) 
+286.154209228
+
+>  <FORMULA>  (1) 
+C14H18N6O
+
+>  <GENERIC_NAME>  (1) 
+Abacavir
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C14H18N6O/c15-14-18-12(17-9-2-3-9)11-13(19-14)20(7-16-11)10-4-1-8(5-10)6-21/h1,4,7-10,21H,2-3,5-6H2,(H3,15,17,18,19)/t8-,10+/m1/s1
+
+>  <INCHI_KEY>  (1) 
+MCGSCOLBFJQGHM-SCZZXKLOSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.432443470405758
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+[(1S,4R)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]cyclopent-2-en-1-yl]methanol
+
+>  <JCHEM_LOGP>  (1) 
+0.38677390133333256
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.707791090804818
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+15.406517692242982
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.773719585775946
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+101.88000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+82.62310000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+abacavir
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+286.3323
+
+>  <PRODUCTS>  (1) 
+Abacavir; Abacavir Sulfate; Abacavir Sulfate, Lamivudine and Zidovudine; Abacavir and Lamivudine; Abacavir, Lamivudine and Zidovudine; Apo-abacavir; Apo-abacavir-lamivudine; Apo-abacavir-lamivudine-zidovudine; Auro-abacavir/lamivudine; Epzicom; Kivexa; Mylan-abacavir/lamivudine; PMS-abacavir-lamivudine; Teva-abacavir/lamivudine; Triumeq; Trizivir; Ziagen
+
+>  <SALTS>  (1) 
+Abacavir Sulfate
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00216
+
+>  <SMILES>  (1) 
+NC1=NC2=C(N=CN2[C@@H]2C[C@H](CO)C=C2)C(NC2CC2)=N1
+
+>  <SYNONYMS>  (1) 
+{(1S-cis)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]cyclopent-2-en-1-yl}methanol; ABC 
+
+$$$$

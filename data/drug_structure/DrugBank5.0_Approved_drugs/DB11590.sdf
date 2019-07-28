@@ -1,0 +1,151 @@
+
+     RDKit          2D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 Hg  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+  5 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+  1 15  1  0
+  1 16  1  0
+  1 17  1  0
+  2 18  1  0
+  2 19  1  0
+  6 20  1  0
+  7 21  1  0
+  8 22  1  0
+  9 23  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+2.58
+
+>  <ALOGPS_LOGS>  (1) 
+-1.82
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+6.17e+00 g/l
+
+>  <DATABASE_ID>  (1) 
+DB11590
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB11590
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+405.992720501
+
+>  <FORMULA>  (1) 
+C9H9HgNaO2S
+
+>  <GENERIC_NAME>  (1) 
+Thimerosal
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C7H6O2S.C2H5.Hg.Na/c8-7(9)5-3-1-2-4-6(5)10;1-2;;/h1-4,10H,(H,8,9);1H2,2H3;;/q;;2*+1/p-2
+
+>  <INCHI_KEY>  (1) 
+RTKIYNMVFMVABJ-UHFFFAOYSA-L
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+1
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+22.446109183861473
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+ethyl({2-[(sodiooxy)carbonyl]phenyl}sulfanyl)mercury
+
+>  <JCHEM_LOGP>  (1) 
+3.2646
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.608625064101537
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+26.3
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+48.05960000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethyl({2-[(sodiooxy)carbonyl]phenyl}sulfanyl)mercury
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+404.81
+
+>  <SMILES>  (1) 
+CC[Hg]SC1=CC=CC=C1C(=O)O[Na]
+
+>  <SYNONYMS>  (1) 
+[(o-carboxyphenyl)thio]ethylmercury sodium salt; ethyl(2-mercaptobenzoato-S)mercury sodium salt; ethylmercurithiosalicylate sodium; ethylmercurithiosalicylic acid sodium salt; mercurothiolate; o-(ethylmercurithio)benzoic acid sodium salt; sodium ethylmercurithiosalicylate; sodium merthiolate; Thiomersal; thiomersalate; Thiomersalum; Tiomersal
+
+$$$$

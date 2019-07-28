@@ -1,0 +1,237 @@
+843
+     RDKit          2D
+
+ 57 60  0  0  1  0  0  0  0  0999 V2000
+    4.8305    2.4093    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.7862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1182   -1.1823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2932    0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8806    0.9612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556    0.9612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1182    0.2467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8806   -0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5307   -0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2932   -1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    0.2973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741    1.6251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.5487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.3737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5307   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3557   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.5487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.3737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7682   -1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7682   -2.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5932   -1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5932   -2.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0057   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0
+  2 20  1  0
+  2 27  1  0
+  3 21  1  0
+  3 28  1  0
+  4 10  1  0
+  4 11  1  0
+  4 16  1  0
+  5  6  1  0
+  5  8  1  0
+  5  9  1  0
+  6  7  1  0
+  7 12  1  0
+  7 13  1  0
+  8 10  1  0
+  9 11  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 15  2  0
+ 14 17  1  0
+ 15 18  1  0
+ 16 19  1  0
+ 17 20  2  0
+ 18 21  2  0
+ 19 22  2  0
+ 19 23  1  0
+ 20 21  1  0
+ 22 24  1  0
+ 23 25  2  0
+ 24 26  2  0
+ 25 26  1  0
+  5 29  1  0
+  6 30  1  0
+  6 31  1  0
+  7 32  1  0
+  8 33  1  0
+  8 34  1  0
+  9 35  1  0
+  9 36  1  0
+ 10 37  1  0
+ 10 38  1  0
+ 11 39  1  0
+ 11 40  1  0
+ 12 41  1  0
+ 12 42  1  0
+ 16 43  1  0
+ 16 44  1  0
+ 17 45  1  0
+ 18 46  1  0
+ 22 47  1  0
+ 23 48  1  0
+ 24 49  1  0
+ 25 50  1  0
+ 26 51  1  0
+ 27 52  1  0
+ 27 53  1  0
+ 27 54  1  0
+ 28 55  1  0
+ 28 56  1  0
+ 28 57  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+4.14
+
+>  <ALOGPS_LOGS>  (1) 
+-4.93
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.50e-03 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00843
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00843
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+379.214743799
+
+>  <FORMULA>  (1) 
+C24H29NO3
+
+>  <GENERIC_NAME>  (1) 
+Donepezil
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C24H29NO3/c1-27-22-14-19-13-20(24(26)21(19)15-23(22)28-2)12-17-8-10-25(11-9-17)16-18-6-4-3-5-7-18/h3-7,14-15,17,20H,8-13,16H2,1-2H3
+
+>  <INCHI_KEY>  (1) 
+ADEBPBSSDYVVLD-UHFFFAOYSA-N
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Alzepil; Davia; Depzil; Donecept; Donecil; Donep; Donepex; Donesyn; Dopezil; Eranz; Memac ; Nomi-Nox; Pezale; Redumas; Zolpezil
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+44.33556165455788
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(1-benzylpiperidin-4-yl)methyl]-5,6-dimethoxy-2,3-dihydro-1H-inden-1-one
+
+>  <JCHEM_LOGP>  (1) 
+4.207932993666668
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+17.021937144753494
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.62472894729726
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+38.77
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+112.1147
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+6
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+donepezil
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <MOLECULAR_WEIGHT>  (1) 
+379.492
+
+>  <PRODUCTS>  (1) 
+Accel-donepezil; Act Donepezil; Act Donepezil ODT; Ag-donepezil; Apo-donepezil; Aricept; Aricept ODT; Aricept Rdt; Auro-donepezil; Bio-donepezil; Dom-donepezil; Donepezil; Donepezil Hydrochloride; Donepezil Hydrochloride 10 mg; Donepezil Hydrochloride 10mg; Donepezil Hydrochloride 5 mg; Donepezil Hydrochloride ODT; Donepezil Hydrochloride Tablets; Donepezil Hydrochloride Tablets USP; Donepezil Hyrochloride 5mg; Donepezil hydrochloride; Ecl-donepezil; Ipg-donepezil; Jamp-donepezil; Jamp-donepezil Tablets; M-donepezil; Mar-donepezil; Memantine and Donepezil Hydrochlorides Extended-release; Mint-donepezil; Mylan-donepezil; Namzaric; Nat-donepezil; PMS-donepezil; Priva-donepezil; Ran-donepezil; Riva-donepezil; Sandoz Donepezil; Sandoz Donepezil ODT; Septa Donepezil; Teva-donepezil; Van-donepezil
+
+>  <SALTS>  (1) 
+Donepezil hydrochloride
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00039
+
+>  <SMILES>  (1) 
+COC1=C(OC)C=C2C(=O)C(CC3CCN(CC4=CC=CC=C4)CC3)CC2=C1
+
+>  <SYNONYMS>  (1) 
+Domepezil; Donepezil; Donepezilo; Donepezilum
+
+$$$$

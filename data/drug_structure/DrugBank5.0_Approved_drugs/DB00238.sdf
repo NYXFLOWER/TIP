@@ -1,0 +1,185 @@
+238
+     RDKit          2D
+
+ 34 37  0  0  0  0  0  0  0  0999 V2000
+    4.7984    2.0448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0281   -0.5055    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6156    1.3017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6640   -0.7417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3921   -0.7417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0281   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6156   -2.0448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4406   -2.0448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2849   -0.1476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7713   -0.1476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1013    0.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9549    0.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2842    0.9226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4406    1.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7719    0.9225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    0.3430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8410   -0.4948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2151   -0.4948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1100    1.7288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4064    0.3430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0
+  2  6  1  0
+  2  9  1  0
+  2 10  1  0
+  3 11  1  0
+  3 14  1  0
+  4  9  1  0
+  4 17  2  0
+  5 10  2  0
+  5 18  1  0
+  6  7  1  0
+  6  8  1  0
+  7  8  1  0
+  9 11  2  0
+ 10 12  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 12 15  2  0
+ 13 16  2  0
+ 13 19  1  0
+ 15 20  1  0
+ 16 17  1  0
+ 18 20  2  0
+  3 21  1  0
+  6 22  1  0
+  7 23  1  0
+  7 24  1  0
+  8 25  1  0
+  8 26  1  0
+ 15 27  1  0
+ 16 28  1  0
+ 17 29  1  0
+ 18 30  1  0
+ 19 31  1  0
+ 19 32  1  0
+ 19 33  1  0
+ 20 34  1  0
+M  END
+>  <ALOGPS_LOGP>  (1) 
+1.75
+
+>  <ALOGPS_LOGS>  (1) 
+-3.41
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.05e-01 g/l
+
+>  <DATABASE_ID>  (1) 
+DB00238
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <DRUGBANK_ID>  (1) 
+DB00238
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <EXACT_MASS>  (1) 
+266.11676109
+
+>  <FORMULA>  (1) 
+C15H14N4O
+
+>  <GENERIC_NAME>  (1) 
+Nevirapine
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C15H14N4O/c1-9-6-8-17-14-12(9)18-15(20)11-3-2-7-16-13(11)19(14)10-4-5-10/h2-3,6-8,10H,4-5H2,1H3,(H,18,20)
+
+>  <INCHI_KEY>  (1) 
+NQDJXKOVJZTUJA-UHFFFAOYSA-N
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+27.79965668476118
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-cyclopropyl-7-methyl-2,4,9,15-tetraazatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3,5,7,12,14-hexaen-10-one
+
+>  <JCHEM_LOGP>  (1) 
+2.488042778666667
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.371185534086782
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.05792102225345
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.120000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+77.482
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+nevirapine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <MOLECULAR_WEIGHT>  (1) 
+266.2979
+
+>  <PRODUCTS>  (1) 
+Apo-nevirapine; Apo-nevirapine XR; Apo-zidovudine-lamivudine-nevirapine; Auro-nevirapine; Mylan-nevirapine; Nevirapine; Nevirapine Extended Release; Nevirapine Teva; PMS-nevirapine; Teva-nevirapine; Viramune; Viramune XR
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00705; DB08311
+
+>  <SMILES>  (1) 
+CC1=C2NC(=O)C3=C(N=CC=C3)N(C3CC3)C2=NC=C1
+
+>  <SYNONYMS>  (1) 
+NEV; NVP
+
+$$$$
