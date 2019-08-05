@@ -48,14 +48,23 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 ![](img/step.png)
 
 ## Result by now
+
 *All the models are trained on GPU. [torch-memlab](https://github.com/Stonesjtu/pytorch_memlab) helps to profile and inspect memory usage*
-Pre-train ppi embedding with 2 layers GCN for 80 epochs([output](./out/ppp.pdf)): 
+
+### Pre-train ppi embedding
+2 layers GCN:
+- 80 epochs([output](./out/ppp.pdf)): 
 - around 92% auprc.
 - less than 2GB GPU memory cost. 
 - Time cost: 2 mins.
 
-Interaction prediction (use drug ids and single drug side effect as feature):
-- around 64% auprc (Limited to the number of parameters).
+### Interaction prediction (use drug ids as feature):
+21st July:
+- parameter dim: 16, 16, 16, 16
+- around 64% auprc (Limited to the number of parameters, ).
 - around 10GB GPU memory cost.
 - Time cost: 10 mins.
 - to improve: change batch => mini-batch, add more parameters, biased sampling.
+
+24th July:
+- 
