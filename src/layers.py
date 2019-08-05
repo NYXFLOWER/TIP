@@ -1,11 +1,12 @@
 import torch
 from torch_geometric.nn.models import GAE, InnerProductDecoder
 import numpy as np
-import scipy
+import scipy.sparse as sp
 from torch.nn import Parameter as Param
 from torch import Tensor
 from torch_geometric.nn.conv import RGCNConv, GCNConv, MessagePassing
 from sklearn import metrics
+from torch.utils.checkpoint import checkpoint
 import torch.nn.functional as F
 from torch_geometric.data import Data
 from pytorch_memlab import profile
@@ -103,6 +104,14 @@ def sparse_id(n):
     shape = (n, n)
 
     return torch.sparse.FloatTensor(i, v, torch.Size(shape))
+
+
+def dense_id(n):
+    idx = [i for i in range(n)]
+    val = [1 for i in range(n)]
+    out = sp.coo_matrix((val, (idx, idx)), shape=(n, n), dtype=float)
+
+    return torch.Tensor(out.todense())
 
 
 def auprc_auroc_ap(target_tensor, score_tensor):
@@ -280,7 +289,21 @@ class MyRGCNConv2(MessagePassing):
         out_list = []
         for et in range(range_list.shape[0]):
             start, end = range_list[et]
-            tmp = torch.matmul(x_j[start: end, :], w[et])
+
+            # v-1
+            # tmp_1 = torch.matmul(x_j[start: end, :], w[et])
+
+            # v-2
+            # xxx = torch.index_select(x_j, 0, edge_index[0, start: end])
+            # tmp = torch.matmul(xxx, w[et])
+
+            # assert tmp == tmp_1
+            # v-3
+            # x_i = checkpoint(torch.index_select, x_j, 0, edge_index[0, start: end])
+            # tmp = checkpoint(torch.matmul, x_i[start: end, :], w[et])
+            # v-4
+            xxx = x_j[start: end, :]
+            tmp = checkpoint(torch.matmul, xxx, w[et])
             out_list.append(tmp)
 
         # TODO: test this

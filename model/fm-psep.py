@@ -4,11 +4,14 @@ import pickle
 from torch.nn import Module
 import torch
 from src.layers import *
+import sys
 
-with open('../data/1k-5k.pkl', 'rb') as f:       # 425 dd edge types
+sys.setrecursionlimit(8000)
+
+with open('../data/training_samples_500.pkl', 'rb') as f:       # 425 dd edge types
     et_list = pickle.load(f)
 
-et_list = et_list[:400]
+et_list = et_list
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
@@ -16,14 +19,15 @@ n_et_dd = len(et_list)
 
 data = Data.from_dict(feed_dict)
 
-
 data.train_idx, data.train_et, data.train_range,data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
 
+
 # TODO: add drug feature
-data.d_feat = sparse_id(n_drug)
+data.d_feat = dense_id(n_drug)
 n_feat_d = n_drug
 data.x_norm = torch.ones(n_drug)
 # data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
+data.d_feat.requires_grad = True
 
 n_base = 16
 
@@ -79,8 +83,8 @@ class NNDecoder(Module):
 
     def forward(self, z, edge_index, edge_type):
         # layer 1
-        d1 = torch.mm(z[edge_index[0]], self.w1_l1)
-        d2 = torch.mm(z[edge_index[1]], self.w2_l1)
+        d1 = torch.matmul(z[edge_index[0]], self.w1_l1)
+        d2 = torch.matmul(z[edge_index[1]], self.w2_l1)
         d1 = F.relu(d1, inplace=True)
         d2 = F.relu(d2, inplace=True)
 
@@ -93,7 +97,7 @@ class NNDecoder(Module):
     def reset_parameters(self):
         self.w1_l1.data.normal_()
         self.w2_l1.data.normal_()
-        self.w2_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
+        self.w1_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
         self.w2_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
 
 
@@ -114,6 +118,7 @@ def train():
     model.train()
 
     optimizer.zero_grad()
+
     z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
 
     pos_index = data.train_idx
@@ -164,7 +169,7 @@ def test(z):
     return auprc, auroc, ap
 
 
-EPOCH_NUM = 80
+EPOCH_NUM = 100
 
 
 print('model training ...')
