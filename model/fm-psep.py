@@ -5,13 +5,14 @@ from torch.nn import Module
 import torch
 from src.layers import *
 import sys
+import time
 
 sys.setrecursionlimit(8000)
 
-with open('../data/training_samples_500.pkl', 'rb') as f:       # 425 dd edge types
+with open('../data/training_samples_500.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-et_list = et_list
+# et_list = et_list
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
@@ -113,8 +114,12 @@ model = model.to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 data = data.to(device)
 
+train_out = {}
+test_out = {}
+
 
 def train():
+
     model.train()
 
     optimizer.zero_grad()
@@ -144,7 +149,14 @@ def train():
     neg_target = torch.zeros(neg_score.shape[0])
     target = torch.cat([pos_target, neg_target])
     auprc, auroc, ap = auprc_auroc_ap(target, score)
-    print(auprc, end='   ')
+    # print(auprc, end='   ')
+
+    print(epoch, ' ',
+          'auprc:', auprc, '  ',
+          'auroc:', auroc, '  ',
+          'ap:', ap)
+
+    train_out[epoch] = [auprc, auroc, ap]
 
     return z, loss
 
@@ -174,14 +186,27 @@ EPOCH_NUM = 100
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
+    time_begin = time.time()
+
     z, loss = train()
 
     auprc, auroc, ap = test(z)
 
-    # print(epoch, ' ',
-    #       'auprc:', auprc, '  ',
-    #       'auroc:', auroc, '  ',
-    #       'ap:', ap)
-
     print(epoch, ' ',
-          'auprc:', auprc)
+          'auprc:', auprc, '  ',
+          'auroc:', auroc, '  ',
+          'ap:', ap, '  ',
+          'time:', time.time()-time_begin, '\n')
+
+    # print(epoch, ' ',
+    #       'auprc:', auprc)
+
+    test_out[epoch] = [auprc, auroc, ap]
+
+
+# save output to files
+with open('../out/train_out.pkl', 'wb') as f:
+    pickle.dump(train_out, f)
+
+with open('../out/test_out.pkl', 'wb') as f:
+    pickle.dump(test_out, f)
