@@ -290,20 +290,11 @@ class MyRGCNConv2(MessagePassing):
         for et in range(range_list.shape[0]):
             start, end = range_list[et]
 
-            # v-1
-            # tmp_1 = torch.matmul(x_j[start: end, :], w[et])
+            # tmp = torch.matmul(x_j[start: end, :], w[et])
 
-            # v-2
-            # xxx = torch.index_select(x_j, 0, edge_index[0, start: end])
-            # tmp = torch.matmul(xxx, w[et])
-
-            # assert tmp == tmp_1
-            # v-3
-            # x_i = checkpoint(torch.index_select, x_j, 0, edge_index[0, start: end])
-            # tmp = checkpoint(torch.matmul, x_i[start: end, :], w[et])
-            # v-4
             xxx = x_j[start: end, :]
             tmp = checkpoint(torch.matmul, xxx, w[et])
+
             out_list.append(tmp)
 
         # TODO: test this

@@ -6,8 +6,8 @@ from data.utils import get_side_effect_index_from_text, \
     get_drug_index_from_text
 
 
-RAW_DATA_PATH = "/Users/nyxfer/Docu/FM-PSEP/data/raw_data/"
-WRITE_DATA_PATH = "/Users/nyxfer/Docu/FM-PSEP/data/"
+RAW_DATA_PATH = "../data/raw_data/"
+WRITE_DATA_PATH = "../data/"
 
 # index map initial
 drug_map, drug_id = dict(), 0

@@ -9,10 +9,10 @@ import time
 
 sys.setrecursionlimit(8000)
 
-with open('../data/training_samples_500.pkl', 'rb') as f:   # the whole dataset
+with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-# et_list = et_list
+# et_list = et_list[:400]
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
@@ -20,7 +20,7 @@ n_et_dd = len(et_list)
 
 data = Data.from_dict(feed_dict)
 
-data.train_idx, data.train_et, data.train_range,data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
+data.train_idx, data.train_et, data.train_range, data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
 
 
 # TODO: add drug feature
@@ -33,7 +33,7 @@ data.d_feat.requires_grad = True
 n_base = 16
 
 n_embed = 16
-n_hid1 = 16
+n_hid1 = 8
 n_hid2 = 8
 
 
@@ -55,7 +55,7 @@ class Encoder(torch.nn.Module):
         x = self.rgcn1(x, edge_index, edge_type, range_list)
         x = F.relu(x, inplace=True)
         x = self.rgcn2(x, edge_index, edge_type, range_list)
-        x = F.relu(x, inplace=True)
+        # x = F.relu(x, inplace=True)
         return x
 
     def reset_paramters(self):
@@ -63,12 +63,12 @@ class Encoder(torch.nn.Module):
 
 
 class NNDecoder(Module):
-    def __init__(self, in_dim, num_uni_edge_type, l1_dim=4):
+    def __init__(self, in_dim, num_uni_edge_type, l1_dim=8):
         """ in_dim: the feat dim of a drug
             num_edge_type: num of dd edge type """
 
         super(NNDecoder, self).__init__()
-        self.l1_dim = 4     # Decoder Lays' dim setting
+        self.l1_dim = l1_dim     # Decoder Lays' dim setting
 
         # parameters
         # for drug 1
@@ -152,6 +152,7 @@ def train():
     # print(auprc, end='   ')
 
     print(epoch, ' ',
+          'loss:', loss, '  ',
           'auprc:', auprc, '  ',
           'auroc:', auroc, '  ',
           'ap:', ap)
@@ -193,6 +194,7 @@ for epoch in range(EPOCH_NUM):
     auprc, auroc, ap = test(z)
 
     print(epoch, ' ',
+          'loss:', loss, '  ',
           'auprc:', auprc, '  ',
           'auroc:', auroc, '  ',
           'ap:', ap, '  ',

@@ -125,7 +125,7 @@ def load_data_torch(path, dd_et_list, mono=True):
     data = {'d_feat': drug_feat,
             'p_feat': protein_feat,
             'dd_adj_list': dd_adj_list,
-            'dp_adj': dp_adj,
+            'dp_adj': dp_adj.tocoo(),
             'pp_adj': pp_adj}
 
     n_et = len(dd_et_list)
@@ -159,7 +159,7 @@ def load_data_torch(path, dd_et_list, mono=True):
     return data
 
 
-def cut_data(low, high, name, path='/Users/nyxfer/Docu/FM-PSEP/data/'):
+def cut_data(low, high, name, path='../data/', out_path='../out/'):
     dd_et_list = list(range(1317))
 
     with open(path + 'graph_info.pkl', 'rb') as f:
@@ -176,10 +176,24 @@ def cut_data(low, high, name, path='/Users/nyxfer/Docu/FM-PSEP/data/'):
     ind = []
     for i in range(1317):
         adj = dd_adj_list[i]
-        if low < adj.nnz < high:
+        if low < adj.nnz and adj.nnz < high:
             ind.append(i)
 
-    with open('./data/' + name + '.pkl', 'wb') as f:
+    with open(out_path + name + '.pkl', 'wb') as f:
         pickle.dump(ind, f)
-    # for i in ind:
-    #     print(dd_adj_list[i].nnz)
+    for i in ind:
+        print(dd_adj_list[i].nnz)
+
+
+def get_edge_list(low, name, source_path='./data/', out_path='./out/'):
+    out = []
+    for i in range(1317):
+        adj = sp.load_npz(''.join([source_path, 'sym_adj/drug-sparse-adj/type_',
+                                   str(i), '.npz']))
+        if low < adj.nnz:
+            out.append(i)
+
+    with open(out_path + name + '.pkl', 'wb') as f:
+        pickle.dump(out, f)
+
+    return out
