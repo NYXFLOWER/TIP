@@ -3,12 +3,15 @@ from src.layers import *
 
 class MyPDConv(MessagePassing):
     """ directed gcn layer for pd-net """
-    def __init__(self, in_dim, out_dim, is_after_relu=True, is_bias=False,
-                 **kwargs):
+    def __init__(self, in_dim, out_dim, unigue_target_num, unique_source_num,
+                 is_after_relu=True, is_bias=False, **kwargs):
+
         super(MyPDConv, self).__init__(aggr='mean', **kwargs)
 
         self.in_dim = in_dim
         self.out_dim = out_dim
+        self.unique_source_num = unique_source_num
+        self.unique_target_num = unigue_target_num
         self.is_after_relu = is_after_relu
 
         # parameter setting
@@ -34,7 +37,9 @@ class MyPDConv(MessagePassing):
         return self.propagate(edge_index, x=x, range_list=range_list)
 
     def update(self, aggr_out, x):
-        out = torch.mm(aggr_out, self.weight)
+        out = torch.mm(aggr_out[self.unique_source_num, :], self.weight)
+
+        assert out.shape[0] == self.unique_target_num
 
         if self.bias:
             out = out + self.bias
