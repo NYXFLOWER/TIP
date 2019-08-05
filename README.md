@@ -60,11 +60,17 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 
 ### Interaction prediction (use drug ids as feature):
 21st July:
+- decoder: DistMult
 - parameter dim: 16, 16, 16, 16
 - around 64% auprc (Limited to the number of parameters, ).
 - around 10GB GPU memory cost.
 - Time cost: 10 mins.
 - to improve: change batch => mini-batch, add more parameters, biased sampling.
 
-24th July:
-- 
+5th Aug:
+- output file: [[here]](./out/97ep.pdf)
+- decoder: NN
+- parameter dim: 16, 16, 8, 8, 8, 963
+- 97 epoch
+- auprc:0.93, auroc:0.95, ap@50:0.93, time/epoch:61s
+- maximum GPU memory cost: 7.5G

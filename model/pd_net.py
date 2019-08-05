@@ -1,12 +1,13 @@
 from src.layers import *
 
 
-class MyPDConv(MessagePassing):
+class MyHierarchyConv(MessagePassing):
     """ directed gcn layer for pd-net """
-    def __init__(self, in_dim, out_dim, unigue_target_num, unique_source_num,
+    def __init__(self, in_dim, out_dim,
+                 unigue_target_num, unique_source_num,
                  is_after_relu=True, is_bias=False, **kwargs):
 
-        super(MyPDConv, self).__init__(aggr='mean', **kwargs)
+        super(MyHierarchyConv, self).__init__(aggr='mean', **kwargs)
 
         self.in_dim = in_dim
         self.out_dim = out_dim
