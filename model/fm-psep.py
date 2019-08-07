@@ -6,8 +6,11 @@ import torch
 from src.layers import *
 import sys
 import time
+import matplotlib.pyplot as plt
+from model.utils import dict_to_nparray
 
 sys.setrecursionlimit(8000)
+out_dir = '../out/16-16-16-8-16-963/'
 
 with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
@@ -33,7 +36,7 @@ data.d_feat.requires_grad = True
 n_base = 16
 
 n_embed = 16
-n_hid1 = 8
+n_hid1 = 16
 n_hid2 = 8
 
 
@@ -212,3 +215,34 @@ with open('../out/train_out.pkl', 'wb') as f:
 
 with open('../out/test_out.pkl', 'wb') as f:
     pickle.dump(test_out, f)
+
+# save model state
+filepath_state = out_dir + '100ep.pth'
+torch.save(model.state_dict(), filepath_state)
+# to restore
+# model.load_state_dict(torch.load(filepath_state))
+# model.eval()
+
+# save whole model
+filepath_model = out_dir + '100ep_model.pb'
+torch.save(model, filepath_model)
+# Then later:
+# model = torch.load(filepath_model)
+
+
+# ##################################
+# training and testing figure
+
+tr_out = dict_to_nparray(train_out, EPOCH_NUM)
+te_out = dict_to_nparray(test_out, EPOCH_NUM)
+
+plt.figure()
+x = np.array(range(EPOCH_NUM), dtype=int) + 1
+maxmum = np.zeros(EPOCH_NUM) + te_out[0, :].max()
+plt.plot(x, tr_out[0, :], label='train_prc')
+plt.plot(x, te_out[0, :], label='test_prc')
+plt.plot(x, maxmum, linestyle="-.")
+plt.title('AUPRC scores on both training set and testing set')
+plt.grid()
+plt.legend()
+plt.savefig(out_dir + 'prc.png')

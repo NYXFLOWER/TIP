@@ -1,4 +1,4 @@
-from layers import *
+from src.layers import *
 
 
 class encoder(torch.nn.Module):
@@ -36,3 +36,5 @@ class encoder(torch.nn.Module):
         x_d = self.d_conv2(x_d, edge_index_d, edge_type)
 
         return x_d
+
+
