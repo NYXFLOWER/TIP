@@ -68,7 +68,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - to improve: change batch => mini-batch, add more parameters, biased sampling.
 
 5th Aug:
-- output file: [[here]](./out/97ep.pdf)
+- output file: [[here]](out/16-16-8-8-16-963/97ep.pdf)
 - decoder: NN
 - parameter dim: 16, 16, 8, 8, 8, 963
 - 97 epoch

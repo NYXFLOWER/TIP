@@ -23,28 +23,41 @@ n_et_dd = len(et_list)
 data.train_idx, data.train_et, data.train_range,data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
 
 # re-construct node feature
-data.p_feat = dense_id(n_prot)
+data.p_feat = torch.cat([dense_id(n_prot), torch.zeros(size=(n_drug, n_prot))], dim=0)
 data.d_feat = dense_id(n_drug)
 n_drug_feat = n_drug
 n_prot_feat = n_prot
 
-# dp_edge_index and range list
-data.dp_edge_index = np.array([data.dp_adj.col-1, data.dp_adj.row-1+n_prot])
+# ###################################
+# dp_edge_index and range index
+# ###################################
+data.dp_edge_index = np.array([data.dp_adj.col-1, data.dp_adj.row-1])
 
-tmp = data.dp_edge_index[1, i]
-count = 0
-for i in range(data.dp_edge_index.shape[1]):
-    if data.dp_edge_index[1, i] == tmp:
-        count += 1
+count_durg = np.zeros(n_drug, dtype=np.int)
+for i in data.dp_edge_index[1, :]:
+    count_durg[i] += 1
+range_list = []
+start = 0
+end = 0
+for i in count_durg:
+    end += i
+    range_list.append((start, end))
+    start = end
+
+data.dp_edge_index = torch.from_numpy(data.dp_edge_index + np.array([[0], [n_prot]]))
+data.dp_range_list = range_list
 
 
-data.x_norm = torch.ones(n_drug)
+data.d_norm = torch.ones(n_drug)
+data.p_norm = torch.ones(n_prot+n_drug)
 # data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
 # data.d_feat.requires_grad = True
+
 
 source_dim = n_prot_feat
 embed_dim = 32
 target_dim = 16
+
 
 class HierEncoder(Module):
     def __init__(self, source_dim, embed_dim, target_dim,
@@ -108,11 +121,12 @@ class NNDecoder(Module):
         self.w2_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
 
 
-encoder = HierEncoder(source_dim, embed_dim, target_dim)
+encoder = HierEncoder(source_dim, embed_dim, target_dim, n_prot, n_drug)
 decoder = NNDecoder(target_dim, n_et_dd)
 model = MyGAE(encoder, decoder)
 
 device_name = 'cuda' if torch.cuda.is_available() else 'cpu'
+# device_name = 'cpu'
 print(device_name)
 device = torch.device(device_name)
 
@@ -131,7 +145,7 @@ def train():
 
     optimizer.zero_grad()
 
-    z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
+    z = model.encoder(data.p_feat, data.dp_edge_index, data.dp_range_list, data.p_norm)
 
     pos_index = data.train_idx
     neg_index = negative_sampling(data.train_idx, n_drug).to(device)
@@ -159,6 +173,7 @@ def train():
     # print(auprc, end='   ')
 
     print(epoch, ' ',
+          'loss:', loss.tolist(), '  ',
           'auprc:', auprc, '  ',
           'auroc:', auroc, '  ',
           'ap:', ap)
@@ -189,7 +204,7 @@ def test(z):
 
 
 EPOCH_NUM = 100
-
+out_dir = '../out/pd-32-16-8-16-963/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
@@ -200,12 +215,48 @@ for epoch in range(EPOCH_NUM):
     auprc, auroc, ap = test(z)
 
     print(epoch, ' ',
+          'loss:', loss.tolist(), '  ',
           'auprc:', auprc, '  ',
           'auroc:', auroc, '  ',
           'ap:', ap, '  ',
-          'time:', time.time()-time_begin, '\n')
+          'time:', time.time() - time_begin, '\n')
 
     # print(epoch, ' ',
     #       'auprc:', auprc)
 
     test_out[epoch] = [auprc, auroc, ap]
+
+# save output to files
+with open('../out/train_out.pkl', 'wb') as f:
+    pickle.dump(train_out, f)
+
+with open('../out/test_out.pkl', 'wb') as f:
+    pickle.dump(test_out, f)
+
+# save model state
+filepath_state = out_dir + '100ep.pth'
+torch.save(model.state_dict(), filepath_state)
+# to restore
+# model.load_state_dict(torch.load(filepath_state))
+# model.eval()
+
+# save whole model
+filepath_model = out_dir + '100ep_model.pb'
+torch.save(model, filepath_model)
+# Then later:
+# model = torch.load(filepath_model)
+
+
+# ##################################
+# training and testing figure
+def dict_to_nparray(out_dict, epoch):
+    out = np.zeros(shape=(3, epoch))
+    for ep, [prc, roc, ap] in out_dict.items():
+        out[0, ep] = prc
+        out[1, ep] = roc
+        out[2, ep] = ap
+    return out
+
+
+tr_out = dict_to_nparray(train_out, EPOCH_NUM)
+te_out = dict_to_nparray(test_out, EPOCH_NUM)
