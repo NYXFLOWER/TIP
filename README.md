@@ -11,8 +11,7 @@ have, and what are the possibilities.
 
 ![](img/pred_dd.png)
 
-Code implementations base on the [PyTorch-Geometric](https://github
-.com/rusty1s/pytorch_geometric) package, make sure it has been installed 
+Code implementations base on the [PyTorch-Geometric](https://github.com/rusty1s/pytorch_geometric) package, make sure it has been installed 
 before running the code. 
 
 ## Data Drive
@@ -58,19 +57,45 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - less than 2GB GPU memory cost. 
 - Time cost: 2 mins.
 
-### Interaction prediction (use drug ids as feature):
-21st July:
-- decoder: DistMult
+### Interaction prediction (use drug ids as feature, dd-net):
+21st July - RGCN + DistMult:
 - parameter dim: 16, 16, 16, 16
 - around 64% auprc (Limited to the number of parameters, ).
 - around 10GB GPU memory cost.
 - Time cost: 10 mins.
 - to improve: change batch => mini-batch, add more parameters, biased sampling.
 
-5th Aug:
-- output file: [[here]](out/16-16-8-8-16-963/97ep.pdf)
-- decoder: NN
-- parameter dim: 16, 16, 8, 8, 8, 963
-- 97 epoch
-- auprc:0.93, auroc:0.95, ap@50:0.93, time/epoch:61s
+5th Aug - RGCN + NN-1:
+- output file: [[here]](out/16-16-8-8-16-963/16-16-8-8-16-963.pdf)
+- parameter dim: {16, 16, 8, 8}, {16, 963}
+- 100 epoch
+- auprc:0.9317, auroc:0.9451, ap@50:0.9317, time/epoch:60s
 - maximum GPU memory cost: 7.5G
+
+<div align=center><img width="200" height="200" src="https://github.com/NYXFLOWER/FM-PSEP/tree/master/out/16-16-8-8-16-963/prc.png"/></div>
+
+8th Aug - RGCN + DistMult:
+- output file: [[here]](out/dd-rgcn-dist/100ep.pdf)
+- parameter dim: {16, 64, 32, 16}
+- 100 epoch
+- auprc:0.9479, auroc:0.9586, ap@50:0.9482, time/epoch:109s
+- maximum GPU memory cost: 10.94G
+
+<div align=center><img width="200" height="200" src="https://github.com/NYXFLOWER/FM-PSEP/tree/master/out/dd-rgcn-dist/prc.png"/></div>
+
+8th Aug - RGCN + NN-1:
+- output file: [[here]](out/dd-rgcn-nn/rgcn-nn-100ep.pdf)
+- parameter dim: {16, 64, 32, 16}, {16, 963}
+- 100 epoch
+- auprc:0.9437, auroc:0.9542, ap@50:0.9438, time/epoch:s
+- maximum GPU memory cost: 11.G
+
+<div align=center><img width="200" height="200" src="https://github.com/NYXFLOWER/FM-PSEP/tree/master/out/dd-rgcn-nn/prc.png"/></div>
+
+### Interaction prediction (use protein ids as feature):
+7th Aug - HGCN + NN-1:
+- output file: [[here]](out/pd-32-16-8-16-963/pd-nn-test.pdf)
+- parameter dim: {32, 16, 8}, {16, 963}
+- 100 epoch
+- auprc:0.7461, auroc:0.7432, ap@50:0.7331, time/epoch:28s
+- maximum GPU memory cost: 7.94G
