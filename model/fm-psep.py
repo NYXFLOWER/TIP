@@ -1,16 +1,12 @@
 from data.utils import load_data_torch
-from src.layers import negative_sampling, auprc_auroc_ap
 import pickle
-from torch.nn import Module
-import torch
 from src.layers import *
 import sys
 import time
 import matplotlib.pyplot as plt
-from model.utils import dict_to_nparray
+from model.utils import dict_ep_to_nparray
 
 sys.setrecursionlimit(8000)
-out_dir = '../out/16-16-16-8-16-963/'
 
 with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
@@ -35,9 +31,9 @@ data.d_feat.requires_grad = True
 
 n_base = 16
 
-n_embed = 16
-n_hid1 = 16
-n_hid2 = 8
+n_embed = 64
+n_hid1 = 32
+n_hid2 = 16
 
 
 class Encoder(torch.nn.Module):
@@ -55,7 +51,8 @@ class Encoder(torch.nn.Module):
     def forward(self, x, edge_index, edge_type, range_list, x_norm):
         x = torch.matmul(x, self.embed)
         x = x / x_norm.view(-1, 1)
-        x = self.rgcn1(x, edge_index, edge_type, range_list)
+        # x = self.rgcn1(x, edge_index, edge_type, range_list)
+        x = checkpoint(self.rgcn1, x, edge_index, edge_type, range_list)
         x = F.relu(x, inplace=True)
         x = self.rgcn2(x, edge_index, edge_type, range_list)
         # x = F.relu(x, inplace=True)
@@ -65,7 +62,7 @@ class Encoder(torch.nn.Module):
         self.embed.data.normal_()
 
 
-class NNDecoder(Module):
+class NNDecoder(torch.nn.Module):
     def __init__(self, in_dim, num_uni_edge_type, l1_dim=8):
         """ in_dim: the feat dim of a drug
             num_edge_type: num of dd edge type """
@@ -117,6 +114,8 @@ model = model.to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 data = data.to(device)
 
+train_record = {}
+test_record = {}
 train_out = {}
 test_out = {}
 
@@ -146,21 +145,26 @@ def train():
     loss.backward()
     optimizer.step()
 
+    record = np.zeros((3, n_et_dd))  # auprc, auroc, ap
+    for i in range(data.train_range.shape[0]):
+        [start, end] = data.train_range[i]
+        p_s = pos_score[start: end]
+        n_s = neg_score[start: end]
 
-    score = torch.cat([pos_score, neg_score])
-    pos_target = torch.ones(pos_score.shape[0])
-    neg_target = torch.zeros(neg_score.shape[0])
-    target = torch.cat([pos_target, neg_target])
-    auprc, auroc, ap = auprc_auroc_ap(target, score)
-    # print(auprc, end='   ')
+        pos_target = torch.ones(p_s.shape[0])
+        neg_target = torch.zeros(n_s.shape[0])
 
-    print(epoch, ' ',
-          'loss:', loss, '  ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap)
+        score = torch.cat([p_s, n_s])
+        target = torch.cat([pos_target, neg_target])
 
+        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
+
+    train_record[epoch] = record
+    [auprc, auroc, ap] = record.sum(axis=1) / n_et_dd
     train_out[epoch] = [auprc, auroc, ap]
+
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
+          .format(epoch, loss.tolist(), auprc, auroc, ap))
 
     return z, loss
 
@@ -171,22 +175,29 @@ test_neg_index = negative_sampling(data.test_idx, n_drug).to(device)
 def test(z):
     model.eval()
 
+    record = np.zeros((3, n_et_dd))     # auprc, auroc, ap
+
     pos_score = model.decoder(z, data.test_idx, data.test_et)
     neg_score = model.decoder(z, test_neg_index, data.test_et)
 
-    pos_target = torch.ones(pos_score.shape[0])
-    neg_target = torch.zeros(neg_score.shape[0])
+    for i in range(data.test_range.shape[0]):
+        [start, end] = data.test_range[i]
+        p_s = pos_score[start: end]
+        n_s = neg_score[start: end]
 
-    score = torch.cat([pos_score, neg_score])
-    target = torch.cat([pos_target, neg_target])
+        pos_target = torch.ones(p_s.shape[0])
+        neg_target = torch.zeros(n_s.shape[0])
 
-    auprc, auroc, ap = auprc_auroc_ap(target, score)
+        score = torch.cat([p_s, n_s])
+        target = torch.cat([pos_target, neg_target])
 
-    return auprc, auroc, ap
+        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
+
+    return record
 
 
 EPOCH_NUM = 100
-
+out_dir = '../out/dd-rgcn-nn/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
@@ -194,27 +205,28 @@ for epoch in range(EPOCH_NUM):
 
     z, loss = train()
 
-    auprc, auroc, ap = test(z)
+    record_te = test(z)
+    [auprc, auroc, ap] = record_te.sum(axis=1) / n_et_dd
 
-    print(epoch, ' ',
-          'loss:', loss, '  ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap, '  ',
-          'time:', time.time()-time_begin, '\n')
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
+          .format(epoch, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
 
-    # print(epoch, ' ',
-    #       'auprc:', auprc)
-
+    test_record[epoch] = record_te
     test_out[epoch] = [auprc, auroc, ap]
 
 
 # save output to files
-with open('../out/train_out.pkl', 'wb') as f:
+with open(out_dir + 'train_out.pkl', 'wb') as f:
     pickle.dump(train_out, f)
 
-with open('../out/test_out.pkl', 'wb') as f:
+with open(out_dir + 'test_out.pkl', 'wb') as f:
     pickle.dump(test_out, f)
+
+with open(out_dir + 'train_record.pkl', 'wb') as f:
+    pickle.dump(train_record, f)
+
+with open(out_dir + 'test_record.pkl', 'wb') as f:
+    pickle.dump(test_record, f)
 
 # save model state
 filepath_state = out_dir + '100ep.pth'
@@ -233,8 +245,8 @@ torch.save(model, filepath_model)
 # ##################################
 # training and testing figure
 
-tr_out = dict_to_nparray(train_out, EPOCH_NUM)
-te_out = dict_to_nparray(test_out, EPOCH_NUM)
+tr_out = dict_ep_to_nparray(train_out, EPOCH_NUM)
+te_out = dict_ep_to_nparray(test_out, EPOCH_NUM)
 
 plt.figure()
 x = np.array(range(EPOCH_NUM), dtype=int) + 1
@@ -242,7 +254,8 @@ maxmum = np.zeros(EPOCH_NUM) + te_out[0, :].max()
 plt.plot(x, tr_out[0, :], label='train_prc')
 plt.plot(x, te_out[0, :], label='test_prc')
 plt.plot(x, maxmum, linestyle="-.")
-plt.title('AUPRC scores on both training set and testing set')
+plt.title('AUPRC scores - RGCN + nn on dd-net')
 plt.grid()
 plt.legend()
 plt.savefig(out_dir + 'prc.png')
+
