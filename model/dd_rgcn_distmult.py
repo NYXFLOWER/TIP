@@ -138,11 +138,8 @@ def train():
     [auprc, auroc, ap] = record.sum(axis=1) / n_et_dd
     train_out[epoch] = [auprc, auroc, ap]
 
-    print(epoch, ' ',
-          'loss:', loss.tolist(), '  ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap)
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
+          .format(epoch, loss.tolist(), auprc, auroc, ap))
 
     return z, loss
 
@@ -174,7 +171,7 @@ def test(z):
     return record
 
 
-EPOCH_NUM = 1
+EPOCH_NUM = 100
 out_dir = '../out/dd-rgcn-dist/'
 
 print('model training ...')
@@ -186,17 +183,8 @@ for epoch in range(EPOCH_NUM):
     record_te = test(z)
     [auprc, auroc, ap] = record_te.sum(axis=1)/n_et_dd
 
-    # print(epoch, ' ',
-    #       'auprc:', auprc, '  ',
-    #       'auroc:', auroc, '  ',
-    #       'ap:', ap)
-
-    print(epoch, ' ',
-          'loss:', loss.tolist(), '  ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap, '  ',
-          'time:', time.time() - time_begin, '\n')
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
+          .format(epoch, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
 
     test_record[epoch] = record_te
     test_out[epoch] = [auprc, auroc, ap]
