@@ -80,8 +80,9 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - 100 epoch
 - auprc:0.9479, auroc:0.9586, ap@50:0.9482, time/epoch:109s
 - maximum GPU memory cost: 10.94G
-
 <div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/prc.png"/></div>
+- Evaluation (the top20 highest and lowest AUPRC)
+<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/top20.png"/></div>
 
 8th Aug - RGCN + NN-1:
 - output file: [[here]](out/dd-rgcn-nn/rgcn-nn-100ep.pdf)
