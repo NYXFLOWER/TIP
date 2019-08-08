@@ -82,7 +82,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - maximum GPU memory cost: 10.94G
 <div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/prc.png"/></div>
 - Evaluation (the top20 highest and lowest AUPRC)
-<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/top20.png"/></div>
+<div align=center><img width="900" height="450" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/top20.png"/></div>
 
 8th Aug - RGCN + NN-1:
 - output file: [[here]](out/dd-rgcn-nn/rgcn-nn-100ep.pdf)
