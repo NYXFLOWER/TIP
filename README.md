@@ -72,7 +72,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - auprc:0.9317, auroc:0.9451, ap@50:0.9317, time/epoch:60s
 - maximum GPU memory cost: 7.5G
 
-<div align=center><img width="200" height="200" src="https://github.com/NYXFLOWER/FM-PSEP/tree/master/out/16-16-8-8-16-963/prc.png"/></div>
+<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/16-16-8-8-16-963/prc.png"/></div>
 
 8th Aug - RGCN + DistMult:
 - output file: [[here]](out/dd-rgcn-dist/100ep.pdf)
@@ -81,7 +81,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - auprc:0.9479, auroc:0.9586, ap@50:0.9482, time/epoch:109s
 - maximum GPU memory cost: 10.94G
 
-<div align=center><img width="200" height="200" src="https://github.com/NYXFLOWER/FM-PSEP/tree/master/out/dd-rgcn-dist/prc.png"/></div>
+<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/prc.png"/></div>
 
 8th Aug - RGCN + NN-1:
 - output file: [[here]](out/dd-rgcn-nn/rgcn-nn-100ep.pdf)
@@ -90,7 +90,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - auprc:0.9437, auroc:0.9542, ap@50:0.9438, time/epoch:s
 - maximum GPU memory cost: 11.G
 
-<div align=center><img width="200" height="200" src="https://github.com/NYXFLOWER/FM-PSEP/tree/master/out/dd-rgcn-nn/prc.png"/></div>
+<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-nn/prc.png"/></div>
 
 ### Interaction prediction (use protein ids as feature):
 7th Aug - HGCN + NN-1:
