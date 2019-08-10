@@ -57,7 +57,7 @@ with open('../out/dd-rgcn-dist/test_record.pkl', 'rb') as f:
 auprc = np.array(dist_record[len(dist_record)-1])[0, :]
 sorted_idx = np.argsort(auprc, kind='quicksort')
 
-print(' {:37s}  {:6s} | {:45s}  {:6s}'.format('The Highest AUPRC Score', ' Edge', 'The Lowest AUPRC Score', '  Edge'))
+print(' {:37s}   {:6s}| {:45s}  {:6s}'.format('The Highest AUPRC Score', '  Edge', 'The Lowest AUPRC Score', '   Edge'))
 for i in range(20):
     print(' {:30s} {:7.4f}  {:6d}| {:38s} {:7.4f}  {:6d}'.format(
         combo_name_map[inv_combo_map[et_list[sorted_idx[-(i+1)]]]], auprc[sorted_idx[-(i+1)]], feed_dict['dd_adj_list'][-(i+1)].nnz,

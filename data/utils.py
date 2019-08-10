@@ -1,11 +1,12 @@
 import numpy as np
 import scipy.sparse as sp
 import pickle
-import torch as t
+import torch
 import torch.sparse as tsp
 from torch_geometric.nn.models.autoencoder import negative_sampling
+from src.layers import remove_bidirection, to_bidirection
 
-t.manual_seed(0)
+torch.manual_seed(0)
 
 
 def save_to_pkl(path, obj):
@@ -53,7 +54,7 @@ def load_data_torch(path, dd_et_list, mono=True):
     # ########################################
     # protein-protein
     # ########################################
-    pp_adj = sp.load_npz(path + "sym_adj/protein-sparse-adj.npz").tocsr()
+    pp_adj = sp.load_npz(path + "sym_adj/protein-sparse-adj.npz")
 
     # ########################################
     # drug-protein
@@ -96,10 +97,10 @@ def load_data_torch(path, dd_et_list, mono=True):
     # protein feature matrix
     # ########################################
     # protein_feat = sp.identity(protein_num)
-    ind = t.LongTensor([range(protein_num), range(protein_num)])
-    val = t.FloatTensor([1] * protein_num)
-    protein_feat = t.sparse.FloatTensor(ind, val,
-                                        t.Size([protein_num, protein_num]))
+    ind = torch.LongTensor([range(protein_num), range(protein_num)])
+    val = torch.FloatTensor([1] * protein_num)
+    protein_feat = torch.sparse.FloatTensor(ind, val,
+                                            torch.Size([protein_num, protein_num]))
 
     # ########################################
     # drug feature matrix
@@ -115,18 +116,18 @@ def load_data_torch(path, dd_et_list, mono=True):
     else:
         mono_num = 0
 
-    ind = t.LongTensor([row, col])
-    val = t.FloatTensor([1] * len(row))
+    ind = torch.LongTensor([row, col])
+    val = torch.FloatTensor([1] * len(row))
 
-    drug_feat = t.sparse.FloatTensor(ind, val, t.Size([drug_num, drug_num
-                                                       + mono_num]))
+    drug_feat = torch.sparse.FloatTensor(ind, val,
+                                         torch.Size([drug_num, drug_num + mono_num]))
 
     # return a dict
     data = {'d_feat': drug_feat,
             'p_feat': protein_feat,
             'dd_adj_list': dd_adj_list,
             'dp_adj': dp_adj.tocoo(),
-            'pp_adj': pp_adj}
+            'pp_adj': pp_adj.tocoo()}
 
     n_et = len(dd_et_list)
 
@@ -139,8 +140,8 @@ def load_data_torch(path, dd_et_list, mono=True):
     for i in range(n_et):
         # pos samples
         adj = dd_adj_list[i].tocoo()
-        edge_index_list.append(t.tensor([adj.row, adj.col], dtype=t.long))
-        edge_type_list.append(t.tensor([i] * adj.nnz, dtype=t.long))
+        edge_index_list.append(torch.tensor([adj.row, adj.col], dtype=torch.long))
+        edge_type_list.append(torch.tensor([i] * adj.nnz, dtype=torch.long))
         num.append(num[-1] + adj.nnz)
 
         # if i % 100 == 0:
@@ -151,8 +152,8 @@ def load_data_torch(path, dd_et_list, mono=True):
     data['dd_edge_index'] = edge_index_list
     data['dd_edge_type'] = edge_type_list
     data['dd_edge_type_num'] = num
-    data['dd_y_pos'] = t.ones(num[-1])
-    data['dd_y_neg'] = t.zeros(num[-1])
+    data['dd_y_pos'] = torch.ones(num[-1])
+    data['dd_y_neg'] = torch.zeros(num[-1])
 
     print('data has been loaded')
 
@@ -197,3 +198,23 @@ def get_edge_list(low, name, source_path='./data/', out_path='./out/'):
         pickle.dump(out, f)
 
     return out
+
+
+def process_prot_edge(pp_net):
+    indices = torch.LongTensor(np.concatenate((pp_net.col.reshape(1, -1),
+                                               pp_net.row.reshape(1, -1)),
+                                              axis=0))
+    indices = remove_bidirection(indices, None)
+    n_edge = indices.shape[1]
+
+    rd = np.random.binomial(1, 0.9, n_edge)
+    train_mask = rd.nonzero()[0]
+    test_mask = (1 - rd).nonzero()[0]
+
+    train_indices = indices[:, train_mask]
+    train_indices = to_bidirection(train_indices, None)
+
+    test_indices = indices[:, test_mask]
+    test_indices = to_bidirection(test_indices, None)
+
+    return train_indices, test_indices

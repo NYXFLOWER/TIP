@@ -72,7 +72,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - auprc:0.9317, auroc:0.9451, ap@50:0.9317, time/epoch:60s
 - maximum GPU memory cost: 7.5G
 
-<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/16-16-8-8-16-963/prc.png"/></div>
+<div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/16-16-8-8-16-963/prc.png"/></div>
 
 8th Aug - RGCN + DistMult:
 - output file: [[here]](out/dd-rgcn-dist/100ep.pdf)
@@ -80,7 +80,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - 100 epoch
 - auprc:0.9479, auroc:0.9586, ap@50:0.9482, time/epoch:109s
 - maximum GPU memory cost: 10.94G
-<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/prc.png"/></div>
+<div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/prc.png"/></div>
 - Evaluation (the top20 highest and lowest AUPRC)
 <div align=center><img width="900" height="450" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/top20.png"/></div>
 
@@ -91,7 +91,16 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 - auprc:0.9437, auroc:0.9542, ap@50:0.9438, time/epoch:s
 - maximum GPU memory cost: 11.G
 
-<div align=center><img width="300" height="200" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-nn/prc.png"/></div>
+<div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-nn/prc.png"/></div>
+
+10th Aug - FM-PSEP
+- output file: [[here]](out/fm-(16-8-8)-(4-16-16-8-8)/FM-(16-8-8)-(4)-(16-16-8-8).pdf)
+- parameter dim: {16-8-8}, {4}, {16-16-8-8}
+- 100 epoch
+- auprc:0.9460, auroc:0.9566, ap@50:0.9463, time/epoch:68s
+- maximum GPU memory cost: 11.G
+
+
 
 ### Interaction prediction (use protein ids as feature):
 7th Aug - HGCN + NN-1:
