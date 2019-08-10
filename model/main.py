@@ -1,39 +1,43 @@
-from data.utils import load_data_torch
-from src.layers import negative_sampling, auprc_auroc_ap
-import pickle
-from torch.nn import Module
-import torch
-from src.layers import *
+from data.utils import load_data_torch, process_prot_edge
 from model.pd_net import MyHierarchyConv
+from model.utils import dict_ep_to_nparray
+from src.layers import *
+import pickle
 import sys
+import os
 import time
+import matplotlib.pyplot as plt
 
 sys.setrecursionlimit(8000)
+os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 
 with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-# et_list = et_list
+# et_list = et_list[:300]
 feed_dict = load_data_torch("../data/", et_list, mono=True)
+
 data = Data.from_dict(feed_dict)
-n_drug, n_drug_feat = data.d_feat.shape
-n_prot, n_prot_feat = data.p_feat.shape
-n_et_dd = len(et_list)
+data.n_drug = data.d_feat.shape[0]
+data.n_prot = data.p_feat.shape[0]
+data.n_dd_et = len(et_list)
 
-data.train_idx, data.train_et, data.train_range,data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
+data.dd_train_idx, data.dd_train_et, data.dd_train_range, data.dd_test_idx, data.dd_test_et, data.dd_test_range = process_edges(data.dd_edge_index)
+data.pp_train_indices, data.pp_test_indices = process_prot_edge(data.pp_adj)
 
-# re-construct node feature
-data.p_feat = torch.cat([dense_id(n_prot), torch.zeros(size=(n_drug, n_prot))], dim=0)
-data.d_feat = dense_id(n_drug)
-n_drug_feat = n_drug
-n_prot_feat = n_prot
+
+# TODO: add drug feature
+data.d_feat = dense_id(data.n_drug)
+data.p_feat = dense_id(data.n_prot)
+data.n_drug_feat = data.d_feat.shape[1]
+data.d_norm = torch.ones(data.n_drug_feat)
 
 # ###################################
 # dp_edge_index and range index
 # ###################################
 data.dp_edge_index = np.array([data.dp_adj.col-1, data.dp_adj.row-1])
 
-count_durg = np.zeros(n_drug, dtype=np.int)
+count_durg = np.zeros(data.n_drug, dtype=np.int)
 for i in data.dp_edge_index[1, :]:
     count_durg[i] += 1
 range_list = []
@@ -44,114 +48,146 @@ for i in count_durg:
     range_list.append((start, end))
     start = end
 
-data.dp_edge_index = torch.from_numpy(data.dp_edge_index + np.array([[0], [n_prot]]))
-data.dp_range_list = range_list
+data.dp_edge_index = torch.from_numpy(data.dp_edge_index + np.array([[0], [data.n_prot]]))
+data.dp_range_list = torch.Tensor(range_list)
+
+data.d_feat.requires_grad = True
+data.p_feat.requires_grad = True
 
 
-data.d_norm = torch.ones(n_drug)
-data.p_norm = torch.ones(n_prot+n_drug)
-# data.x_norm = torch.sqrt(data.d_feat.sum(dim=1))
-# data.d_feat.requires_grad = True
+class PPEncoder(torch.nn.Module):
 
+    def __init__(self, in_dim, n_embed=16, hid1=8, hid2=8):
+    # def __init__(self, in_dim, n_embed=6, hid1=3, hid2=2):
+        super(PPEncoder, self).__init__()
+        self.out_dim = hid2
 
-source_dim = n_prot_feat
-embed_dim = 32
-target_dim = 16
-
-
-class HierEncoder(Module):
-    def __init__(self, source_dim, embed_dim, target_dim,
-                 uni_num_source, uni_num_target):
-        super(HierEncoder, self).__init__()
-
-        self.embed = Param(torch.Tensor(source_dim, embed_dim))
-        self.hgcn = MyHierarchyConv(embed_dim, target_dim, uni_num_source, uni_num_target)
+        self.embed = Param(torch.Tensor(in_dim, n_embed))
+        self.conv1 = GCNConv(n_embed, hid1, cached=True)
+        self.conv2 = GCNConv(hid1, hid2, cached=True)
 
         self.reset_parameters()
+
+    def forward(self, x, edge_index):
+        x = torch.matmul(x, self.embed)
+        x = self.conv1(x, edge_index)
+        # x = checkpoint(self.conv1, x, edge_index)
+        x = F.normalize(x, dim=1)
+        # x = F.dropout(x, training=self.training)
+        x = self.conv2(x, edge_index)
+        # x = checkpoint(self.conv2, x, edge_index)
+        return x
 
     def reset_parameters(self):
         self.embed.data.normal_()
 
-    def forward(self, source_feat, edge_index, range_list, x_norm):
-        x = torch.matmul(source_feat, self.embed)
-        x = x / x_norm.view(-1, 1)
-        x = self.hgcn(x, edge_index, range_list)
-        # x = F.relu(x, inplace=True)
 
-        return x
+class FMEncoder(torch.nn.Module):
+
+    def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
+                 uni_num_prot, uni_num_drug, prot_drug_dim=4,
+                 num_base=16, n_embed=16, n_hid1=8, n_hid2=8):
+    # def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
+    #              uni_num_prot, uni_num_drug, prot_drug_dim=9,
+    #              num_base=6, n_embed=4, n_hid1=2, n_hid2=2):
+        super(FMEncoder, self).__init__()
+        self.num_et = num_dd_et
+        self.out_dim = n_hid2
+        self.uni_num_drug = uni_num_drug
+        self.uni_num_prot = uni_num_prot
+
+        # on pp-net
+        self.pp_encoder = PPEncoder(in_dim_prot)
+
+        # feat: drug index
+        self.embed = Param(torch.Tensor(in_dim_drug, n_embed))
+
+        # on pd-net
+        self.hgcn = MyHierarchyConv(self.pp_encoder.out_dim, prot_drug_dim, uni_num_prot, uni_num_drug)
+        self.hdrug = torch.zeros((self.uni_num_drug, self.pp_encoder.out_dim)).to(device)
+
+        # on dd-net
+        self.rgcn1 = MyRGCNConv2(n_embed+self.hgcn.out_dim, n_hid1, num_dd_et, num_base, after_relu=False)
+        self.rgcn2 = MyRGCNConv2(n_hid1, n_hid2, num_dd_et, num_base, after_relu=True)
+
+        self.reset_paramters()
+
+    def forward(self, x_drug, dd_edge_index, dd_edge_type, dd_range_list, d_norm,
+                x_prot, pp_edge_index, dp_edge_index, dp_range_list):
+        # pp-net
+        # x_prot = self.pp_encoder(x_prot, pp_edge_index)
+        x_prot = checkpoint(self.pp_encoder, x_prot, pp_edge_index)
+        # pd-net
+        # x_prot = torch.cat((x_prot, self.hdrug))
+        # x_prot = self.hgcn(x_prot, dp_edge_index, dp_range_list)
+        x_prot = checkpoint(self.hgcn, torch.cat((x_prot, self.hdrug)), dp_edge_index, dp_range_list)
+
+        # d-embed
+        # x_drug = torch.matmul(x_drug, self.embed)
+        x_drug = checkpoint(torch.matmul, x_drug, self.embed)
+        x_drug = x_drug / d_norm.view(-1, 1)
+        # x_drug = torch.cat((x_drug, x_prot), dim=1)
+
+        # dd-net
+        # x = self.rgcn1(x, edge_index, edge_type, range_list)
+        x_drug = checkpoint(self.rgcn1, torch.cat((x_drug, x_prot), dim=1), dd_edge_index, dd_edge_type, dd_range_list)
+
+        x_drug = F.relu(x_drug, inplace=True)
+        # x_drug = self.rgcn2(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+        x_drug = checkpoint(self.rgcn2, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+        x_drug = F.relu(x_drug, inplace=True)
+        return x_drug
+
+    def reset_paramters(self):
+        self.embed.data.normal_()
 
 
-class NNDecoder(Module):
-    def __init__(self, in_dim, num_uni_edge_type, l1_dim=8):
-        """ in_dim: the feat dim of a drug
-            num_edge_type: num of dd edge type """
-
-        super(NNDecoder, self).__init__()
-        self.l1_dim = l1_dim     # Decoder Lays' dim setting
-
-        # parameters
-        # for drug 1
-        self.w1_l1 = Param(torch.Tensor(in_dim, l1_dim))
-        self.w1_l2 = Param(torch.Tensor(num_uni_edge_type, l1_dim))  # dd_et
-        # specified
-        # for drug 2
-        self.w2_l1 = Param(torch.Tensor(in_dim, l1_dim))
-        self.w2_l2 = Param(torch.Tensor(num_uni_edge_type, l1_dim))  # dd_et
-        # specified
+class MultiInnerProductDecoder(torch.nn.Module):
+    def __init__(self, in_dim, num_et):
+        super(MultiInnerProductDecoder, self).__init__()
+        self.num_et = num_et
+        self.in_dim = in_dim
+        self.weight = Param(torch.Tensor(num_et, in_dim))
 
         self.reset_parameters()
 
-    def forward(self, z, edge_index, edge_type):
-        # layer 1
-        d1 = torch.matmul(z[edge_index[0]], self.w1_l1)
-        d2 = torch.matmul(z[edge_index[1]], self.w2_l1)
-        d1 = F.relu(d1, inplace=True)
-        d2 = F.relu(d2, inplace=True)
-
-        # layer 2
-        d1 = (d1 * self.w1_l2[edge_type]).sum(dim=1)
-        d2 = (d2 * self.w2_l2[edge_type]).sum(dim=1)
-
-        return torch.sigmoid(d1 + d2)
+    def forward(self, z, edge_index, edge_type, sigmoid=True):
+        value = (z[edge_index[0]] * z[edge_index[1]] * self.weight[edge_type]).sum(dim=1)
+        return torch.sigmoid(value) if sigmoid else value
 
     def reset_parameters(self):
-        self.w1_l1.data.normal_()
-        self.w2_l1.data.normal_()
-        self.w1_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
-        self.w2_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
-
-
-encoder = HierEncoder(source_dim, embed_dim, target_dim, n_prot, n_drug)
-decoder = NNDecoder(target_dim, n_et_dd)
-model = MyGAE(encoder, decoder)
+        self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
 
 device_name = 'cuda' if torch.cuda.is_available() else 'cpu'
-# device_name = 'cpu'
 print(device_name)
 device = torch.device(device_name)
+
+encoder = FMEncoder(device, data.n_drug_feat, data.n_dd_et, data.n_prot, data.n_prot, data.n_drug)
+decoder = MultiInnerProductDecoder(encoder.out_dim, data.n_dd_et)
+model = MyGAE(encoder, decoder)
 
 model = model.to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 data = data.to(device)
-
+#
+train_record = {}
+test_record = {}
 train_out = {}
 test_out = {}
 
 
-
 def train():
-
     model.train()
 
     optimizer.zero_grad()
+    z = model.encoder(data.d_feat, data.dd_train_idx, data.dd_train_et, data.dd_train_range, data.d_norm,
+                      data.p_feat, data.pp_train_indices, data.dp_edge_index, data.dp_range_list)
 
-    z = model.encoder(data.p_feat, data.dp_edge_index, data.dp_range_list, data.p_norm)
+    pos_index = data.dd_train_idx
+    neg_index = negative_sampling(data.dd_train_idx, data.n_drug).to(device)
 
-    pos_index = data.train_idx
-    neg_index = negative_sampling(data.train_idx, n_drug).to(device)
-
-    pos_score = model.decoder(z, pos_index, data.train_et)
-    neg_score = model.decoder(z, neg_index, data.train_et)
+    pos_score = model.decoder(z, pos_index, data.dd_train_et)
+    neg_score = model.decoder(z, neg_index, data.dd_train_et)
 
     # pos_loss = F.binary_cross_entropy(pos_score, torch.ones(pos_score.shape[0]).cuda())
     # neg_loss = F.binary_cross_entropy(neg_score, torch.ones(neg_score.shape[0]).cuda())
@@ -160,51 +196,62 @@ def train():
     loss = pos_loss + neg_loss
     # loss = pos_loss
 
-
     loss.backward()
     optimizer.step()
 
+    record = np.zeros((3, data.n_dd_et))  # auprc, auroc, ap
+    for i in range(data.dd_train_range.shape[0]):
+        [start, end] = data.dd_train_range[i]
+        p_s = pos_score[start: end]
+        n_s = neg_score[start: end]
 
-    score = torch.cat([pos_score, neg_score])
-    pos_target = torch.ones(pos_score.shape[0])
-    neg_target = torch.zeros(neg_score.shape[0])
-    target = torch.cat([pos_target, neg_target])
-    auprc, auroc, ap = auprc_auroc_ap(target, score)
-    # print(auprc, end='   ')
+        pos_target = torch.ones(p_s.shape[0])
+        neg_target = torch.zeros(n_s.shape[0])
 
-    print(epoch, ' ',
-          'loss:', loss.tolist(), '  ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap)
+        score = torch.cat([p_s, n_s])
+        target = torch.cat([pos_target, neg_target])
 
+        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
+
+    train_record[epoch] = record
+    [auprc, auroc, ap] = record.sum(axis=1) / data.n_dd_et
     train_out[epoch] = [auprc, auroc, ap]
+
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
+          .format(epoch, loss.tolist(), auprc, auroc, ap))
 
     return z, loss
 
 
-test_neg_index = negative_sampling(data.test_idx, n_drug).to(device)
+test_neg_index = negative_sampling(data.dd_test_idx, data.n_drug).to(device)
 
 
 def test(z):
     model.eval()
 
-    pos_score = model.decoder(z, data.test_idx, data.test_et)
-    neg_score = model.decoder(z, test_neg_index, data.test_et)
+    record = np.zeros((3, data.n_dd_et))     # auprc, auroc, ap
 
-    pos_target = torch.ones(pos_score.shape[0])
-    neg_target = torch.zeros(neg_score.shape[0])
+    pos_score = model.decoder(z, data.dd_test_idx, data.dd_test_et)
+    neg_score = model.decoder(z, test_neg_index, data.dd_test_et)
 
-    score = torch.cat([pos_score, neg_score])
-    target = torch.cat([pos_target, neg_target])
+    for i in range(data.dd_test_range.shape[0]):
+        [start, end] = data.dd_test_range[i]
+        p_s = pos_score[start: end]
+        n_s = neg_score[start: end]
 
-    auprc, auroc, ap = auprc_auroc_ap(target, score)
+        pos_target = torch.ones(p_s.shape[0])
+        neg_target = torch.zeros(n_s.shape[0])
 
-    return auprc, auroc, ap
+        score = torch.cat([p_s, n_s])
+        target = torch.cat([pos_target, neg_target])
+
+        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
+
+    return record
 
 
 EPOCH_NUM = 100
-out_dir = '../out/pd-32-16-8-16-963/'
+out_dir = '../out/fm-(16-8-8)-(4-16-16-8-8)/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
@@ -212,20 +259,56 @@ for epoch in range(EPOCH_NUM):
 
     z, loss = train()
 
-    auprc, auroc, ap = test(z)
+    record_te = test(z)
+    [auprc, auroc, ap] = record_te.sum(axis=1)/data.n_dd_et
 
-    print(epoch, ' ',
-          'loss:', loss.tolist(), '  ',
-          'auprc:', auprc, '  ',
-          'auroc:', auroc, '  ',
-          'ap:', ap, '  ',
-          'time:', time.time() - time_begin, '\n')
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
+          .format(epoch, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
 
-    # print(epoch, ' ',
-    #       'auprc:', auprc)
-
+    test_record[epoch] = record_te
     test_out[epoch] = [auprc, auroc, ap]
 
+#
+# save output to files
+with open(out_dir + 'train_out.pkl', 'wb') as f:
+    pickle.dump(train_out, f)
+
+with open(out_dir + 'test_out.pkl', 'wb') as f:
+    pickle.dump(test_out, f)
+
+with open(out_dir + 'train_record.pkl', 'wb') as f:
+    pickle.dump(train_record, f)
+
+with open(out_dir + 'test_record.pkl', 'wb') as f:
+    pickle.dump(test_record, f)
+
+# save model state
+filepath_state = out_dir + '100ep.pth'
+torch.save(model.state_dict(), filepath_state)
+# to restore
+# model.load_state_dict(torch.load(filepath_state))
+# model.eval()
+
+# save whole model
+filepath_model = out_dir + '100ep_model.pb'
+torch.save(model, filepath_model)
+# Then later:
+# model = torch.load(filepath_model)
 
 
+# ##################################
+# training and testing figure
+tr_out = dict_ep_to_nparray(train_out, EPOCH_NUM)
+te_out = dict_ep_to_nparray(test_out, EPOCH_NUM)
 
+plt.figure()
+x = np.array(range(EPOCH_NUM), dtype=int) + 1
+maxmum = np.zeros(EPOCH_NUM) + te_out[0, :].max()
+plt.plot(x, tr_out[0, :], label='train_prc')
+plt.plot(x, te_out[0, :], label='test_prc')
+plt.plot(x, maxmum, linestyle="-.")
+plt.title('AUPRC scores - FM')
+plt.grid()
+plt.legend()
+plt.savefig(out_dir + 'prc.png')
+# plt.show()
