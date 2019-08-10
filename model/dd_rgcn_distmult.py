@@ -30,9 +30,9 @@ data.x_norm = torch.ones(n_drug)
 
 n_base = 16
 
-n_embed = 64
-n_hid1 = 32
-n_hid2 = 16
+n_embed = 16
+n_hid1 = 8
+n_hid2 = 8
 
 
 class Encoder(torch.nn.Module):
@@ -172,7 +172,7 @@ def test(z):
 
 
 EPOCH_NUM = 100
-out_dir = '../out/dd-rgcn-dist/'
+out_dir = '../out/dd-rgcn-dist-16-16-8-8/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):

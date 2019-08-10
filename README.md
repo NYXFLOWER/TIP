@@ -93,13 +93,25 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 
 <div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-nn/prc.png"/></div>
 
+
 10th Aug - FM-PSEP
 - output file: [[here]](out/fm-(16-8-8)-(4-16-16-8-8)/FM-(16-8-8)-(4)-(16-16-8-8).pdf)
 - parameter dim: {16-8-8}, {4}, {16-16-8-8}
 - 100 epoch
 - auprc:0.9460, auroc:0.9566, ap@50:0.9463, time/epoch:68s
-- maximum GPU memory cost: 11.G
+- maximum GPU memory cost: 10.7G
 
+<div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/fm-(16-8-8)-(4-16-16-8-8)/prc.png"/></div>
+
+
+10th Aug - RGCN + DistMult
+- output file: [[here]](out/dd-rgcn-dist-16-16-8-86-8-8/dd-rgcn-dist-16-16-8-8.pdf)
+- parameter dim: {16-16-8-8}
+- 100 epoch
+- auprc:0.9462, auroc:0.9568, ap@50:0.9465, time/epoch:62s
+- maximum GPU memory cost: 7.6G
+
+<div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist-16-16-8-8/prc.png"/></div>
 
 
 ### Interaction prediction (use protein ids as feature):
