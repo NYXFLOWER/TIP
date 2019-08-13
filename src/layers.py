@@ -96,6 +96,13 @@ def negative_sampling(pos_edge_index, num_nodes):
     return torch.stack([row, col], dim=0).long().to(pos_edge_index.device)
 
 
+def typed_negative_sampling(pos_edge_index, num_nodes, range_list):
+    tmp = []
+    for start, end in range_list:
+        tmp.append(negative_sampling(pos_edge_index[:, start: end], num_nodes))
+    return torch.cat(tmp, dim=1)
+
+
 def sparse_id(n):
     idx = [[i for i in range(n)], [i for i in range(n)]]
     val = [1 for i in range(n)]
