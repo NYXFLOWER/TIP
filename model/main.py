@@ -27,7 +27,7 @@ data.pp_train_indices, data.pp_test_indices = process_prot_edge(data.pp_adj)
 
 # TODO: add drug feature
 data.d_feat = sparse_id(data.n_drug)
-# data.p_feat = sparse_id(data.n_prot)
+data.p_feat = sparse_id(data.n_prot)
 data.n_drug_feat = data.d_feat.shape[1]
 data.d_norm = torch.ones(data.n_drug_feat)
 
@@ -50,8 +50,10 @@ for i in count_drug:
 data.dp_edge_index = torch.from_numpy(data.dp_edge_index + np.array([[0], [data.n_prot]]))
 data.dp_range_list = torch.Tensor(range_list)
 
-data.d_feat.requires_grad = True
-data.p_feat.requires_grad = True
+# data.d_feat.requires_grad = True
+# data.p_feat.requires_grad = True
+
+out_dir = '../out/fm-(32-16)-(16-16-32-16-16)/'
 
 
 class PPEncoder(torch.nn.Module):
@@ -79,7 +81,7 @@ class FMEncoder(torch.nn.Module):
 
     def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
                  uni_num_prot, uni_num_drug, prot_drug_dim=16,
-                 num_base=16, n_embed=48, n_hid1=32, n_hid2=16, mod='cat'):
+                 num_base=16, n_embed=32, n_hid1=16, n_hid2=16, mod='cat'):
         '''
         :param device:
         :param in_dim_drug:
@@ -164,6 +166,7 @@ class MultiInnerProductDecoder(torch.nn.Module):
     def reset_parameters(self):
         self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
 
+
 device_name = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(device_name)
 device = torch.device(device_name)
@@ -205,28 +208,27 @@ def train():
     loss.backward()
     optimizer.step()
 
-    if (epoch+1) % 5 == 0:
-        record = np.zeros((3, data.n_dd_et))  # auprc, auroc, ap
-        for i in range(data.dd_train_range.shape[0]):
-            [start, end] = data.dd_train_range[i]
-            p_s = pos_score[start: end]
-            n_s = neg_score[start: end]
+    record = np.zeros((3, data.n_dd_et))  # auprc, auroc, ap
+    for i in range(data.dd_train_range.shape[0]):
+        [start, end] = data.dd_train_range[i]
+        p_s = pos_score[start: end]
+        n_s = neg_score[start: end]
 
-            pos_target = torch.ones(p_s.shape[0])
-            neg_target = torch.zeros(n_s.shape[0])
+        pos_target = torch.ones(p_s.shape[0])
+        neg_target = torch.zeros(n_s.shape[0])
 
-            score = torch.cat([p_s, n_s])
-            target = torch.cat([pos_target, neg_target])
+        score = torch.cat([p_s, n_s])
+        target = torch.cat([pos_target, neg_target])
 
-            record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target,
-                                                                      score)
+        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target,
+                                                                  score)
 
-        train_record[epoch] = record
-        [auprc, auroc, ap] = record.sum(axis=1) / data.n_dd_et
-        train_out[epoch] = [auprc, auroc, ap]
+    train_record[epoch] = record
+    [auprc, auroc, ap] = record.sum(axis=1) / data.n_dd_et
+    train_out[epoch] = [auprc, auroc, ap]
 
-        print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
-              .format(epoch, loss.tolist(), auprc, auroc, ap))
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
+          .format(epoch, loss.tolist(), auprc, auroc, ap))
 
     return z, loss
 
@@ -259,7 +261,6 @@ def test(z):
 
 
 EPOCH_NUM = 100
-out_dir = '../out/fm-(32-16)-(16-16-48-32-16)/'
 
 print('model training ...')
 
@@ -268,17 +269,14 @@ for epoch in range(EPOCH_NUM):
 
     z, loss = train()
 
-    if (epoch+1) % 5 == 0:
-        record_te = test(z)
-        [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
+    record_te = test(z)
+    [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
 
-        print(
-            '{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
-            .format(epoch, loss.tolist(), auprc, auroc, ap,
-                    (time.time() - time_begin)))
+    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
+          .format(epoch, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
 
-        test_record[epoch] = record_te
-        test_out[epoch] = [auprc, auroc, ap]
+    test_record[epoch] = record_te
+    test_out[epoch] = [auprc, auroc, ap]
 
 #
 # save output to files
