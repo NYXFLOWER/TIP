@@ -6,7 +6,7 @@ import pickle
 import sys
 import os
 import time
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 
@@ -14,7 +14,7 @@ with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
 # et_list = et_list[:300]
-feed_dict = load_data_torch("../data/", et_list, mono=True)
+feed_dict = load_data_torch("../data/", et_list[:10], mono=True)
 
 data = Data.from_dict(feed_dict)
 data.n_drug = data.d_feat.shape[0]
