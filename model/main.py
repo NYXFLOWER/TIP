@@ -14,7 +14,7 @@ with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
 # et_list = et_list[:300]
-feed_dict = load_data_torch("../data/", et_list[:10], mono=True)
+feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 data = Data.from_dict(feed_dict)
 data.n_drug = data.d_feat.shape[0]
@@ -53,7 +53,7 @@ data.dp_range_list = torch.Tensor(range_list)
 # data.d_feat.requires_grad = True
 # data.p_feat.requires_grad = True
 
-out_dir = '../out/fm-(32-16)-(16-16-32-16-16)/'
+out_dir = '../out_new/tip-cat(32-16)-(16-16-48-32-16)/'
 
 
 class PPEncoder(torch.nn.Module):
@@ -81,7 +81,7 @@ class FMEncoder(torch.nn.Module):
 
     def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
                  uni_num_prot, uni_num_drug, prot_drug_dim=16,
-                 num_base=16, n_embed=32, n_hid1=16, n_hid2=16, mod='cat'):
+                 num_base=16, n_embed=48, n_hid1=32, n_hid2=16, mod='cat'):
         '''
         :param device:
         :param in_dim_drug:
@@ -233,7 +233,7 @@ def train():
     return z, loss
 
 
-test_neg_index = negative_sampling(data.dd_test_idx, data.n_drug).to(device)
+test_neg_index = typed_negative_sampling(data.dd_test_idx, data.n_drug, data.dd_test_range).to(device)
 
 
 def test(z):
@@ -300,6 +300,7 @@ torch.save(model.state_dict(), filepath_state)
 # model.eval()
 
 # save whole model
+# out_dir = './out/fm-(32-16)-(16-16-48-32-16)/'
 filepath_model = out_dir + '100ep_model.pb'
 torch.save(model, filepath_model)
 # Then later:

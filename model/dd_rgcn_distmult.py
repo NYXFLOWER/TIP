@@ -144,7 +144,7 @@ def train():
     return z, loss
 
 
-test_neg_index = negative_sampling(data.test_idx, n_drug).to(device)
+test_neg_index = typed_negative_sampling(data.test_idx, n_drug, data.test_range).to(device)
 
 
 def test(z):
@@ -172,7 +172,7 @@ def test(z):
 
 
 EPOCH_NUM = 100
-out_dir = '../out/dd-rgcn-dist-16-16-8-8/'
+out_dir = '../out/dd-rgcn-dist(16-64-32-16)-16-16-8-8/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):

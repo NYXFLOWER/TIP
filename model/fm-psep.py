@@ -197,7 +197,7 @@ def test(z):
 
 
 EPOCH_NUM = 100
-out_dir = '../out/dd-rgcn-nn/'
+out_dir = '../out/dd-rgcn-nn(16-64-32-16)/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
