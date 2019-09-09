@@ -52,7 +52,7 @@ decagon_worst_idx = [inv_et_list[combo_map[i]] for i in decagon_worst_org_id]
 # ######################################################
 # Evaluation
 name = 'RGCN-DistMult on d-net'
-with open('../out/dd-rgcn-dist/test_record.pkl', 'rb') as f:
+with open('../out/dd-rgcn-dist(16-64-32-16)/test_record.pkl', 'rb') as f:
     dist_record = pickle.load(f)
 auprc = np.array(dist_record[len(dist_record)-1])[0, :]
 sorted_idx = np.argsort(auprc, kind='quicksort')

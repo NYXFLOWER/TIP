@@ -75,7 +75,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 <div align=center><img width="400" height="300" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/16-16-8-8-16-963/prc.png"/></div>
 
 8th Aug - RGCN + DistMult:
-- output file: [[here]](out/dd-rgcn-dist/100ep.pdf)
+- output file: [[here]](out/dd-rgcn-dist(16-64-32-16)/100ep.pdf)
 - parameter dim: {16, 64, 32, 16}
 - 100 epoch
 - auprc:0.9479, auroc:0.9586, ap@50:0.9482, time/epoch:109s
@@ -85,7 +85,7 @@ Then, we will compare our model with the state-of-the-art polypharmacy side effe
 <div align=center><img width="900" height="450" src="https://raw.githubusercontent.com/NYXFLOWER/FM-PSEP/master/out/dd-rgcn-dist/top20.png"/></div>
 
 8th Aug - RGCN + NN-1:
-- output file: [[here]](out/dd-rgcn-nn/rgcn-nn-100ep.pdf)
+- output file: [[here]](out/dd-rgcn-nn(16-64-32-16)/rgcn-nn-100ep.pdf)
 - parameter dim: {16, 64, 32, 16}, {16, 963}
 - 100 epoch
 - auprc:0.9437, auroc:0.9542, ap@50:0.9438, time/epoch:s
