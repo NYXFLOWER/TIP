@@ -13,7 +13,7 @@ import time
 with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-# et_list = et_list[:300]
+et_list = et_list[:30]
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 data = Data.from_dict(feed_dict)
@@ -185,7 +185,7 @@ train_out = {}
 test_out = {}
 
 
-@profile
+# @profile
 def train():
     model.train()
 
@@ -193,7 +193,7 @@ def train():
     z = model.encoder(data.d_feat, data.dd_train_idx, data.dd_train_et, data.dd_train_range, data.d_norm, data.p_feat, data.pp_train_indices, data.dp_edge_index, data.dp_range_list)
 
     pos_index = data.dd_train_idx
-    neg_index = negative_sampling(data.dd_train_idx, data.n_drug).to(device)
+    neg_index = typed_negative_sampling(data.dd_train_idx, data.n_drug, data.dd_train_range).to(device)
 
     pos_score = checkpoint(model.decoder, z, pos_index, data.dd_train_et)
     neg_score = checkpoint(model.decoder, z, neg_index, data.dd_train_et)

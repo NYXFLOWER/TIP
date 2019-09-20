@@ -119,7 +119,7 @@ test_record = {}
 train_out = {}
 test_out = {}
 
-
+@profile
 def train():
 
     model.train()
@@ -129,7 +129,7 @@ def train():
     z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
 
     pos_index = data.train_idx
-    neg_index = negative_sampling(data.train_idx, n_drug).to(device)
+    neg_index = typed_negative_sampling(data.train_idx, n_drug, data.train_range).to(device)
 
     pos_score = model.decoder(z, pos_index, data.train_et)
     neg_score = model.decoder(z, neg_index, data.train_et)
@@ -169,7 +169,7 @@ def train():
     return z, loss
 
 
-test_neg_index = negative_sampling(data.test_idx, n_drug).to(device)
+test_neg_index = typed_negative_sampling(data.test_idx, n_drug, data.test_range).to(device)
 
 
 def test(z):

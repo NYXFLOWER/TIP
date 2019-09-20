@@ -31,8 +31,8 @@ data.x_norm = torch.ones(n_drug)
 n_base = 16
 
 n_embed = 16
-n_hid1 = 8
-n_hid2 = 8
+n_hid1 = 32
+n_hid2 = 16
 
 
 class Encoder(torch.nn.Module):
@@ -91,6 +91,7 @@ train_out = {}
 test_out = {}
 
 
+@profile
 def train():
     model.train()
 
@@ -164,8 +165,8 @@ def test(z):
     return record
 
 
-EPOCH_NUM = 100
-out_dir = '../out/dd-rgcn-dist(16-64-32-16)-16-16-8-8/'
+EPOCH_NUM = 1
+out_dir = '../new_out/distmult/'
 
 print('model training ...')
 for epoch in range(EPOCH_NUM):
@@ -184,45 +185,45 @@ for epoch in range(EPOCH_NUM):
 
 
 # save output to files
-with open(out_dir + 'train_out.pkl', 'wb') as f:
-    pickle.dump(train_out, f)
-
-with open(out_dir + 'test_out.pkl', 'wb') as f:
-    pickle.dump(test_out, f)
-
-with open(out_dir + 'train_record.pkl', 'wb') as f:
-    pickle.dump(train_record, f)
-
-with open(out_dir + 'test_record.pkl', 'wb') as f:
-    pickle.dump(test_record, f)
-
-# save model state
-filepath_state = out_dir + '100ep.pth'
-torch.save(model.state_dict(), filepath_state)
-# to restore
-# model.load_state_dict(torch.load(filepath_state))
-# model.eval()
-
-# save whole model
-filepath_model = out_dir + '100ep_model.pb'
-torch.save(model, filepath_model)
-# Then later:
-# model = torch.load(filepath_model)
-
-
-# ##################################
-# training and testing figure
-tr_out = dict_ep_to_nparray(train_out, EPOCH_NUM)
-te_out = dict_ep_to_nparray(test_out, EPOCH_NUM)
-
-plt.figure()
-x = np.array(range(EPOCH_NUM), dtype=int) + 1
-maxmum = np.zeros(EPOCH_NUM) + te_out[0, :].max()
-plt.plot(x, tr_out[0, :], label='train_prc')
-plt.plot(x, te_out[0, :], label='test_prc')
-plt.plot(x, maxmum, linestyle="-.")
-plt.title('AUPRC scores - DistMult on dd-net')
-plt.grid()
-plt.legend()
-plt.savefig(out_dir + 'prc.png')
-# plt.show()
+# with open(out_dir + 'train_out.pkl', 'wb') as f:
+#     pickle.dump(train_out, f)
+#
+# with open(out_dir + 'test_out.pkl', 'wb') as f:
+#     pickle.dump(test_out, f)
+#
+# with open(out_dir + 'train_record.pkl', 'wb') as f:
+#     pickle.dump(train_record, f)
+#
+# with open(out_dir + 'test_record.pkl', 'wb') as f:
+#     pickle.dump(test_record, f)
+#
+# # save model state
+# filepath_state = out_dir + '100ep.pth'
+# torch.save(model.state_dict(), filepath_state)
+# # to restore
+# # model.load_state_dict(torch.load(filepath_state))
+# # model.eval()
+#
+# # save whole model
+# filepath_model = out_dir + '100ep_model.pb'
+# torch.save(model, filepath_model)
+# # Then later:
+# # model = torch.load(filepath_model)
+#
+#
+# # ##################################
+# # training and testing figure
+# tr_out = dict_ep_to_nparray(train_out, EPOCH_NUM)
+# te_out = dict_ep_to_nparray(test_out, EPOCH_NUM)
+#
+# plt.figure()
+# x = np.array(range(EPOCH_NUM), dtype=int) + 1
+# maxmum = np.zeros(EPOCH_NUM) + te_out[0, :].max()
+# plt.plot(x, tr_out[0, :], label='train_prc')
+# plt.plot(x, te_out[0, :], label='test_prc')
+# plt.plot(x, maxmum, linestyle="-.")
+# plt.title('AUPRC scores - DistMult on dd-net')
+# plt.grid()
+# plt.legend()
+# plt.savefig(out_dir + 'prc.png')
+# # plt.show()
