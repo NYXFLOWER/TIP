@@ -1,6 +1,5 @@
 from data.utils import load_data_torch, process_prot_edge
-from model.pd_net import MyHierarchyConv
-from model.utils import dict_ep_to_nparray
+from src.utils import *
 from src.layers import *
 import pickle
 import sys
@@ -13,7 +12,12 @@ import time
 with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-et_list = et_list[:30]
+
+#########################################################################
+et_list = et_list[:3]       # remove this line for full dataset learning
+#########################################################################
+
+
 feed_dict = load_data_torch("../data/", et_list, mono=True)
 
 data = Data.from_dict(feed_dict)

@@ -1,6 +1,5 @@
 from data.utils import load_data_torch, process_prot_edge
-from model.pd_net import MyHierarchyConv
-from model.utils import dict_ep_to_nparray
+from src.utils import *
 from src.layers import *
 import pickle
 import sys
