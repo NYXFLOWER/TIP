@@ -4,7 +4,7 @@ import pickle
 import torch
 import torch.sparse as tsp
 from torch_geometric.nn.models.autoencoder import negative_sampling
-from src.layers import remove_bidirection, to_bidirection
+from src.utils import remove_bidirection, to_bidirection
 
 torch.manual_seed(0)
 
@@ -20,6 +20,15 @@ def get_drug_index_from_text(code):
 
 def get_side_effect_index_from_text(code):
     return int(code.split('C')[-1])
+
+
+def sparse_to_tuple(sparse_mx):
+    if not sp.isspmatrix_coo(sparse_mx):
+        sparse_mx = sparse_mx.tocoo()
+    coords = np.vstack((sparse_mx.row, sparse_mx.col)).transpose()
+    values = sparse_mx.data
+    shape = sparse_mx.shape
+    return coords, values, shape
 
 
 def load_data_torch(path, dd_et_list, mono=True):
