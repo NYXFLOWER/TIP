@@ -13,7 +13,9 @@ we are particularly concerned about the safety of [polypharmacy](https://en.wiki
 We use *POSE clinical records* and *pharmacological information* to construct a multi-modal biomedical graph with two types of nodes: Drug (D) and Protein (P). The graph contains three types of interaction (refer to three subgraphs): 
 
 &emsp; :cookie: &ensp; D-D graph: drug-drug interactions with side effects as edge labels
+
 &emsp; :cake: &ensp; P-D graph: protein-drug interactions (with a fixed label)
+
 &emsp; :ice_cream: &ensp; P-P graph: protein-protein interactions (with a fixed label)
 
 <div align=center>
