@@ -39,13 +39,13 @@ TIP is implemented in PyTorch with [PyTorch-Geometric](https://github.com/rusty1
 
 ### Requirement
 
-TIP is trained and tested on GPU. Make sure the essential packages in `requirements_gpu.txt` has been installed in your environment properly. Use the following command to install all the required packages:
+TIP is trained and tested on **GPU**. Make sure the essential packages in `requirements_gpu.txt` has been installed in your environment properly. Use the following command to install all the required packages:
 
 ```shell
 $ pip install -r requirements_gpu.txt
 ```
 
-If you do want to run the code with CPU, install the packages in the `requirements_cpu.txt`. Then, comment/remove `@profile` before `train()` function in the python file you want to run.
+If you do want to run the code with **CPU**, install the packages in the `requirements_cpu.txt`. Then, comment or remove `@profile` before `train()` function in the python file you want to run.
 
 ```python
 ##################################################
@@ -58,13 +58,13 @@ def train():
 
 The processed data and the code for data processing are in the `./data/` folder. The raw datasets are available on the [BioSNAP](http://snap.stanford.edu/biodata/index.html). See `./data.ipynb` for the full polypharmacy datasets analysis.
 
-Because of the **flexibility** of TIP model, we implement two TIP instances and four TIP variants in the `./model/` folder. See experimental details in our [paper](). You can run any of them as following:
+The `./model/` folder contains two TIP implementation examples and four TIP variants. Details on experimental setup can be found in our [paper](). You can run any of them as following:
 
 ```shell
 $ python [model_name].py
 ```
 
-By default, it uses a subdataset with only five side effects. Comment/remove the following code to train and test with the full datasets. It appears at the head part of the file.
+By default, it uses a subdataset with only five side effects. Comment or remove the following code to train and test with the full datasets. It appears at the head part of the file.
 
 ```python
 #########################################################################
@@ -72,7 +72,7 @@ et_list = et_list[:3]       # remove this line for full dataset learning
 #########################################################################
 ```
 
-***Please browse/open issues should you have any questions or ideas***.
+**Please browse/open issues should you have any questions or ideas**.
 
 ## License
 
