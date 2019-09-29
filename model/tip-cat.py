@@ -188,8 +188,9 @@ test_record = {}
 train_out = {}
 test_out = {}
 
-
-# @profile
+##################################################
+@profile        # remove this for training on CPU
+##################################################
 def train():
     model.train()
 
