@@ -9,16 +9,16 @@ import time
 
 # os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 
-with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
+with open('./data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
 
 #########################################################################
-et_list = et_list[:3]       # remove this line for full dataset learning
+et_list = et_list[:10]       # remove this line for full dataset learning
 #########################################################################
 
 
-feed_dict = load_data_torch("../data/", et_list, mono=True)
+feed_dict = load_data_torch("./data/", et_list, mono=True)
 
 data = Data.from_dict(feed_dict)
 data.n_drug = data.d_feat.shape[0]
@@ -57,7 +57,7 @@ data.dp_range_list = torch.Tensor(range_list)
 # data.d_feat.requires_grad = True
 # data.p_feat.requires_grad = True
 
-out_dir = '../out_new/tip-cat(32-16)-(16-16-48-32-16)/'
+out_dir = './out_new/tip-cat/'
 
 
 class PPEncoder(torch.nn.Module):
@@ -189,7 +189,7 @@ train_out = {}
 test_out = {}
 
 ##################################################
-@profile        # remove this for training on CPU
+# @profile        # remove this for training on CPU
 ##################################################
 def train():
     model.train()
