@@ -253,3 +253,23 @@ class MyHierarchyConv(MessagePassing):
         return '{}({}, {}'.format(self.__class__.__name__,
                                   self.in_dim,
                                   self.out_dim)
+
+class PPEncoder(torch.nn.Module):
+
+    def __init__(self, in_dim, hid1=32, hid2=16):
+        super(PPEncoder, self).__init__()
+        self.out_dim = hid2
+
+        self.conv1 = GCNConv(in_dim, hid1, cached=True)
+        self.conv2 = GCNConv(hid1, hid2, cached=True)
+
+        # self.reset_parameters()
+
+    def forward(self, x, edge_index):
+        x = self.conv1(x, edge_index)
+        x = F.relu(x, inplace=True)
+        x = self.conv2(x, edge_index)
+        return x
+
+    # def reset_parameters(self):
+    #     self.embed.data.normal_()
