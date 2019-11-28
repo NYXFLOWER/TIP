@@ -9,16 +9,20 @@ import time
 
 # os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 
-with open('./data/decagon_et.pkl', 'rb') as f:   # the whole dataset
+
+with open('./TIP/data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
+out_dir = './TIP/qu_out/tip-cat/'
+
+EPOCH_NUM = 100
 
 #########################################################################
-et_list = et_list[:10]       # remove this line for full dataset learning
+# et_list = et_list[:10]       # remove this line for full dataset learning
 #########################################################################
 
 
-feed_dict = load_data_torch("./data/", et_list, mono=True)
+feed_dict = load_data_torch("./TIP/data/", et_list, mono=True)
 
 data = Data.from_dict(feed_dict)
 data.n_drug = data.d_feat.shape[0]
@@ -57,29 +61,6 @@ data.dp_range_list = torch.Tensor(range_list)
 # data.d_feat.requires_grad = True
 # data.p_feat.requires_grad = True
 
-out_dir = './out_new/tip-cat/'
-
-
-class PPEncoder(torch.nn.Module):
-
-    def __init__(self, in_dim, hid1=32, hid2=16):
-        super(PPEncoder, self).__init__()
-        self.out_dim = hid2
-
-        self.conv1 = GCNConv(in_dim, hid1, cached=True)
-        self.conv2 = GCNConv(hid1, hid2, cached=True)
-
-        # self.reset_parameters()
-
-    def forward(self, x, edge_index):
-        x = self.conv1(x, edge_index)
-        x = F.relu(x, inplace=True)
-        x = self.conv2(x, edge_index)
-        return x
-
-    # def reset_parameters(self):
-    #     self.embed.data.normal_()
-
 
 class FMEncoder(torch.nn.Module):
 
@@ -100,9 +81,6 @@ class FMEncoder(torch.nn.Module):
         :param n_hid2:
         :param mod: 'cat', 'ave'
         '''
-    # def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
-    #              uni_num_prot, uni_num_drug, prot_drug_dim=9,
-    #              num_base=6, n_embed=4, n_hid1=2, n_hid2=2):
         super(FMEncoder, self).__init__()
         self.num_et = num_dd_et
         self.out_dim = n_hid2
@@ -125,8 +103,7 @@ class FMEncoder(torch.nn.Module):
 
         self.reset_parameters()
 
-    def forward(self, x_drug, dd_edge_index, dd_edge_type, dd_range_list, d_norm,
-                x_prot, pp_edge_index, dp_edge_index, dp_range_list):
+    def forward(self, x_drug, dd_edge_index, dd_edge_type, dd_range_list, d_norm, x_prot, pp_edge_index, dp_edge_index, dp_range_list):
         # pp-net
         x_prot = self.pp_encoder(x_prot, pp_edge_index)
         # x_prot = checkpoint(self.pp_encoder, x_prot, pp_edge_index)
@@ -143,7 +120,8 @@ class FMEncoder(torch.nn.Module):
 
         # dd-net
         # x = self.rgcn1(x, edge_index, edge_type, range_list)
-        x_drug = checkpoint(self.rgcn1, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+        # x_drug = checkpoint(self.rgcn1, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+        x_drug = self.rgcn1(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
 
         x_drug = F.relu(x_drug, inplace=True)
         x_drug = self.rgcn2(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
@@ -183,13 +161,9 @@ model = model.to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 data = data.to(device)
 
-train_record = {}
-test_record = {}
-train_out = {}
-test_out = {}
 
 ##################################################
-# @profile        # remove this for training on CPU
+@profile        # remove this for training on CPU
 ##################################################
 def train():
     model.train()
@@ -200,8 +174,10 @@ def train():
     pos_index = data.dd_train_idx
     neg_index = typed_negative_sampling(data.dd_train_idx, data.n_drug, data.dd_train_range).to(device)
 
-    pos_score = checkpoint(model.decoder, z, pos_index, data.dd_train_et)
-    neg_score = checkpoint(model.decoder, z, neg_index, data.dd_train_et)
+    # pos_score = checkpoint(model.decoder, z, pos_index, data.dd_train_et)
+    # neg_score = checkpoint(model.decoder, z, neg_index, data.dd_train_et)
+    pos_score = model.decoder(z, pos_index, data.dd_train_et)
+    neg_score = model.decoder(z, neg_index, data.dd_train_et)
 
     # pos_loss = F.binary_cross_entropy(pos_score, torch.ones(pos_score.shape[0]).cuda())
     # neg_loss = F.binary_cross_entropy(neg_score, torch.ones(neg_score.shape[0]).cuda())
@@ -213,27 +189,27 @@ def train():
     loss.backward()
     optimizer.step()
 
-    record = np.zeros((3, data.n_dd_et))  # auprc, auroc, ap
-    for i in range(data.dd_train_range.shape[0]):
-        [start, end] = data.dd_train_range[i]
-        p_s = pos_score[start: end]
-        n_s = neg_score[start: end]
+    # record = np.zeros((3, data.n_dd_et))  # auprc, auroc, ap
+    # for i in range(data.dd_train_range.shape[0]):
+    #     [start, end] = data.dd_train_range[i]
+    #     p_s = pos_score[start: end]
+    #     n_s = neg_score[start: end]
 
-        pos_target = torch.ones(p_s.shape[0])
-        neg_target = torch.zeros(n_s.shape[0])
+    #     pos_target = torch.ones(p_s.shape[0])
+    #     neg_target = torch.zeros(n_s.shape[0])
 
-        score = torch.cat([p_s, n_s])
-        target = torch.cat([pos_target, neg_target])
+    #     score = torch.cat([p_s, n_s])
+    #     target = torch.cat([pos_target, neg_target])
 
-        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target,
-                                                                  score)
+    #     record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target,
+    #                                                               score)
 
-    train_record[epoch] = record
-    [auprc, auroc, ap] = record.sum(axis=1) / data.n_dd_et
-    train_out[epoch] = [auprc, auroc, ap]
+    # train_record[epoch] = record
+    # [auprc, auroc, ap] = record.sum(axis=1) / data.n_dd_et
+    # train_out[epoch] = [auprc, auroc, ap]
 
-    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
-          .format(epoch, loss.tolist(), auprc, auroc, ap))
+    # print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
+    #       .format(epoch, loss.tolist(), auprc, auroc, ap))
 
     return z, loss
 
@@ -265,7 +241,14 @@ def test(z):
     return record
 
 
-EPOCH_NUM = 100
+# before training
+model.eval()
+z = model.encoder(data.d_feat, data.dd_train_idx, data.dd_train_et, data.dd_train_range, data.d_norm, data.p_feat, data.pp_train_indices, data.dp_edge_index, data.dp_range_list)
+record_te = test(z)
+[auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
+
+print('{:3d}   loss:         auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    '.format(0, auprc, auroc, ap))
+
 
 print('model training ...')
 
@@ -274,28 +257,29 @@ for epoch in range(EPOCH_NUM):
 
     z, loss = train()
 
-    record_te = test(z)
-    [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
+    if epoch % 10 == 9:
+        record_te = test(z)
+        [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
 
-    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
-          .format(epoch, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
-
-    test_record[epoch] = record_te
-    test_out[epoch] = [auprc, auroc, ap]
+        print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}'.format(epoch+1, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
+    else:
+        print('{:3d}   time:{:0.2f}'.format(epoch+1, (time.time() - time_begin)))
+    # test_record[epoch] = record_te
+    # test_out[epoch] = [auprc, auroc, ap]
 
 #
 # save output to files
-with open(out_dir + 'train_out.pkl', 'wb') as f:
-    pickle.dump(train_out, f)
+# with open(out_dir + 'train_out.pkl', 'wb') as f:
+#     pickle.dump(train_out, f)
 
-with open(out_dir + 'test_out.pkl', 'wb') as f:
-    pickle.dump(test_out, f)
+# with open(out_dir + 'test_out.pkl', 'wb') as f:
+#     pickle.dump(test_out, f)
 
-with open(out_dir + 'train_record.pkl', 'wb') as f:
-    pickle.dump(train_record, f)
+# with open(out_dir + 'train_record.pkl', 'wb') as f:
+#     pickle.dump(train_record, f)
 
-with open(out_dir + 'test_record.pkl', 'wb') as f:
-    pickle.dump(test_record, f)
+# with open(out_dir + 'test_record.pkl', 'wb') as f:
+#     pickle.dump(test_record, f)
 
 # save model state
 filepath_state = out_dir + '100ep.pth'
