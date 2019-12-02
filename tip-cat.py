@@ -13,7 +13,7 @@ import time
 with open('./TIP/data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-out_dir = './TIP/qu_out/tip-cat/'
+out_dir = './TIP/qu_out/tip-cat-32b/'
 
 EPOCH_NUM = 100
 
@@ -66,7 +66,7 @@ class FMEncoder(torch.nn.Module):
 
     def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
                  uni_num_prot, uni_num_drug, prot_drug_dim=16,
-                 num_base=16, n_embed=48, n_hid1=32, n_hid2=16, mod='cat'):
+                 num_base=32, n_embed=48, n_hid1=32, n_hid2=16, mod='cat'):
         '''
         :param device:
         :param in_dim_drug:
