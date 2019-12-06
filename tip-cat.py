@@ -9,6 +9,7 @@ import time
 
 # os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 
+MODEL = 'tip-cat'
 
 with open('./TIP/data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
@@ -62,98 +63,105 @@ data.dp_range_list = torch.Tensor(range_list)
 # data.p_feat.requires_grad = True
 
 
-class FMEncoder(torch.nn.Module):
+# class FMEncoder(torch.nn.Module):
+#
+#     def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
+#                  uni_num_prot, uni_num_drug, prot_drug_dim=16,
+#                  num_base=32, n_embed=48, n_hid1=32, n_hid2=16, mod='cat'):
+#         '''
+#         :param device:
+#         :param in_dim_drug:
+#         :param num_dd_et:
+#         :param in_dim_prot:
+#         :param uni_num_prot:
+#         :param uni_num_drug:
+#         :param prot_drug_dim:
+#         :param num_base:
+#         :param n_embed:
+#         :param n_hid1:
+#         :param n_hid2:
+#         :param mod: 'cat', 'ave'
+#         '''
+#         super(FMEncoder, self).__init__()
+#         self.num_et = num_dd_et
+#         self.out_dim = n_hid2
+#         self.uni_num_drug = uni_num_drug
+#         self.uni_num_prot = uni_num_prot
+#
+#         # on pp-net
+#         self.pp_encoder = PPEncoder(in_dim_prot)
+#
+#         # feat: drug index
+#         self.embed = Param(torch.Tensor(in_dim_drug, n_embed))
+#
+#         # on pd-net
+#         self.hgcn = MyHierarchyConv(self.pp_encoder.out_dim, prot_drug_dim, uni_num_prot, uni_num_drug)
+#         self.hdrug = torch.zeros((self.uni_num_drug, self.pp_encoder.out_dim)).to(device)
+#
+#         # on dd-net
+#         self.rgcn1 = MyRGCNConv2(n_embed+self.hgcn.out_dim, n_hid1, num_dd_et, num_base, after_relu=False)
+#         self.rgcn2 = MyRGCNConv2(n_hid1, n_hid2, num_dd_et, num_base, after_relu=True)
+#
+#         self.reset_parameters()
+#
+#     def forward(self, x_drug, dd_edge_index, dd_edge_type, dd_range_list, d_norm, x_prot, pp_edge_index, dp_edge_index, dp_range_list):
+#         # pp-net
+#         x_prot = self.pp_encoder(x_prot, pp_edge_index)
+#         # x_prot = checkpoint(self.pp_encoder, x_prot, pp_edge_index)
+#         # pd-net
+#         x_prot = torch.cat((x_prot, self.hdrug))
+#         x_prot = self.hgcn(x_prot, dp_edge_index, dp_range_list)
+#         # x_prot = checkpoint(self.hgcn, torch.cat((x_prot, self.hdrug)), dp_edge_index, dp_range_list)
+#
+#         # d-embed
+#         x_drug = torch.matmul(x_drug, self.embed)
+#         # x_drug = checkpoint(torch.matmul, x_drug, self.embed)
+#         x_drug = x_drug / d_norm.view(-1, 1)
+#         x_drug = torch.cat((x_drug, x_prot), dim=1)
+#
+#         # dd-net
+#         # x = self.rgcn1(x, edge_index, edge_type, range_list)
+#         # x_drug = checkpoint(self.rgcn1, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+#         x_drug = self.rgcn1(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+#
+#         x_drug = F.relu(x_drug, inplace=True)
+#         x_drug = self.rgcn2(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+#         # x_drug = checkpoint(self.rgcn2, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
+#         return x_drug
+#
+#     def reset_parameters(self):
+#         self.embed.data.normal_()
 
-    def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
-                 uni_num_prot, uni_num_drug, prot_drug_dim=16,
-                 num_base=32, n_embed=48, n_hid1=32, n_hid2=16, mod='cat'):
-        '''
-        :param device:
-        :param in_dim_drug:
-        :param num_dd_et:
-        :param in_dim_prot:
-        :param uni_num_prot:
-        :param uni_num_drug:
-        :param prot_drug_dim:
-        :param num_base:
-        :param n_embed:
-        :param n_hid1:
-        :param n_hid2:
-        :param mod: 'cat', 'ave'
-        '''
-        super(FMEncoder, self).__init__()
-        self.num_et = num_dd_et
-        self.out_dim = n_hid2
-        self.uni_num_drug = uni_num_drug
-        self.uni_num_prot = uni_num_prot
 
-        # on pp-net
-        self.pp_encoder = PPEncoder(in_dim_prot)
-
-        # feat: drug index
-        self.embed = Param(torch.Tensor(in_dim_drug, n_embed))
-
-        # on pd-net
-        self.hgcn = MyHierarchyConv(self.pp_encoder.out_dim, prot_drug_dim, uni_num_prot, uni_num_drug)
-        self.hdrug = torch.zeros((self.uni_num_drug, self.pp_encoder.out_dim)).to(device)
-
-        # on dd-net
-        self.rgcn1 = MyRGCNConv2(n_embed+self.hgcn.out_dim, n_hid1, num_dd_et, num_base, after_relu=False)
-        self.rgcn2 = MyRGCNConv2(n_hid1, n_hid2, num_dd_et, num_base, after_relu=True)
-
-        self.reset_parameters()
-
-    def forward(self, x_drug, dd_edge_index, dd_edge_type, dd_range_list, d_norm, x_prot, pp_edge_index, dp_edge_index, dp_range_list):
-        # pp-net
-        x_prot = self.pp_encoder(x_prot, pp_edge_index)
-        # x_prot = checkpoint(self.pp_encoder, x_prot, pp_edge_index)
-        # pd-net
-        x_prot = torch.cat((x_prot, self.hdrug))
-        x_prot = self.hgcn(x_prot, dp_edge_index, dp_range_list)
-        # x_prot = checkpoint(self.hgcn, torch.cat((x_prot, self.hdrug)), dp_edge_index, dp_range_list)
-
-        # d-embed
-        x_drug = torch.matmul(x_drug, self.embed)
-        # x_drug = checkpoint(torch.matmul, x_drug, self.embed)
-        x_drug = x_drug / d_norm.view(-1, 1)
-        x_drug = torch.cat((x_drug, x_prot), dim=1)
-
-        # dd-net
-        # x = self.rgcn1(x, edge_index, edge_type, range_list)
-        # x_drug = checkpoint(self.rgcn1, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
-        x_drug = self.rgcn1(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
-
-        x_drug = F.relu(x_drug, inplace=True)
-        x_drug = self.rgcn2(x_drug, dd_edge_index, dd_edge_type, dd_range_list)
-        # x_drug = checkpoint(self.rgcn2, x_drug, dd_edge_index, dd_edge_type, dd_range_list)
-        return x_drug
-
-    def reset_parameters(self):
-        self.embed.data.normal_()
-
-
-class MultiInnerProductDecoder(torch.nn.Module):
-    def __init__(self, in_dim, num_et):
-        super(MultiInnerProductDecoder, self).__init__()
-        self.num_et = num_et
-        self.in_dim = in_dim
-        self.weight = Param(torch.Tensor(num_et, in_dim))
-
-        self.reset_parameters()
-
-    def forward(self, z, edge_index, edge_type, sigmoid=True):
-        value = (z[edge_index[0]] * z[edge_index[1]] * self.weight[edge_type]).sum(dim=1)
-        return torch.sigmoid(value) if sigmoid else value
-
-    def reset_parameters(self):
-        self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
+# class MultiInnerProductDecoder(torch.nn.Module):
+#     def __init__(self, in_dim, num_et):
+#         super(MultiInnerProductDecoder, self).__init__()
+#         self.num_et = num_et
+#         self.in_dim = in_dim
+#         self.weight = Param(torch.Tensor(num_et, in_dim))
+#
+#         self.reset_parameters()
+#
+#     def forward(self, z, edge_index, edge_type, sigmoid=True):
+#         value = (z[edge_index[0]] * z[edge_index[1]] * self.weight[edge_type]).sum(dim=1)
+#         return torch.sigmoid(value) if sigmoid else value
+#
+#     def reset_parameters(self):
+#         self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
 
 
 device_name = 'cuda' if torch.cuda.is_available() else 'cpu'
 print(device_name)
 device = torch.device(device_name)
 
-encoder = FMEncoder(device, data.n_drug_feat, data.n_dd_et, data.n_prot, data.n_prot, data.n_drug)
+# encoder
+if MODEL == 'tip-cat':
+    encoder = FMEncoderCat(device, data.n_drug_feat, data.n_dd_et, data.n_prot,
+                           data.n_prot, data.n_drug)
+elif MODEL == 'tip-add':
+    encoder = FMEncoderAdd(device, data.n_drug_feat, data.n_dd_et, data.n_prot,
+                           data.n_prot, data.n_drug)
+
 decoder = MultiInnerProductDecoder(encoder.out_dim, data.n_dd_et)
 model = MyGAE(encoder, decoder)
 
@@ -163,7 +171,7 @@ data = data.to(device)
 
 
 ##################################################
-@profile        # remove this for training on CPU
+# @profile        # remove this for training on CPU
 ##################################################
 def train():
     model.train()

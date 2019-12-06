@@ -90,61 +90,45 @@ class HierEncoder(Module):
 
         return x
 
-class MultiInnerProductDecoder(torch.nn.Module):
-    def __init__(self, in_dim, num_et):
-        super(MultiInnerProductDecoder, self).__init__()
-        self.num_et = num_et
-        self.in_dim = in_dim
-        self.weight = Param(torch.Tensor(num_et, in_dim))
 
-        self.reset_parameters()
-
-    def forward(self, z, edge_index, edge_type, sigmoid=True):
-        value = (z[edge_index[0]] * z[edge_index[1]] * self.weight[edge_type]).sum(dim=1)
-        return torch.sigmoid(value) if sigmoid else value
-
-    def reset_parameters(self):
-        self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
-
-
-class NNDecoder(Module):
-    def __init__(self, in_dim, num_uni_edge_type, l1_dim=16):
-        """ in_dim: the feat dim of a drug
-            num_edge_type: num of dd edge type """
-
-        super(NNDecoder, self).__init__()
-        self.l1_dim = l1_dim     # Decoder Lays' dim setting
-
-        # parameters
-        # for drug 1
-        self.w1_l1 = Param(torch.Tensor(in_dim, l1_dim))
-        self.w1_l2 = Param(torch.Tensor(num_uni_edge_type, l1_dim))  # dd_et
-        # specified
-        # for drug 2
-        self.w2_l1 = Param(torch.Tensor(in_dim, l1_dim))
-        self.w2_l2 = Param(torch.Tensor(num_uni_edge_type, l1_dim))  # dd_et
-        # specified
-
-        self.reset_parameters()
-
-    def forward(self, z, edge_index, edge_type):
-        # layer 1
-        d1 = torch.matmul(z[edge_index[0]], self.w1_l1)
-        d2 = torch.matmul(z[edge_index[1]], self.w2_l1)
-        d1 = F.relu(d1, inplace=True)
-        d2 = F.relu(d2, inplace=True)
-
-        # layer 2
-        d1 = (d1 * self.w1_l2[edge_type]).sum(dim=1)
-        d2 = (d2 * self.w2_l2[edge_type]).sum(dim=1)
-
-        return torch.sigmoid(d1 + d2)
-
-    def reset_parameters(self):
-        self.w1_l1.data.normal_()
-        self.w2_l1.data.normal_()
-        self.w1_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
-        self.w2_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
+# class NNDecoder(Module):
+#     def __init__(self, in_dim, num_uni_edge_type, l1_dim=16):
+#         """ in_dim: the feat dim of a drug
+#             num_edge_type: num of dd edge type """
+#
+#         super(NNDecoder, self).__init__()
+#         self.l1_dim = l1_dim     # Decoder Lays' dim setting
+#
+#         # parameters
+#         # for drug 1
+#         self.w1_l1 = Param(torch.Tensor(in_dim, l1_dim))
+#         self.w1_l2 = Param(torch.Tensor(num_uni_edge_type, l1_dim))  # dd_et
+#         # specified
+#         # for drug 2
+#         self.w2_l1 = Param(torch.Tensor(in_dim, l1_dim))
+#         self.w2_l2 = Param(torch.Tensor(num_uni_edge_type, l1_dim))  # dd_et
+#         # specified
+#
+#         self.reset_parameters()
+#
+#     def forward(self, z, edge_index, edge_type):
+#         # layer 1
+#         d1 = torch.matmul(z[edge_index[0]], self.w1_l1)
+#         d2 = torch.matmul(z[edge_index[1]], self.w2_l1)
+#         d1 = F.relu(d1, inplace=True)
+#         d2 = F.relu(d2, inplace=True)
+#
+#         # layer 2
+#         d1 = (d1 * self.w1_l2[edge_type]).sum(dim=1)
+#         d2 = (d2 * self.w2_l2[edge_type]).sum(dim=1)
+#
+#         return torch.sigmoid(d1 + d2)
+#
+#     def reset_parameters(self):
+#         self.w1_l1.data.normal_()
+#         self.w2_l1.data.normal_()
+#         self.w1_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
+#         self.w2_l2.data.normal_(std=1 / np.sqrt(self.l1_dim))
 
 
 encoder = HierEncoder(source_dim, embed_dim, target_dim, n_prot, n_drug)
