@@ -9,10 +9,10 @@ import time
 with open('./data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
-out_dir = './qu_out/tip-add-64-32-16'
+out_dir = './qu_out/tip-cat'
 
 EPOCH_NUM = 10
-MODEL = 'tip-add'
+MODEL = 'tip-cat'
 
 #########################################################################
 # et_list = et_list[:10]       # remove this line for full dataset learning
@@ -96,8 +96,11 @@ def evaluate():
 
 result = evaluate()
 
-with open('./qu_out/eva/tip-cat.pkl', 'wb') as f:
+with open('./qu_out/eva/{}.pkl'.format(MODEL), 'wb') as f:
     pickle.dump(result.tolist(), f)
 
-with open('./qu_out/eva/tip-cat.pkl', 'rb') as f:
-    a = np.array([pickle.load(f)])
+# import numpy as np 
+# import pickle
+# with open('./qu_out/eva/tip-cat.pkl', 'rb') as f:
+#     a = np.array([pickle.load(f)])
+# print(a)
