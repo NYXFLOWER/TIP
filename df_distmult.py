@@ -4,15 +4,22 @@ from src.layers import *
 import pickle
 import sys
 import time
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 sys.setrecursionlimit(8000)
 
-with open('../out/decagon_et.pkl', 'rb') as f:   # the whole dataset
+with open('./TIP/data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
+out_dir = './TIP/qu_out/ggm/'
+
+EPOCH_NUM = 100
+
+#########################################################################
 # et_list = et_list[-200:]
-feed_dict = load_data_torch("../data/", et_list, mono=True)
+#########################################################################
+
+feed_dict = load_data_torch("./TIP/data/", et_list, mono=True)
 
 [n_drug, n_feat_d] = feed_dict['d_feat'].shape
 n_et_dd = len(et_list)
@@ -31,8 +38,8 @@ data.x_norm = torch.ones(n_drug)
 n_base = 16
 
 n_embed = 16
-n_hid1 = 32
-n_hid2 = 16
+n_hid1 = 64
+n_hid2 = 32
 
 
 class Encoder(torch.nn.Module):
@@ -99,7 +106,7 @@ def train():
     z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
 
     pos_index = data.train_idx
-    neg_index = negative_sampling(data.train_idx, n_drug).to(device)
+    neg_index = typed_negative_sampling(data.train_idx, n_drug, data.train_range).to(device)
 
     pos_score = model.decoder(z, pos_index, data.train_et)
     neg_score = model.decoder(z, neg_index, data.train_et)
@@ -165,23 +172,22 @@ def test(z):
     return record
 
 
-EPOCH_NUM = 1
-out_dir = '../new_out/distmult/'
-
 print('model training ...')
 for epoch in range(EPOCH_NUM):
     time_begin = time.time()
 
     z, loss = train()
 
-    record_te = test(z)
-    [auprc, auroc, ap] = record_te.sum(axis=1)/n_et_dd
+    if epoch % 10 == 9:
+        record_te = test(z)
+        [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
 
-    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}\n'
-          .format(epoch, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
+        print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}'.format(epoch+1, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
+    else:
+        print('{:3d}   time:{:0.2f}'.format(epoch+1, (time.time() - time_begin)))
 
-    test_record[epoch] = record_te
-    test_out[epoch] = [auprc, auroc, ap]
+    # test_record[epoch] = record_te
+    # test_out[epoch] = [auprc, auroc, ap]
 
 
 # save output to files
@@ -198,15 +204,15 @@ for epoch in range(EPOCH_NUM):
 #     pickle.dump(test_record, f)
 #
 # # save model state
-# filepath_state = out_dir + '100ep.pth'
-# torch.save(model.state_dict(), filepath_state)
+filepath_state = out_dir + '100ep.pth'
+torch.save(model.state_dict(), filepath_state)
 # # to restore
 # # model.load_state_dict(torch.load(filepath_state))
 # # model.eval()
 #
 # # save whole model
-# filepath_model = out_dir + '100ep_model.pb'
-# torch.save(model, filepath_model)
+filepath_model = out_dir + '100ep_model.pb'
+torch.save(model, filepath_model)
 # # Then later:
 # # model = torch.load(filepath_model)
 #
