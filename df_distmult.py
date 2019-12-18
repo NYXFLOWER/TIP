@@ -63,21 +63,21 @@ class Encoder(torch.nn.Module):
         self.embed.data.normal_()
 
 
-class MultiInnerProductDecoder(torch.nn.Module):
-    def __init__(self, in_dim, num_et):
-        super(MultiInnerProductDecoder, self).__init__()
-        self.num_et = num_et
-        self.in_dim = in_dim
-        self.weight = Param(torch.Tensor(num_et, in_dim))
+# class MultiInnerProductDecoder(torch.nn.Module):
+#     def __init__(self, in_dim, num_et):
+#         super(MultiInnerProductDecoder, self).__init__()
+#         self.num_et = num_et
+#         self.in_dim = in_dim
+#         self.weight = Param(torch.Tensor(num_et, in_dim))
 
-        self.reset_parameters()
+#         self.reset_parameters()
 
-    def forward(self, z, edge_index, edge_type, sigmoid=True):
-        value = (z[edge_index[0]] * z[edge_index[1]] * self.weight[edge_type]).sum(dim=1)
-        return torch.sigmoid(value) if sigmoid else value
+#     def forward(self, z, edge_index, edge_type, sigmoid=True):
+#         value = (z[edge_index[0]] * z[edge_index[1]] * self.weight[edge_type]).sum(dim=1)
+#         return torch.sigmoid(value) if sigmoid else value
 
-    def reset_parameters(self):
-        self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
+#     def reset_parameters(self):
+#         self.weight.data.normal_(std=1/np.sqrt(self.in_dim))
 
 
 encoder = Encoder(n_feat_d, n_et_dd, n_base)
@@ -91,11 +91,6 @@ device = torch.device(device_name)
 model = model.to(device)
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 data = data.to(device)
-
-train_record = {}
-test_record = {}
-train_out = {}
-test_out = {}
 
 
 @profile
@@ -121,26 +116,26 @@ def train():
     loss.backward()
     optimizer.step()
 
-    record = np.zeros((3, n_et_dd))  # auprc, auroc, ap
-    for i in range(data.train_range.shape[0]):
-        [start, end] = data.train_range[i]
-        p_s = pos_score[start: end]
-        n_s = neg_score[start: end]
+    # record = np.zeros((3, n_et_dd))  # auprc, auroc, ap
+    # for i in range(data.train_range.shape[0]):
+    #     [start, end] = data.train_range[i]
+    #     p_s = pos_score[start: end]
+    #     n_s = neg_score[start: end]
 
-        pos_target = torch.ones(p_s.shape[0])
-        neg_target = torch.zeros(n_s.shape[0])
+    #     pos_target = torch.ones(p_s.shape[0])
+    #     neg_target = torch.zeros(n_s.shape[0])
 
-        score = torch.cat([p_s, n_s])
-        target = torch.cat([pos_target, neg_target])
+    #     score = torch.cat([p_s, n_s])
+    #     target = torch.cat([pos_target, neg_target])
 
-        record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
+    #     record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
 
-    train_record[epoch] = record
-    [auprc, auroc, ap] = record.sum(axis=1) / n_et_dd
-    train_out[epoch] = [auprc, auroc, ap]
+    # train_record[epoch] = record
+    # [auprc, auroc, ap] = record.sum(axis=1) / n_et_dd
+    # train_out[epoch] = [auprc, auroc, ap]
 
-    print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
-          .format(epoch, loss.tolist(), auprc, auroc, ap))
+    # print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}'
+    #       .format(epoch, loss.tolist(), auprc, auroc, ap))
 
     return z, loss
 
@@ -172,7 +167,17 @@ def test(z):
     return record
 
 
+# before training
+model.eval()
+z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
+record_te = test(z)
+[auprc, auroc, ap] = record_te.sum(axis=1) / n_et_dd
+
+print('{:3d}   loss:         auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    '.format(0, auprc, auroc, ap))
+
+
 print('model training ...')
+
 for epoch in range(EPOCH_NUM):
     time_begin = time.time()
 
@@ -180,7 +185,7 @@ for epoch in range(EPOCH_NUM):
 
     if epoch % 10 == 9:
         record_te = test(z)
-        [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
+        [auprc, auroc, ap] = record_te.sum(axis=1) /n_et_dd
 
         print('{:3d}   loss:{:0.4f}   auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    time:{:0.1f}'.format(epoch+1, loss.tolist(), auprc, auroc, ap, (time.time() - time_begin)))
     else:
@@ -233,3 +238,22 @@ torch.save(model, filepath_model)
 # plt.legend()
 # plt.savefig(out_dir + 'prc.png')
 # # plt.show()
+
+#########################################################################
+# Evaluation and Record
+#########################################################################
+def evaluate():
+    model.eval()
+
+    z = model.encoder(data.d_feat, data.train_idx, data.train_et, data.train_range, data.x_norm)
+    
+    pos_score = model.decoder(z, data.test_idx, data.test_et)
+    
+    return pos_score
+
+result = evaluate()
+
+with open('./TIP/qu_out/eva/dist.pkl', 'wb') as f:
+    pickle.dump(result.tolist(), f)
+print(result)
+print(result.shape)

@@ -30,7 +30,7 @@ n_drug, n_drug_feat = data.d_feat.shape
 n_prot, n_prot_feat = data.p_feat.shape
 n_et_dd = len(et_list)
 
-data.train_idx, data.train_et, data.train_range,data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
+data.train_idx, data.train_et, data.train_range, data.test_idx, data.test_et, data.test_range = process_edges(data.dd_edge_index)
 
 # re-construct node feature
 data.p_feat = torch.cat([dense_id(n_prot), torch.zeros(size=(n_drug, n_prot))], dim=0)

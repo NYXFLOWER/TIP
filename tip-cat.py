@@ -22,6 +22,8 @@ EPOCH_NUM = 100
 # et_list = et_list[:10]       # remove this line for full dataset learning
 #########################################################################
 
+if not os.path.isdir(out_dir):
+    os.mkdir(out_dir)
 
 feed_dict = load_data_torch("./TIP/data/", et_list, mono=True)
 
@@ -227,7 +229,7 @@ test_neg_index = typed_negative_sampling(data.dd_test_idx, data.n_drug, data.dd_
 
 def test(z):
     model.eval()
-
+    
     record = np.zeros((3, data.n_dd_et))     # auprc, auroc, ap
 
     pos_score = model.decoder(z, data.dd_test_idx, data.dd_test_et)
@@ -252,6 +254,7 @@ def test(z):
 # before training
 model.eval()
 z = model.encoder(data.d_feat, data.dd_train_idx, data.dd_train_et, data.dd_train_range, data.d_norm, data.p_feat, data.pp_train_indices, data.dp_edge_index, data.dp_range_list)
+print(z.size())
 record_te = test(z)
 [auprc, auroc, ap] = record_te.sum(axis=1) / data.n_dd_et
 
