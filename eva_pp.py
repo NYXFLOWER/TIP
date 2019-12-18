@@ -97,11 +97,11 @@ def evaluate():
     
     return pos_score
 
-
+print(data.test_idx.shape)
 result = evaluate()
 
-with open('./qu_out/eva/ppm-ddm.pkl', 'wb') as f:
-    pickle.dump(result.tolist(), f)
+# with open('./qu_out/eva/ppm-ddm.pkl', 'wb') as f:
+#     pickle.dump(result.tolist(), f)
 print(result)
 print(result.shape)
 
