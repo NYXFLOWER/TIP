@@ -6,6 +6,7 @@ import sys
 import time
 
 
+
 with open('./TIP/data/decagon_et.pkl', 'rb') as f:   # the whole dataset
     et_list = pickle.load(f)
 
