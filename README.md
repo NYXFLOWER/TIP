@@ -2,7 +2,7 @@
 
 TIP is an efficient general approach for **multi-relational link prediction** in any **multi-modal**  (i.e. heterogeneous and multi-relational) network with two types of nodes. It can also be applied to the **Knowledge Graph Completion** and **Recommendation** task. TIP model is inspired by the [Decagon](https://github.com/marinkaz/decagon) and [R-GCN](https://github.com/tkipf/relational-gcn) models, motivated by their limitations of high computational cost and memory demand when graph goes really complex. TIP improves their link prediction **accuracy**, and time and space **efficiency** of node representation learning. See details on the algorithm in our paper [(Xu, Sang, and Lu, 2019)](https://grlearning.github.io/papers/94.pdf).
 
-## TIP for Polypharmacy Side Effiect Prediction
+## TIP for Polypharmacy Side Effect Prediction
 
 we are particularly concerned about the safety of [polypharmacy](https://en.wikipedia.org/wiki/Polypharmacy), which is the concurrent use of multiple medications by a patient. Given a pair of drug (:pill:,:pill:), the TIP model will predict how many polypharmacy side effects the drug pair will have, and what are the possibilities.
 
