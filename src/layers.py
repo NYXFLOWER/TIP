@@ -1,17 +1,14 @@
 import torch
-from torch_geometric.nn.models import GAE, InnerProductDecoder
+from torch_geometric.nn.models import InnerProductDecoder
 import numpy as np
-import scipy.sparse as sp
 from torch.nn import Parameter as Param
-from torch import Tensor
-from torch_geometric.nn.conv import RGCNConv, GCNConv, MessagePassing
-from sklearn import metrics
-from torch.utils.checkpoint import checkpoint
+from torch import nn
+from torch_geometric.nn.conv import  GCNConv, MessagePassing
 import torch.nn.functional as F
 from torch_geometric.data import Data
-from pytorch_memlab import profile
-from src.neg_sampling import typed_negative_sampling, negative_sampling
-
+from src.neg_sampling import typed_negative_sampling
+from src.utils import *
+import pickle
 
 torch.manual_seed(1111)
 np.random.seed(1111)
@@ -26,7 +23,7 @@ class MyRGCNConv(MessagePassing):
     Args:
         in_channels (int): Size of each input sample.
         out_channels (int): Size of each output sample.
-        num_relations (int): Number of relations.
+        num_relations (int): Number of relation
         num_bases (int): Number of bases used for basis-decomposition.
         bias (bool, optional): If set to :obj:`False`, the layer will not learn
             an additive bias. (default: :obj:`True`)
@@ -260,6 +257,122 @@ class MyGAE(torch.nn.Module):
         self.encoder = encoder
         self.decoder = InnerProductDecoder() if decoder is None else decoder
 
+class Setting(object):
+	def __init__(self, sp_rate=0.9, lr=0.01, prot_drug_dim=16, n_embed=48, n_hid1=32, n_hid2=16, num_base=32) -> None:
+		super().__init__()
+		self.sp_rate = sp_rate					# data split rate
+		self.lr = lr							# learning rate
+		self.prot_drug_dim = prot_drug_dim		# dim of protein -> drug
+		self.n_embed = n_embed					# dim of drug feature embedding
+		self.n_hid1 = n_hid1						# dim of layer1's output on d-d graph
+		self.n_hid2 = n_hid2						# dim of drug embedding
+		self.num_base = num_base				# in decoder
+
+
+class TIP(nn.Module):
+	def __init__(self, settings:Setting, device, mod='cat', data_path='./data/data_dict.pkl', ) -> None:
+		super().__init__()
+		self.mod = mod
+		assert mod in {'cat', 'add'}
+
+		self.device = device
+		self.settings = settings
+		self.data = self.__prepare_data(data_path, settings.sp_rate).to(device)
+		self.__prepare_model()
+		
+
+	def __prepare_data(self, data_path, sp_rate):
+		# load data
+		with open(data_path, 'rb') as f:
+			data_dict = pickle.load(f)
+		data = Data.from_dict(data_dict)
+
+		if sp_rate != 0.9:
+			data.dd_train_idx, data.dd_train_et, data.dd_train_range, data.dd_test_idx, data.dd_test_et, data.dd_test_range = process_edges(data.dd_edge_index, p=sp_rate)
+		
+		self.test_neg_index = typed_negative_sampling(data.dd_test_idx, data.n_drug, data.dd_test_range)
+
+		return data
+
+	def __get_ndata__(self):
+		return self.data.n_drug_feat, self.data.n_dd_et, self.data.n_prot, self.data.n_prot, self.data.n_drug
+
+	def __get_dimset__(self):
+		return self.settings.prot_drug_dim, self.settings.num_base, self.settings.n_embed, self.settings.n_hid1, self.settings.n_hid2
+
+	def __prepare_model(self):
+		# encoder
+		if self.mod == 'cat':
+			self.encoder = FMEncoder(
+				self.device,
+				*self.__get_ndata__(), 
+				*self.__get_dimset__()
+			).to(self.device)
+		else:
+			self.encoder = FMEncoder(
+				self.device,
+				*self.__get_ndata__(), 
+				*self.__get_dimset__(),
+				mod='add'
+			).to(self.device)
+		
+		self.embeddings = self.encoder(self.data.d_feat, self.data.dd_train_idx, self.data.dd_train_et, self.data.dd_train_range, self.data.d_norm, self.data.p_feat, self.data.pp_train_indices, self.data.dp_edge_index, self.data.dp_range_list).to(device)
+
+		# decoder
+		self.decoder = MultiInnerProductDecoder(
+			self.settings.n_hid2,
+			self.data.n_dd_et
+		).to(self.device)
+
+
+	def forward(self):	
+
+		self.embeddings = self.encoder(self.data.d_feat, self.data.dd_train_idx, self.data.dd_train_et, self.data.dd_train_range, self.data.d_norm, self.data.p_feat, self.data.pp_train_indices, self.data.dp_edge_index, self.data.dp_range_list)
+
+		pos_index = self.data.dd_train_idx
+		neg_index = typed_negative_sampling(self.data.dd_train_idx, self.data.n_drug, self.data.dd_train_range).type_as(pos_index)
+
+		pos_score = self.decoder(self.embeddings, pos_index, self.data.dd_train_et)
+		neg_score = self.decoder(self.embeddings, neg_index, self.data.dd_train_et)
+
+		pos_loss = -torch.log(pos_score + EPS).mean()
+		neg_loss = -torch.log(1 - neg_score + EPS).mean()
+		loss = pos_loss + neg_loss
+
+		return loss
+
+	def pred(self, dd_idx, dd_et):
+		return self.decoder(self.embeddings, dd_idx, dd_et)
+
+	def test(self, print_output=True):
+		self.eval()
+
+		pos_score = self.decoder(self.embeddings, self.data.dd_test_idx, self.data.dd_test_et)
+		neg_score = self.decoder(self.embeddings, self.test_neg_index, self.data.dd_test_et)
+
+		return self.compute_auprc_auroc_ap_by_et(pos_score, neg_score, self.data.dd_test_range, print_output)
+
+	def compute_auprc_auroc_ap_by_et(self, pos_score, neg_score, dd_range, print_out):
+		record = np.zeros((3, self.data.n_dd_et))     # auprc, auroc, ap
+		for i in range(dd_range.shape[0]):
+			[start, end] = dd_range[i]
+			p_s = pos_score[start: end]
+			n_s = neg_score[start: end]
+
+			pos_target = torch.ones(p_s.shape[0])
+			neg_target = torch.zeros(n_s.shape[0])
+
+			score = torch.cat([p_s, n_s])
+			target = torch.cat([pos_target, neg_target])
+
+			record[0, i], record[1, i], record[2, i] = auprc_auroc_ap(target, score)
+
+		if print_out:
+			[auprc, auroc, ap] = record.sum(axis=1) / self.data.n_dd_et
+
+			print('On test set: auprc:{:0.4f}   auroc:{:0.4f}   ap@50:{:0.4f}    '.format(auprc, auroc, ap))
+
+		return record
 
 #########################################################################
 # Encoder - Node Representation Learning
@@ -359,7 +472,7 @@ class FMEncoder(torch.nn.Module):
 
     def __init__(self, device, in_dim_drug, num_dd_et, in_dim_prot,
                  uni_num_prot, uni_num_drug, prot_drug_dim=64,
-                 num_base=32, n_embed=64, n_hid1=32, n_hid2=16, mod='add'):
+                 num_base=32, n_embed=64, n_hid1=32, n_hid2=16, mod='cat'):
         '''
         :param device:
         :param in_dim_drug:
@@ -372,13 +485,19 @@ class FMEncoder(torch.nn.Module):
         :param n_embed:
         :param n_hid1:
         :param n_hid2:
-        :param mod: 'cat', 'ave'
+        :param mod: 'cat', 'add'
         '''
         super(FMEncoder, self).__init__()
         self.num_et = num_dd_et
         self.out_dim = n_hid2
         self.uni_num_drug = uni_num_drug
         self.uni_num_prot = uni_num_prot
+
+        # mod
+        self.mod = mod
+        assert mod in {'add', 'cat'}
+        if mod == 'add':
+            assert n_embed == prot_drug_dim 
 
         # on pp-net
         self.pp_encoder = PPEncoder(in_dim_prot)
@@ -390,8 +509,10 @@ class FMEncoder(torch.nn.Module):
         self.hgcn = MyHierarchyConv(self.pp_encoder.out_dim, prot_drug_dim, uni_num_prot, uni_num_drug)
         self.hdrug = torch.zeros((self.uni_num_drug, self.pp_encoder.out_dim)).to(device)
 
-        # on dd-net +self.hgcn.out_dim
-        self.rgcn1 = MyRGCNConv2(n_embed, n_hid1, num_dd_et, num_base, after_relu=False)
+        # on dd-net
+        rgcn_in_dim = n_embed+self.hgcn.out_dim if mod=='cat' else n_embed 
+        
+        self.rgcn1 = MyRGCNConv2(rgcn_in_dim, n_hid1, num_dd_et, num_base, after_relu=False)
         self.rgcn2 = MyRGCNConv2(n_hid1, n_hid2, num_dd_et, num_base, after_relu=True)
 
         self.reset_parameters()
@@ -411,8 +532,12 @@ class FMEncoder(torch.nn.Module):
         x_drug = torch.matmul(x_drug, self.embed)
         # x_drug = checkpoint(torch.matmul, x_drug, self.embed)
         x_drug = x_drug / d_norm.view(-1, 1)
-        # x_drug = torch.cat((x_drug, x_prot), dim=1)
-        x_drug = x_drug + x_prot
+
+        if self.mod == 'cat':
+            x_drug = torch.cat((x_drug, x_prot), dim=1)
+        else:
+            x_drug = x_drug + x_prot
+
 
         # dd-net
         # x = self.rgcn1(x, edge_index, edge_type, range_list)
