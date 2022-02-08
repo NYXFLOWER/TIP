@@ -75,6 +75,17 @@ By following the above steps and using the default hyper-parameter settings, the
 
 :new_moon_with_face::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon: **Please browse/open issues should you have any questions or ideas**​ :waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon_with_face:
 
+## Cite Us
+If you found this work useful, please cite us:
+```
+@article{xu2019tip,
+	title={Tri-graph Information Propagation for Polypharmacy Side Effect Prediction},
+	author={Hao Xu and Shengqi Sang and Haiping Lu},
+	journal={eurIPS Workshop on Graph Representation Learning},
+	year={2019}
+}
+```
+
 ## License
 
 TIP is licensed under the MIT License.
