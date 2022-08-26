@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/sangsq"><img src="https://avatars.githubusercontent.com/u/16742808?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sangsq</b></sub></a><br /><a href="https://github.com/NYXFLOWER/TIP/commits?author=sangsq" title="Code">💻</a> <a href="https://github.com/NYXFLOWER/TIP/commits?author=sangsq" title="Tests">⚠️</a> <a href="#ideas-sangsq" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://haipinglu.github.io/"><img src="https://avatars.githubusercontent.com/u/23463961?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haiping Lu</b></sub></a><br /><a href="https://github.com/NYXFLOWER/TIP/commits?author=haipinglu" title="Documentation">📖</a> <a href="#a11y-haipinglu" title="Accessibility">️️️️♿️</a></td>
   </tr>
 </table>
 
