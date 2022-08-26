@@ -104,6 +104,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/shree970"><img src="https://avatars.githubusercontent.com/u/41207097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shreeyash</b></sub></a><br /><a href="https://github.com/NYXFLOWER/TIP/issues?q=author%3Ashree970" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/Chertoganov"><img src="https://avatars.githubusercontent.com/u/40623363?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chertoganov</b></sub></a><br /><a href="https://github.com/NYXFLOWER/TIP/issues?q=author%3AChertoganov" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://www.jianshu.com/u/31c221f09d8a"><img src="https://avatars.githubusercontent.com/u/25343084?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ZillaRU</b></sub></a><br /><a href="https://github.com/NYXFLOWER/TIP/issues?q=author%3AZillaRU" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/gilgamsh"><img src="https://avatars.githubusercontent.com/u/56181610?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jiaxi Jiang  </b></sub></a><br /><a href="https://github.com/NYXFLOWER/TIP/issues?q=author%3Agilgamsh" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
