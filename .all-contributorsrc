@@ -52,6 +52,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "gilgamsh",
+      "name": "Jiaxi Jiang  ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56181610?v=4",
+      "profile": "https://github.com/gilgamsh",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
