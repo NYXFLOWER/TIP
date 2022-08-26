@@ -25,6 +25,15 @@
         "doc",
         "a11y"
       ]
+    },
+    {
+      "login": "shree970",
+      "name": "Shreeyash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41207097?v=4",
+      "profile": "https://github.com/shree970",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
