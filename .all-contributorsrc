@@ -15,6 +15,16 @@
         "test",
         "ideas"
       ]
+    },
+    {
+      "login": "haipinglu",
+      "name": "Haiping Lu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23463961?v=4",
+      "profile": "https://haipinglu.github.io/",
+      "contributions": [
+        "doc",
+        "a11y"
+      ]
     }
   ],
   "contributorsPerLine": 7,
