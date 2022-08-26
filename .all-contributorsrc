@@ -34,6 +34,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Chertoganov",
+      "name": "Chertoganov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40623363?v=4",
+      "profile": "https://github.com/Chertoganov",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
