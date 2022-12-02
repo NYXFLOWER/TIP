@@ -1,4 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.ipynb linguist-vendored
-*/*.ipynb linguist-vendored
+
+# Jupyter notebook
+# *.ipynb text
+*.ipynb linguist-documentation
